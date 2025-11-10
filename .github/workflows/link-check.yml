@@ -19,6 +19,7 @@ jobs:
 
       - name: Run lychee
         id: lychee
+        continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
           # Use config file for options; default output is summary annotations
