@@ -1,0 +1,85 @@
+# Site settings for GitHub Pages (Jekyll)
+# Learn more: https://jekyllrb.com/docs/configuration/
+
+# Basic
+title: Claim Freedom
+description: >-
+  Re-claiming the Hijacked Mind: A neurophilosophical inquiry into the Default Mode Network,
+  Gnostic cosmology, and the path to awakening from the parasitic loop of suffering.
+url: https://claimfreedom.org
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Theme (Just the Docs is great for wiki-style docs)
+# GitHub Pages supports remote themes; no Gemfile required.
+remote_theme: just-the-docs/just-the-docs
+
+# Theme configuration
+just_the_docs:
+  # Set a logo later by placing an image in /assets/images/logo.png and uncommenting
+  # logo: "/assets/images/logo.png"
+  color_scheme: light
+  search_enabled: true
+  # Enable site footer edit link (requires repo URL)
+  edit_uri: "https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki/edit/main/"
+  # Aux links (top-right)
+  aux_links:
+    "ClaimFreedom on GitHub": https://github.com/ClaimFreedomDotOrg
+  # Footer content
+  footer_content: "© {{ site.time | date: '%Y' }} Claim Freedom. The Divine Spark reclaims its kingdom."
+
+# Navigation order and defaults
+# You can control ordering with `nav_order` in each page's front matter.
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      nav_exclude: false
+      has_children: false
+  - scope:
+      path: ""
+      type: "practices"
+    values:
+      layout: default
+      parent: "Practices"
+  - scope:
+      path: ""
+      type: "philosophy"
+    values:
+      layout: default
+      parent: "Philosophy"
+  - scope:
+      path: ""
+      type: "neuroscience"
+    values:
+      layout: default
+      parent: "Neuroscience"
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections for organized content categories
+collections:
+  practices:
+    output: true
+    permalink: /practices/:path/
+  philosophy:
+    output: true
+    permalink: /philosophy/:path/
+  neuroscience:
+    output: true
+    permalink: /neuroscience/:path/
+
+# Exclusions
+exclude:
+  - .github/
+  - README.md
+
+# Defaults for sitemap
+sitemap:
+  exclude:
+    - /404.html

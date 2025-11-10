@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder sitemap; jekyll-sitemap plugin will generate a proper one at /sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://claimfreedom.org/</loc>
+  </url>
+</urlset>

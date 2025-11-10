@@ -1,0 +1,38 @@
+# lychee configuration for ClaimFreedomWiki
+# Docs: https://github.com/lycheeverse/lychee/blob/master/lychee.example.toml
+
+# What to check
+include = ["**/*.md", "**/*.html"]
+exclude = [
+  "**/node_modules/**",
+  "**/.git/**",
+]
+
+# Request behavior
+max_redirects = 10
+accept = ["text/html", "text/plain", "application/xml", "application/json"]
+scheme = ["http", "https"]
+
+# Timeouts (seconds)
+timeout = 20
+
+# Retries with backoff
+retries = 2
+retry_wait_time = 2
+
+# Exclusions (domains or patterns known to be flaky or blocked by bots)
+# Add more patterns as needed
+exclude_path = []
+exclude_mail = true
+
+# Cache results between runs
+cache = true
+cache_path = ".lycheecache"
+
+# Output
+format = "markdown"
+output = "lychee/out.md"
+
+# Authentication via env (example placeholders)
+# [headers]
+# "Authorization" = "token ${GITHUB_TOKEN}"
