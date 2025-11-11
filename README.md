@@ -1,141 +1,173 @@
-# Claim Freedom Wiki
+# Claim Freedom: Re-Claiming the Hijacked Mind
 
-A GitHub Pages–powered knowledge base served at [claimfreedom.org](https://claimfreedom.org)
+**A neurophilosophical knowledge base exploring the hijacking of the Default Mode Network through Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience.**
 
-## 🚀 Quick Start
+🌐 **Live Site**: [claimfreedom.org](https://claimfreedom.org)  
+📺 **YouTube**: [@JeshuaBenJosephYT](https://www.youtube.com/@JeshuaBenJosephYT)
 
-1. Ensure the repository is public (required for free GitHub Pages at a custom domain).
-2. In the repo Settings → Pages:
-   - Build source: `GitHub Actions` (recommended) or `Deploy from a branch` (main branch / root).
-   - Custom domain: `claimfreedom.org`
-   - Enforce HTTPS: check the box after DNS is verified.
-3. DNS: Create the following records at your DNS provider for the apex domain:
+---
 
-   Type | Name | Value (GitHub Pages A records)
-   ---- | ---- | ---------------------------------
-   A    | @    | 185.199.108.153
-   A    | @    | 185.199.109.153
-   A    | @    | 185.199.110.153
-   A    | @    | 185.199.111.153
+## The Question That Begins the Awakening
 
-   (Optional) If you want `www.claimfreedom.org` to redirect to apex:
-   - CNAME | www | claimfreedom.org
+*That voice in your head that never stops talking...*
 
-4. Commit a `CNAME` file (already added) containing `claimfreedom.org`.
-5. Push changes and wait for Pages to build (first build can take a few minutes).
+*Are you that voice?*
 
-## 🧱 Tech Stack
+*Or are you the one who is listening to it?*
 
-- GitHub Pages + Jekyll
-- Remote theme: `just-the-docs/just-the-docs`
-- Plugins: `jekyll-remote-theme`, `jekyll-sitemap`
+---
 
-## 📁 Structure
+## What is This?
+
+**Claim Freedom** presents the synthesis of humanity's fragmented wisdom traditions into a unified, testable framework for understanding suffering and liberation. For millennia, ancient traditions diagnosed the human condition from different angles. Now, through the lens of neuroscience, we see they were all describing the same phenomenon:
+
+**The hijacking of the Default Mode Network (DMN).**
+
+### The Core Thesis
+
+1. **The Diagnosis**: A psycho-spiritual "infection" has hijacked the brain's narrative-generating network (the DMN), creating the tyrannical "voice in your head."
+
+2. **The Mechanism**: This hijacked DMN generates compulsive rumination, anxiety, and the false belief that you *are* your thoughts.
+
+3. **The Path**: Liberation (Gnosis, Awakening) comes through **re-claiming** the DMN—transforming it from a tyrannical "Demon" back into a functional "Daemon" that serves your true nature: the Divine Spark, the Listener.
+
+### The Convergence
+
+This framework unifies:
+
+- **Gnostic cosmology** — The Archons imprisoning the Divine Spark within the counterfeit spirit
+- **Indigenous wisdom** — Wetiko, the mind-cannibalizing disease
+- **Eastern philosophy** — Samsara, the cycle of suffering driven by ignorance (Avidya)
+- **Modern neuroscience** — DMN hyperactivity in depression, anxiety, and rumination
+
+> *"You are not the voice in your head. You are the one who is listening to it."*
+
+---
+
+## Explore the Framework
+
+### Core Inquiry
+
+- **[Home](https://claimfreedom.org)** — Introduction and central question
+- **[About](https://claimfreedom.org/docs/about)** — Overview of the synthesis
+- **[Invocation: Anti-Corruption Axiom](https://claimfreedom.org/docs/invocation)** — Catalytic dis-identification script
+- **[The Archon in the Machine](https://claimfreedom.org/docs/the-archon-in-the-machine)** — Comprehensive scholarly analysis (100+ citations)
+
+### The Three-Part Analysis
+
+- **[Part I: The Hijacking](https://claimfreedom.org/docs/the-hijacking)** — The parasitic infection and DMN as backdoor
+- **[Part II: Ancient Warnings](https://claimfreedom.org/docs/ancient-warnings)** — Gnostic texts and the Daemon vs. Demon distinction
+- **[Part III: The Loop & The Gnosis](https://claimfreedom.org/docs/the-loop)** — Samsara, epigenetics, and taming the dragon
+
+### Deep Dives by Category
+
+- **[Philosophy](https://claimfreedom.org/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, Divine Spark, and conceptual foundations
+- **[Neuroscience](https://claimfreedom.org/docs/neuroscience)** — DMN research, meditation studies, epigenetics, neuroplasticity
+- **[Practices](https://claimfreedom.org/docs/practices)** — Meditation techniques, dis-identification exercises, integration methods
+
+---
+
+## Contributing
+
+This framework is offered as a **living inquiry**. We welcome contributions that:
+
+- Add peer-reviewed citations (neuroscience, psychology, meditation research)
+- Link to primary Gnostic, Indigenous, or Eastern source texts
+- Propose refinements to the conceptual framework
+- Contribute contemplative practices with clear instructions
+- Improve clarity and accessibility
+
+**How to contribute:**
+
+1. Fork this repository
+2. Make your changes (see [Contributing Guidelines](https://claimfreedom.org/docs/contributing))
+3. Submit a pull request
+4. Or click "Edit this page" in the footer of any page on the live site
+
+See detailed guidelines: [docs/contributing.md](https://claimfreedom.org/docs/contributing)
+
+---
+
+## License
+
+**Content**: [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://claimfreedom.org/docs/license)
+
+You are free to:
+
+- **Share** — Copy and redistribute in any medium or format
+- **Adapt** — Remix, transform, and build upon the material
+
+Under these terms:
+
+- **Attribution** — Give appropriate credit
+- **ShareAlike** — Distribute adaptations under the same license
+- **No additional restrictions** — Cannot apply legal terms that prevent others from doing anything the license permits
+
+---
+
+## Repository Structure
 
 ```text
-/ (root)
-  _config.yml        # Jekyll + theme config
-  CNAME              # Custom domain binding
-  index.md           # Home page
+docs/                    # Core framework pages and parent navigation
+  about.md
+  the-hijacking.md
+  ancient-warnings.md
+  the-loop.md
+  philosophy.md         # Philosophy section parent
+  neuroscience.md       # Neuroscience section parent
+  practices.md          # Practices section parent
   
-  docs/              # Core framework pages
-    about.md
-    the-hijacking.md
-    ancient-warnings.md
-    the-loop.md
-    contributing.md
-    license.md
-    resources.md
+_philosophy/            # Gnostic, Indigenous, Eastern concepts
+  gnostic-diagnosis.md
+  divine-spark.md
+  wetiko.md
+  samsara.md
+  [more philosophy pages...]
   
-  _practices/        # Meditation & dis-identification practices (collection)
-    index.md
-    observing-the-voice.md
-    body-anchor.md
-    [more practices...]
+_neuroscience/          # DMN research, epigenetics, studies
+  what-is-dmn.md
+  dmn-hyperactivity.md
+  meditation-dmn.md
+  [more neuroscience pages...]
   
-  _philosophy/       # Gnostic, Indigenous, Eastern concepts (collection)
-    index.md
-    gnostic-diagnosis.md
-    [more philosophy pages...]
-  
-  _neuroscience/     # DMN research, epigenetics, studies (collection)
-    index.md
-    what-is-dmn.md
-    [more neuroscience pages...]
-  
-  .github/workflows/ # CI/CD (Jekyll build, link check, markdown lint)
-  404.md             # Not found page
-  robots.txt         # Crawler directives
-  Gemfile            # Ruby dependencies
-  README.md
+_practices/             # Meditation & dis-identification practices
+  observing-the-voice.md
+  body-anchor.md
+  witness-meditation.md
+  [more practices...]
+
+index.md                # Site home page
+_config.yml             # Jekyll configuration
 ```
 
-### Collections
-
-The site uses **Jekyll collections** to organize content by category:
-
-- **`_practices/`** → Rendered at `/practices/` (meditation, dis-identification methods)
-- **`_philosophy/`** → Rendered at `/philosophy/` (Gnostic, Wetiko, Samsara concepts)
-- **`_neuroscience/`** → Rendered at `/neuroscience/` (DMN research, epigenetics)
-
-Add new pages to collections with front matter like:
-
-```yaml
 ---
-title: Your Page Title
-nav_order: 1
+
+## Mission Statement
+
+This site exists to:
+
+1. Synthesize ancient wisdom with modern neuroscience
+2. Provide a unified framework for understanding suffering's root cause
+3. Offer practical, grounded contemplative methods
+4. Honor the traditions from which this wisdom flows
+5. Maintain scholarly rigor while remaining accessible
+6. Foster a commons of liberating knowledge
+
+**Core principle**: The voice is not your enemy. You are not here to destroy the Ego. You are here to remember who you truly are—the Listener—and re-claim your kingdom from the dragon that guards it.
+
 ---
-```
 
-Add new core docs pages under `docs/` with:
+> *"The dragon guards your kingdom. You are not here to kill it. You are here to re-claim it."*
 
-```yaml
 ---
-layout: default
-title: Your Page Title
-nav_order: 10
----
-```
 
-Then commit & push—GitHub Pages rebuilds automatically.
+## Technical Details
 
-## ✍️ Contributing
+This site is built with:
 
-See `docs/contributing.md`.
+- **Platform**: GitHub Pages + Jekyll
+- **Theme**: [just-the-docs](https://github.com/just-the-docs/just-the-docs)
+- **Domain**: Custom domain at claimfreedom.org
+- **Collections**: Jekyll collections for Philosophy, Neuroscience, and Practices
 
-## 🔐 Security / Privacy Considerations
-
-This is static content only—no user data is collected. If you later add analytics, prefer a privacy‑respecting, self-hosted option (e.g., Plausible, Umami) and disclose it here.
-
-## ♻️ License
-
-Content: CC BY-SA 4.0 (see `docs/license.md`).
-
-## 🛠 Local Preview (Optional)
-
-If you want to run locally:
-
-```bash
-# Requires Ruby + Bundler installed
-bundle init # if you later decide to manage a Gemfile
-# (Not strictly needed since we use remote_theme)
-# To preview with Docker instead:
-# docker run --rm -p 4000:4000 -v "$PWD":/site bretfisher/jekyll jekyll serve --livereload
-```
-
-Visit <http://localhost:4000>
-
-## ✅ Checklist After DNS Change
-
-- [ ] A records propagate (check with `nslookup claimfreedom.org`)
-- [ ] GitHub Pages shows a green "DNS check successful"
-- [ ] HTTPS certificate issued (may take up to 30 min)
-- [ ] Enforce HTTPS enabled
-
-## 🧭 Next Ideas
-
-- Add a logo (`/assets/images/logo.png`) and set `logo:` in `_config.yml`
-- Add categories using collections
-- Add tags and an index page
-- Set up a lightweight GitHub Actions workflow to validate links
-- Add a CONTRIBUTING.md at root (optionally linking to docs page)
+For local development instructions, see the wiki or open an issue.
