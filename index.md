@@ -70,9 +70,9 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 **Explore the Framework:**
 
 - [What is Neuro-Gnosticism?](/docs/neuro-gnosticism) — The complete synthesis
-- [Philosophy](/philosophy/) — Conceptual foundations across traditions
-- [Neuroscience](/neuroscience/) — DMN research and validation
-- [Practices](/practices/) — Liberation techniques and integration
+- [Philosophy](/docs/philosophy) — Conceptual foundations across traditions
+- [Neuroscience](/docs/neuroscience) — DMN research and validation
+- [Practices](/docs/practices) — Liberation techniques and integration
 
 ## Explore the Framework
 
@@ -93,9 +93,9 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 
 Explore the framework through three primary lenses (also available in the main navigation):
 
-- **[Philosophy](/philosophy/)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, epigenetics, and neuroplasticity
-- **[Practices](/practices/)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
+- **[Philosophy](/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
+- **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, epigenetics, and neuroplasticity
+- **[Practices](/docs/practices)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
 
 ### Resources and Contribution
 

@@ -90,8 +90,8 @@ See [Contributing Guidelines](/docs/contributing) to participate in this evolvin
 Explore the framework in depth:
 
 - **[The Archon in the Machine](/docs/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
-- **[Philosophy](/philosophy/)** — Gnostic texts, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, and mechanisms
-- **[Practices](/practices/)** — Meditation and dis-identification techniques
+- **[Philosophy](/docs/philosophy)** — Gnostic texts, Wetiko, Samsara, and conceptual foundations
+- **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, and mechanisms
+- **[Practices](/docs/practices)** — Meditation and dis-identification techniques
 
 > *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
