@@ -85,6 +85,8 @@ The **hijacking** is not the network but a **pathological pattern** that has col
 
 **Re-claiming** is not ego death (destroying the DMN) but **debugging the DMN**—restoring its function as a neutral servant of the Divine Spark rather than its usurper.
 
+For a direct, experiential invocation that exposes the impersonation pattern, see the **[Invocation: Anti-Corruption Axiom](/docs/invocation)**.
+
 ---
 
 ### Key Takeaways

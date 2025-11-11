@@ -33,6 +33,7 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 ### Core Inquiry
 
 - **[About This Inquiry](/docs/about)** — The philosophical foundations and traditions converging in this framework
+- **[Invocation: Anti-Corruption Axiom](/docs/invocation)** — Catalytic dis-identification script (Voice vs Listener)
 - **[FAQ: Common Questions](/docs/faq)** — Answers to common objections and how this differs from mindfulness
 
 ### The Three-Part Analysis
