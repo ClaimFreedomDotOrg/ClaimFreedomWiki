@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "jekyll-include-cache"
 end
 
 # Workaround for Ruby 3.x + Jekyll serving locally
