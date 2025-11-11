@@ -38,11 +38,11 @@ Explore the analyses below to see the framework reflected in culture:
 ### Films
 
 - **[The Matrix](/examples/the-matrix)** — The parasitic simulation, the DMN made visible, the red pill as Gnosis, and Neo as the Divine Spark awakening
+- **[The Truman Show](/examples/the-truman-show)** — Christof as the Demiurge, Seahaven as Kenoma, the comfortable cage, and the courage to walk through the exit door
 - **[Stranger Than Fiction](/examples/stranger-than-fiction)** — The Voice vs. The Listener, the author as Demiurge, and Harold Crick's journey to dis-identification
 
 ### Coming Soon
 
-- *The Truman Show* — The Demiurge as TV producer
 - *Groundhog Day* — Samsara made literal
 - *Eternal Sunshine of the Spotless Mind* — DMN, memory, and identity
 - *Arrival* — Transcending linear DMN time
