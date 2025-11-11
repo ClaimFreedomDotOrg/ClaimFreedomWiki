@@ -3,6 +3,7 @@ title: The Hijacking Process
 nav_order: 13
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Hijacking Process

@@ -3,6 +3,7 @@ title: The Voice vs. The Listener
 nav_order: 14
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Voice vs. The Listener

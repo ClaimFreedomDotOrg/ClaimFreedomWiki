@@ -3,6 +3,7 @@ title: Practical Guide: Taming Your DMN
 nav_order: 2
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # Practical Guide: Taming Your DMN

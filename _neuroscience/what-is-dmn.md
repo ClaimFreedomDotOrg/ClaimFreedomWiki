@@ -3,6 +3,7 @@ title: What is the DMN?
 nav_order: 1
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # What is the Default Mode Network?

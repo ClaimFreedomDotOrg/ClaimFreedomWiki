@@ -3,6 +3,7 @@ title: Chronic Stress and Disease
 nav_order: 17
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # Chronic Stress and Disease

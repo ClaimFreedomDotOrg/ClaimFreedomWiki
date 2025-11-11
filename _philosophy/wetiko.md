@@ -3,6 +3,7 @@ title: Wetiko - The Mind Virus
 nav_order: 7
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # Wetiko: The Mind Virus

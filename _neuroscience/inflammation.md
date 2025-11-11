@@ -3,6 +3,7 @@ title: Inflammation and the Hijacked Mind
 nav_order: 18
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # Inflammation and the Hijacked Mind

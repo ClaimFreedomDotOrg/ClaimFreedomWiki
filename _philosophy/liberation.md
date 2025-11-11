@@ -3,6 +3,7 @@ title: Nirvana and Moksha - Liberation
 nav_order: 11
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # Nirvana and Moksha: Liberation

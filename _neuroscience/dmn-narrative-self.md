@@ -3,6 +3,7 @@ title: DMN and the Narrative Self
 nav_order: 4
 layout: default
 parent: Neuroscience
+nav_exclude: false
 ---
 
 # DMN and the Narrative Self

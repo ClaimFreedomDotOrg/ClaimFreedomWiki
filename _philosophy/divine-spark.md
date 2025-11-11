@@ -3,6 +3,7 @@ title: Pneuma and the Divine Spark
 nav_order: 2
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # Pneuma and the Divine Spark

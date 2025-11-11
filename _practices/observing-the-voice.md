@@ -3,6 +3,7 @@ title: Observing the Voice
 nav_order: 1
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # Observing the Voice

@@ -3,6 +3,7 @@ title: The Mission
 nav_order: 11
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # The Mission: Awakening Others

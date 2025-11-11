@@ -3,6 +3,7 @@ title: Anamnesis - Remembering
 nav_order: 3
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # Anamnesis: Remembering

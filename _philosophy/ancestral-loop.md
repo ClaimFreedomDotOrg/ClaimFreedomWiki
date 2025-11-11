@@ -3,6 +3,7 @@ title: The Ancestral Loop
 nav_order: 18
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Ancestral Loop

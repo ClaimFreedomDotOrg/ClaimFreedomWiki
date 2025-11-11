@@ -3,6 +3,7 @@ title: The Individual Loop
 nav_order: 17
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Individual Loop

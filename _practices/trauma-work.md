@@ -3,6 +3,7 @@ title: Working with Trauma
 nav_order: 8
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # Working with Trauma

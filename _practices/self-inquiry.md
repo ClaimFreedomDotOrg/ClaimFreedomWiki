@@ -3,6 +3,7 @@ title: Self-Inquiry
 nav_order: 8
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # Self-Inquiry: "Who Am I?" Exploration

@@ -3,6 +3,7 @@ title: The Restored Kingdom
 nav_order: 21
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Restored Kingdom

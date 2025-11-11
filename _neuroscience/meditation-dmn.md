@@ -3,6 +3,7 @@ title: Meditation Effects on DMN
 nav_order: 10
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # Meditation Effects on DMN

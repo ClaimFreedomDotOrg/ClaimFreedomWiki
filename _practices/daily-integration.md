@@ -3,6 +3,7 @@ title: Daily Micro-Practices
 nav_order: 6
 parent: Practices
 layout: default
+nav_exclude: false
 ---
 
 # Daily Micro-Practices

@@ -3,6 +3,7 @@ title: The Task-Positive Network
 nav_order: 7
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # The Task-Positive Network

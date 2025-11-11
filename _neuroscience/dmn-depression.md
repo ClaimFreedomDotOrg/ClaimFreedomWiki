@@ -3,6 +3,7 @@ title: DMN in Depression
 nav_order: 4
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # DMN in Depression

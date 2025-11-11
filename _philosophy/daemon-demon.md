@@ -3,6 +3,7 @@ title: Etymology and Function - Daemon vs. Demon
 nav_order: 12
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # Etymology and Function: Daemon vs. Demon

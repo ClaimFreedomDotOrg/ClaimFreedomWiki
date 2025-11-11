@@ -3,6 +3,7 @@ title: Mindfulness and Network Balance
 nav_order: 11
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # Mindfulness and Network Balance

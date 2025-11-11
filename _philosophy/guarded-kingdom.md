@@ -3,6 +3,7 @@ title: The Guarded Kingdom
 nav_order: 20
 parent: Philosophy
 layout: default
+nav_exclude: false
 ---
 
 # The Guarded Kingdom

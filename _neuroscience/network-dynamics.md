@@ -3,6 +3,7 @@ title: Network Dynamics
 nav_order: 9
 parent: Neuroscience
 layout: default
+nav_exclude: false
 ---
 
 # Network Dynamics
