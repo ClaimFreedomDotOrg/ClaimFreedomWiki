@@ -134,6 +134,8 @@ This is the central synthesis. The term "Daemon," as coined by MIT programmers i
 
 The DMN is natively a **neutral "daemon,"** essential for a coherent self. The "parasitic infection" (Archons + pathogens) corrupted this neutral process, turning the "daemon" into a "Demon".[^73] The DMN's "self-referential thought"[^64] was hijacked to become egoic rumination.[^66] Its "mental time travel"[^65] was hijacked to create anxiety about the future and depression about the past.[^66] The DMN, hijacked, is the **"Archon in the Machine."** It is the "seat of angst"[^73] that generates the "grudges," "vengeance"[^32], and "negative emotions"[^29] that the parasite feeds on.
 
+For practical, evidence-aware adjuncts addressing the biological layer of parasitism (supporting the "vessel" against helminths), see [Natural Anthelmintic Options](/neuroscience/anthelmintic-options). That page catalogs foods, herbs, and compounds with safety disclaimers; pharmaceutical treatment remains primary for confirmed infections.
+
 ### 4.3 The Multi-Domain Anatomy of the Parasite
 
 This syncretic model reveals that Gnosticism, esoteric philosophy, Jungian psychology, neuroscience, and biology are not describing different phenomena, but are observing the same, unified parasitic system from different levels of analysis.

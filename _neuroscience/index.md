@@ -59,6 +59,10 @@ The body's "vessel" and the stress-disease connection.
 - [Inflammation and the Hijacked Mind](/neuroscience/inflammation) — Systemic consequences
 - [Meditation and Immune Function](/neuroscience/meditation-immune) — Restoring homeostasis
 
+## Parasitology and the Vessel
+
+- [Natural Anthelmintic Options](/neuroscience/anthelmintic-options) — Foods, herbs, and compounds traditionally used as adjuncts (with safety disclaimers)
+
 ## Key Research Studies
 
 Foundational papers and reviews:
