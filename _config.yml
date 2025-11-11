@@ -32,7 +32,7 @@ gh_edit_branch: "main"
 gh_edit_view_mode: "edit"
 
 # Footer content
-footer_content: "© {{ site.time | date: '%Y' }} Claim Freedom. The Divine Spark reclaims its kingdom."
+footer_content: 'Copyright &copy; 2025 Claim Freedom. The Divine Spark reclaims its kingdom. | <a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube Channel</a> | <a href="https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki">Contribute on GitHub</a>'
 
 # Navigation order and defaults
 # You can control ordering with `nav_order` in each page's front matter.
