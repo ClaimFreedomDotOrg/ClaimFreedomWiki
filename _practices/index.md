@@ -40,6 +40,10 @@ All practices begin with the central question:
 - [Self-Inquiry](/practices/self-inquiry) — "Who am I?" exploration (Advaita method)
 - [Working with Trauma](/practices/trauma-work) — Grounded, trauma-informed titration and resourcing
 
+### Somatic & Energetic Practices
+
+- [The Bodhi-Electrum Practice](/practices/bodhi-electrum) — Bio-electrical field purification and light body integration
+
 ## Getting Started
 
 If new to meditation:

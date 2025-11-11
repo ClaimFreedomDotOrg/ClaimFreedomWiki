@@ -108,6 +108,7 @@ Run the A.R.I.A. Cycle in parallel across the primary dimensions of being.
 - Breath: unconscious patterns vs. conscious training (e.g., box breathing)
 - Movement: strength, flexibility (trauma release), endurance, spontaneity
 - Environment: air, light, sound, order, sensory toxins
+- Bio-Electrical Coherence: electromagnetic field clarity, grounding, light exposure
 
 **A.R.I.A. Example**:
 
@@ -115,6 +116,8 @@ Run the A.R.I.A. Cycle in parallel across the primary dimensions of being.
 - Refine: Screen blue light after 8 PM → replace with physical book + warm lamp for 7 nights.
 - Integrate: Phone docked in other room; read 30 minutes nightly.
 - Actualize: Agitation dissolves; sleep depth increases; morning meditation quality elevated. Baseline updated.
+
+**Advanced Physical Refinement**: For comprehensive bio-electrical field purification, see [The Bodhi-Electrum Practice](/practices/bodhi-electrum).
 
 ### 🧠 Domain 2: The Mental Vessel (The Garden)
 
