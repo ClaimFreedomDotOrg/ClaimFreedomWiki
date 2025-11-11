@@ -44,9 +44,10 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 
 ### Core Inquiry
 
-- **[About This Inquiry](/docs/about)** — The philosophical foundations and traditions converging in this framework
+- **[About This Inquiry](/docs/about)** — Overview of the synthesis
 - **[Invocation: Anti-Corruption Axiom](/docs/invocation)** — Catalytic dis-identification script (Voice vs Listener)
 - **[FAQ: Common Questions](/docs/faq)** — Answers to common objections and how this differs from mindfulness
+- **[The Archon in the Machine](/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
 
 ### The Three-Part Analysis
 

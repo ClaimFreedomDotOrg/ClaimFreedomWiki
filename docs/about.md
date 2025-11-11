@@ -72,6 +72,7 @@ See [Contributing Guidelines](/docs/contributing) to participate in this evolvin
 
 Explore the framework in depth:
 
+- **[The Archon in the Machine](/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
 - **[Philosophy](/philosophy/)** — Gnostic texts, Wetiko, Samsara, and conceptual foundations
 - **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, and mechanisms
 - **[Practices](/practices/)** — Meditation and dis-identification techniques
