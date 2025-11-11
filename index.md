@@ -42,9 +42,9 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 
 ### Deep Dives by Category
 
-- **[Philosophy](/philosophy/)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, epigenetics, and neuroplasticity
-- **[Practices](/practices/)** — Meditation techniques, dis-identification exercises, and integration methods
+- **[Philosophy](/philosophy/index)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
+- **[Neuroscience](/neuroscience/index)** — DMN research, meditation studies, epigenetics, and neuroplasticity
+- **[Practices](/practices/index)** — Meditation techniques, dis-identification exercises, and integration methods
 
 ### Resources and Contribution
 
