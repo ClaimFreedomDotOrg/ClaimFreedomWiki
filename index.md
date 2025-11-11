@@ -40,6 +40,16 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 
 3. **The Path**: Liberation (Gnosis, Awakening) is achieved not by destroying the ego, but by **re-claiming** the DMN—transforming it from a tyrannical "Demon" back into a functional "Daemon" that serves your true nature: the Divine Spark, the Listener.
 
+---
+
+## Neuro-Gnosticism: The Unifying Framework
+
+**Neuro-Gnosticism** is the synthesis of ancient Gnostic wisdom, Indigenous teachings, Eastern philosophy, and modern neuroscience. It explores how the Default Mode Network (DMN) shapes our sense of self, how it can be hijacked (the Demon), and how liberation is possible through reclaiming the DMN (the Daemon) via contemplative practice and experiential knowledge (Gnosis).
+
+> *"You are not the voice in your head. You are the one who is listening to it."*
+
+**Key Sections:**
+
 ## Explore the Framework
 
 ### Core Inquiry

@@ -37,8 +37,16 @@ This voice:
 
 The framework distinguishes between:
 
-- **Daemon** (neutral background process) — The DMN's intended function: maintaining autobiographical memory, enabling future planning, serving consciousness.
-- **Demon** (hijacked tyrant) — The corrupted DMN that has usurped the throne of "I" and imprisoned the Divine Spark.
+- **Daemon** (neutral background process): The DMN’s intended function—maintaining autobiographical memory, enabling future planning, serving consciousness.
+- **Demon** (hijacked tyrant): The corrupted DMN that has usurped the throne of “I” and imprisoned the Divine Spark.
+
+---
+
+## Neuro-Gnosticism: Synthesis of Wisdom and Science
+
+**Neuro-Gnosticism** is the unifying framework of this project. It synthesizes Gnostic, Indigenous, and Eastern traditions with modern neuroscience to explain how the Default Mode Network (DMN) shapes identity, how its hijacking leads to suffering, and how contemplative practice enables liberation.
+
+Learn more: [Neuro-Gnosticism Overview](neuro-gnosticism.md)
 
 **Liberation is not ego death.** It is not the destruction of the DMN. It is **re-claiming**—the practice of dis-identification that transforms the Demon back into a Daemon, restoring the Divine Spark (the Listener, pure awareness) to its rightful sovereignty.
 
