@@ -9,7 +9,7 @@ An exhaustive list of foods, herbs, and natural substances traditionally used ag
 
 > **Medical Disclaimer**: This page is informational only and does **not** constitute medical advice. Intestinal parasitic infections can be serious. Many listed substances lack robust human clinical trial evidence for efficacy or safety. Some herbs (e.g., wormwood, tansy, epazote) can be toxic or interact with medications. Do **not** self-treat. Consult a qualified healthcare professional—especially if pregnant, breastfeeding, immunocompromised, or managing chronic illness.
 
-Helminths (parasitic worms) include roundworms (nematodes), tapeworms (cestodes), and flukes (trematodes). In the Claim Freedom framework (see [The Archon in the Machine](/the-archon-in-the-machine)), physical parasitism is one layer of the broader psycho-spiritual infection model. Supporting a resilient biological "vessel" reduces susceptibility to cognitive/emotional hijacking.
+Helminths (parasitic worms) include roundworms (nematodes), tapeworms (cestodes), and flukes (trematodes). In the Claim Freedom framework (see [The Archon in the Machine](/docs/the-archon-in-the-machine)), physical parasitism is one layer of the broader psycho-spiritual infection model. Supporting a resilient biological "vessel" reduces susceptibility to cognitive/emotional hijacking.
 
 ## 1. Common Foods (Supportive, Low Risk)
 
@@ -95,7 +95,7 @@ Many appear in historical "parasite cleanse" protocols. Potency often correlates
 
 **Integration With the Framework**:
 
-- Physical parasites weaken the "vessel," increasing susceptibility to cognitive-emotional hijacking (see Part III in [The Archon in the Machine](/the-archon-in-the-machine)).
+- Physical parasites weaken the "vessel," increasing susceptibility to cognitive-emotional hijacking (see Part III in [The Archon in the Machine](/docs/the-archon-in-the-machine)).
 - Clearing infections + restoring gut-brain integrity reduces inflammatory signaling that can exacerbate DMN dysregulation.
 - Practices (e.g., [Taming Your DMN](/practices/taming-your-dmn)) + biological support constitute a dual-path liberation strategy.
 
@@ -135,7 +135,7 @@ Immediate professional evaluation if you experience:
 
 ## Further Reading & Related Pages
 
-- [The Archon in the Machine](/the-archon-in-the-machine)
+- [The Archon in the Machine](/docs/the-archon-in-the-machine)
 - [Taming Your DMN](/practices/taming-your-dmn)
 - [Loving the Dragon](/practices/loving-the-dragon)
 - [Daily Integration](/practices/daily-integration)

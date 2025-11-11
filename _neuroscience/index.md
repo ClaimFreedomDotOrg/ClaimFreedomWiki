@@ -16,6 +16,7 @@ The neurological substrate of the "demon"—the brain's narrative-generating bac
 
 - [What is the DMN?](/neuroscience/what-is-dmn) — Discovery, anatomy, and core functions
 - [DMN and Self-Referential Thought](/neuroscience/dmn-self-reference) — The neurological basis of the Ego
+- [DMN and the Narrative Self](/neuroscience/dmn-narrative-self) — How the DMN constructs the "I"-thought and story-based identity
 - [DMN Hyperactivity](/neuroscience/dmn-hyperactivity) — When the daemon becomes a demon
 
 ## Psychopathology and the Hijacked DMN
