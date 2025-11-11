@@ -8,6 +8,12 @@ nav_order: 2.1
 
 > *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
 
+### Watch the Invocation
+
+<div style="aspect-ratio:9/16; max-width:360px; margin:0 0 1rem;">
+  <iframe width="360" height="640" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Prefer analysis? Read the scholarly annotated version: **[Invocation (Annotated)](/docs/invocation-annotated)**.
 
 I'm going to ask you to set aside everything you think you know and just listen.

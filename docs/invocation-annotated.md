@@ -6,7 +6,7 @@ nav_order: 2.2
 
 ## Invocation (Annotated)
 
-This is a scholarly, annotated companion to the rhetorical invocation. It presents the same text, followed by brief notes connecting each claim to relevant traditions and research. For the unannotated version, see the [original Invocation](/docs/invocation).
+This is a scholarly, annotated companion to the rhetorical invocation. It presents the same text, followed by brief notes connecting each claim to relevant traditions and research. For the unannotated version, see the [original Invocation](/docs/invocation). You can also watch the short video version here: [YouTube Short](https://www.youtube.com/shorts/F-PIkYN_KDk).
 
 > "That voice in your head... Are you that voice? Or are you the one who is listening to it?"
 
