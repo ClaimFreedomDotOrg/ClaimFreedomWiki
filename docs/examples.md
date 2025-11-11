@@ -51,6 +51,10 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
 - **[Divinity: Original Sin](/examples/divinity-original-sin)** — Source vs. Void, Source Hunters as pre-Gnosis enforcers, Star/Blood Stones as Gnosis triggers, and remembering the Guardians at the End of Time
 
+### TV Shows
+
+- **[Manifest](/examples/manifest)** — Callings as salience pings, Lifeboat ethics, and communal Gnosis under a ticking Death Date
+
 ### Books
 
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
