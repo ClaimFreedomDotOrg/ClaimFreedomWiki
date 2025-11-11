@@ -18,6 +18,10 @@ All practices begin with the central question:
 
 ## Practice Categories
 
+### Start Here
+
+- [Practical Guide: Taming Your DMN](/practices/taming-your-dmn) — Daily structure, interventions, and integration roadmap
+
 ### Core Meditation Practices
 
 - [Observing the Voice](/practices/observing-the-voice) — Creating space between Listener and Voice
