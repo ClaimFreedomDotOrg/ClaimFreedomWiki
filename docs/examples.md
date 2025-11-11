@@ -46,6 +46,7 @@ Explore the analyses below to see the framework reflected in culture:
 ### Video Games
 
 - **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
+- **[Divinity: Original Sin](/examples/divinity-original-sin)** — Source vs. Void, Source Hunters as pre-Gnosis enforcers, Star/Blood Stones as Gnosis triggers, and remembering the Guardians at the End of Time
 
 ### Coming Soon
 
