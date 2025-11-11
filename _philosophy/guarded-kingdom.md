@@ -107,7 +107,7 @@ This **relational protocol** converts enemy into ally.
 
 1. **[Loving the Dragon](/practices/loving-the-dragon)** — Compassion as primary alchemy.
 2. **[Taming Your DMN](/practices/taming-your-dmn)** — Retrain narrative regulation.
-3. **Applied Interoception** — Daily micro-checks: jaw, breath, belly, shoulders.
+3. **[Applied Interoception](/practices/applied-interoception)** — Daily micro-checks: jaw, breath, belly, shoulders.
 
 ### Advanced
 
