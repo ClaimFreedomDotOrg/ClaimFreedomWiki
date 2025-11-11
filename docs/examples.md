@@ -42,14 +42,14 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Groundhog Day](/examples/groundhog-day)** — Samsara made literal, the DMN's temporal loop, and liberation through radical transformation
 - **[City of Ember](/examples/city-of-ember)** — The underground prison as Kenoma, lost Gnosis, the dark descent, and emerging into Pleroma
 - **[The Lorax](/examples/the-lorax)** — How the Daemon becomes the Demon, Thneedville as artificial paradise, the Lorax as conscience, and planting the last seed
+- **[The Island](/examples/the-island)** — Engineered Kenoma, counterfeit ascension lottery, organ harvest as parasitic extraction, and liberation through sensory contradiction
+- **[Eternal Sunshine of the Spotless Mind](/examples/eternal-sunshine)** — Memory erasure as DMN editing, narrative identity exposed, and choosing conscious re-integration over amnesia
+- **[Arrival](/examples/arrival)** — Non-linear language rewiring temporal perception, circular time as Gnosis, and love chosen with foreknown grief
 
 ### Video Games
 
 - **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
 - **[Divinity: Original Sin](/examples/divinity-original-sin)** — Source vs. Void, Source Hunters as pre-Gnosis enforcers, Star/Blood Stones as Gnosis triggers, and remembering the Guardians at the End of Time
-
-### Coming Soon
-
 
 ---
 
