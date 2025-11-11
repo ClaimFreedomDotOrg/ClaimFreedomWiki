@@ -241,6 +241,12 @@ Right now: Notice thoughts. Ask the question. Feel the aware space they arise in
 
 ---
 
+## Further Refinement
+
+For a systematic approach to optimizing all aspects of your being—physical, mental, emotional, and relational—see the [Dynamic Purification Playbook](/practices/dynamic-purification). It provides the A.R.I.A. cycle framework for continuous refinement toward becoming a clearer vessel for unconditional love.
+
+---
+
 **Disclaimer**: Not medical advice. For severe anxiety, depression, trauma, or suicidal ideation seek professional support. This practice complements, not replaces, therapy.
 
 > *"The Kingdom awaits its rightful sovereign."*

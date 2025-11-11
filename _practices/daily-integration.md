@@ -273,6 +273,7 @@ Use a simple daily checklist:
 - Deepen with **[Observing the Voice](/practices/observing-the-voice)** for formal practice
 - Integrate with **[Story Dis-identification](/practices/story-disidentification)** to recognize patterns
 - Read about habit formation and neuroplasticity: **[The Science of Micro-Practices](/neuroscience/neuroplasticity)**
+- For systematic refinement across all domains (physical, mental, emotional, relational), see the **[Dynamic Purification Playbook](/practices/dynamic-purification)**
 
 ---
 

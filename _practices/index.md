@@ -21,6 +21,7 @@ All practices begin with the central question:
 ### Start Here
 
 - [Practical Guide: Taming Your DMN](/practices/taming-your-dmn) — Daily structure, interventions, and integration roadmap
+- [Dynamic Purification Playbook](/practices/dynamic-purification) — Systematic A.R.I.A. cycle for embodying unconditional love across all domains
 
 ### Core Meditation Practices
 
