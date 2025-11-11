@@ -19,14 +19,20 @@ just_the_docs:
   # logo: "/assets/images/logo.png"
   color_scheme: light
   search_enabled: true
-  # Enable site footer edit link (requires repo URL)
-  edit_uri: "https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki/edit/main/"
   # Aux links (top-right)
   aux_links:
     "YouTube Channel": https://www.youtube.com/@JeshuaBenJosephYT
     "ClaimFreedom on GitHub": https://github.com/ClaimFreedomDotOrg
-  # Footer content
-  footer_content: "© {{ site.time | date: '%Y' }} Claim Freedom. The Divine Spark reclaims its kingdom."
+
+# GitHub edit link
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# Footer content
+footer_content: "© {{ site.time | date: '%Y' }} Claim Freedom. The Divine Spark reclaims its kingdom."
 
 # Navigation order and defaults
 # You can control ordering with `nav_order` in each page's front matter.
