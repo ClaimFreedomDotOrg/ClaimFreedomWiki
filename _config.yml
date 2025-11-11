@@ -65,24 +65,6 @@ defaults:
       layout: default
       parent: "Neuroscience"
       nav_exclude: false
-  - scope:
-      path: "_practices/index.md"
-      type: "practices"
-    values:
-      parent: null
-      has_children: true
-  - scope:
-      path: "_philosophy/index.md"
-      type: "philosophy"
-    values:
-      parent: null
-      has_children: true
-  - scope:
-      path: "_neuroscience/index.md"
-      type: "neuroscience"
-    values:
-      parent: null
-      has_children: true
 
 # Plugins supported by GitHub Pages
 plugins:

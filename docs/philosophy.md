@@ -3,8 +3,6 @@ layout: default
 title: Philosophy
 nav_order: 6
 has_children: true
-permalink: /philosophy/
-parent: null
 ---
 
 # Philosophy: The Conceptual Framework
