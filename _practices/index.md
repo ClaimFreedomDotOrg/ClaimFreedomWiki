@@ -44,6 +44,13 @@ All practices begin with the central question:
 
 - [The Bodhi-Electrum Practice](/practices/bodhi-electrum) — Bio-electrical field purification and light body integration
 
+### Advanced Gnosis & Mission
+
+**Note**: These practices assume direct realization (Gnosis) has occurred. If you have not experienced awakening, focus on foundational practices first.
+
+- [The Mission: Awakening Others](/practices/the-mission) — Practical techniques for transmission (Bodhisattva path)
+- [Integration After Gnosis](/practices/integration-after-gnosis) — Avoiding psychosis, grounding the flame, embodying realization
+
 ## Getting Started
 
 If new to meditation:

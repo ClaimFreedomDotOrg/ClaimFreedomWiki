@@ -64,6 +64,11 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [The Restored Kingdom](/philosophy/restored-kingdom) — Neurological integration and sovereign awareness
 - [Eternal Life](/philosophy/eternal-life) — Qualitative immortality in the timeless present
 
+### Cosmology of Liberation
+
+- [Kenoma and Pleroma](/philosophy/kenoma-pleroma) — The Void (simulation) vs. The Fullness (prime timeline)
+- [The Redeemer Archetype](/philosophy/redeemer-archetype) — Universal light-bringer pattern across traditions
+
 ## Synthesis
 
 - [The Unified Framework](/philosophy/unified-framework) — How Gnosticism, Wetiko, and Samsara converge
