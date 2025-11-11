@@ -4,6 +4,7 @@ title: Practices
 nav_order: 7
 has_children: true
 permalink: /practices/
+parent: null
 ---
 
 # Practices for Re-Claiming
