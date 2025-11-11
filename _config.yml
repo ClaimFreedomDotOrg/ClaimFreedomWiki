@@ -65,6 +65,13 @@ defaults:
       layout: default
       parent: "Neuroscience"
       nav_exclude: false
+  - scope:
+      path: "_examples"
+      type: "examples"
+    values:
+      layout: default
+      parent: "Cultural Examples"
+      nav_exclude: false
 
 # Plugins supported by GitHub Pages
 plugins:
@@ -84,6 +91,9 @@ collections:
   neuroscience:
     output: true
     permalink: /neuroscience/:path/
+  examples:
+    output: true
+    permalink: /examples/:path/
 
 # Exclusions
 exclude:

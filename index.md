@@ -91,11 +91,12 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 
 ## Deep Dives by Category
 
-Explore the framework through three primary lenses (also available in the main navigation):
+Explore the framework through four primary lenses (also available in the main navigation):
 
 - **[Philosophy](/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
 - **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, epigenetics, and neuroplasticity
 - **[Practices](/docs/practices)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
+- **[Cultural Examples](/docs/examples)** — Films, literature, and myths that encode the Neuro-Gnostic framework
 
 ### Resources and Contribution
 
