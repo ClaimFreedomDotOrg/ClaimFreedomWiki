@@ -50,36 +50,21 @@ defaults:
     values:
       layout: default
       parent: "Practices"
-  - scope:
-      path: "_practices/index.md"
-      type: "practices"
-    values:
-      layout: default
-      parent: null
+      nav_exclude: false
   - scope:
       path: "_philosophy"
       type: "philosophy"
     values:
       layout: default
       parent: "Philosophy"
-  - scope:
-      path: "_philosophy/index.md"
-      type: "philosophy"
-    values:
-      layout: default
-      parent: null
+      nav_exclude: false
   - scope:
       path: "_neuroscience"
       type: "neuroscience"
     values:
       layout: default
       parent: "Neuroscience"
-  - scope:
-      path: "_neuroscience/index.md"
-      type: "neuroscience"
-    values:
-      layout: default
-      parent: null
+      nav_exclude: false
 
 # Plugins supported by GitHub Pages
 plugins:
