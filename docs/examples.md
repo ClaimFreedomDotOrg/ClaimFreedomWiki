@@ -35,6 +35,18 @@ Stories shape consciousness. When you learn to recognize the Neuro-Gnostic patte
 
 Explore the analyses below to see the framework reflected in culture:
 
+### Films
+
+- **[The Matrix](/examples/the-matrix)** — The parasitic simulation, the DMN made visible, the red pill as Gnosis, and Neo as the Divine Spark awakening
+- **[Stranger Than Fiction](/examples/stranger-than-fiction)** — The Voice vs. The Listener, the author as Demiurge, and Harold Crick's journey to dis-identification
+
+### Coming Soon
+
+- *The Truman Show* — The Demiurge as TV producer
+- *Groundhog Day* — Samsara made literal
+- *Eternal Sunshine of the Spotless Mind* — DMN, memory, and identity
+- *Arrival* — Transcending linear DMN time
+
 ---
 
 > *"The stories we tell reveal the truth we've forgotten. The Gnosis is always hiding in plain sight."*
