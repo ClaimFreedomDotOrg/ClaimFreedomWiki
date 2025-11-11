@@ -42,13 +42,13 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Groundhog Day](/examples/groundhog-day)** — Samsara made literal, the DMN's temporal loop, and liberation through radical transformation
 - **[City of Ember](/examples/city-of-ember)** — The underground prison as Kenoma, lost Gnosis, the dark descent, and emerging into Pleroma
 - **[The Lorax](/examples/the-lorax)** — How the Daemon becomes the Demon, Thneedville as artificial paradise, the Lorax as conscience, and planting the last seed
-- **[Stranger Than Fiction](/examples/stranger-than-fiction)** — The Voice vs. The Listener, the author as Demiurge, and Harold Crick's journey to dis-identification
+
+### Video Games
+
+- **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
 
 ### Coming Soon
 
-- *Eternal Sunshine of the Spotless Mind* — DMN, memory, and identity
-- *Eternal Sunshine of the Spotless Mind* — DMN, memory, and identity
-- *Arrival* — Transcending linear DMN time
 
 ---
 
