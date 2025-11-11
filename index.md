@@ -55,11 +55,13 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 - **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic Archons, the counterfeit spirit, and the Daemon vs. Demon distinction
 - **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Samsara, ancestral trauma, and the practice of taming the dragon
 
-### Deep Dives by Category
+## Deep Dives by Category
 
-- **[Philosophy](/philosophy/index)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/neuroscience/index)** — DMN research, meditation studies, epigenetics, and neuroplasticity
-- **[Practices](/practices/index)** — Meditation techniques, dis-identification exercises, and integration methods
+Explore the framework through three primary lenses (also available in the main navigation):
+
+- **[Philosophy](/philosophy/)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
+- **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, epigenetics, and neuroplasticity
+- **[Practices](/practices/)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
 
 ### Resources and Contribution
 
