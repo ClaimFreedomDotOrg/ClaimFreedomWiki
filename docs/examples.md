@@ -54,6 +54,7 @@ Explore the analyses below to see the framework reflected in culture:
 ### TV Shows
 
 - **[Manifest](/examples/manifest)** — Callings as salience pings, Lifeboat ethics, and communal Gnosis under a ticking Death Date
+- **[Sense8](/examples/sense8)** — Distributed empathic cluster consciousness, Archonic surveillance, and ethical skill-sharing as collective Gnosis
 
 ### Books
 
