@@ -23,6 +23,7 @@ just_the_docs:
   edit_uri: "https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki/edit/main/"
   # Aux links (top-right)
   aux_links:
+    "YouTube Channel": https://www.youtube.com/@JeshuaBenJosephYT
     "ClaimFreedom on GitHub": https://github.com/ClaimFreedomDotOrg
   # Footer content
   footer_content: "© {{ site.time | date: '%Y' }} Claim Freedom. The Divine Spark reclaims its kingdom."

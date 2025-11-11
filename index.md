@@ -22,6 +22,10 @@ nav_order: 1
 
 *Or read the full text: **[Invocation: Anti-Corruption Axiom](/docs/invocation)***
 
+### Subscribe for More Content
+
+**[Subscribe to the YouTube Channel](https://www.youtube.com/@JeshuaBenJosephYT)** — Regular videos exploring the DMN hijacking, dis-identification practices, Gnostic insights, and the path to re-claiming your kingdom.
+
 ---
 
 Welcome to **Claim Freedom**—a neurophilosophical inquiry into the nature of human suffering and the path to liberation.
