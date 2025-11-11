@@ -1,6 +1,8 @@
 ---
 title: Loving the Dragon
 nav_order: 5
+parent: Practices
+layout: default
 ---
 
 # Loving the Dragon

@@ -1,6 +1,8 @@
 ---
 title: The Counterfeit Self
 nav_order: 15
+parent: Philosophy
+layout: default
 ---
 
 # The Counterfeit Self

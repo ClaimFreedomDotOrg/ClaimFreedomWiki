@@ -1,6 +1,8 @@
 ---
 title: DMN Hyperactivity
 nav_order: 3
+parent: Neuroscience
+layout: default
 ---
 
 # DMN Hyperactivity

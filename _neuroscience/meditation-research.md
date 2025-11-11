@@ -1,6 +1,8 @@
 ---
 title: Meditation Neuroscience Studies
 nav_order: 22
+parent: Neuroscience
+layout: default
 ---
 
 # Meditation Neuroscience Studies

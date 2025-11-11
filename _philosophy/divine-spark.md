@@ -1,6 +1,8 @@
 ---
 title: Pneuma and the Divine Spark
 nav_order: 2
+parent: Philosophy
+layout: default
 ---
 
 # Pneuma and the Divine Spark

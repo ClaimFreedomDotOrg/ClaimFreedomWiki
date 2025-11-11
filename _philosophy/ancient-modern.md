@@ -1,6 +1,8 @@
 ---
 title: Ancient Warnings, Modern Mechanisms
 nav_order: 24
+parent: Philosophy
+layout: default
 ---
 
 # Ancient Warnings, Modern Mechanisms

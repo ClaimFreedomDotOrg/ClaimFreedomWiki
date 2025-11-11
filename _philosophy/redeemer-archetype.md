@@ -1,6 +1,8 @@
 ---
 title: The Redeemer Archetype
 nav_order: 6
+parent: Philosophy
+layout: default
 ---
 
 # The Redeemer Archetype

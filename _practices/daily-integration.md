@@ -1,6 +1,8 @@
 ---
 title: Daily Micro-Practices
 nav_order: 6
+parent: Practices
+layout: default
 ---
 
 # Daily Micro-Practices

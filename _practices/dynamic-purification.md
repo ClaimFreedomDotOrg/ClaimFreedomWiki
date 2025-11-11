@@ -1,6 +1,8 @@
 ---
 title: Dynamic Purification Playbook
 nav_order: 9
+parent: Practices
+layout: default
 ---
 
 # The Framework for Dynamic Purification

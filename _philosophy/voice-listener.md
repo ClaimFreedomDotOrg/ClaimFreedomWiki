@@ -1,6 +1,8 @@
 ---
 title: The Voice vs. The Listener
 nav_order: 14
+parent: Philosophy
+layout: default
 ---
 
 # The Voice vs. The Listener

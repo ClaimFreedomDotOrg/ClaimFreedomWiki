@@ -1,6 +1,8 @@
 ---
 title: Samsara - The Eternal Loop
 nav_order: 9
+parent: Philosophy
+layout: default
 ---
 
 # Samsara: The Eternal Loop

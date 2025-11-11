@@ -1,6 +1,8 @@
 ---
 title: Long-Term Meditators
 nav_order: 13
+parent: Neuroscience
+layout: default
 ---
 
 # Long-Term Meditators

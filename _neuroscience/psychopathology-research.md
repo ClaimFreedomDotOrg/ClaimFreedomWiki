@@ -1,6 +1,8 @@
 ---
 title: DMN and Psychopathology Research
 nav_order: 21
+parent: Neuroscience
+layout: default
 ---
 
 # DMN and Psychopathology Research

@@ -1,6 +1,8 @@
 ---
 title: Avidya - The Ignorance That Binds
 nav_order: 10
+parent: Philosophy
+layout: default
 ---
 
 # Avidya: The Ignorance That Binds

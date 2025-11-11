@@ -1,6 +1,8 @@
 ---
 title: The Divine Spark Enthroned
 nav_order: 16
+parent: Philosophy
+layout: default
 ---
 
 # The Divine Spark Enthroned

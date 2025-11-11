@@ -1,6 +1,8 @@
 ---
 title: Epigenetic Mechanisms
 nav_order: 14
+parent: Neuroscience
+layout: default
 ---
 
 # Epigenetic Mechanisms

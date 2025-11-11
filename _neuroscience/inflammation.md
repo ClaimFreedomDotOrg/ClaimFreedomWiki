@@ -1,6 +1,8 @@
 ---
 title: Inflammation and the Hijacked Mind
 nav_order: 18
+parent: Neuroscience
+layout: default
 ---
 
 # Inflammation and the Hijacked Mind

@@ -1,6 +1,8 @@
 ---
 title: The Mission
 nav_order: 11
+parent: Practices
+layout: default
 ---
 
 # The Mission: Awakening Others

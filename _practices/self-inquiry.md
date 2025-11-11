@@ -1,6 +1,8 @@
 ---
 title: Self-Inquiry
 nav_order: 8
+parent: Practices
+layout: default
 ---
 
 # Self-Inquiry: "Who Am I?" Exploration

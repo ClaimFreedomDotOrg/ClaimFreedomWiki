@@ -1,6 +1,8 @@
 ---
 title: The Ancestral Loop
 nav_order: 18
+parent: Philosophy
+layout: default
 ---
 
 # The Ancestral Loop

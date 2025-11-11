@@ -1,6 +1,8 @@
 ---
 title: The Individual Loop
 nav_order: 17
+parent: Philosophy
+layout: default
 ---
 
 # The Individual Loop

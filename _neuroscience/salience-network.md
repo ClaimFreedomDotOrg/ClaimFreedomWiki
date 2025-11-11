@@ -1,6 +1,8 @@
 ---
 title: The Salience Network
 nav_order: 8
+parent: Neuroscience
+layout: default
 ---
 
 # The Salience Network

@@ -1,6 +1,8 @@
 ---
 title: Practical Guide: Taming Your DMN
 nav_order: 2
+parent: Practices
+layout: default
 ---
 
 # Practical Guide: Taming Your DMN

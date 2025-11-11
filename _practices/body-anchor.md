@@ -1,6 +1,8 @@
 ---
 title: Body as Anchor
 nav_order: 2
+parent: Practices
+layout: default
 ---
 
 # Body as Anchor

@@ -1,6 +1,8 @@
 ---
 title: Dis-Identifying from Story
 nav_order: 4
+parent: Practices
+layout: default
 ---
 
 # Dis-Identifying from Story

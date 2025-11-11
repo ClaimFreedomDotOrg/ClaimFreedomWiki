@@ -1,6 +1,8 @@
 ---
 title: DMN Discovery and Function
 nav_order: 20
+parent: Neuroscience
+layout: default
 ---
 
 # DMN Discovery and Function

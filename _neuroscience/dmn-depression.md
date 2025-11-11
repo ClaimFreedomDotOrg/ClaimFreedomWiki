@@ -1,6 +1,8 @@
 ---
 title: DMN in Depression
 nav_order: 4
+parent: Neuroscience
+layout: default
 ---
 
 # DMN in Depression

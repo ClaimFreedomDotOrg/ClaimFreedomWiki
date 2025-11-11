@@ -1,6 +1,8 @@
 ---
 title: The Gnostic Diagnosis
 nav_order: 1
+parent: Philosophy
+layout: default
 ---
 
 # The Gnostic Diagnosis: Archons and the Counterfeit Spirit

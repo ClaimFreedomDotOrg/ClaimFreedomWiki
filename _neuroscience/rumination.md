@@ -1,6 +1,8 @@
 ---
 title: DMN and Rumination
 nav_order: 6
+parent: Neuroscience
+layout: default
 ---
 
 # DMN and Rumination
