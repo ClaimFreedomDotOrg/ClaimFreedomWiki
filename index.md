@@ -14,6 +14,14 @@ nav_order: 1
 
 *Or are you the one who is listening to it?*
 
+### Watch the Invocation
+
+<div style="aspect-ratio:9/16; max-width:360px; margin:1rem auto;">
+  <iframe width="360" height="640" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation: The Anti-Corruption Axiom" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+*Or read the full text: **[Invocation: Anti-Corruption Axiom](/docs/invocation)***
+
 ---
 
 Welcome to **Claim Freedom**—a neurophilosophical inquiry into the nature of human suffering and the path to liberation.
