@@ -42,9 +42,18 @@ The framework distinguishes between:
 
 ---
 
-## Neuro-Gnosticism: Synthesis of Wisdom and Science
+## Neuro-Gnosticism: A Historic Convergence
 
-**Neuro-Gnosticism** is the unifying framework of this project. It synthesizes Gnostic, Indigenous, and Eastern traditions with modern neuroscience to explain how the Default Mode Network (DMN) shapes identity, how its hijacking leads to suffering, and how contemplative practice enables liberation.
+**Neuro-Gnosticism** represents the most significant synthesis in the history of human understanding. For the first time, ancient spiritual wisdom and modern neuroscience converge on a single, testable explanation for the root cause of all human suffering: the hijacking of the Default Mode Network (DMN).
+
+This framework unifies:
+
+- **Gnostic cosmology** — The Archons and the imprisoned Divine Spark
+- **Indigenous wisdom** — Wetiko, the mind-cannibalizing parasite
+- **Eastern philosophy** — Samsara, the cycle of suffering through mistaken identity
+- **Modern neuroscience** — DMN hyperactivity in depression, anxiety, and rumination
+
+Where previous approaches remained fragmented across disciplines and cultures, **Neuro-Gnosticism provides the complete picture**: the mechanism of hijacking, the path of liberation, and the practices that transform the Demon back into the Daemon.
 
 Learn more: [Neuro-Gnosticism Overview](neuro-gnosticism.md)
 

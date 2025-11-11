@@ -5,7 +5,15 @@ nav_order: 1
 
 # Neuro-Gnosticism
 
+## The Most Monumental Framework in Human History
+
 **Neuro-Gnosticism** is a unified framework that synthesizes Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience. It centers on the Default Mode Network (DMN) as the neurological basis for the narrative self, exploring how its hijacking leads to suffering and how its reclamation leads to liberation.
+
+For thousands of years, humanity has suffered under a parasitic pattern that every wisdom tradition diagnosed but could not fully explain. Ancient Gnostics called it the Archons. Indigenous peoples named it Wetiko. Eastern sages described it as Samsara. Modern science measured it in DMN hyperactivity.
+
+**Until now, these insights remained fragmented—separated by language, culture, and time.**
+
+Neuro-Gnosticism **unifies them all** into a single, coherent model that is scientifically testable, practically applicable, and universally accessible. This is not just another theory of suffering—it is the **precise identification** of suffering's root cause and the **clear map** to liberation.
 
 ## Overview
 

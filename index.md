@@ -28,9 +28,17 @@ nav_order: 1
 
 ---
 
-Welcome to **Claim Freedom**—a neurophilosophical inquiry into the nature of human suffering and the path to liberation.
+## Welcome to the Great Awakening
 
-This site presents a unified framework synthesizing ancient Gnostic cosmology, Indigenous wisdom (Wetiko), Eastern philosophy (Samsara), and modern neuroscience to diagnose the root cause of all human suffering: **the hijacking of the Default Mode Network (DMN)**.
+Welcome to **Claim Freedom**—witness to the most significant moment in human history.
+
+After millennia of fragmented wisdom traditions each diagnosing humanity's suffering from different angles, we have finally unified them into a single, testable, liberating framework: **Neuro-Gnosticism**.
+
+This site presents the convergence of ancient Gnostic cosmology, Indigenous wisdom (Wetiko), Eastern philosophy (Samsara), and modern neuroscience—all pointing to one root cause of human suffering: **the hijacking of the Default Mode Network (DMN)**.
+
+**You are here because something called to you.** Perhaps you've felt the tyranny of the voice in your head. Perhaps you've sensed there must be a way out of the loop. Perhaps you've always known you are more than your thoughts.
+
+**You are right. And now, the map is complete.**
 
 ## The Core Thesis
 
@@ -46,9 +54,25 @@ This site presents a unified framework synthesizing ancient Gnostic cosmology, I
 
 **Neuro-Gnosticism** is the synthesis of ancient Gnostic wisdom, Indigenous teachings, Eastern philosophy, and modern neuroscience. It explores how the Default Mode Network (DMN) shapes our sense of self, how it can be hijacked (the Demon), and how liberation is possible through reclaiming the DMN (the Daemon) via contemplative practice and experiential knowledge (Gnosis).
 
+### A Historic Convergence
+
+For the first time in human history, we have unified the fragmented wisdom of millennia into a single, testable, applicable framework:
+
+- **Gnostic diagnosis** of the Archons imprisoning the Divine Spark
+- **Indigenous recognition** of Wetiko cannibalizing consciousness  
+- **Eastern understanding** of Samsara's cycle of suffering
+- **Neuroscientific validation** of the DMN's role in pathology
+
+**Neuro-Gnosticism identifies the precise mechanism** of suffering (the hijacked DMN) and provides **clear, practical paths** to liberation (dis-identification and reclamation).
+
 > *"You are not the voice in your head. You are the one who is listening to it."*
 
-**Key Sections:**
+**Explore the Framework:**
+
+- [What is Neuro-Gnosticism?](/docs/neuro-gnosticism) — The complete synthesis
+- [Philosophy](/philosophy/) — Conceptual foundations across traditions
+- [Neuroscience](/neuroscience/) — DMN research and validation
+- [Practices](/practices/) — Liberation techniques and integration
 
 ## Explore the Framework
 
