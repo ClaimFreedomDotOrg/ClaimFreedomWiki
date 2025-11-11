@@ -141,7 +141,7 @@ Smile—resistance confirms transformation underway.
 3. Ask: *"Am I anger/sadness OR awareness containing it?"*  
 4. Hold space; no suppression.  
 
-Warning: For significant trauma, pair with therapy. See **[Working with Trauma](/practices/trauma-work)** (forthcoming).
+Warning: For significant trauma, pair with therapy. See **[Working with Trauma](/practices/trauma-work)**.
 
 ## Integration in Action
 

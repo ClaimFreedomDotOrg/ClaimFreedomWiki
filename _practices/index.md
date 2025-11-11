@@ -37,7 +37,7 @@ All practices begin with the central question:
 ### Advanced Inquiry
 
 - [Self-Inquiry](/practices/self-inquiry) — "Who am I?" exploration (Advaita method)
-- [Working with Trauma](/practices/trauma-work) — Approaching ancestral and personal wounds
+- [Working with Trauma](/practices/trauma-work) — Grounded, trauma-informed titration and resourcing
 
 ## Getting Started
 
