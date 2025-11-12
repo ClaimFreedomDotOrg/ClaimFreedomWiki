@@ -66,6 +66,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[What’s Up? – 4 Non Blondes](/examples/whats-up-4-non-blondes)** — Existential pressure loop, cathartic vowel release as Gnosis, and reframing destination obsession into present authenticity
 - **[Running Up That Hill (A Deal With God) – Kate Bush](/examples/running-up-that-hill-kate-bush)** — Empathic perspective swap dissolving self-story, from bargaining to direct Gnosis through rhythm and repetition
 - **[Imagine – John Lennon](/examples/imagine-john-lennon)** — Subtractive contemplation dismantling partition scripts (heaven, borders, possessions) to uncover shared presence
+- [“Don’t Stop Believin’” – Journey](/examples/dont-stop-believin-journey) — Reframing hope as regulated present continuity; rhythm-enforced belief as practice.
 
 ---
 
