@@ -72,6 +72,13 @@ defaults:
       layout: default
       parent: "Cultural Examples"
       nav_exclude: false
+  - scope:
+      path: "_biblical"
+      type: "biblical"
+    values:
+      layout: default
+      parent: "Biblical Decodings"
+      nav_exclude: false
 
 # Plugins supported by GitHub Pages
 plugins:
@@ -94,6 +101,9 @@ collections:
   examples:
     output: true
     permalink: /examples/:path/
+  biblical:
+    output: true
+    permalink: /biblical/:path/
 
 # Exclusions
 exclude:
