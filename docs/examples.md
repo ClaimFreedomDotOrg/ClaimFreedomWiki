@@ -61,6 +61,10 @@ Explore the analyses below to see the framework reflected in culture:
 
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
 
+### Songs
+
+- **[What’s Up? – 4 Non Blondes](/examples/whats-up-4-non-blondes)** — Existential pressure loop, cathartic vowel release as Gnosis, and reframing destination obsession into present authenticity
+
 ---
 
 > *"The stories we tell reveal the truth we've forgotten. The Gnosis is always hiding in plain sight."*
