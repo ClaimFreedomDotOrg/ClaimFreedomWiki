@@ -64,6 +64,7 @@ Explore the analyses below to see the framework reflected in culture:
 ### Songs
 
 - **[What’s Up? – 4 Non Blondes](/examples/whats-up-4-non-blondes)** — Existential pressure loop, cathartic vowel release as Gnosis, and reframing destination obsession into present authenticity
+- **[Running Up That Hill (A Deal With God) – Kate Bush](/examples/running-up-that-hill-kate-bush)** — Empathic perspective swap dissolving self-story, from bargaining to direct Gnosis through rhythm and repetition
 
 ---
 
