@@ -55,6 +55,7 @@ Explore the analyses below to see the framework reflected in culture:
 
 - **[Manifest](/examples/manifest)** — Callings as salience pings, Lifeboat ethics, and communal Gnosis under a ticking Death Date
 - **[Sense8](/examples/sense8)** — Distributed empathic cluster consciousness, Archonic surveillance, and ethical skill-sharing as collective Gnosis
+- **[Stranger Things](/examples/stranger-things)** — Upside Down as shadow DMN ecology, music anchors against possession, and communal truth as anti-hijack firewall
 
 ### Books
 
