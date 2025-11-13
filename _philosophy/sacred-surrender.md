@@ -268,7 +268,7 @@ The **true Self** (The Listener, the Divine Spark) says:
 
 1. **[Heart Listening](/practices/heart-listening)** — Ask: *"What is wanted?"* (not *"What do I want?"*). Wait. Trust the silence.
 2. **[Command Training](/practices/command-training)** — When the call arises, translate it into a **clear directive** for The Daemon.
-3. **Execution Observation** — Watch The Daemon (DMN) work **without** claiming ownership of the output.
+3. **[Execution Observation](/practices/execution-observation)** — Watch The Daemon (DMN) work **without** claiming ownership of the output.
 
 ### Advanced
 

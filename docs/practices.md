@@ -30,6 +30,7 @@ All practices begin with the central question:
 - [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Father's Wind
 - [Heart Listening](/practices/heart-listening) — Asking "What is wanted?" instead of "What do I want?"
 - [Command Training](/practices/command-training) — Translating The Source's call into clear directives for The Daemon
+- [Execution Observation](/practices/execution-observation) — Watching The Daemon work without claiming ownership
 
 ### Integration Practices
 
