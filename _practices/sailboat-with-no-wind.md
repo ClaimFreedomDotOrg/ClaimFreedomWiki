@@ -7,9 +7,9 @@ layout: default
 
 # Sailboat with No Wind: The Stillness Practice
 
-## Waiting for The Father's Wind
+## Waiting for the Source's Wind
 
-This practice embodies the **Sacred Surrender**—the art of ceasing self-originated effort and waiting in perfect receptivity for The Father's will to move you.
+This practice embodies the **Sacred Surrender**—the art of ceasing self-originated effort and waiting in perfect receptivity for the Source's will to move you.
 
 > *"Be the sailboat with no wind. Sit in the void. Wait for the heart's call."*
 
@@ -17,11 +17,11 @@ This practice embodies the **Sacred Surrender**—the art of ceasing self-origin
 
 **Level**: Intermediate to Advanced
 
-**Goal**: To train The Son (Listener) to rest in stillness, distinguishing between:
+**Goal**: To train the Listener (witnessing awareness) to rest in stillness, distinguishing between:
 
 - **The Storm** (hijacked DMN creating urgency and chaos)
-- **The Wind** (The Father's genuine call)
-- **The Aligned Voyage** (The Son directing The Holy Spirit to execute)
+- **The Wind** (the Source's genuine call)
+- **The Aligned Voyage** (the Listener directing the Daemon to execute)
 
 ---
 
@@ -35,7 +35,7 @@ The **untamed DMN (the Demon)** is like a **violent storm**:
 
 - **Chaotic waves** toss you in every direction (rumination, anxiety, compulsive planning)
 - **You mistake the storm for movement**—but you're going nowhere, just being battered
-- **The captain (The Son)** is knocked unconscious or tied to the mast
+- **The captain (the Listener)** is knocked unconscious or tied to the mast
 - **The boat is damaged**; the rudder doesn't respond
 - **There is only turbulence**, no destination, just survival mode
 
@@ -45,12 +45,12 @@ The **untamed DMN (the Demon)** is like a **violent storm**:
 
 ### When Surrendered (Waiting for Wind)
 
-The **surrendered Son** becomes a **sailboat with no wind**:
+The **surrendered Listener** becomes a **sailboat with no wind**:
 
 - **The storm has passed** (or you've sailed out of it through dis-identification)
 - **The waters are calm** (the DMN is quiet, receptive)
-- **The captain (The Son) stands at the helm**, awake and alert
-- **The sails are ready** (The Holy Spirit is prepared to execute)
+- **The captain (the Listener) stands at the helm**, awake and alert
+- **The sails are ready** (the Daemon is prepared to execute)
 - **You wait**—not anxiously, but with **trust**
 
 **This is the Sabbath**: Stillness. Silence. Receptivity. No self-originated motion.
@@ -61,15 +61,15 @@ The **surrendered Son** becomes a **sailboat with no wind**:
 
 ### When Aligned (The Wind Arrives)
 
-Suddenly, you feel it: **the Wind (The Father's will)** fills the sails.
+Suddenly, you feel it: **the Wind (the Source's will)** fills the sails.
 
 - **The Wind comes from beyond you**—you did not create it
-- **The captain (The Son) feels the shift** and adjusts the sails
-- **The rudder responds** (The Holy Spirit executes commands with precision)
+- **The captain (the Listener) feels the shift** and adjusts the sails
+- **The rudder responds** (the Daemon executes commands with precision)
 - **The boat moves effortlessly** toward the destination
 - **There is flow, not force**
 
-**This is the Kingdom**: The Father → The Son → The Holy Spirit. Perfect conduction. Aligned voyage.
+**This is the Kingdom**: The Source → the Listener → the Daemon. Perfect conduction. Aligned voyage.
 
 ---
 
@@ -101,14 +101,14 @@ If you begin this practice in a **storm state** (anxious, ruminating, urgent), y
 
 ### Phase 2: Become the Sailboat with No Wind (10-20 minutes)
 
-Now you are in **calm waters**. The DMN is quiet. The Son is awake.
+Now you are in **calm waters**. The DMN is quiet. The Listener is awake.
 
 1. **Sit in receptive stillness.**
    - No agenda. No trying to "get somewhere."
    - Imagine: *"I am a sailboat. The waters are calm. I wait for the Wind."*
 2. **Ask the question:**
    - *"What is wanted?"* (NOT *"What do I want?"*)
-   - *"Father, what is the heart's call right now?"*
+   - *"What is the heart's call right now?"*
 3. **Wait.**
    - Do not manufacture an answer.
    - Do not rush.
@@ -121,7 +121,7 @@ Now you are in **calm waters**. The DMN is quiet. The Son is awake.
 
 During the waiting, the **hijacked DMN (the storm)** may try to create **false urgency**. Learn to tell the difference:
 
-| **The Storm (Hijacked DMN)** | **The Wind (The Father's Call)** |
+| **The Storm (Hijacked DMN)** | **The Wind (The Source's Call)** |
 |------------------------------|----------------------------------|
 | **Push** (urgency, force, "I must...") | **Pull** (magnetic draw, "This way...") |
 | **Fear-based** ("If I don't... then...") | **Love-based** (alignment, resonance) |
@@ -138,19 +138,19 @@ During the waiting, the **hijacked DMN (the storm)** may try to create **false u
 
 ## Phase 3: Hoist the Sails and Navigate (Action)
 
-When **the Wind (The Father's call)** genuinely arises, **The Son translates it into direction** for The Holy Spirit.
+When **the Wind (the Source's call)** genuinely arises, **the Listener translates it into direction** for the Daemon.
 
 1. **Feel the Wind.**
    - A pull toward writing, creating, serving, resting, connecting.
    - A sense of "Yes. This. Now."
 2. **Translate the call into a command.**
-   - Example: *"Holy Spirit, draft an outline for this teaching."*
-   - Example: *"Holy Spirit, recall the memory needed to heal this relationship."*
-   - Example: *"Holy Spirit, prepare the body for rest."*
+   - Example: *"DMN, draft an outline for this teaching."*
+   - Example: *"DMN, recall the memory needed to heal this relationship."*
+   - Example: *"DMN, prepare the body for rest."*
 3. **Hoist the sails (execute).**
-   - The Holy Spirit (DMN) generates the plan, retrieves context, constructs narrative.
+   - The Daemon (functional DMN) generates the plan, retrieves context, constructs narrative.
    - The boat moves effortlessly.
-   - **You (The Son) steer with the rudder**—adjusting course as needed, but not forcing.
+   - **You (the Listener) steer with the rudder**—adjusting course as needed, but not forcing.
 4. **Flow, not force.**
    - If resistance arises, check: "Is this still the Wind, or has the storm returned?"
    - If the Wind fades, **lower the sails and wait again.**
@@ -200,9 +200,9 @@ Before sleep:
 
 ### Philosophically
 
-- **The Son's proper role**: Listener and conductor, not originator.
-- **The Father as Source**: Trust that the Wind comes; you don't create it.
-- **The Holy Spirit as executor**: The DMN executes commands, not dictates them.
+- **The Listener's proper role**: Observer and conductor, not originator.
+- **The Source as origin**: Trust that the Wind comes; you don't create it.
+- **The Daemon as executor**: The functional DMN executes commands, not dictates them.
 - **The Sabbath**: Ceasing self-originated effort; resting in alignment.
 
 ---
@@ -211,7 +211,7 @@ Before sleep:
 
 ### "I sit and wait, but nothing happens. No Wind comes."
 
-**This is normal.** The Wind operates on **The Father's timing**, not yours. Possibilities:
+**This is normal.** The Wind operates on **the Source's timing**, not yours. Possibilities:
 
 1. **You're still in the storm.** Return to Phase 1 (calming). Storm winds feel like urgency; true Wind feels like pull.
 2. **The call is to rest.** Sometimes the Wind says: "Be still. Recharge." This is also guidance.
@@ -263,7 +263,7 @@ The storm **tricks you** into believing:
 
 **The truth**:
 
-- The Wind (The Father's will) **has always been present**.
+- The Wind (the Source's will) **has always been present**.
 - Striving (the storm) **drowns out the Wind**.
 - Only in stillness can you **hear** and **feel** the true call.
 
@@ -275,9 +275,9 @@ The storm **tricks you** into believing:
 
 ### Related Concepts
 
-- [The Sacred Surrender](/philosophy/sacred-surrender) — The three-tier alignment (Father/Son/Holy Spirit)
+- [The Sacred Surrender](/philosophy/sacred-surrender) — The three-tier alignment (Source/Listener/Daemon)
 - [The Voice vs. The Listener](/philosophy/voice-listener) — Distinguishing storm from Wind
-- [The Sabbath: Resting in the Mystery](/philosophy/sacred-surrender#the-sabbath-resting-in-the-mystery) — Ceasing self-originated effort
+- [Etymology and Function: Daemon vs. Demon](/philosophy/daemon-demon) — The functional DMN vs. hijacked DMN
 
 ### Related Practices
 
@@ -318,7 +318,7 @@ When you become the sailboat with no wind:
 
 ### The Wind (Intuitive Arising)
 
-When The Father's call emerges:
+When the Source's call emerges:
 
 - **Right hemisphere holistic processing** (pattern recognition, pre-verbal knowing)
 - **Heart coherence** (cardiac rhythms signal alignment)
@@ -370,19 +370,19 @@ Before each practice, you may say:
 >
 > *I do not create the journey.*
 >
-> *I wait for The Father's Wind.*
+> *I wait for the Source's Wind.*
 >
 > *When it comes, I will recognize it.*
 >
 > *I will hoist the sails.*
 >
-> *I will steer with The Holy Spirit.*
+> *I will steer with the Daemon.*
 >
 > *And I will trust the voyage.*
 >
 > *Until the Wind arrives, I rest in perfect stillness.*
 >
-> *I am The Son. I listen. I conduct. I surrender."*
+> *I am the Listener. I observe. I conduct. I surrender."*
 
 ---
 
@@ -392,7 +392,7 @@ The **storm** is not your enemy. It is the **hijacked DMN trying to protect you*
 
 **Befriend the storm.** Say: *"Thank you for trying to keep me safe. But I am the captain now. You can rest. We wait for the Wind together."*
 
-When the DMN (the storm) realizes **The Son (captain) is in command**, it **transforms** into The Holy Spirit (the responsive sails and rudder).
+When the DMN (the storm) realizes **the Listener (captain) is in command**, it **transforms** into the Daemon (the responsive sails and rudder).
 
 **Then the voyage is not a fight—it is a flow.**
 
