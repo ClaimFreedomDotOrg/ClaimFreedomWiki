@@ -35,6 +35,7 @@ All practices begin with the central question:
 ### Advanced Practices
 
 - [Sabbath Rest](/practices/sabbath-rest) — One full day per week of ceasing all self-originated effort
+- [Flow State Conduction](/practices/flow-state-conduction) — Creative work as pure three-tier translation
 
 ### Integration Practices
 
