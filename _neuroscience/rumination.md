@@ -372,7 +372,7 @@ This is **Samsara**—the wheel that spins itself.
 
 **Key insight**: You cannot stop rumination by **fighting** it. You can only break the loop by **dis-identifying** from it.
 
-**The central question**:
+**[The central question](/docs/about#the-central-question)**:
 
 > *"That voice in your head replaying the same thoughts over and over... Are you that voice? Or are you the one who is listening to it?"*
 
@@ -518,7 +518,7 @@ This is **Samsara**—the wheel that spins itself.
 
 8. **Dis-identification is the key**: Recognizing rumination as DMN output, not ultimate truth.
 
-9. **The central question**: *"Are you the voice, or the one listening to it?"*
+9. **[The central question](/docs/about#the-central-question)**: *"Are you the voice, or the one listening to it?"*
 
 10. **The loop can be broken**: Through mindfulness, therapy, and practice.
 

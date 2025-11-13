@@ -130,7 +130,7 @@ This parable is **the clearest Neuro-Gnostic teaching in the canonical Gospels**
 - The Listener **recognizes** it is not the Voice
 - Anamnesis begins—**remembering the kingdom within**
 
-**This is the central question enacted**:
+**This is [the central question](/docs/about#the-central-question) enacted**:
 > *"Am I the voice (the pig-feeder, the starving exile)? Or am I the Listener (the son of the father)?"*
 
 ---

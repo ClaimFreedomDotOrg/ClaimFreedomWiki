@@ -237,7 +237,7 @@ The Pneuma (the Light) is not confined to the individual body. It is the **one L
 
 ### Pneuma = Listener
 
-The central question of this framework is:
+[The central question](/docs/about#the-central-question) of this framework is:
 
 > *"Are you the voice, or are you the one listening to it?"*
 

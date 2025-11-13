@@ -44,7 +44,7 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ## 🚀 New Here? Start Your Journey
 
-**[Getting Started Guide](/docs/getting-started)** — A step-by-step path from the central question to daily practice. Start here if you're new to the framework.
+**[Getting Started Guide](/docs/getting-started)** — A step-by-step path from [the central question](/docs/about#the-central-question) to daily practice. Start here if you're new to the framework.
 
 ### ⚡ Experience Instant Gnosis (3-5 minutes)
 

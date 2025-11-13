@@ -11,7 +11,7 @@ This section offers practical contemplative methods for **dis-identification** a
 
 ## The Foundation
 
-All practices begin with the central question:
+All practices begin with [the central question](/docs/about#the-central-question):
 
 > *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
 

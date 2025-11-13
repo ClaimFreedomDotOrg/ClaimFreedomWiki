@@ -37,7 +37,7 @@ The hijacking is an act of **identity theft**:
 
 The infection's survival mechanism is **impersonation**. It convinces the Listener that it *is* the Voice.
 
-The central question breaks this identification:
+[The central question](/docs/about#the-central-question) breaks this identification:
 
 > *"Are you that voice?... Or are you the one who is listening to it?"*
 

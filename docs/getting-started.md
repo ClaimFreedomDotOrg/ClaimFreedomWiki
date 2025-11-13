@@ -14,7 +14,7 @@ If you're new to this framework, **welcome**. This guide will help you navigate 
 
 ---
 
-## Step 1: The Central Question (1 minute)
+## Step 1: [The Central Question](/docs/about#the-central-question) (1 minute)
 
 Everything begins with this question:
 

@@ -59,6 +59,31 @@ Learn more: [Neuro-Gnosticism Overview](neuro-gnosticism.md)
 
 **Liberation is not ego death.** It is not the destruction of the DMN. It is **re-claiming**—the practice of dis-identification that transforms the Demon back into a Daemon, restoring the Divine Spark (the Listener, pure awareness) to its rightful sovereignty.
 
+### The Central Question
+
+Everything in this framework flows from a single, direct inquiry:
+
+> *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
+
+This is not a rhetorical question. It is an **experiential investigation**.
+
+**Right now**:
+
+- Notice the voice narrating, judging, planning, worrying
+- Notice there is **awareness** of that voice
+- Ask: **Who is aware?**
+
+**The gap between the Voice and the Listener is the key to everything.**
+
+- The **Voice** is the hijacked Default Mode Network (DMN) claiming to be "you"
+- The **Listener** is your true nature—the Divine Spark, pure awareness, the witness
+
+**Liberation**: Recognizing you are The Listener, not the Voice. Everything else is commentary.
+
+Read more: [The Voice vs. The Listener](/philosophy/voice-listener)
+
+---
+
 ### Scope and Purpose
 
 This site serves as:
@@ -93,5 +118,3 @@ Explore the framework in depth:
 - **[Philosophy](/docs/philosophy)** — Gnostic texts, Wetiko, Samsara, and conceptual foundations
 - **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, and mechanisms
 - **[Practices](/docs/practices)** — Meditation and dis-identification techniques
-
-> *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*

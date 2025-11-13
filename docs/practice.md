@@ -12,7 +12,7 @@ This page offers practical methods for **dis-identification** and **DMN re-integ
 
 ---
 
-### Foundation: The Central Question
+### Foundation: [The Central Question](/docs/about#the-central-question)
 
 All practices begin and return to this question:
 

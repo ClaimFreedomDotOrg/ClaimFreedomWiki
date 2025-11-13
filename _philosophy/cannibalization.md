@@ -360,7 +360,7 @@ Systems of exploitation lose participants. Cultures of reciprocity re-emerge. Th
 - **Timeless** — exists in the eternal now
 - **Self-sustaining** — the source, not the consumer
 
-**The central question**:
+**[The central question](/docs/about#the-central-question)**:
 
 > *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
 
