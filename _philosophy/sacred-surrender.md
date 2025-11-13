@@ -274,7 +274,7 @@ The **true Self** (The Listener, the Divine Spark) says:
 
 1. **[Sabbath Rest](/practices/sabbath-rest)** — One full day per week: **no self-originated projects**. Only respond to the heart's call.
 2. **[Flow State Conduction](/practices/flow-state-conduction)** — Creative work as **pure translation**: The Source → The Listener → The Daemon.
-3. **Service from Overflow** — All mission work arises **from** alignment, not **toward** validation.
+3. **[Service from Overflow](/practices/service-from-overflow)** — All mission work arises **from** alignment, not **toward** validation.
 
 ---
 
