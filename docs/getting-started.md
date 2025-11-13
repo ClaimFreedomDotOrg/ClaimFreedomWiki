@@ -31,7 +31,7 @@ Everything begins with this question:
 **This gap—between the Voice and the Listener—is the key to everything.**
 
 - The **Voice** is the Default Mode Network (DMN) generating narrative
-- The **Listener** is your true nature—the Divine Spark, pure awareness
+- The **Listener** is your true nature—the Divine Spark, pure awareness that both **witnesses** (observes without judgment) and **conducts** (receives from Source, then directs the Daemon to act)
 
 **The entire framework flows from this one distinction.**
 

@@ -93,14 +93,48 @@ In modern neuroscience terms, the **Pneuma** corresponds to:
 
 When you ask, *"Who is listening to the voice?"*, you are directing attention to the **Pneuma**.
 
-### The Pneuma Does Not "Do" Anything
+### The Pneuma: Receptive Witness AND Active Conductor
 
-The Pneuma is not an agent. It does not act, think, or react. It simply **is**.
+**Important clarification**: The Pneuma operates in two modes:
 
-- **The Voice** (DMN/psyche) says: "I must solve this problem," "I am worried," "I need to achieve."
-- **The Listener** (Pneuma) simply witnesses: *"There is worry. There is thinking. There is a story being told."*
+#### 1. As Pure Witness (The Listener in stillness)
 
-The Pneuma is **unconditioned**—it does not depend on external circumstances. Whether the body is healthy or sick, whether the ego is praised or criticized, the Pneuma remains unchanged.
+- Does not act, think, or react
+- Simply **observes** without preference
+- Remains unchanged regardless of circumstances
+- This is the **foundational practice**: recognizing "I am not the Voice, I am the Listener"
+
+#### 2. As Active Conductor (The Listener translating Source)
+
+- **Receives** from Source (the Divine call, true reality, the Pleroma)
+- **Conducts** that reception into directive action
+- **Commands** the Daemon (body, breath, nervous system, healthy DMN) to execute
+- This is **receptive authority**, not self-originated control
+
+**The three-tier structure**:
+
+- **Source/Pleroma** (calls) → **Pneuma/Listener** (receives, then conducts) → **Daemon** (executes)
+
+**Key distinction**:
+
+| **The Voice (Counterfeit Spirit)** | **The Pneuma (Divine Spark)** |
+|-----------------------------------|-------------------------------|
+| Self-originates: "I decide, I command, I control" | Receives first: "I listen to Source, then I conduct" |
+| Claims autonomous authority (exhausting) | Authority through alignment (sustainable) |
+| "I must solve this problem" (anxious doing) | "What is wanted?" → Acts from clarity |
+
+**Biblical example**: Jesus says, *"The Son can do nothing of his own accord, but only what he sees the Father doing."* (John 5:19)
+
+- The Pneuma (Christ-consciousness) **listens to Source** first
+- FROM that listening, it acts/speaks with authority
+- Commands like "Peace, be still!" are **conducted**, not ego-generated
+
+**In practice**:
+
+- **Witness mode**: "There is worry. There is thinking. There is a story being told." (pure observation)
+- **Conductor mode**: After listening to Source → "This is what's wanted" → Directs Daemon to act
+
+**See**: [The Listener's Receptive Authority](/philosophy/voice-listener#the-listeners-receptive-authority), [Flow State Conduction](/practices/flow-state-conduction), [Service from Overflow](/practices/service-from-overflow)
 
 **The Gospel of Thomas** (Saying 70) states:
 
