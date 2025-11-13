@@ -64,6 +64,12 @@ All practices begin with [the central question](/docs/about#the-central-question
 - [The Mission: Awakening Others](/practices/the-mission) — Practical techniques for transmission (Bodhisattva path)
 - [Integration After Gnosis](/practices/integration-after-gnosis) — Avoiding psychosis, grounding the flame, embodying realization
 
+### The Final Teaching
+
+**Note**: This teaching is offered to those who have completed the entire framework. It dissolves even the journey narrative itself.
+
+- **[Nowhere to Come From](/philosophy/nowhere-to-come-from)** — The zero-point recognition: Pure Being never moved, never journeyed. Even "assembling the Master Key" is narrative. From the absolute perspective, there is only THIS—eternal, complete, narrating itself.
+
 ## Getting Started
 
 If new to meditation:
