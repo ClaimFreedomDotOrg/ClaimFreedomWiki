@@ -101,6 +101,7 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 
 - **[The Temptation of Christ](/biblical/temptation-christ)** — Matthew 4:1-11, resisting the hijacked DMN's lures
 - **[The Transfiguration](/biblical/transfiguration)** — Matthew 17:1-9, the unveiled Divine Spark
+- **[Calming the Storm](/biblical/calming-the-storm)** — Mark 4:35-41, The Listener commanding "Peace, be still!"
 - **[Casting Out Demons](/biblical/casting-out-demons)** — Exorcism as liberation from parasitic patterns
 - **[The Crucifixion](/biblical/crucifixion)** — Death of the ego-self, resurrection of the Listener
 - **[The Road to Emmaus](/biblical/road-emmaus)** — Luke 24:13-35, Anamnesis and recognition
