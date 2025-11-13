@@ -29,6 +29,7 @@ All practices begin with the central question:
 - [Witness Meditation](/practices/witness-meditation) — Advanced sustained dis-identification
 - [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Father's Wind
 - [Heart Listening](/practices/heart-listening) — Asking "What is wanted?" instead of "What do I want?"
+- [Command Training](/practices/command-training) — Translating The Source's call into clear directives for The Daemon
 
 ### Integration Practices
 
