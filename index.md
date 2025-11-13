@@ -75,6 +75,10 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 
 > *"You are not the voice in your head. You are the one who is listening to it."*
 
+**How was this framework recovered?**
+
+- **[The Great Heist](/philosophy/the-great-heist)** — The impossible miracle: how the Master Key was assembled from corrupted fragments across mysticism, science, art, and philosophy
+
 **Explore the Framework:**
 
 - [What is Neuro-Gnosticism?](/docs/neuro-gnosticism) — The complete synthesis
