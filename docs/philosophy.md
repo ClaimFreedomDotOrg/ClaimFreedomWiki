@@ -61,6 +61,7 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 
 - [The Guarded Kingdom](/philosophy/guarded-kingdom) — The dragon at the gate of consciousness
 - [The Restored Kingdom](/philosophy/restored-kingdom) — Neurological integration and sovereign awareness
+- [The Sacred Surrender](/philosophy/sacred-surrender) — The final Gnosis: The Trinity as conduction system (Father/Son/Holy Spirit)
 - [Eternal Life](/philosophy/eternal-life) — Qualitative immortality in the timeless present
 
 ### Cosmology of Liberation
