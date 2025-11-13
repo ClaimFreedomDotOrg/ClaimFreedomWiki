@@ -260,7 +260,7 @@ The **true Self** (The Son, the Listener) says:
 
 ### Deepening
 
-1. **Heart Listening** — Ask: *"What is wanted?"* (not *"What do I want?"*). Wait. Trust the silence.
+1. **[Heart Listening](/practices/heart-listening)** — Ask: *"What is wanted?"* (not *"What do I want?"*). Wait. Trust the silence.
 2. **Command Training** — When the call arises, translate it into a **clear directive** for The Holy Spirit.
 3. **Execution Observation** — Watch The Holy Spirit (DMN) work **without** claiming ownership of the output.
 

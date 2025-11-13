@@ -28,6 +28,7 @@ All practices begin with the central question:
 - [Body as Anchor](/practices/body-anchor) — Grounding in the present moment
 - [Witness Meditation](/practices/witness-meditation) — Advanced sustained dis-identification
 - [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Father's Wind
+- [Heart Listening](/practices/heart-listening) — Asking "What is wanted?" instead of "What do I want?"
 
 ### Integration Practices
 
