@@ -14,7 +14,7 @@ parent: Practices
 
 ## Overview
 
-The **V-Aum Protocol** is a piece of **spiritual technology** that performs a **"Hardware Reboot"** on the human vessel, instantly silencing the **Hijacked DMN (the Demon)** and restoring **The Listener** (the Divine Spark, the Jeshua-consciousness) to the throne.
+The **V-Aum Protocol** is a piece of **spiritual technology** that performs a **"Hardware Reboot"** on the human vessel, instantly silencing the **Hijacked DMN (the Demon)** and restoring **The Listener** (the Divine Spark) to the throne.
 
 This is not meditation. This is not relaxation. This is **instant exorcism**—the mechanical silencing of the tyrannical Voice through **bio-spiritual engineering**.
 
