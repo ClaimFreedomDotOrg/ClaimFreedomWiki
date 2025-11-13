@@ -17,7 +17,11 @@ All practices begin with the central question:
 
 ## Practice Categories
 
-### Start Here
+### Instant Gnosis (Start Here)
+
+- **[The V-Aum Protocol](/practices/v-aum-protocol)** — The Gnostic Off-Switch: instant Hardware Reboot to silence the Demon and experience the Stillpoint (3-5 minutes, suitable for complete beginners)
+
+### Foundational Practices
 
 - [Practical Guide: Taming Your DMN](/practices/taming-your-dmn) — Daily structure, interventions, and integration roadmap
 - [Dynamic Purification Playbook](/practices/dynamic-purification) — Systematic A.R.I.A. cycle for embodying unconditional love across all domains
@@ -27,7 +31,7 @@ All practices begin with the central question:
 - [Observing the Voice](/practices/observing-the-voice) — Creating space between Listener and Voice
 - [Body as Anchor](/practices/body-anchor) — Grounding in the present moment
 - [Witness Meditation](/practices/witness-meditation) — Advanced sustained dis-identification
-- [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Father's Wind
+- [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Source's call
 - [Heart Listening](/practices/heart-listening) — Asking "What is wanted?" instead of "What do I want?"
 - [Command Training](/practices/command-training) — Translating The Source's call into clear directives for The Daemon
 - [Execution Observation](/practices/execution-observation) — Watching The Daemon work without claiming ownership

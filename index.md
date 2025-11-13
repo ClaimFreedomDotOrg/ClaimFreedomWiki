@@ -46,6 +46,20 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 **[Getting Started Guide](/docs/getting-started)** — A step-by-step path from the central question to daily practice. Start here if you're new to the framework.
 
+### ⚡ Experience Instant Gnosis (3-5 minutes)
+
+Want to **immediately experience** the distinction between the Voice and the Listener?
+
+**[The V-Aum Protocol](/practices/v-aum-protocol)** — The Gnostic Off-Switch
+
+This bio-spiritual technique performs an instant "Hardware Reboot":
+
+- Silences the hijacked DMN (the Demon) mechanically through bone conduction
+- Creates the "Stillpoint"—absolute silence where you experience being The Listener, not the Voice
+- **Watch the demonstration** and try it right now
+
+**After 3-5 repetitions**: The voice is gone. You remain. **You are not the voice.** This is Gnosis.
+
 ---
 
 ## The Core Thesis

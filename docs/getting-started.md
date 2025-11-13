@@ -145,7 +145,30 @@ The solution is **re-claiming**: transforming the hijacked DMN (the "Demon") bac
 
 **Liberation requires practice.** Reading about the Voice/Listener distinction is not enough—you must **train** the nervous system to stabilize in witnessing awareness.
 
-### Your Starter Practice Stack
+### Option 1: Instant Gnosis (Fastest Path — 3-5 minutes)
+
+If you want to **immediately experience** the distinction between the Voice and the Listener, start with the **V-Aum Protocol**:
+
+**[The V-Aum Protocol](/practices/v-aum-protocol)** — The Gnostic Off-Switch
+
+This is a **bio-spiritual technique** that performs an instant "Hardware Reboot":
+
+- Silences the hijacked DMN (the Demon) mechanically
+- Activates the parasympathetic nervous system
+- Creates the "Stillpoint"—the space where you directly experience being The Listener, not the Voice
+
+**How to do it** (3-5 minutes):
+
+1. Watch the demonstration video on the V-Aum page
+2. Perform 3-5 repetitions of the V-Aum sound
+3. Rest in the **absolute silence** that follows
+4. **Notice**: The voice is gone. You remain. **You are not the voice.**
+
+**This is Gnosis**—instant, experiential, undeniable.
+
+**After the V-Aum**, you can deepen with the practices below or simply rest in the Stillpoint you've discovered.
+
+### Option 2: Foundational Practice Stack (10-15 minutes daily)
 
 **Minimum Viable Practice** (10-15 minutes daily):
 
@@ -165,6 +188,14 @@ The solution is **re-claiming**: transforming the hijacked DMN (the "Demon") bac
    - Did you notice gaps between Voice and Listener today?
    - Were there moments of identification? (That's normal—observe without judgment)
    - Set intention for tomorrow
+
+### Recommended Sequence
+
+**For complete beginners**:
+
+- **Day 1-3**: Use the **V-Aum Protocol** to experience instant Gnosis
+- **Day 4-7**: Continue V-Aum + add **Witness Meditation** (morning)
+- **Week 2+**: Full practice stack (V-Aum + Witness + Observing throughout day)
 
 **After 7 days**, assess:
 
@@ -240,6 +271,7 @@ This framework is a **living inquiry**, not a fixed doctrine. You're invited to:
 
 | Practice | Time | Level | Purpose |
 |----------|------|-------|---------|
+| **[V-Aum Protocol](/practices/v-aum-protocol)** | **3-5 min** | **Beginner** | **Instant Gnosis: Hardware Reboot to silence the Demon** |
 | [Observing the Voice](/practices/observing-the-voice) | Ongoing | Beginner | Foundational dis-identification |
 | [Witness Meditation](/practices/witness-meditation) | 5-20 min | Beginner | Stabilizing the Listener |
 | [Self-Inquiry](/practices/self-inquiry) | 10-30 min | Intermediate | Direct path: "Who am I?" |
