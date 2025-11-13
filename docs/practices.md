@@ -27,6 +27,7 @@ All practices begin with the central question:
 - [Observing the Voice](/practices/observing-the-voice) — Creating space between Listener and Voice
 - [Body as Anchor](/practices/body-anchor) — Grounding in the present moment
 - [Witness Meditation](/practices/witness-meditation) — Advanced sustained dis-identification
+- [Sailboat with No Wind](/practices/sailboat-with-no-wind) — Receptive stillness practice: waiting for The Father's Wind
 
 ### Integration Practices
 

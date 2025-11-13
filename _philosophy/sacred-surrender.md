@@ -256,7 +256,7 @@ The **true Self** (The Son, the Listener) says:
 
 1. **[Witness Meditation](/practices/witness-meditation)** — Stabilize The Son (the Listener).
 2. **[Observing the Voice](/practices/observing-the-voice)** — Recognize The Holy Spirit as tool, not Self.
-3. **Stillness Practice** — Daily intervals of **"Sailboat with no wind"**—waiting for the heart's call.
+3. **[Sailboat with No Wind](/practices/sailboat-with-no-wind)** — Daily intervals of receptive stillness, waiting for the heart's call.
 
 ### Deepening
 
