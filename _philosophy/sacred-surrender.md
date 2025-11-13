@@ -272,7 +272,7 @@ The **true Self** (The Listener, the Divine Spark) says:
 
 ### Advanced
 
-1. **Sabbath Rest** — One full day per week: **no self-originated projects**. Only respond to the heart's call.
+1. **[Sabbath Rest](/practices/sabbath-rest)** — One full day per week: **no self-originated projects**. Only respond to the heart's call.
 2. **Flow State Conduction** — Creative work as **pure translation**: The Father → The Son → The Holy Spirit.
 3. **Service from Overflow** — All mission work arises **from** alignment, not **toward** validation.
 

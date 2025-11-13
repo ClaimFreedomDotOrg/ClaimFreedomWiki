@@ -32,6 +32,10 @@ All practices begin with the central question:
 - [Command Training](/practices/command-training) — Translating The Source's call into clear directives for The Daemon
 - [Execution Observation](/practices/execution-observation) — Watching The Daemon work without claiming ownership
 
+### Advanced Practices
+
+- [Sabbath Rest](/practices/sabbath-rest) — One full day per week of ceasing all self-originated effort
+
 ### Integration Practices
 
 - [Dis-Identifying from Story](/practices/story-disidentification) — Breaking DMN narrative loops
