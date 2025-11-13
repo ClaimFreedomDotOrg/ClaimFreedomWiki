@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Archon in the Machine
-nav_order: 12
+nav_order: 13
 ---
 
 # The Archon in the Machine

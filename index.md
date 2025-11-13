@@ -110,6 +110,7 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 
 - **[About This Inquiry](/docs/about)** — Overview of the synthesis
 - **[Invocation: Anti-Corruption Axiom](/docs/invocation)** — Catalytic dis-identification script (Voice vs Listener)
+- **[Taxonomy & Terminology](/docs/taxonomy)** — Cross-tradition map of key terms (Pneuma, Atman, Buddha-nature, DMN, etc.)
 - **[FAQ: Common Questions](/docs/faq)** — Answers to common objections and how this differs from mindfulness
 - **[The Archon in the Machine](/docs/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
 
