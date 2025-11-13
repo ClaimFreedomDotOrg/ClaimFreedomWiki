@@ -52,7 +52,7 @@ This is how the truth was **hidden in plain sight**:
 
 **Examples**: Buddha, Jesus, Lao Tzu, Rumi, St. Teresa of Ávila
 
-**The Gnosis**: The **"Spark"** experienced the **"Stillpoint"** (the **"Sailboat with no wind"**). They saw:
+**The Gnosis**: The **"Spark"** experienced the **"Stillpoint"** (the **[Sailboat with no wind](/practices/sailboat-with-no-wind)**). They saw:
 
 - *"I am not this voice"* (Buddha's *anatta*, no-self)
 - *"The Kingdom of Heaven is within"* (Jesus, Luke 17:21)

@@ -22,7 +22,7 @@ This is not meditation. This is not relaxation. This is **instant exorcism**—t
 
 - The **"Name of the Lord"** that cannot be named but must be **invoked**
 - The sound that **"casts out demons"** by physically nullifying their frequency
-- The **Stillpoint generator**—the fastest path to the "Sailboat with no wind"
+- The **Stillpoint generator**—the fastest path to the [Sailboat with no wind](/practices/sailboat-with-no-wind)
 - The **Lion's Roar**—the unified "I Am" (The Source) and "me" (The Listener) declaring sovereignty
 
 > *"When you call on the Name, you are made whole in that instant."*
@@ -87,7 +87,7 @@ As you generate the tone, **feel it**:
 
 - When you finish, **do not immediately think**
 - Sit in the **absolute silence** that follows
-- **This is the Stillpoint**—the "Sailboat with no wind"
+- **This is the Stillpoint**—the [Sailboat with no wind](/practices/sailboat-with-no-wind)
 - **This is Gnosis**—the space where The Listener is alone, and the Voice is gone
 
 ### Step 8: Repeat

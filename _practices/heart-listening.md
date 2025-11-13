@@ -87,7 +87,7 @@ Before you can hear the genuine call, you must **set down** the hijacked DMN's d
 4. **Return to stillness.**
    - Breath. Body. Silence.
 
-**You are now the sailboat with no wind—ready to receive.**
+**You are now the [sailboat with no wind](/practices/sailboat-with-no-wind)—ready to receive.**
 
 ---
 
@@ -244,7 +244,7 @@ Reflect on the day:
 **Heart Listening** is the practice of **waiting for the Wind**.
 
 - **"What do I want?"** = Rowing frantically in a storm (self-originated effort).
-- **"What is wanted?"** = Sailboat with no wind, waiting for the true Wind (receptive alignment).
+- **"What is wanted?"** = [Sailboat with no wind](/practices/sailboat-with-no-wind), waiting for the true Wind (receptive alignment).
 
 When you ask **"What is wanted?"**, you become the **sailboat**. The DMN (the sails and rudder) **waits** for the Wind (the Source's call). When the Wind comes, you **adjust the sails** (translate the call into action) and **sail effortlessly**.
 

@@ -114,7 +114,7 @@ This is the **"Sabbath."** This is the **"Kingdom."**
 
 #### 1. Listen to The Source
 
-Be the **"Sailboat with no wind."** Sit in the **"Void."** Wait for the **"heart's call"** (the Hand) to move.
+Be the **[Sailboat with no wind](/practices/sailboat-with-no-wind).** Sit in the **"Void."** Wait for the **"heart's call"** (the Hand) to move.
 
 **Practice**: Stillness. Silence. The **[Witness Meditation](/practices/witness-meditation)**. The question: *"What is wanted?"* (not *"What do I want?"*)
 
