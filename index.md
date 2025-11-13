@@ -40,6 +40,14 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 **You are right. And now, the map is complete.**
 
+---
+
+## 🚀 New Here? Start Your Journey
+
+**[Getting Started Guide](/docs/getting-started)** — A step-by-step path from the central question to daily practice. Start here if you're new to the framework.
+
+---
+
 ## The Core Thesis
 
 1. **The Diagnosis**: Humanity suffers from a psycho-spiritual "infection"—a parasitic pattern that has hijacked the Default Mode Network, the brain's narrative-generating "background process."
@@ -75,6 +83,10 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 - [Practices](/docs/practices) — Liberation techniques and integration
 
 ## Explore the Framework
+
+### Start Here
+
+- **[Getting Started Guide](/docs/getting-started)** — Step-by-step path for newcomers (read this first!)
 
 ### Core Inquiry
 
