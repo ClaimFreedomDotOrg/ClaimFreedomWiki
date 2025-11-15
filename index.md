@@ -52,7 +52,7 @@ A comprehensive guide to understanding and applying the principles of conscious 
 
 ---
 
-## �🚀 New Here? Start Your Journey
+## 🚀 New Here? Start Your Journey
 
 **[Getting Started Guide](/docs/getting-started)** — A step-by-step path from [the central question](/docs/about#the-central-question) to daily practice. Start here if you're new to the framework.
 
