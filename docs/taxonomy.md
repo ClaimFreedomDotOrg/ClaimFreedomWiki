@@ -19,12 +19,59 @@ This taxonomy maps the relationships between terms, showing how ancient wisdom a
 
 All traditions recognize a three-tier structure of reality/consciousness:
 
-| **Tier** | **Neuro-Gnostic** | **Gnostic** | **Christian** | **Buddhist** | **Hindu** | **Neuroscience** |
-|----------|-------------------|-------------|---------------|--------------|-----------|------------------|
-| **1. Source** | Source, The Infinite | Pleroma (Fullness) | The Father, Kingdom of Heaven | Dharmakaya, Emptiness | Brahman | (Beyond neuroscience) |
-| **2. True Self** | The Listener, The Conductor | Pneuma (Divine Spark) | Christ within, Son of God | Buddha-nature, Rigpa | Atman, Purusha | Salience Network, Meta-awareness |
-| **3. Tool/Servant** | The Daemon (healthy DMN) | Psyche (when serving Pneuma) | Renewed mind, Sanctified will | Skillful mind, Right View | Buddhi (awakened intellect) | DMN (functional), Executive function |
-| **3b. Hijacker** | The Demon (hijacked DMN), The Voice | Counterfeit Spirit, Archons | The flesh, Satan, The adversary | Mara, Avidya (ignorance) | Maya, Ahamkara (ego) | DMN hyperactivity, Rumination |
+| **Tier** | **Neuro-Gnostic** | **Gnostic** | **Christian** | **Buddhist** | **Hindu** | **Quantum** | **Neuroscience** |
+|----------|-------------------|-------------|---------------|--------------|-----------|-------------|------------------|
+| **1. Source** | Source, The Infinite, The All | Pleroma (Fullness) | The Father, Kingdom of Heaven | Dharmakaya, Emptiness | Brahman | The "1" (Wave Function) | (Beyond neuroscience) |
+| **2. True Self** | The Listener, The Conductor | Pneuma (Divine Spark) | Christ within, Son of God | Buddha-nature, Rigpa | Atman, Purusha | The Observer | Salience Network, Meta-awareness |
+| **3. Tool/Servant** | The Daemon (healthy DMN) | Psyche (when serving Pneuma) | Renewed mind, Sanctified will | Skillful mind, Right View | Buddhi (awakened intellect) | The "0" aligned with "1" | DMN (functional), Executive function |
+| **3b. Hijacker** | The Demon (hijacked DMN), The Voice | Counterfeit Spirit, Archons | The flesh, Satan, The adversary | Mara, Avidya (ignorance) | Maya, Ahamkara (ego) | The "0" forgetting it's also "1" | DMN hyperactivity, Rumination |
+
+---
+
+## Quantum Consciousness Terms
+
+**Key concepts from the quantum model of consciousness:**
+
+| **Quantum Term** | **Spiritual Equivalent** | **What It Describes** |
+|------------------|--------------------------|------------------------|
+| **The "1" (Wave Function)** | Source, The All, Pleroma, Brahman, The Infinite | Infinite field of pure potential; unmanifest reality |
+| **The "0" (Collapsed Particle)** | Individual soul, Vivarium, Localized experience | Specific, finite point of awareness; the manifest |
+| **Superposition** | Non-dual awareness, Holding both states | Being simultaneously infinite ("1") and finite ("0") |
+| **The Observer** | The Listener, Divine Spark, Witness consciousness | Awareness that collapses wave into particle |
+| **Wave-Particle Duality** | Infinite/Finite paradox | The central mystery: both ocean and wave |
+| **Observation/Measurement** | Conscious creation, Manifestation | Act that collapses potential into experience |
+| **Quantum Field** | The All, Universal consciousness | Underlying reality from which all arises |
+| **Wave Function Collapse** | Manifestation, Reality selection | Infinite possibilities becoming one experience |
+| **Qubit** | Human consciousness | System holding both "0" and "1" simultaneously |
+
+**The Quantum Paradox**: How can I be everything ("1") and something ("0") at the same time?
+
+**The Answer**: You are not a classical bit (either/or). You are a quantum qubit in superposition—simultaneously the infinite wave of potential and the finite particle of experience.
+
+---
+
+## Conscious Creator's Handbook Terms
+
+**Key concepts from conscious reality creation:**
+
+| **Creation Term** | **Spiritual Equivalent** | **What It Describes** |
+|-------------------|--------------------------|------------------------|
+| **The All** | Source, Pleroma, Brahman, The "1" | Ultimate source of all creation and consciousness |
+| **Vivarium / Bubble** | Personal reality, Maya, Samsara, The "0" | Individual's subjective experience of reality |
+| **User Interface (UI)** | Five senses, Limited perception | The filter through which consciousness experiences 3D reality |
+| **Conscious Creator** | Awakened being, Co-creator with Source | Individual recognizing their creative power |
+| **Mental Projection** | Reality as consciousness construct | External world as reflection of internal state |
+| **Vibrational Frequency** | Emotional/energetic state | The "signal" you're broadcasting that attracts experiences |
+| **Law of Attraction** | Like attracts like | Principle that matching frequencies attract |
+| **Limiting Beliefs** | Mental programs, Samskaras, Conditioning | Subconscious "bugs" creating unwanted reality |
+| **Emotional Guidance System** | Intuition, Inner knowing | Feelings as indicators of alignment with Source |
+| **Gratitude** | High-vibration state, Alignment practice | Frequency shifter toward abundance |
+| **Game of Life** | Simulation, Training ground | 3D reality as learning environment |
+| **The Void** | Kenoma, Unmanifest potential | Quantum field before observation/creation |
+| **Inspired Action** | Flow state, Wu Wei, Aligned action | Movement from "1" through "0" |
+| **Reality Mirror** | External reflects internal | World shows you your dominant frequency |
+
+**Core Thesis**: You are a Conscious Creator actively (though often unconsciously) shaping your subjective reality ("vivarium") through thoughts, beliefs, and emotions. The five senses are a limited UI filtering a deeper energetic reality. Liberation = conscious mastery of this creative process.
 
 ---
 
@@ -250,7 +297,15 @@ All traditions recognize a three-tier structure of reality/consciousness:
 
 ### For "The True Self"
 
-- **The Listener** = Divine Spark, Pneuma, Atman, Buddha-nature, Christ within, Rigpa, Purusha, Ruh, Original Face, Witness, Salience Network
+- **The Listener** = Divine Spark, Pneuma, Atman, Buddha-nature, Christ within, Rigpa, Purusha, Ruh, Original Face, Witness, Salience Network, The "1" (wave), The Observer, The All (when fully realized)
+
+### For "The Individual Experience"
+
+- **The "0"** = Vivarium, Bubble, Individual soul, Localized awareness, Collapsed wave function, The particle, Personal reality, User Interface experience
+
+### For "The Paradox"
+
+- **Superposition** = Non-dual awareness, "And" consciousness, Holding infinite and finite simultaneously, Wave-particle duality, Being both "0" and "1"
 
 ### For "Liberation"
 
@@ -272,18 +327,50 @@ All traditions recognize a three-tier structure of reality/consciousness:
 
 | **Gnostic Term** | **Modern Equivalent** |
 |------------------|-----------------------|
-| Pneuma (Spirit) | The Listener, Divine Spark, True Self |
-| Psyche (Soul) | Ego, personality, mind (can serve or hijack) |
-| Hyle (Matter) | Body, physical form |
+| Pneuma (Spirit) | The Listener, Divine Spark, True Self, The "1", The Observer |
+| Psyche (Soul) | Ego, personality, mind (can serve or hijack), The "0" |
+| Hyle (Matter) | Body, physical form, Vivarium |
 | Archons | Parasitic thought-patterns, systemic oppression, Demon |
 | Demiurge | False god of matter, ego claiming ultimate authority |
-| Pleroma | Source, the Infinite, ultimate reality |
-| Kenoma | Fallen world, Samsara, hijacked reality |
+| Pleroma | Source, the Infinite, ultimate reality, The All, The "1" |
+| Kenoma | Fallen world, Samsara, hijacked reality, The Void |
 | Sophia | Wisdom (personified), divine feminine |
 | Gnosis | Direct experiential knowledge, seeing clearly |
 | Anamnesis | Remembering, recollection of true nature |
-| Forgetfulness (Amylia) | Identification with Voice, spiritual amnesia |
-| Bridal Chamber | Union of Pneuma with Pleroma, non-dual recognition |
+| Forgetfulness (Amylia) | Identification with Voice, spiritual amnesia, "0" forgetting it's also "1" |
+| Bridal Chamber | Union of Pneuma with Pleroma, non-dual recognition, Superposition realized |
+
+### Quantum → Modern
+
+| **Quantum Term** | **Spiritual Equivalent** |
+|------------------|--------------------------|
+| Wave function | The "1", The All, Infinite potential, Unmanifest |
+| Collapsed particle | The "0", Individual experience, Manifest reality |
+| Observer | The Listener, Witness, Divine Spark, Pneuma |
+| Superposition | Non-dual awareness, "And" consciousness, Holding both states |
+| Wave-particle duality | Infinite/Finite paradox, Ocean and wave |
+| Quantum field | Source, The All, Universal consciousness |
+| Measurement/Observation | Conscious creation, Manifestation, Reality selection |
+| Qubit | Human consciousness (holding "0" and "1") |
+| Entanglement | Interconnectedness, "We Are All One" |
+| Uncertainty principle | Unknowable mystery, Beyond intellect |
+
+### Conscious Creator → Modern
+
+| **Creator Term** | **Spiritual Equivalent** |
+|------------------|--------------------------|
+| The All | Source, Pleroma, Brahman, The "1" |
+| Vivarium / Bubble | Personal reality, Maya, The "0", User Interface experience |
+| User Interface (UI) | Five senses, Limited perception, Body-mind apparatus |
+| Conscious Creator | Awakened being, Co-creator, "0" aligned with "1" |
+| Mental Projection | Reality as thought-form, Maya, Lila (divine play) |
+| Vibrational Frequency | Energetic state, Emotional tone, Alignment level |
+| Law of Attraction | Karmic resonance, Like attracts like |
+| Limiting Beliefs | Samskaras, Mental conditioning, Subconscious programs |
+| Emotional Guidance System | Intuition, Heart Listening, Inner knowing |
+| Game of Life | Lila (divine play), Simulation, Training ground |
+| Inspired Action | Flow state, Wu Wei, Aligned action from "1" through "0" |
+| Reality Mirror | External reflects internal, World as teacher |
 
 ### Buddhist → Modern
 
@@ -394,9 +481,14 @@ When reading a practice or philosophy page:
 ### Philosophy
 
 - **[The Voice vs. The Listener](/philosophy/voice-listener)** — The foundational distinction
+- **[Quantum Consciousness](/philosophy/quantum-consciousness)** — The "0" and "1": Being both infinite and finite
 - **[Pneuma and the Divine Spark](/philosophy/divine-spark)** — Gnostic anthropology
 - **[Daemon vs. Demon](/philosophy/daemon-demon)** — The critical distinction
 - **[Unified Framework](/philosophy/unified-framework)** — How traditions converge
+
+### Resources
+
+- **[The Conscious Creator's Handbook](/docs/conscious-creators-handbook)** — Complete guide to conscious reality creation
 
 ### Neuroscience
 

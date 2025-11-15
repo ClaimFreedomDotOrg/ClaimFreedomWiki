@@ -104,6 +104,78 @@ This page provides references for deeper exploration of the neurophilosophical f
 
 ---
 
+### Quantum Physics and Consciousness
+
+**Foundational Concepts**:
+
+- Rosenblum, Bruce, & Kuttner, Fred. *Quantum Enigma: Physics Encounters Consciousness*. (2011) — The observer effect and measurement problem
+- Stapp, Henry P. *Mind, Matter and Quantum Mechanics*. (2009) — Quantum theory's implications for consciousness
+- Goswami, Amit. *The Self-Aware Universe: How Consciousness Creates the Material World*. (1995) — Consciousness-first model
+
+**Wave-Particle Duality**:
+
+- Feynman, Richard P. *QED: The Strange Theory of Light and Matter*. (1985) — Accessible introduction to quantum mechanics
+- Greene, Brian. *The Elegant Universe*. (1999) — String theory and quantum reality
+
+**Observer Effect Research**:
+
+- Wheeler, John Archibald. ["Law Without Law"](https://philpapers.org/rec/WHELWL) — Participatory universe concept
+- Zeilinger, Anton. ["A Foundational Principle for Quantum Mechanics."](https://doi.org/10.1023/A:1018820410908) *Foundations of Physics*, 29(4), 631-643. (1999)
+
+**Consciousness and Reality Creation**:
+
+- Radin, Dean. *The Conscious Universe: The Scientific Truth of Psychic Phenomena*. (1997) — Experimental evidence for consciousness effects
+- McTaggart, Lynne. *The Field: The Quest for the Secret Force of the Universe*. (2002) — Zero-point field and consciousness
+
+**Accessible Overview**:
+
+- Arntz, William, et al. *What the Bleep Do We Know!?* (2004) — Film and book exploring quantum physics and consciousness
+- [Quantum Physics Made Simple](https://www.quantamagazine.org/) — Accessible science journalism
+
+**Related Framework Pages**:
+
+- [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite
+
+---
+
+### Conscious Reality Creation
+
+**Core Texts**:
+
+- **[The Conscious Creator's Handbook](/docs/conscious-creators-handbook)** by Jeshua B. Joseph — Complete framework synthesizing quantum physics, ancient wisdom, and practical manifestation techniques ([PDF Download](/assets/books/the-conscious-creators-handbook.pdf))
+
+**Reality as Mental Projection**:
+
+- Dispenza, Joe. *Breaking the Habit of Being Yourself*. (2012) — Neuroscience of changing reality through thought
+- Dispenza, Joe. *Becoming Supernatural*. (2017) — Advanced manifestation and consciousness techniques
+
+**Law of Attraction**:
+
+- Hicks, Esther & Jerry. *Ask and It Is Given*. (2004) — Abraham-Hicks teachings on vibrational alignment
+- Byrne, Rhonda. *The Secret*. (2006) — Popular introduction to law of attraction
+
+**Vibrational Frequency and Emotion**:
+
+- Hawkins, David R. *Power vs. Force*. (1995) — Map of consciousness and calibration of frequencies
+- Lipton, Bruce. *The Biology of Belief*. (2005) — How beliefs control biology
+
+**The Holographic Universe**:
+
+- Talbot, Michael. *The Holographic Universe*. (1991) — Reality as consciousness projection
+- Bohm, David. *Wholeness and the Implicate Order*. (1980) — Quantum holography and consciousness
+
+**Metaphysics and Reality**:
+
+- Goddard, Neville. *The Power of Awareness*. (1952) — Classic text on consciousness shaping reality
+- Murphy, Joseph. *The Power of Your Subconscious Mind*. (1963) — Subconscious programming and manifestation
+
+**The All / Source**:
+
+- *The Kybalion: Hermetic Philosophy*. (1908) — "The All is Mind; The Universe is Mental"
+- Watts, Alan. *The Book: On the Taboo Against Knowing Who You Are*. (1966) — You as the Universe experiencing itself
+
+---
+
 ### Contemplative Practice Traditions
 
 **Vipassana (Insight Meditation)**:
@@ -161,6 +233,24 @@ This page provides references for deeper exploration of the neurophilosophical f
 
 ---
 
+### ClaimFreedom Resources
+
+**Official Content**:
+
+- **[ClaimFreedom YouTube Channel](https://www.youtube.com/@JeshuaBenJosephYT)** — Regular videos on the DMN hijacking, dis-identification practices, Gnostic insights, and liberation
+- **[The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** — Free download of the complete book
+- **[Getting Started Guide](/docs/getting-started)** — Step-by-step path for newcomers
+- **[Taxonomy & Terminology](/docs/taxonomy)** — Cross-tradition translation guide
+
+**Core Framework Pages**:
+
+- [The Hijacking](/docs/the-hijacking) — Part I: The diagnosis
+- [Ancient Warnings](/docs/ancient-warnings) — Part II: Gnostic, Indigenous, and Eastern wisdom
+- [The Loop & The Gnosis](/docs/the-loop) — Part III: Samsara and the path to liberation
+- [The Archon in the Machine](/docs/the-archon-in-the-machine) — Comprehensive scholarly analysis
+
+---
+
 ### Online Communities and Sanghas
 
 - [r/Meditation](https://www.reddit.com/r/Meditation/) — Reddit community for meditation practitioners
@@ -176,9 +266,13 @@ If you have resources that deepen understanding of:
 - Gnostic texts and interpretations
 - Neuroscience of the DMN and meditation
 - Indigenous wisdom traditions (Wetiko and related concepts)
+- Quantum physics and consciousness
+- Conscious reality creation and manifestation
 - Contemplative practices for dis-identification
 
 Please open a pull request or issue on the [GitHub repository](https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki).
+
+See [Contributing Guidelines](/docs/contributing) for details on how to propose additions.
 
 ---
 

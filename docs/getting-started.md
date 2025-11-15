@@ -60,6 +60,14 @@ The **Invocation: Anti-Corruption Axiom** is the catalytic entry point—a dis-i
 
 This glimpse is **anamnesis**—the Gnostic "remembering" of who you truly are.
 
+### Optional: The Complete Framework Guide
+
+If you want a **comprehensive resource** that covers both the diagnosis (hijacked DMN) and the practical application (conscious reality creation), download or read:
+
+📖 **[The Conscious Creator's Handbook](/docs/conscious-creators-handbook)** — A complete guide synthesizing quantum physics, ancient wisdom, and practical techniques for awakening to your creative power. Available as a [free PDF download](/assets/books/the-conscious-creators-handbook.pdf).
+
+This book complements the Neuro-Gnostic framework with detailed exploration of manifestation, the "vivarium" concept, and how to consciously shape your reality once you've reclaimed your kingdom from the hijacked DMN.
+
 ---
 
 ## Step 3: Understand the Diagnosis (15-20 minutes)
@@ -215,10 +223,12 @@ After establishing a basic practice, you can explore the framework more deeply. 
 
 If you're drawn to **conceptual understanding** and **ancient wisdom**:
 
-1. [The Unified Framework](/philosophy/unified-framework) — How Gnosticism, Wetiko, and Samsara converge
-2. [The Counterfeit Self](/philosophy/counterfeit-self) — Understanding the impostor
-3. [The Sacred Surrender](/philosophy/sacred-surrender) — The Trinity as conduction system
-4. [Anamnesis: Remembering](/philosophy/anamnesis) — Gnostic recollection
+1. [The Conscious Creator's Handbook](/docs/conscious-creators-handbook) — Complete guide to conscious reality creation ([PDF](/assets/books/the-conscious-creators-handbook.pdf))
+2. [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite simultaneously
+3. [The Unified Framework](/philosophy/unified-framework) — How Gnosticism, Wetiko, and Samsara converge
+4. [The Counterfeit Self](/philosophy/counterfeit-self) — Understanding the impostor
+5. [The Sacred Surrender](/philosophy/sacred-surrender) — The Trinity as conduction system
+6. [Anamnesis: Remembering](/philosophy/anamnesis) — Gnostic recollection
 
 **Full collection**: [Philosophy Index](/docs/philosophy)
 

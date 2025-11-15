@@ -48,6 +48,7 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [The Voice vs. The Listener](/philosophy/voice-listener) — The central distinction that liberates
 - [The Counterfeit Self](/philosophy/counterfeit-self) — The Ego as imposter wearing the mask of "I"
 - [The Divine Spark Enthroned](/philosophy/spark-enthroned) — Restoring true sovereignty
+- [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite simultaneously
 
 ## Metaphysical Structures
 
