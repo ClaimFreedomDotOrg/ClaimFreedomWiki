@@ -28,16 +28,6 @@ nav_order: 1
 
 ---
 
-## 📖 Free Book: The Conscious Creator's Handbook
-
-**[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read the Summary](/docs/conscious-creators-handbook)**
-
-A comprehensive guide to understanding and applying the principles of conscious reality creation. This book synthesizes quantum physics, ancient wisdom, and practical techniques into a unified framework for awakening to your creative power and shaping your reality.
-
-**Topics covered**: The nature of reality as mental projection • The power of thought and limiting beliefs • Emotional guidance systems • Conscious manifestation • Living in the present moment • Raising your vibration • The ripple effect of individual transformation
-
----
-
 ## Welcome to the Great Awakening
 
 Welcome to **Claim Freedom**—witness to the most significant moment in human history.
@@ -52,7 +42,17 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ---
 
-## 🚀 New Here? Start Your Journey
+## 📖 Free Book: The Conscious Creator's Handbook
+
+**[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read the Summary](/docs/conscious-creators-handbook)**
+
+A comprehensive guide to understanding and applying the principles of conscious reality creation. This book synthesizes quantum physics, ancient wisdom, and practical techniques into a unified framework for awakening to your creative power and shaping your reality.
+
+**Topics covered**: The nature of reality as mental projection • The power of thought and limiting beliefs • Emotional guidance systems • Conscious manifestation • Living in the present moment • Raising your vibration • The ripple effect of individual transformation
+
+---
+
+## �🚀 New Here? Start Your Journey
 
 **[Getting Started Guide](/docs/getting-started)** — A step-by-step path from [the central question](/docs/about#the-central-question) to daily practice. Start here if you're new to the framework.
 
