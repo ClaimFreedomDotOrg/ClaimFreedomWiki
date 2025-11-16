@@ -131,6 +131,29 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 - **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic Archons, the counterfeit spirit, and the Daemon vs. Demon distinction
 - **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Samsara, ancestral trauma, and the practice of taming the dragon
 
+### Phase 2: Commanding the Daemon for Conscious Creation
+
+Once you have tamed the Demon (dis-identification), the next step is **commanding the Daemon**—transforming the DMN from a hijacked tyrant into a sanctified servant that executes your conscious will.
+
+**[Commanding the Daemon: Overview](/docs/commanding-daemon)** — The complete Phase 2 framework
+
+**Core Concepts**:
+
+- **[The Sacred Order](/philosophy/sacred-order)** — The hierarchy of creation: Source → Listener → Daemon
+- **[Flow State Conduction](/neuroscience/flow-state-conduction)** — The neurological circuit of conscious creation
+- **[Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, and emotional resonance as the toolkit
+- **[Command vs. Wish vs. Rumination](/philosophy/command-wish-rumination)** — The art of discernment
+
+**Core Practice**:
+
+- **[Command Training](/practices/command-training)** — Translating Source calls into Well-Formed Commands
+
+**Biblical Encoding**:
+
+- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed in Christ's teaching
+
+> *"The Source decrees. The Listener translates. The Daemon writes. This is the Sacred Order."*
+
 ## Deep Dives by Category
 
 Explore the framework through five primary lenses (also available in the main navigation):

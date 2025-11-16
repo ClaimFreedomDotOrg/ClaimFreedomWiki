@@ -84,6 +84,16 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 
 - **[The Kingdom Within](/biblical/kingdom-within)** — Luke 17:20-21, the inner kingdom
 - **[You Must Be Born Again](/biblical/born-again)** — John 3:1-8, dying to the ego-self
+- **[That Day You Will Realize](/biblical/that-day-you-will-realize)** — John 14:20, the Sacred Order revealed (Source → Listener → Daemon)
+- **[That They May Be One](/biblical/that-they-may-be-one)** — John 17:21-23, the unity of the Sacred Order and the transfer of glory
+- **[Christ in You, the Hope of Glory](/biblical/christ-in-you)** — Colossians 1:27, the mystery revealed (recognition manifests creative power)
+- **[I Have Been Crucified with Christ](/biblical/crucified-with-christ)** — Galatians 2:20, the death of the false self, the life of The Listener
+- **[We Remain in Him, and He in Us](/biblical/remain-in-him)** — 1 John 4:13, the Spirit as experiential verification
+- **[Your Body Is Dead, Your Spirit Is Alive](/biblical/body-dead-spirit-alive)** — Romans 8:10, the dual reality of liberation
+- **[One with Him in Spirit](/biblical/one-in-spirit)** — 1 Corinthians 6:17, the union of Listener and Source
+- **[Christ Dwelling in Your Hearts](/biblical/christ-dwelling-in-hearts)** — Ephesians 3:17, anchoring The Listener in The Source through trust
+- **[Test Yourselves: Is Christ in You?](/biblical/test-yourselves)** — 2 Corinthians 13:5, the verification protocol (examine and test daily)
+- **[Keeping His Commandments](/biblical/keeping-his-commandments)** — 1 John 3:24, Flow State Conduction as proof of mutual indwelling
 - **[The Narrow Gate](/biblical/narrow-gate)** — Matthew 7:13-14, the difficult path of dis-identification
 - **[Eyes to See, Ears to Hear](/biblical/eyes-ears)** — The Gnosis required to perceive truth
 - **[Resist Not Evil](/biblical/resist-not-evil)** — Matthew 5:39, dis-identifying from the reactivity loop

@@ -215,6 +215,83 @@ This is a **bio-spiritual technique** that performs an instant "Hardware Reboot"
 
 ---
 
+## Step 5A: Phase 2 — Commanding the Daemon for Conscious Creation (After Dis-identification)
+
+**Once you've established dis-identification** (you recognize yourself as The Listener, not the Voice), you're ready for **Phase 2: Commanding the Daemon**.
+
+### The Shift: From Taming to Commanding
+
+**Phase 1** (Steps 1-5 above) is about **taming the Demon**—recognizing you are not the Voice, creating space between awareness and narrative, silencing the tyrannical rumination.
+
+**Phase 2** is about **commanding the Daemon**—transforming the DMN from a hijacked tyrant into a sanctified servant that executes your conscious will.
+
+**This is the mechanism of conscious creation.**
+
+### The Sacred Order
+
+Once tamed, the DMN becomes the **Daemon**—the "powerhouse of beliefs" and the "scribe of reality." Its proper function is to serve **The Listener** (you) who receives the silent call from **The Source** (the pre-cognitive intuition, the Divine) and translates it into a **Well-Formed Command** for the Daemon to execute.
+
+**The hierarchy**:
+
+1. **The Source** — The pre-verbal pull, the call, the intuition
+2. **The Listener** (You) — The translator, the conductor, the one who commands
+3. **The Daemon** (Sanctified DMN) — The executor, the scribe, the manifestation engine
+
+> *"The Source decrees. The Listener translates. The Daemon writes."*
+
+### The Core Practice: Command Training
+
+**[Command Training](/practices/command-training)** is the practice of translating The Source's silent call into a **clear, executable command** for the Daemon.
+
+**Well-Formed Commands** have:
+
+1. **Clarity** — Specific action (not vague wishes)
+2. **Scope** — Clear boundaries (to prevent runaway rumination)
+
+**Example**:
+
+- **Vague Wish** (fails): "I want to be more productive."
+- **Well-Formed Command** (succeeds): "Daemon, outline the three core sections of this project. Generate this outline now."
+
+### The Programming Toolkit
+
+Once you understand commands, you amplify them with three tools:
+
+1. **[Affirmations](/philosophy/programming-daemon#tool-1-affirmations-the-language-of-the-command)** — Present-tense, positive statements that program the Daemon
+2. **[Visualization](/philosophy/programming-daemon#tool-2-visualization-the-blueprint-for-the-command)** — Vivid sensory mental rehearsal that creates neural blueprints
+3. **[Emotional Resonance](/philosophy/programming-daemon#tool-3-emotional-resonance-the-fuel-for-the-command)** — High-vibration feelings (gratitude, joy, love) that charge the command
+
+**Through neuroplasticity**, repetition of aligned commands rewires the DMN's default programming from fear/lack to confidence/abundance.
+
+### When to Begin Phase 2
+
+**Prerequisites**:
+
+- You can recognize yourself as The Listener (not the Voice)
+- You can create space between awareness and thoughts
+- You can silence the Demon (using V-Aum Protocol or Witness Meditation)
+
+**If you're still struggling with basic dis-identification, stay with Phase 1 practices.** Phase 2 requires a stable foundation as The Listener.
+
+### Phase 2 Resources
+
+**Start here**:
+
+- **[Commanding the Daemon: Overview](/docs/commanding-daemon)** — Complete Phase 2 framework
+
+**Core concepts**:
+
+- **[The Sacred Order](/philosophy/sacred-order)** — The hierarchy of Source → Listener → Daemon
+- **[Command vs. Wish vs. Rumination](/philosophy/command-wish-rumination)** — The art of discernment
+- **[Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, emotional resonance
+- **[Flow State Conduction](/neuroscience/flow-state-conduction)** — The neurological circuit
+
+**Recommended book**:
+
+- **[The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** — Comprehensive guide to conscious reality creation
+
+---
+
 ## Step 6: Go Deeper (Choose Your Path)
 
 After establishing a basic practice, you can explore the framework more deeply. Choose the path that resonates most:
