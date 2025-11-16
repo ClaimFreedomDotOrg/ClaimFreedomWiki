@@ -94,6 +94,12 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 - **[Christ Dwelling in Your Hearts](/biblical/christ-dwelling-in-hearts)** — Ephesians 3:17, anchoring The Listener in The Source through trust
 - **[Test Yourselves: Is Christ in You?](/biblical/test-yourselves)** — 2 Corinthians 13:5, the verification protocol (examine and test daily)
 - **[Keeping His Commandments](/biblical/keeping-his-commandments)** — 1 John 3:24, Flow State Conduction as proof of mutual indwelling
+- **[The Vine and the Branches](/biblical/vine-and-branches)** — John 15:4-5, the Sacred Order as living metaphor (vine → branches → fruit)
+- **[Believe the Works Themselves](/biblical/believe-the-works)** — John 10:38, radical empiricism: test the evidence, not the claims
+- **[I Have Made Your Name Known](/biblical/name-made-known)** — John 17:26, the purpose of the teaching: transferring the flow
+- **[Walk as Jesus Walked](/biblical/walk-as-jesus-walked)** — 1 John 2:5-6, the verification test: does your life show the flow?
+- **[Controlled by the Spirit, Not the Flesh](/biblical/controlled-by-spirit)** — Romans 8:9, the diagnostic: who's in control?
+- **[The Fullness of Him Who Fills All in All](/biblical/fullness-fills-all)** — Ephesians 1:23, the cosmic Sacred Order: Source manifesting through all
 - **[The Narrow Gate](/biblical/narrow-gate)** — Matthew 7:13-14, the difficult path of dis-identification
 - **[Eyes to See, Ears to Hear](/biblical/eyes-ears)** — The Gnosis required to perceive truth
 - **[Resist Not Evil](/biblical/resist-not-evil)** — Matthew 5:39, dis-identifying from the reactivity loop
