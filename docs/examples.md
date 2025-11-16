@@ -45,6 +45,8 @@ Explore the analyses below to see the framework reflected in culture:
 - **[The Island](/examples/the-island)** — Engineered Kenoma, counterfeit ascension lottery, organ harvest as parasitic extraction, and liberation through sensory contradiction
 - **[Eternal Sunshine of the Spotless Mind](/examples/eternal-sunshine)** — Memory erasure as DMN editing, narrative identity exposed, and choosing conscious re-integration over amnesia
 - **[Arrival](/examples/arrival)** — Non-linear language rewiring temporal perception, circular time as Gnosis, and love chosen with foreknown grief
+- **[What The Bleep Do We Know!?](/examples/what-the-bleep)** — Critique of Tier 3 quantum mysticism: observer effect misapplication, Emoto pseudoscience, and distinguishing perennial truth from quantum flapdoodle
+- **[Stranger Than Fiction](/examples/stranger-than-fiction)** — Author-character duality, hearing the Voice externalized, and choosing to live authentically despite the narrated script
 
 ### Video Games
 

@@ -50,6 +50,15 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [The Divine Spark Enthroned](/philosophy/spark-enthroned) — Restoring true sovereignty
 - [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite simultaneously
 
+### Quantum Consciousness & Reality
+
+- [The Quantum Gaia Synthesis](/philosophy/quantum-gaia-synthesis) — **Master integration**: Awakening at all scales (quantum, neural, individual, collective, planetary)
+- [Orchestrated Objective Reduction (Orch OR)](/philosophy/orch-or-theory) — Tier 1: Penrose-Hameroff quantum consciousness hypothesis with scientific critique
+- [The Pauli-Jung Conjecture](/philosophy/pauli-jung-conjecture) — Tier 2: Dual-aspect monism, Unus Mundus, and the mind-matter bridge
+- [Simulation Hypothesis](/philosophy/simulation-hypothesis) — Bostrom's trilemma, Plato's Cave, and The Matrix as computational Kenoma
+- [Gaia Consciousness](/philosophy/gaia-consciousness) — The planetary awakening: ecospirituality, restoration mandate, and critical analysis
+- [The Perennial Philosophy](/philosophy/perennial-philosophy) — The universal "game" encoded across all traditions
+
 ## Metaphysical Structures
 
 ### The Loop

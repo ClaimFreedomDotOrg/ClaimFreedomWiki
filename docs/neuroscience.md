@@ -63,6 +63,10 @@ The body's "vessel" and the stress-disease connection.
 
 - [Natural Anthelmintic Options](/neuroscience/anthelmintic-options) — Foods, herbs, and compounds traditionally used as adjuncts (with safety disclaimers)
 
+## Quantum Consciousness Research
+
+- [Microtubules and Consciousness](/neuroscience/microtubules-consciousness) — Scientific analysis of the Orch OR hypothesis: evidence, decoherence problem, and current research status
+
 ## Key Research Studies
 
 Foundational papers and reviews:
