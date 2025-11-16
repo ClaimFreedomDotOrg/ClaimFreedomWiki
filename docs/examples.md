@@ -44,6 +44,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[The Lorax](/examples/the-lorax)** — How the Daemon becomes the Demon, Thneedville as artificial paradise, the Lorax as conscience, and planting the last seed
 - **[The Island](/examples/the-island)** — Engineered Kenoma, counterfeit ascension lottery, organ harvest as parasitic extraction, and liberation through sensory contradiction
 - **[Eternal Sunshine of the Spotless Mind](/examples/eternal-sunshine)** — Memory erasure as DMN editing, narrative identity exposed, and choosing conscious re-integration over amnesia
+- **[WALL-E](/examples/wall-e)** — The Daemon awakening through curiosity and love, the Axiom as automated comfort prison, and choosing to live instead of merely surviving
 - **[Arrival](/examples/arrival)** — Non-linear language rewiring temporal perception, circular time as Gnosis, and love chosen with foreknown grief
 - **[What The Bleep Do We Know!?](/examples/what-the-bleep)** — Critique of Tier 3 quantum mysticism: observer effect misapplication, Emoto pseudoscience, and distinguishing perennial truth from quantum flapdoodle
 - **[Stranger Than Fiction](/examples/stranger-than-fiction)** — Author-character duality, hearing the Voice externalized, and choosing to live authentically despite the narrated script
