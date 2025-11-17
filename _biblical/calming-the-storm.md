@@ -412,7 +412,7 @@ You are not commanding "your" anxiety. You are **dis-identifying from the hijack
 
 The anxiety is not you. The storm is not you.
 
-**The Listener has authority over the Daemon (body/breath/nervous system).** This is **sacred order**, not violence.
+**The Listener has authority over the Daemon (body/breath/nervous system).** This is **[the sacred order](/philosophy/sacred-order)**, not violence.
 
 ### *"What if the storm is trying to tell me something?"*
 

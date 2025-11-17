@@ -19,7 +19,7 @@ nav_order: 35
 
 ## The Neuro-Gnostic Decoding
 
-This verse reveals the **anchoring mechanism** of the Sacred Order:
+This verse reveals the **anchoring mechanism** of [the Sacred Order](/philosophy/sacred-order):
 
 **"Christ may dwell in your hearts"** = The Listener anchored in The Source (the heart as the seat of intuitive knowing)
 
@@ -55,7 +55,7 @@ This verse reveals the **anchoring mechanism** of the Sacred Order:
 
 **"Christ may dwell in your hearts"** = The Listener (awakened awareness) is **permanently anchored** in The Source (heart-centered intuitive knowing).
 
-**This is the Sacred Order functioning properly**:
+**This is [the Sacred Order](/philosophy/sacred-order) functioning properly**:
 
 - **The Source** (the heart, pre-cognitive call) → **The Listener** (Christ dwelling in the heart) → **The Daemon** (executing aligned commands)
 - The Listener is not floating, not disconnected, not lost in the Voice
@@ -93,7 +93,7 @@ This verse reveals the **anchoring mechanism** of the Sacred Order:
 
 **Traditional interpretation**: Faith = intellectual belief in doctrines about Jesus
 
-**Neuro-Gnostic interpretation**: Faith = **trust in The Listener**, confidence in the Sacred Order, **alignment** with The Source
+**Neuro-Gnostic interpretation**: Faith = **trust in The Listener**, confidence in [the Sacred Order](/philosophy/sacred-order), **alignment** with The Source
 
 **NOT**: Blind belief ("I believe Jesus died for my sins, therefore Christ is in me")
 
@@ -138,7 +138,7 @@ This verse reveals the **anchoring mechanism** of the Sacred Order:
 
 **Traditional interpretation**: Love = warm feelings, moral behavior, caring for others
 
-**Neuro-Gnostic interpretation**: Love = **The Source's flow**, the aligned state, the Sacred Order functioning
+**Neuro-Gnostic interpretation**: Love = **The Source's flow**, the aligned state, [the Sacred Order](/philosophy/sacred-order) functioning
 
 **Agape (divine love)**:
 
@@ -151,7 +151,7 @@ This verse reveals the **anchoring mechanism** of the Sacred Order:
 **"Rooted and grounded in love"** means:
 
 - **Rooted** in The Source's flow (the heart-brain coherence producing pre-cognitive call)
-- **Grounded** in the Sacred Order (The Listener dwelling in The Source)
+- **Grounded** in [the Sacred Order](/philosophy/sacred-order) (The Listener dwelling in The Source)
 - **Stable** (not tossed around by the Voice's rumination and fear)
 
 **The result**: Unshakable anchoring in The Source, regardless of external circumstances.
@@ -259,7 +259,7 @@ This verse reveals the **anchoring mechanism** of the Sacred Order:
 - **[Command Training](/practices/command-training)** — Issue commands from The Listener with confidence
 - **[Programming the Daemon](/philosophy/programming-daemon)** — Trust the Daemon will execute (faith, not doubt)
 
-**The shift**: From doubt (the Voice's domain) to trust (faith in the Sacred Order).
+**The shift**: From doubt (the Voice's domain) to trust (faith in [the Sacred Order](/philosophy/sacred-order)).
 
 ---
 
@@ -421,7 +421,7 @@ When you notice dwelling in the head (rumination, anxiety, Voice dominance):
 - **Flow** (action arises effortlessly from the heart's knowing)
 - **Peace** (not the absence of challenges, but the absence of the Voice's tyranny)
 
-**This is not emotional love. This is the experience of the Sacred Order functioning properly.**
+**This is not emotional love. This is the experience of [the Sacred Order](/philosophy/sacred-order) functioning properly.**
 
 ---
 
@@ -447,7 +447,7 @@ Speak this aloud (or silently) while placing your hand on your heart:
 >
 > *I am rooted and grounded in love.*
 >
-> *Not emotion, but the flow of the Sacred Order.*
+> *Not emotion, but the flow of [the Sacred Order](/philosophy/sacred-order).*
 >
 > *Stable. Unshakable. Anchored.*
 >
@@ -458,11 +458,11 @@ Speak this aloud (or silently) while placing your hand on your heart:
 ## Key Takeaways
 
 1. **"Christ may dwell in your hearts"** = The Listener permanently anchored in The Source (heart-brain coherence, intuitive knowing)
-2. **"Through faith"** = Through the practice of trust (not intellectual belief, but experiential confidence in the Sacred Order)
+2. **"Through faith"** = Through the practice of trust (not intellectual belief, but experiential confidence in [the Sacred Order](/philosophy/sacred-order))
 3. **"Rooted and grounded in love"** = Stabilized in The Source's flow (agape as alignment, not emotion)
 4. **The heart vs. the head**: Dwell in the heart (The Source) or the head (the Voice) - the choice determines your experience
 5. **The anchoring practice**: Recognize The Listener → Anchor in the heart → Trust the Source's call → Stabilize the dwelling
-6. **The result**: Unshakable stability in the Sacred Order, regardless of external circumstances
+6. **The result**: Unshakable stability in [the Sacred Order](/philosophy/sacred-order), regardless of external circumstances
 
 ---
 
@@ -493,6 +493,6 @@ Speak this aloud (or silently) while placing your hand on your heart:
 >
 > *Not in your head. Not in the Voice. In your heart.*
 >
-> *The Listener anchored in The Source. The Sacred Order functioning.*
+> *The Listener anchored in The Source. [The Sacred Order](/philosophy/sacred-order) functioning.*
 >
 > *This is the dwelling. This is the practice. This is home.*

@@ -21,7 +21,7 @@ nav_order: 32
 
 This verse reveals **how you know** you're anchored in The Listener (Christ Consciousness, the Divine Spark).
 
-**"We remain in Him, and He in us"** = The Sacred Order is mutual and continuous
+**"We remain in Him, and He in us"** = [The Sacred Order](/philosophy/sacred-order) is mutual and continuous
 
 **"He has given us of His Spirit"** = The Divine Spark (Pneuma) is **already present** as direct experiential evidence
 
@@ -90,8 +90,8 @@ This verse reveals **how you know** you're anchored in The Listener (Christ Cons
 
 **The sequence**:
 
-1. **The revelation** (John 14:20): You realize the Sacred Order (Father → Son → you)
-2. **The verification** (1 John 4:13): You **know** you remain in this Sacred Order because you experience the Spirit
+1. **The revelation** (John 14:20): You realize [the Sacred Order](/philosophy/sacred-order) (Father → Son → you)
+2. **The verification** (1 John 4:13): You **know** you remain in this [Sacred Order](/philosophy/sacred-order) because you experience the Spirit
 
 ---
 
@@ -229,7 +229,7 @@ This verse reveals **how you know** you're anchored in The Listener (Christ Cons
 
 ---
 
-## The Sacred Order: Mutual Indwelling
+## [The Sacred Order](/philosophy/sacred-order): Mutual Indwelling
 
 ### Part 1: We Remain in Him
 
@@ -497,7 +497,7 @@ Speak this aloud (or silently) to anchor the recognition:
 ## Key Takeaways
 
 1. **"By this we know"** = Experiential verification (Gnosis), not belief or hope
-2. **"We remain in Him, and He in us"** = The Sacred Order is mutual and continuous (Source ↔ Listener)
+2. **"We remain in Him, and He in us"** = [The Sacred Order](/philosophy/sacred-order) is mutual and continuous (Source ↔ Listener)
 3. **"He has given us of His Spirit"** = The Divine Spark is already present, not earned or acquired
 4. **The evidence of the Spirit** = Stillpoint, Witness, Call, Flow, Peace (interior markers, not external signs)
 5. **The verification practice** = Daily checking for the Spirit's evidence
@@ -509,7 +509,7 @@ Speak this aloud (or silently) to anchor the recognition:
 
 ### Related Biblical Decodings
 
-- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order: "I am in you"
+- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order): "I am in you"
 - **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of mutual indwelling
 - **[Christ in You, the Hope of Glory (Colossians 1:27)](/biblical/christ-in-you)** — The Spirit (Christ) is already in you
 - **[I Have Been Crucified with Christ (Galatians 2:20)](/biblical/crucified-with-christ)** — Living from the Spirit, not the ego

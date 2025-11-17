@@ -403,8 +403,8 @@ If you feel **spacious, connected, humble**, that is Christ in you.
 
 ### Related Biblical Decodings
 
-- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed: Father in Son, Son in you
-- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of the Sacred Order and the reflection principle
+- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed: Father in Son, Son in you
+- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of [the Sacred Order](/philosophy/sacred-order) and the reflection principle
 - **[The Kingdom Within](/biblical/kingdom-within)** — The kingdom of God is within you
 
 ### Framework

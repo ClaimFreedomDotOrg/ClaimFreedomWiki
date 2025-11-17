@@ -23,7 +23,7 @@ This verse reveals that **Flow State Conduction** (keeping commandments) is the 
 
 **"Whoever keeps His commandments"** = Whoever executes the Source's call (Flow State Conduction: Source → Listener → Daemon → Action)
 
-**"Remains in God, and God in him"** = The Sacred Order is functioning (mutual indwelling is active)
+**"Remains in God, and God in him"** = [The Sacred Order](/philosophy/sacred-order) is functioning (mutual indwelling is active)
 
 **"By this we know... by the Spirit"** = The **evidence** is the Spirit functioning (aligned action flowing)
 
@@ -89,7 +89,7 @@ This verse reveals that **Flow State Conduction** (keeping commandments) is the 
 2. **Receive commandments** = The Listener receives the Source's call
 3. **Keep commandments** = The Daemon executes the call → Aligned action
 
-**"Love" is not emotion. "Love" is the flow state of the Sacred Order functioning.**
+**"Love" is not emotion. "Love" is the flow state of [the Sacred Order](/philosophy/sacred-order) functioning.**
 
 **"Commandments" are not external rules. "Commandments" are the Source's call arising within.**
 

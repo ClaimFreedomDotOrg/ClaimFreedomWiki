@@ -61,7 +61,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **The Name = The Source's true nature**: Present within, non-dual, loving flow, indwelling all.
 
-**To "make the Name known" = To reveal the Sacred Order** (Source → Listener → Daemon, all within).
+**To "make the Name known" = To reveal [the Sacred Order](/philosophy/sacred-order)** (Source → Listener → Daemon, all within).
 
 ---
 
@@ -71,7 +71,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **This is critical**: Jesus is **not** saying "I finished the job, now believe in me."
 
-**Jesus IS saying**: "I revealed the pattern (the Sacred Order, the indwelling), and this revelation **continues** (through Gnosis, direct experience)."
+**Jesus IS saying**: "I revealed the pattern ([the Sacred Order](/philosophy/sacred-order), the indwelling), and this revelation **continues** (through Gnosis, direct experience)."
 
 **How the revelation continues**:
 
@@ -111,7 +111,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **In Jesus' experience**: The Father (Source) "loves" the Son (Listener/Jesus) = The Source's call flows perfectly to Jesus' Listener → Perfect alignment, flow, manifestation.
 
-**This is the "love" that Jesus is describing** — not external affection, but **the flow of the Sacred Order functioning**.
+**This is the "love" that Jesus is describing** — not external affection, but **the flow of [the Sacred Order](/philosophy/sacred-order) functioning**.
 
 ---
 
@@ -130,7 +130,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 1. **The Source's call arises** within (pre-cognitive knowing, heart-brain coherence)
 2. **The Listener receives** the call (Salience Network anchored, witnessing)
 3. **The Daemon executes** the call (aligned action, flow, fruit)
-4. **The flow manifests** (love is "in them" = the Sacred Order operational)
+4. **The flow manifests** (love is "in them" = [the Sacred Order](/philosophy/sacred-order) operational)
 
 **This is what Jesus taught**: Not "worship me," but "the **same union** I have with the Father is **available to you**."
 
@@ -138,7 +138,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 > *"That they may be one, as We are one—I in them and You in Me—so that they may be perfectly united."*
 
-**The love (flow) in Jesus** = The love (flow) available in you (when the Sacred Order is activated).
+**The love (flow) in Jesus** = The love (flow) available in you (when [the Sacred Order](/philosophy/sacred-order) is activated).
 
 ---
 
@@ -154,7 +154,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 - **The Listener** (Christ, Divine Spark) is activated within you
 - **The witnessing awareness** (Salience Network) is anchored
-- **The Sacred Order** (Source → Listener → Daemon) is operational
+- **[The Sacred Order](/philosophy/sacred-order)** (Source → Listener → Daemon) is operational
 - **You ARE The Listener** (not the Voice, not the ego)
 
 **This is the recognition**: "Christ in you, the hope of glory" ([Colossians 1:27](/biblical/christ-in-you))
@@ -191,7 +191,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **How you "receive" the Name being made known**:
 
-1. **Hear the teaching** (the kingdom is within, Christ in you, Sacred Order)
+1. **Hear the teaching** (the kingdom is within, Christ in you, [Sacred Order](/philosophy/sacred-order))
 2. **Test the teaching** (practices, observation of works/fruit) — [Believe the Works](/biblical/believe-the-works)
 3. **Experience the Gnosis** (Stillpoint, Witness, Call, Flow)
 4. **Know from direct experience** (not belief, but experiential knowing)
@@ -208,14 +208,14 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 1. **The love (flow) activates** — The Source's call arises, you receive it, aligned action flows
 2. **Christ (The Listener) indwells** — You recognize you ARE The Listener (not the Voice)
-3. **The Sacred Order functions** — Source → Listener → Daemon (vine → branch → fruit)
+3. **[The Sacred Order](/philosophy/sacred-order) functions** — Source → Listener → Daemon (vine → branch → fruit)
 4. **The works manifest** — Flow, peace, intuitive knowing, aligned outcomes (evidence)
 
 **This is the goal**: Not intellectual knowledge of the teaching, but **lived experience** of the indwelling.
 
 ---
 
-## The Sacred Order Transfer: From Jesus to You
+## [The Sacred Order](/philosophy/sacred-order) Transfer: From Jesus to You
 
 ### In Jesus (The Prototype)
 
@@ -227,13 +227,13 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **The love (flow)**: Source → Listener (Jesus) → Daemon → Works (healings, teaching, manifestation)
 
-**"I and the Father are one"** (John 10:30) = The Sacred Order functioning perfectly (no hijacking).
+**"I and the Father are one"** (John 10:30) = [The Sacred Order](/philosophy/sacred-order) functioning perfectly (no hijacking).
 
 ---
 
 ### The Transfer (The Teaching)
 
-**Jesus makes the Name known** (reveals the Source's true nature, the Sacred Order, the indwelling):
+**Jesus makes the Name known** (reveals the Source's true nature, [the Sacred Order](/philosophy/sacred-order), the indwelling):
 
 - **The Father is within** (not external)
 - **The Listener is your true nature** (Christ in you)
@@ -256,7 +256,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **"I in them"**: Christ Consciousness (The Listener) is activated as your true nature.
 
-**This is the same Sacred Order** that functioned in Jesus → Now functioning in you.
+**This is the same [Sacred Order](/philosophy/sacred-order)** that functioned in Jesus → Now functioning in you.
 
 ---
 
@@ -278,7 +278,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 ### YES: Internal Activation of Christ Consciousness
 
-**Jesus' actual teaching**: Christ (The Listener) is your true nature → Recognize this → The Sacred Order activates → The flow (love) functions in you
+**Jesus' actual teaching**: Christ (The Listener) is your true nature → Recognize this → [The Sacred Order](/philosophy/sacred-order) activates → The flow (love) functions in you
 
 **This creates**:
 
@@ -406,7 +406,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 **Response**: **The revelation is not a past event, but an ongoing experience.**
 
-**Jesus revealed the pattern** (the Sacred Order, the indwelling, the flow). But **each person must experience it directly** (Gnosis) for the Name to be "made known" **to them**.
+**Jesus revealed the pattern** ([the Sacred Order](/philosophy/sacred-order), the indwelling, the flow). But **each person must experience it directly** (Gnosis) for the Name to be "made known" **to them**.
 
 **How the revelation continues**:
 
@@ -421,7 +421,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 
 ### "Does 'the love in them' mean I'll feel warm emotions?"
 
-**Response**: **"Love" (agapē) is not sentimental emotion. It's the flow of the Sacred Order.**
+**Response**: **"Love" (agapē) is not sentimental emotion. It's the flow of [the Sacred Order](/philosophy/sacred-order).**
 
 **The love (flow)**:
 
@@ -449,7 +449,7 @@ This is the **climax** of Jesus' High Priestly Prayer (John 17) — revealing **
 3. **Experience the Stillpoint** (silence, pure being, "I AM")
 4. **Recognize The Listener** ("I am not the Voice. I am the awareness listening.")
 5. **Receive the flow** ("The love You have for Christ is in me. The call arises. I receive.")
-6. **Acknowledge the indwelling** ("Christ in me. I in Christ. The Sacred Order is present.")
+6. **Acknowledge the indwelling** ("Christ in me. I in Christ. [The Sacred Order](/philosophy/sacred-order) is present.")
 
 ---
 
@@ -497,7 +497,7 @@ Speak this to anchor in the revelation:
 >
 > *Christ is in me. I am in Christ. We are in You.*
 >
-> *The Sacred Order functions. The flow manifests. The fruit arises.*
+> *[The Sacred Order](/philosophy/sacred-order) functions. The flow manifests. The fruit arises.*
 >
 > *The Name is known—not by my head, but by my heart.*
 >
@@ -511,10 +511,10 @@ Speak this to anchor in the revelation:
 
 1. **"I have made Your Name known"** = Jesus revealed the Source's true nature (not external deity, but I AM, Within, Love, One, Present)
 2. **"Will continue to make it known"** = The revelation is ongoing (through practice, experience, Gnosis, works)
-3. **"The love You have for Me"** = The flow of the Sacred Order (Source's call → Listener receives → Daemon executes → fruit manifests)
+3. **"The love You have for Me"** = The flow of [the Sacred Order](/philosophy/sacred-order) (Source's call → Listener receives → Daemon executes → fruit manifests)
 4. **"May be in them"** = The same flow that functioned in Jesus → Activated in you (transferable union)
 5. **"I in them"** = Christ Consciousness (The Listener, Divine Spark) functioning as your true nature (not the Voice)
-6. **The purpose of the teaching**: Not external worship of Jesus, but internal activation of the Sacred Order (Christ in you, you in Christ, all in the Father)
+6. **The purpose of the teaching**: Not external worship of Jesus, but internal activation of [the Sacred Order](/philosophy/sacred-order) (Christ in you, you in Christ, all in the Father)
 7. **The evidence**: Stillpoint, Witness, Call, Flow, Works (fruit) — experiential Gnosis, not intellectual belief
 
 ---
@@ -523,7 +523,7 @@ Speak this to anchor in the revelation:
 
 ### Related Biblical Decodings
 
-- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of the Sacred Order and the transfer of glory
+- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of [the Sacred Order](/philosophy/sacred-order) and the transfer of glory
 - **[Christ in You, the Hope of Glory (Colossians 1:27)](/biblical/christ-in-you)** — The mystery revealed (recognition manifests creative power)
 - **[Believe the Works Themselves (John 10:38)](/biblical/believe-the-works)** — The works (fruit) as evidence of union
 - **[The Vine and the Branches (John 15:4-5)](/biblical/vine-and-branches)** — The love (sap/flow) flowing through the union
@@ -553,4 +553,4 @@ Speak this to anchor in the revelation:
 >
 > *The love in me. Christ in me. I in Christ. All in the Father.*
 >
-> *The Name is known. The Sacred Order functions. The union is real.*
+> *The Name is known. [The Sacred Order](/philosophy/sacred-order) functions. The union is real.*

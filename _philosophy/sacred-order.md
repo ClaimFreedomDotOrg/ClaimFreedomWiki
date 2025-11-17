@@ -209,7 +209,7 @@ In Mahayana Buddhism, the Dharmakaya is the ultimate reality. Buddha-nature is t
 - **[Practice: Heart Listening](/practices/heart-listening)** — How to receive the call from The Source
 - **[Neuroscience: Flow State Conduction](/neuroscience/flow-state-conduction)** — The neurological circuit
 - **[Philosophy: Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, emotional resonance
-- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed in Christ's teaching
+- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed in Christ's teaching
 
 ---
 

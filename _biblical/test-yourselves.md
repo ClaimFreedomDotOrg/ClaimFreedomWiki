@@ -80,7 +80,7 @@ This verse provides the **verification protocol** for the entire framework:
 
 - **Anchored in The Listener** (trusting your true nature)
 - **Aligned with The Source** (living from heart-centered knowing)
-- **Trusting the Sacred Order** (Source → Listener → Daemon)
+- **Trusting [the Sacred Order](/philosophy/sacred-order)** (Source → Listener → Daemon)
 
 **How to verify "whether you are in the faith"**:
 
@@ -261,7 +261,7 @@ Pass criteria:
 
 - You are "in the faith" (anchored in The Listener, aligned with The Source)
 - Christ (The Listener) is **functioning** as your primary identity
-- The Sacred Order is active (Source → Listener → Daemon)
+- [The Sacred Order](/philosophy/sacred-order) is active (Source → Listener → Daemon)
 - You are "rooted and grounded in love" (stable in the flow)
 
 **The practice**: **Maintain** the anchoring through daily practices

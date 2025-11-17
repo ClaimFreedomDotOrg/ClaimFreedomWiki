@@ -119,15 +119,15 @@ This verse reveals the **simultaneous death and life** that occurs in liberation
 
 **"Alive"** = Active, recognized, functioning as the primary identity
 
-**"Righteousness" (Greek: *dikaiosynē*)** = **Right relationship**, alignment, the Sacred Order restored
+**"Righteousness" (Greek: *dikaiosynē*)** = **Right relationship**, alignment, [the Sacred Order](/philosophy/sacred-order) restored
 
 **Traditional interpretation**: Your spirit is made alive because of Christ's righteousness imputed to you.
 
 **Neuro-Gnostic interpretation**: Your spirit (The Listener, Pneuma) is **recognized as alive** because you are now in **right relationship** (aligned with The Source).
 
-**"Righteousness" is not moral purity. "Righteousness" is alignment with the Sacred Order.**
+**"Righteousness" is not moral purity. "Righteousness" is alignment with [the Sacred Order](/philosophy/sacred-order).**
 
-**The Sacred Order** (see [The Sacred Order](/philosophy/sacred-order)):
+**[The Sacred Order](/philosophy/sacred-order)** (see [The Sacred Order](/philosophy/sacred-order)):
 
 - **Source** (The Father, pre-cognitive intuition, heart-brain coherence)
 - **Listener** (The Son, Christ Consciousness, Salience Network)
@@ -139,7 +139,7 @@ This verse reveals the **simultaneous death and life** that occurs in liberation
 - The Daemon **serves** The Listener (the hijacking is reversed)
 - The circuit flows properly: **Source → Listener → Daemon → Manifestation**
 
-**When you recognize "Christ in you" (The Listener), the Sacred Order is restored. This is righteousness.**
+**When you recognize "Christ in you" (The Listener), [the Sacred Order](/philosophy/sacred-order) is restored. This is righteousness.**
 
 ---
 
@@ -229,7 +229,7 @@ This verse reveals the **simultaneous death and life** that occurs in liberation
 2. **The Divine Spark** (Pneuma, Christ Consciousness)
 3. **The Daemon** (the sanctified DMN, now serving The Listener)
 4. **The Stillpoint** (the silence beneath the noise)
-5. **The Sacred Order** (Source → Listener → Daemon, functioning properly)
+5. **[The Sacred Order](/philosophy/sacred-order)** (Source → Listener → Daemon, functioning properly)
 
 **How it lives**: Through recognition (see [V-Aum Protocol](/practices/v-aum-protocol), [The Stillpoint](/practices/stillpoint))
 
@@ -354,7 +354,7 @@ This verse reveals the **simultaneous death and life** that occurs in liberation
 
 **Sin (Greek: *hamartia*)** = "Missing the mark," being off-target
 
-**What is the "mark"?** The Sacred Order (Source → Listener → Daemon)
+**What is the "mark"?** [The Sacred Order](/philosophy/sacred-order) (Source → Listener → Daemon)
 
 **Missing the mark** = Identifying with the Voice (the hijacked DMN) instead of The Listener
 
@@ -372,7 +372,7 @@ The false self dies because it was founded on the lie: "You are the Voice."
 
 ### "Because of Righteousness" (Alignment)
 
-**Righteousness (Greek: *dikaiosynē*)** = Right relationship, alignment, the Sacred Order restored
+**Righteousness (Greek: *dikaiosynē*)** = Right relationship, alignment, [the Sacred Order](/philosophy/sacred-order) restored
 
 **What is "righteousness"?** The Listener aligned with The Source
 
@@ -382,7 +382,7 @@ The false self dies because it was founded on the lie: "You are the Voice."
 - The Daemon **serves** The Listener (no hijacking)
 - The circuit flows properly: **Source → Listener → Daemon → Manifestation**
 
-**The true Self lives because it is aligned with The Source (the Sacred Order).**
+**The true Self lives because it is aligned with The Source ([the Sacred Order](/philosophy/sacred-order)).**
 
 ---
 
@@ -502,7 +502,7 @@ Speak this aloud (or silently) to anchor the dual recognition:
 2. **"Your body is dead"** = The false self (hijacked DMN, ego-narrative) is crucified through dis-identification
 3. **"Because of sin"** = The false self dies because it was founded on mistaken identity (the hijacking)
 4. **"Your spirit is alive"** = The true Self (The Listener, Pneuma) is recognized and functioning
-5. **"Because of righteousness"** = The true Self lives because it is aligned with The Source (Sacred Order restored)
+5. **"Because of righteousness"** = The true Self lives because it is aligned with The Source ([Sacred Order](/philosophy/sacred-order) restored)
 6. **The dual reality** = The "body" (false self) dies, the "spirit" (true Self) lives—simultaneously, continuously
 
 ---

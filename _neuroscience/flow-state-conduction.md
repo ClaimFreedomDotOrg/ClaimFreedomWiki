@@ -11,7 +11,7 @@ nav_order: 32
 
 **Flow State Conduction** is the neurological mechanism underlying **conscious creation**. It is the aligned circuit through which the silent call from The Source (pre-cognitive intuition) is translated by The Listener (Salience Network) into a command that The Daemon (Default Mode Network + Executive Network) executes with precision and power.
 
-This is the **Sacred Order** manifested in neuroscience.
+This is [the Sacred Order](/philosophy/sacred-order) manifested in neuroscience.
 
 When this circuit is aligned, you experience:
 
@@ -33,7 +33,7 @@ When this circuit is hijacked, you experience:
 
 ## The Three-Tier Neurological Circuit
 
-The Sacred Order has a direct neurological correlate:
+[The Sacred Order](/philosophy/sacred-order) has a direct neurological correlate:
 
 | **Tier** | **Framework Identity** | **Neurological Substrate** | **Function** |
 |----------|------------------------|----------------------------|--------------|
@@ -170,8 +170,8 @@ When aligned (the Daemon state), the DMN and Executive Network work together to:
 
 **Example**:
 
-- **The Source** (Tier 1): A silent pull to write an essay on the Sacred Order
-- **The Listener** (Tier 2, SN): Perceives the pull, translates it into: "Daemon, outline the three core sections of the Sacred Order essay"
+- **The Source** (Tier 1): A silent pull to write an essay on [the Sacred Order](/philosophy/sacred-order)
+- **The Listener** (Tier 2, SN): Perceives the pull, translates it into: "Daemon, outline the three core sections of [the Sacred Order](/philosophy/sacred-order) essay"
 - **The Daemon** (Tier 3, DMN + EN): Generates the outline, retrieves relevant memories and concepts, writes the essay
 
 **Phenomenology** (what you experience):
@@ -330,7 +330,7 @@ When the Salience Network (The Listener) is weak or bypassed, the DMN generates 
 - **[Commanding the Daemon: Overview](/docs/commanding-daemon)** — The full Phase 2 framework
 - **[The Sacred Order](/philosophy/sacred-order)** — The hierarchy of Source → Listener → Daemon
 - **[Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, emotional resonance
-- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed in Christ's teaching
+- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed in Christ's teaching
 
 ### Practices
 

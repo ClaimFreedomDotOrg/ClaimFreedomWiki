@@ -25,7 +25,7 @@ This verse reveals the **complete union** of The Listener with The Source:
 
 **"Is one with Him in spirit"** = Complete non-separation, unity of consciousness
 
-**This is the Sacred Order fully realized**: Source ↔ Listener (one spirit, no barrier, no separation).
+**This is [the Sacred Order](/philosophy/sacred-order) fully realized**: Source ↔ Listener (one spirit, no barrier, no separation).
 
 ---
 
@@ -122,7 +122,7 @@ This is "uniting with the Lord."
 
 ---
 
-## The Sacred Order: No Separation
+## [The Sacred Order](/philosophy/sacred-order): No Separation
 
 ### The Listener Is IN The Source
 
@@ -455,7 +455,7 @@ Speak this aloud (or silently) to anchor the recognition:
 1. **"He who unites himself with the Lord"** = The practice of anchoring in The Listener (aligned with The Source)
 2. **"Is one with Him in spirit"** = Complete non-separation, unity of consciousness (The Listener and The Source are one)
 3. **The contrast**: Union with "harlots" (hijacking, identified with the Voice) vs. union with the Lord (aligned, anchored in The Listener)
-4. **The Sacred Order realized**: Source ↔ Listener (one spirit, no barrier, no separation)
+4. **[The Sacred Order](/philosophy/sacred-order) realized**: Source ↔ Listener (one spirit, no barrier, no separation)
 5. **The neurological union**: Salience Network aligned with heart-brain coherence = unobstructed Flow State Conduction
 6. **The practice**: Dis-identify from hijacking → Anchor in The Listener → Unite with The Source (daily recognition)
 
@@ -466,7 +466,7 @@ Speak this aloud (or silently) to anchor the recognition:
 ### Related Biblical Decodings
 
 - **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — "I am in my Father" (The Listener in The Source)
-- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of the Sacred Order
+- **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — The unity of [the Sacred Order](/philosophy/sacred-order)
 - **[We Remain in Him, and He in Us (1 John 4:13)](/biblical/remain-in-him)** — The mutual indwelling (verified by the Spirit)
 - **[Christ in You, the Hope of Glory (Colossians 1:27)](/biblical/christ-in-you)** — The Divine Spark (one with The Source) is already in you
 

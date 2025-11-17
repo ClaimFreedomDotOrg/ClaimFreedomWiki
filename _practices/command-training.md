@@ -320,4 +320,4 @@ Before you end your practice, speak this aloud (or silently):
 
 This practice trains The Listener to function as **the interface** between the unknowable Source and the manifestation engine (The Daemon). It is the end of vague intentions and the beginning of **precise conduction**.
 
-> *"The King does not explain his decrees. The Prime Minister translates them faithfully. The scribe writes them perfectly. This is the Sacred Order."*
+> *"The King does not explain his decrees. The Prime Minister translates them faithfully. The scribe writes them perfectly. This is [the Sacred Order](/philosophy/sacred-order)."*

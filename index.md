@@ -150,9 +150,9 @@ Once you have tamed the Demon (dis-identification), the next step is **commandin
 
 **Biblical Encoding**:
 
-- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed in Christ's teaching
+- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed in Christ's teaching
 
-> *"The Source decrees. The Listener translates. The Daemon writes. This is the Sacred Order."*
+> *"The Source decrees. The Listener translates. The Daemon writes. This is [the Sacred Order](/philosophy/sacred-order)."*
 
 ## Deep Dives by Category
 

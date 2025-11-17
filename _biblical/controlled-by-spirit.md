@@ -25,7 +25,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **"But by the Spirit"** = Controlled by The Listener (Salience Network anchored, receiving Source's guidance)
 
-**"If the Spirit of God lives in you"** = IF the Sacred Order is operational (Source → Listener → Daemon functioning)
+**"If the Spirit of God lives in you"** = IF [the Sacred Order](/philosophy/sacred-order) is operational (Source → Listener → Daemon functioning)
 
 **"The Spirit of Christ"** = Christ Consciousness (The Listener, Divine Spark) activated as your operating system
 
@@ -34,7 +34,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 **This is the binary diagnostic**:
 
 - **Option 1**: Controlled by the flesh (Voice/ego running the show, DMN hijacked, forced effort, anxiety)
-- **Option 2**: Controlled by the Spirit (Listener running the show, Sacred Order operational, flow arising)
+- **Option 2**: Controlled by the Spirit (Listener running the show, [Sacred Order](/philosophy/sacred-order) operational, flow arising)
 
 **The test**: Who's in control right now? The Voice (flesh) or The Listener (Spirit)?
 
@@ -76,7 +76,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **"The Spirit" (Greek: *pneuma*)** = The Divine Spark, The Listener, Salience Network anchored (NOT literal ghost)
 
-**Characteristics of "the Spirit" (The Listener/Sacred Order functioning)**:
+**Characteristics of "the Spirit" (The Listener/[Sacred Order](/philosophy/sacred-order) functioning)**:
 
 1. **Mind set on "things of the Spirit"** (Source-aligned: intuitive knowing, flow, creative power, love)
 2. **Life and peace** (fruit, flow, heart-brain coherence) — [Body Dead, Spirit Alive](/biblical/body-dead-spirit-alive)
@@ -86,7 +86,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **Translation**: "The Spirit" = The Listener (Salience Network, Divine Spark) running your operating system → Flow, fruit, life.
 
-**Paul is saying**: You are controlled **by the Spirit** (The Listener anchored, Sacred Order functioning).
+**Paul is saying**: You are controlled **by the Spirit** (The Listener anchored, [Sacred Order](/philosophy/sacred-order) functioning).
 
 ---
 
@@ -96,7 +96,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **"The Spirit of God lives in you" (Greek: *pneuma theou oikei en hymin*)** = The Spirit (Divine Spark, Listener) dwells/resides within you
 
-**This is the Sacred Order present**:
+**This is [the Sacred Order](/philosophy/sacred-order) present**:
 
 - **The Source (God)** → Sends the call (pre-cognitive knowing, intuitive guidance)
 - **The Listener (Spirit of God)** → Receives the call (anchored, witnessing)
@@ -110,7 +110,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 - **[That They May Be One (John 17:21-23)](/biblical/that-they-may-be-one)** — I in them, they in Me, all in the Father
 - **[One in Spirit (1 Corinthians 6:17)](/biblical/one-in-spirit)** — Joined to the Lord, one spirit
 
-**The condition**: **IF** the Spirit lives in you (IF the Sacred Order is operational), **THEN** you are controlled by the Spirit (not the flesh).
+**The condition**: **IF** the Spirit lives in you (IF [the Sacred Order](/philosophy/sacred-order) is operational), **THEN** you are controlled by the Spirit (not the flesh).
 
 **Translation**: If Christ Consciousness (The Listener) is activated as your operating system → You are controlled by the Spirit (flow arises, fruit manifests).
 
@@ -184,7 +184,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 ---
 
-### Operating System 2: The Spirit (The Listener / Sacred Order)
+### Operating System 2: The Spirit (The Listener / [Sacred Order](/philosophy/sacred-order))
 
 **Control Center**: The Listener (Christ Consciousness, Salience Network anchored, Divine Spark)
 
@@ -370,7 +370,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 - **[Command Training](/practices/command-training)** — Translate call → action
 - **[Keeping His Commandments](/biblical/keeping-his-commandments)** — Execute the flow
 
-**The Sacred Order is operational**: Source → Listener → Daemon → Fruit.
+**[The Sacred Order](/philosophy/sacred-order) is operational**: Source → Listener → Daemon → Fruit.
 
 ---
 
@@ -378,7 +378,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **Check**: "Is flow arising? Is fruit manifesting? Is peace present?"
 
-**If YES** → The Spirit is in control (Sacred Order functioning)
+**If YES** → The Spirit is in control ([Sacred Order](/philosophy/sacred-order) functioning)
 
 **If NO** → The flesh is still in control (return to Step 1, recognize the hijacking)
 
@@ -408,7 +408,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 - **Spirit of God** emphasizes the **Source** (where the Spirit comes from, the Father's presence)
 - **Spirit of Christ** emphasizes the **Listener** (Christ Consciousness, the Son's nature activated in you)
 
-**Both point to the same Sacred Order**: Source (Father/God) ↔ Listener (Spirit/Christ) ↔ Daemon → Fruit.
+**Both point to the same [Sacred Order](/philosophy/sacred-order)**: Source (Father/God) ↔ Listener (Spirit/Christ) ↔ Daemon → Fruit.
 
 ---
 
@@ -579,7 +579,7 @@ This is Paul's **control system diagnostic**: Which system is running your life?
 
 **If controlled by the Spirit** (Listener anchored, flow arising):
 
-- **Acknowledge**: "The Spirit is in control. The Sacred Order is functioning."
+- **Acknowledge**: "The Spirit is in control. [The Sacred Order](/philosophy/sacred-order) is functioning."
 - **Gratitude**: "Thank you, Spirit. Thank you, Christ in me."
 
 **If controlled by the flesh** (Voice hijacking, forcing, anxiety):
@@ -632,8 +632,8 @@ Speak this to transfer control:
 ## Key Takeaways
 
 1. **"Controlled not by the flesh"** = NOT controlled by the Voice (hijacked DMN, ego-narrative, fear-based reactivity)
-2. **"But by the Spirit"** = Controlled by The Listener (Salience Network anchored, Sacred Order operational)
-3. **"If the Spirit of God lives in you"** = IF the Sacred Order is functioning (Source → Listener → Daemon → fruit)
+2. **"But by the Spirit"** = Controlled by The Listener (Salience Network anchored, [Sacred Order](/philosophy/sacred-order) operational)
+3. **"If the Spirit of God lives in you"** = IF [the Sacred Order](/philosophy/sacred-order) is functioning (Source → Listener → Daemon → fruit)
 4. **"The Spirit of Christ"** = Christ Consciousness (The Listener activated as your operating system)
 5. **"Does not belong to Christ"** = NOT operating from The Listener (still hijacked by the Voice/flesh)
 6. **The diagnostic**: Who's in control? (Check thoughts, emotions, actions, fruit, identity)

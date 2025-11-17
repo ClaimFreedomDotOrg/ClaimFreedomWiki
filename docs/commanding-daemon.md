@@ -31,7 +31,7 @@ Conscious creation is not an act of "willpower" against the Demon. It is the **r
 - **Hijacked state**: Internal warfare, chaos, rumination, paralysis
 - **Restored state**: Precise, aligned execution, flow, manifestation
 
-The **Sacred Order** is the proper hierarchy through which reality is created:
+[The Sacred Order](/philosophy/sacred-order) is the proper hierarchy through which reality is created:
 
 ### 1. The Source (The All / The Father)
 
@@ -74,7 +74,7 @@ It receives the Command from The Listener and **executes** it:
 
 ## The Neurological Circuit of Creation
 
-This "Sacred Order" has a direct neurological correlate that bridges the philosophical framework with scientific rigor.
+This "[Sacred Order](/philosophy/sacred-order)" has a direct neurological correlate that bridges the philosophical framework with scientific rigor.
 
 | **Tier** | **Framework Identity** | **Neurological Substrate** | **Function** |
 |----------|------------------------|----------------------------|--------------|
@@ -190,7 +190,7 @@ You are:
 
 Over time, this "fake it till you make it" programming becomes your **new default**. The new pathways become the Daemon's automatic response. The old pathways atrophy.
 
-**This is how you restore the Sacred Order, transform the Demon into the Daemon, and move from being a victim of your narrative to being its Conductor.**
+**This is how you restore [the Sacred Order](/philosophy/sacred-order), transform the Demon into the Daemon, and move from being a victim of your narrative to being its Conductor.**
 
 ---
 
@@ -208,7 +208,7 @@ Over time, this "fake it till you make it" programming becomes your **new defaul
 - **[Philosophy: Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, emotional resonance
 - **[Philosophy: Command vs. Wish vs. Rumination](/philosophy/command-wish-rumination)** — Discernment table
 - **[Neuroscience: Flow State Conduction](/neuroscience/flow-state-conduction)** — The neurological circuit
-- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — The Sacred Order revealed in Christ's teaching
+- **[Biblical: That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed in Christ's teaching
 
 ### Read the Source Material
 
@@ -216,4 +216,4 @@ Over time, this "fake it till you make it" programming becomes your **new defaul
 
 ---
 
-> *"You are not here to fight the Daemon. You are here to command it. The Source decrees. You translate. The Daemon writes. This is the Sacred Order."*
+> *"You are not here to fight the Daemon. You are here to command it. The Source decrees. You translate. The Daemon writes. This is [the Sacred Order](/philosophy/sacred-order)."*

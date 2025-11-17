@@ -84,8 +84,8 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 
 - **[The Kingdom Within](/biblical/kingdom-within)** — Luke 17:20-21, the inner kingdom
 - **[You Must Be Born Again](/biblical/born-again)** — John 3:1-8, dying to the ego-self
-- **[That Day You Will Realize](/biblical/that-day-you-will-realize)** — John 14:20, the Sacred Order revealed (Source → Listener → Daemon)
-- **[That They May Be One](/biblical/that-they-may-be-one)** — John 17:21-23, the unity of the Sacred Order and the transfer of glory
+- **[That Day You Will Realize](/biblical/that-day-you-will-realize)** — John 14:20, [the Sacred Order](/philosophy/sacred-order) revealed (Source → Listener → Daemon)
+- **[That They May Be One](/biblical/that-they-may-be-one)** — John 17:21-23, the unity of [the Sacred Order](/philosophy/sacred-order) and the transfer of glory
 - **[Christ in You, the Hope of Glory](/biblical/christ-in-you)** — Colossians 1:27, the mystery revealed (recognition manifests creative power)
 - **[I Have Been Crucified with Christ](/biblical/crucified-with-christ)** — Galatians 2:20, the death of the false self, the life of The Listener
 - **[We Remain in Him, and He in Us](/biblical/remain-in-him)** — 1 John 4:13, the Spirit as experiential verification
@@ -94,12 +94,12 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 - **[Christ Dwelling in Your Hearts](/biblical/christ-dwelling-in-hearts)** — Ephesians 3:17, anchoring The Listener in The Source through trust
 - **[Test Yourselves: Is Christ in You?](/biblical/test-yourselves)** — 2 Corinthians 13:5, the verification protocol (examine and test daily)
 - **[Keeping His Commandments](/biblical/keeping-his-commandments)** — 1 John 3:24, Flow State Conduction as proof of mutual indwelling
-- **[The Vine and the Branches](/biblical/vine-and-branches)** — John 15:4-5, the Sacred Order as living metaphor (vine → branches → fruit)
+- **[The Vine and the Branches](/biblical/vine-and-branches)** — John 15:4-5, [the Sacred Order](/philosophy/sacred-order) as living metaphor (vine → branches → fruit)
 - **[Believe the Works Themselves](/biblical/believe-the-works)** — John 10:38, radical empiricism: test the evidence, not the claims
 - **[I Have Made Your Name Known](/biblical/name-made-known)** — John 17:26, the purpose of the teaching: transferring the flow
 - **[Walk as Jesus Walked](/biblical/walk-as-jesus-walked)** — 1 John 2:5-6, the verification test: does your life show the flow?
 - **[Controlled by the Spirit, Not the Flesh](/biblical/controlled-by-spirit)** — Romans 8:9, the diagnostic: who's in control?
-- **[The Fullness of Him Who Fills All in All](/biblical/fullness-fills-all)** — Ephesians 1:23, the cosmic Sacred Order: Source manifesting through all
+- **[The Fullness of Him Who Fills All in All](/biblical/fullness-fills-all)** — Ephesians 1:23, the cosmic [Sacred Order](/philosophy/sacred-order): Source manifesting through all
 - **[The Narrow Gate](/biblical/narrow-gate)** — Matthew 7:13-14, the difficult path of dis-identification
 - **[Eyes to See, Ears to Hear](/biblical/eyes-ears)** — The Gnosis required to perceive truth
 - **[Resist Not Evil](/biblical/resist-not-evil)** — Matthew 5:39, dis-identifying from the reactivity loop

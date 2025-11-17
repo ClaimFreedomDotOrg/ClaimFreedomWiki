@@ -5,7 +5,7 @@ nav_order: 28
 
 # "On That Day You Will Realize I Am in My Father, and You Are in Me, and I Am in You"
 
-**John 14:20 — The Sacred Order Revealed**
+**John 14:20 — [The Sacred Order](/philosophy/sacred-order) Revealed**
 
 ---
 
@@ -19,7 +19,7 @@ nav_order: 28
 
 ## The Neuro-Gnostic Decoding
 
-This verse is a **precise description** of the Sacred Order—the hierarchy of conscious creation—and the moment of **Gnosis** when the structure of reality becomes clear.
+This verse is a **precise description** of [the Sacred Order](/philosophy/sacred-order)—the hierarchy of conscious creation—and the moment of **Gnosis** when the structure of reality becomes clear.
 
 ### "On That Day"
 
@@ -29,13 +29,13 @@ This verse is a **precise description** of the Sacred Order—the hierarchy of c
 - **Buddhist term**: *Bodhi* (awakening)
 - **Neuro-Gnostic term**: Dis-identification, the Stillpoint
 
-**This is the day you realize the truth of the Sacred Order.**
+**This is the day you realize the truth of [the Sacred Order](/philosophy/sacred-order).**
 
 ---
 
 ## The Three-Tier Revelation
 
-The verse describes the **Sacred Order** in reverse (from top to bottom), revealing the flow of creation:
+The verse describes [the Sacred Order](/philosophy/sacred-order) in reverse (from top to bottom), revealing the flow of creation:
 
 ### Tier 1: "I Am in My Father"
 
@@ -85,9 +85,9 @@ The verse describes the **Sacred Order** in reverse (from top to bottom), reveal
 
 ---
 
-## The Complete Flow: The Sacred Order
+## The Complete Flow: [The Sacred Order](/philosophy/sacred-order)
 
-When you combine all three statements, you get the **Sacred Order**—the hierarchy of conscious creation:
+When you combine all three statements, you get [the Sacred Order](/philosophy/sacred-order)—the hierarchy of conscious creation:
 
 ### The Flow (Top to Bottom)
 
@@ -125,13 +125,13 @@ When you combine all three statements, you get the **Sacred Order**—the hierar
 4. **You are The Listener** ("You are in me")
 5. **The Listener commands The Daemon** ("I am in you")
 
-**This is the structure of reality. This is the Sacred Order. This is how creation works.**
+**This is the structure of reality. This is [the Sacred Order](/philosophy/sacred-order). This is how creation works.**
 
 ---
 
 ## The Trinity Decoded
 
-This verse is also a perfect expression of the **Christian Trinity** as the **Sacred Order**:
+This verse is also a perfect expression of the **Christian Trinity** as **[the Sacred Order](/philosophy/sacred-order)**:
 
 ### The Trinity as Hierarchy of Creation
 
@@ -205,7 +205,7 @@ This verse is also a perfect expression of the **Christian Trinity** as the **Sa
 
 **"On that day you will realize"** = The moment of Gnosis is available **now**
 
-### Practice: Realizing the Sacred Order
+### Practice: Realizing [the Sacred Order](/philosophy/sacred-order)
 
 #### Step 1: Enter the Stillpoint (3-5 minutes)
 
@@ -244,7 +244,7 @@ Use the **[V-Aum Protocol](/practices/v-aum-protocol)** or **[Witness Meditation
 
 **Realization**: **The Listener is here, now, as me.** I am the one who commands the Daemon to manifest aligned creation.
 
-#### Step 5: Rest in the Sacred Order (3-5 minutes)
+#### Step 5: Rest in [the Sacred Order](/philosophy/sacred-order) (3-5 minutes)
 
 - Feel the flow: **Source → Listener → Daemon**
 - The Source decrees (silent pull)
@@ -297,7 +297,7 @@ Speak this aloud (or silently) to anchor the realization:
 >
 > *The Source decrees. I translate. The Daemon writes.*
 >
-> *This is the Sacred Order. This is my true nature. This is Gnosis."*
+> *This is [the Sacred Order](/philosophy/sacred-order). This is my true nature. This is Gnosis."*
 
 ---
 
@@ -307,7 +307,7 @@ Speak this aloud (or silently) to anchor the realization:
 2. **"I am in my Father"** = The Listener receives from The Source
 3. **"You are in me"** = You ARE The Listener (Christ Consciousness, Buddha-nature, Atman)
 4. **"I am in you"** = The Listener commands The Daemon within you
-5. **This verse encodes the Sacred Order** — the hierarchy and circuit of conscious creation
+5. **This verse encodes [the Sacred Order](/philosophy/sacred-order)** — the hierarchy and circuit of conscious creation
 6. **This is not metaphor** — It has direct neurological correlates (Heart/Gut → SN → DMN/EN)
 7. **The realization is experiential** — Gnosis, not intellectual understanding
 
@@ -338,4 +338,4 @@ Speak this aloud (or silently) to anchor the realization:
 
 > *"On that day you will realize that I am in my Father, and you are in me, and I am in you."*
 >
-> *That day is today. The realization is now. You are The Listener. The Sacred Order is revealed.*
+> *That day is today. The realization is now. You are The Listener. [The Sacred Order](/philosophy/sacred-order) is revealed.*
