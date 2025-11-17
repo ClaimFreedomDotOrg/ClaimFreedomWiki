@@ -36,18 +36,21 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [Avidya: The Ignorance That Binds](/philosophy/avidya) — Mistaken identity as the root of suffering
 - [Nirvana and Moksha](/philosophy/liberation) — Cessation of the loop through right awareness
 
-## Core Conceptual Distinctions
+### Core Conceptual Distinctions
 
 ### The Daemon vs. Demon
 
 - [Etymology and Function](/philosophy/daemon-demon) — From neutral guide to tyrannical impostor
 - [The Hijacking Process](/philosophy/hijacking-process) — How the Daemon is corrupted into the Demon
+- [The End of Planning](/philosophy/end-of-planning) — Visualization and sacred surrender vs. anxiety-based control
 
 ### Identity and Awareness
 
 - [The Voice vs. The Listener](/philosophy/voice-listener) — The central distinction that liberates
 - [The Counterfeit Self](/philosophy/counterfeit-self) — The Ego as imposter wearing the mask of "I"
 - [The Divine Spark Enthroned](/philosophy/spark-enthroned) — Restoring true sovereignty
+- [The Goal of Gnosis: A Silent Mind](/philosophy/silent-mind) — Passive thought (the virus) vs. active thought (the tool)
+- [The Deception of Time and the Eternal Now](/philosophy/deception-of-time) — Time as the Demon's prison; the Now as the Listener's home
 - [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite simultaneously
 
 ### Quantum Consciousness & Reality
