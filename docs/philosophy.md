@@ -43,6 +43,8 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [Etymology and Function](/philosophy/daemon-demon) — From neutral guide to tyrannical impostor
 - [The Hijacking Process](/philosophy/hijacking-process) — How the Daemon is corrupted into the Demon
 - [The End of Planning](/philosophy/end-of-planning) — Visualization and sacred surrender vs. anxiety-based control
+- [Satan Is the Demon](/philosophy/satan-is-the-demon) — The archetypal diagnosis: the character in the infinite loop
+- [The Christ Authority](/philosophy/christ-authority) — Sovereignty over the Demon: Taming and Commanding the restored Daemon
 
 ### Identity and Awareness
 
