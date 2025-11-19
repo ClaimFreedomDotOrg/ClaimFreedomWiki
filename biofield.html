@@ -408,6 +408,8 @@
         let previousMousePosition = { x: 0, y: 0 };
         let touchStartDistance = 0;
         let touchStartCameraZ = 0;
+        let twoFingerStart = { x: 0, y: 0 };
+        let isPinching = false;
         
         function setupControls() {
             document.addEventListener('contextmenu', event => event.preventDefault());
@@ -455,6 +457,11 @@
                     const dy = e.touches[0].clientY - e.touches[1].clientY;
                     touchStartDistance = Math.sqrt(dx * dx + dy * dy);
                     touchStartCameraZ = camera.position.z;
+                    
+                    // Store center point for panning
+                    twoFingerStart.x = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+                    twoFingerStart.y = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+                    isPinching = false;
                 }
             }, { passive: false });
             
@@ -476,13 +483,36 @@
                     const dy = e.touches[0].clientY - e.touches[1].clientY;
                     const distance = Math.sqrt(dx * dx + dy * dy);
                     const delta = touchStartDistance - distance;
-                    camera.position.z = touchStartCameraZ + delta * 0.1;
+                    
+                    // Calculate center point
+                    const centerX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+                    const centerY = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+                    
+                    // Determine if this is a pinch (distance change) or pan (parallel movement)
+                    const distanceChange = Math.abs(delta);
+                    const centerDeltaX = centerX - twoFingerStart.x;
+                    const centerDeltaY = centerY - twoFingerStart.y;
+                    const panDistance = Math.sqrt(centerDeltaX * centerDeltaX + centerDeltaY * centerDeltaY);
+                    
+                    if (distanceChange > 5 || isPinching) {
+                        // Pinch to zoom
+                        isPinching = true;
+                        camera.position.z = touchStartCameraZ + delta * 0.1;
+                    } else if (panDistance > 3) {
+                        // Two-finger pan
+                        const panSpeed = 0.1;
+                        camera.translateX(-centerDeltaX * panSpeed);
+                        camera.translateY(centerDeltaY * panSpeed);
+                        twoFingerStart.x = centerX;
+                        twoFingerStart.y = centerY;
+                    }
                 }
             }, { passive: false });
             
             document.addEventListener('touchend', (e) => {
                 if (e.touches.length === 0) {
                     isDragging = false;
+                    isPinching = false;
                 }
             }, { passive: true });
         }
