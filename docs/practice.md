@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practice Guide
-nav_order: 10
+nav_order: 11
 ---
 
 ## Practice Guide: Taming the Dragon

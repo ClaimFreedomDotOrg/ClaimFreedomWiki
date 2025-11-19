@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Conscious Creator's Handbook
-nav_order: 3
+nav_order: 13
 ---
 
 # The Conscious Creator's Handbook

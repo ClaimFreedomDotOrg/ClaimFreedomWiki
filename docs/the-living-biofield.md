@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Living Bio-Field
-nav_order: 7
+nav_order: 12
 ---
 
 # The Living Bio-Field
@@ -21,6 +21,8 @@ This is the fundamental cosmology underlying the Neuro-Gnostic framework: **the 
 <div style="width: 100%; height: 600px; border: 2px solid #ffd700; margin: 2rem 0; border-radius: 4px; overflow: hidden;">
   <iframe src="/biofield.html" style="width: 100%; height: 100%; border: none;" title="Living Bio-Field Visualization"></iframe>
 </div>
+
+**[Open full-screen visualization](/biofield.html)** — View the bio-field in a dedicated window for better interaction
 
 **What you're witnessing:**
 
