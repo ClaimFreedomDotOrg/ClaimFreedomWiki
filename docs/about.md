@@ -82,6 +82,8 @@ This is not a rhetorical question. It is an **experiential investigation**.
 
 Read more: [The Voice vs. The Listener](/philosophy/voice-listener)
 
+**New to this framework?** Start with the [Getting Started Guide](/docs/getting-started) for a step-by-step path from the foundational question to daily practice.
+
 ---
 
 ### Scope and Purpose
