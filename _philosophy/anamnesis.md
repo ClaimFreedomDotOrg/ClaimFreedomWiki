@@ -369,7 +369,7 @@ Meditation studies show that sustained practice:
 
 This is the **neurological manifestation** of anamnesis: the brain literally re-wires to support Pneuma (Listener) as the primary identity, rather than psyche (Voice).
 
-[See the neuroscience research: DMN and Meditation](/neuroscience/dmn-meditation)
+[See the neuroscience research: DMN and Meditation](/neuroscience/meditation-dmn)
 
 ---
 
