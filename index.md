@@ -132,6 +132,12 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 - **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic Archons, the counterfeit spirit, and the Daemon vs. Demon distinction
 - **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Samsara, ancestral trauma, and the practice of taming the dragon
 
+### Major Framework Expansions
+
+Comprehensive syntheses integrating multiple streams of wisdom:
+
+- **[The Eschatology of the Eternal Now](/docs/eternal-now-synthesis)** — **NEW**: The complete temporal framework unifying Christian mysticism (*Nunc Stans*), realized eschatology, A Course in Miracles, neuroscience, and physics. **Central thesis**: You exist in eternity; time is an illusion created by narrative identity. Heaven is the awareness of the eternal now, available immediately.
+
 ### Phase 2: Commanding the Daemon for Conscious Creation
 
 Once you have tamed the Demon (dis-identification), the next step is **commanding the Daemon**—transforming the DMN from a hijacked tyrant into a sanctified servant that executes your conscious will.

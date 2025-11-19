@@ -56,6 +56,16 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 - [The Deception of Time and the Eternal Now](/philosophy/deception-of-time) — Time as the Demon's prison; the Now as the Listener's home
 - [Quantum Consciousness](/philosophy/quantum-consciousness) — The "0" and "1": Being both infinite and finite simultaneously
 
+### Time, Eschatology, and the Eternal Now
+
+The temporal dimension of the hijacking—how narrative identity creates the illusion of time.
+
+- [The Eternal Now](/philosophy/eternal-now) — *Nunc Stans* vs. *nunc fluens*: The standing now of eternity vs. the flowing now of temporal anxiety
+- [Realized Eschatology](/philosophy/realized-eschatology) — C.H. Dodd's "Kingdom Now" theology: The eschatological promises fully present, not future
+- [A Course in Miracles: The Tiny Mad Idea](/philosophy/acim-tiny-mad-idea) — "We never left Heaven": The ontological impossibility of separation
+- [Narrative Identity and the Illusion of Time](/philosophy/narrative-time-illusion) — How the DMN creates time through autobiographical memory and future simulation
+- [Hell as Infinite Loops](/philosophy/hell-as-loops) — The phenomenology of temporal imprisonment: Rumination, anxiety, and recursive trauma cycles
+
 ### Quantum Consciousness & Reality
 
 - [The Quantum Gaia Synthesis](/philosophy/quantum-gaia-synthesis) — **Master integration**: Awakening at all scales (quantum, neural, individual, collective, planetary)
@@ -89,6 +99,12 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 
 - [The Unified Framework](/philosophy/unified-framework) — How Gnosticism, Wetiko, and Samsara converge
 - [Ancient Warnings, Modern Mechanisms](/philosophy/ancient-modern) — Spiritual diagnosis meets neuroscience
+
+## Major Framework Expansions
+
+Comprehensive syntheses integrating multiple traditions:
+
+- [The Eschatology of the Eternal Now](/docs/eternal-now-synthesis) — **Complete temporal framework**: Atemporal ontology, realized eschatology, and the metaphysics of presence
 
 ---
 

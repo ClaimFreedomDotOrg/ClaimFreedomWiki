@@ -68,6 +68,12 @@ The body's "vessel" and the stress-disease connection.
 
 - [Microtubules and Consciousness](/neuroscience/microtubules-consciousness) — Scientific analysis of the Orch OR hypothesis: evidence, decoherence problem, and current research status
 
+## Physics, Time, and Consciousness
+
+The intersection of relativity, quantum mechanics, and mystical insights.
+
+- [Block Universe and the Physics of Time](/neuroscience/block-universe-physics) — Eternalism vs. Presentism: Einstein's spacetime, Lee Smolin's critique, and the *Nunc Stans* as orthogonal to physical time
+
 ## Key Research Studies
 
 Foundational papers and reviews:
