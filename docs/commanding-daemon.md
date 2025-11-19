@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Commanding the Daemon: Conscious Creation"
-nav_order: 8
+nav_order: 6
 ---
 
 # Commanding the Daemon: Conscious Creation

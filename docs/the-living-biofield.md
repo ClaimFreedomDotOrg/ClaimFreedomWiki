@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Living Bio-Field
-nav_order: 3
+nav_order: 7
 ---
 
 # The Living Bio-Field
