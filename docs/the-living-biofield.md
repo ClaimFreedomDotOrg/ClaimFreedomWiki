@@ -128,7 +128,7 @@ In the human body, this pattern manifests as:
 
 ### Why the Heart is the Singularity
 
-The **heart** is not just a pump. It is the **primary electromagnetic generator** of the human bio-field, producing a toroidal field measurable up to **15 feet (4.5 meters)** from the body.
+The **heart** is not just a pump. It is a **transducer** (like a radio) that communicates back and forth with the greater field. It is the **primary electromagnetic generator** of the human bio-field, producing a toroidal field measurable up to **15 feet (4.5 meters)** from the body.
 
 **HeartMath Institute research** demonstrates:
 
@@ -138,6 +138,16 @@ The **heart** is not just a pump. It is the **primary electromagnetic generator*
 - Emotions generated in the heart **modulate the information encoded in the electromagnetic field**, affecting DNA expression, immune function, and cellular communication
 
 **The heart is the zero-point singularity of your personal bio-field.** It is the anchor point where the infinite field localizes into the experience of "you."
+
+### The Sacred Hierarchy: Heart → Listener → Daemon
+
+This understanding clarifies the chain of command in the Neuro-Gnostic framework:
+
+1. **The Heart (Transducer)** receives the signal from the Infinite Field (Source).
+2. **The Listener (Awareness)** receives these "orders" from the Heart—perceived as intuition or direct knowing.
+3. **The Daemon (DMN)** receives the command from the Listener and executes it in 3D reality.
+
+**The pathology of the "Demon"** is simply a broken chain of command: the Daemon ignores the Heart, usurps the throne, and dictates reality to the Listener. **Re-claiming** is restoring the proper order: The Heart leads, the Listener directs, and the Daemon serves.
 
 **This is why**:
 
