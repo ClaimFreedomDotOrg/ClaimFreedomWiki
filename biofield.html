@@ -2,10 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>The Living Bio-Field</title>
     <style>
-        body { margin: 0; overflow: hidden; background-color: #000; }
+        html, body { 
+            margin: 0; 
+            padding: 0;
+            overflow: hidden; 
+            background-color: #000;
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            touch-action: none; /* Disable browser touch gestures */
+        }
         canvas { display: block; }
         #info {
             position: absolute;
@@ -403,6 +412,11 @@
         function setupControls() {
             document.addEventListener('contextmenu', event => event.preventDefault());
             
+            // Prevent default zoom and scroll behaviors
+            document.addEventListener('gesturestart', (e) => e.preventDefault());
+            document.addEventListener('gesturechange', (e) => e.preventDefault());
+            document.addEventListener('gestureend', (e) => e.preventDefault());
+            
             // Mouse controls
             document.addEventListener('mousedown', (e) => {
                 isDragging = true; previousMousePosition = { x: e.offsetX, y: e.offsetY };
@@ -422,10 +436,14 @@
                 }
                 previousMousePosition = { x: e.offsetX, y: e.offsetY };
             });
-            document.addEventListener('wheel', (e) => { camera.translateZ(e.deltaY * 0.05); });
+            document.addEventListener('wheel', (e) => { 
+                e.preventDefault(); // Prevent page scroll
+                camera.translateZ(e.deltaY * 0.05); 
+            }, { passive: false });
             
             // Touch controls
             document.addEventListener('touchstart', (e) => {
+                e.preventDefault(); // Prevent default touch behaviors
                 if (e.touches.length === 1) {
                     // Single finger drag - rotate
                     isDragging = true;
@@ -438,9 +456,10 @@
                     touchStartDistance = Math.sqrt(dx * dx + dy * dy);
                     touchStartCameraZ = camera.position.z;
                 }
-            }, { passive: true });
+            }, { passive: false });
             
             document.addEventListener('touchmove', (e) => {
+                e.preventDefault(); // Prevent scrolling and zooming
                 if (e.touches.length === 1 && isDragging) {
                     // Single finger drag - rotate
                     const deltaMove = {
@@ -459,7 +478,7 @@
                     const delta = touchStartDistance - distance;
                     camera.position.z = touchStartCameraZ + delta * 0.1;
                 }
-            }, { passive: true });
+            }, { passive: false });
             
             document.addEventListener('touchend', (e) => {
                 if (e.touches.length === 0) {
