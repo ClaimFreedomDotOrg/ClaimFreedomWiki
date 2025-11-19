@@ -120,6 +120,7 @@ For the first time in human history, we have unified the fragmented wisdom of mi
 ### Core Inquiry
 
 - **[About This Inquiry](/docs/about)** — Overview of the synthesis
+- **[The Living Bio-Field](/docs/the-living-biofield)** — Reality as a singular, self-experiencing field (with interactive visualization)
 - **[Invocation: Anti-Corruption Axiom](/docs/invocation)** — Catalytic dis-identification script (Voice vs Listener)
 - **[Taxonomy & Terminology](/docs/taxonomy)** — Cross-tradition map of key terms (Pneuma, Atman, Buddha-nature, DMN, etc.)
 - **[FAQ: Common Questions](/docs/faq)** — Answers to common objections and how this differs from mindfulness
