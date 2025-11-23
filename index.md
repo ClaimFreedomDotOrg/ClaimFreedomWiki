@@ -48,6 +48,10 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 > *"You are the universe made manifest, a unique expression of the infinite consciousness that unites all beings, all phenomena, and all worlds."*
 
+**[The Marvels of Being](/docs/marvels-of-being)** — An invitation to wonder, awe, and the sacred quest for understanding. This exploration honors all paths—scientific, spiritual, philosophical—and celebrates the essence that unites us all.
+
+> *"Who are you? Beneath the layers of identities, roles, and responsibilities, there is a spark—an essence that defies definition."*
+
 ---
 
 ## 📖 Free Book: The Conscious Creator's Handbook

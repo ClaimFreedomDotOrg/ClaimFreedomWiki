@@ -16,15 +16,19 @@ If you're new to this framework, **welcome**. This guide will help you navigate 
 
 ## Before You Begin: A Message from the Universe
 
-Before diving into the framework, pause and receive this message. You are not here by accident.
+Before diving into the framework, pause and receive these messages. You are not here by accident.
 
-**[💫 Manifesto from the Universe to the Seeker](/docs/manifesto)** — Read this letter from the cosmos to you, the awakening soul.
+**[💫 Manifesto from the Universe to the Seeker](/docs/manifesto)** — A letter from the cosmos to you, the awakening soul.
 
 > *"You are divine, beyond any measure of worth or worthlessness, for you are the song of creation itself. The dance of the cosmos pulsates within your being, orchestrating the rhythm of life through every cell of your body."*
 
-**This manifesto reminds you of what the framework will help you remember**: You are not broken. You are not damaged. You are the **Divine Spark** temporarily imprisoned in forgetfulness, and this work is your path home.
+**[✨ The Marvels of Being](/docs/marvels-of-being)** — An invitation to wonder, awe, and the sacred quest that unites all seekers.
 
-**Read the full manifesto now, then return here to begin the practical steps.**
+> *"Who are you? Beneath the layers of identities, roles, and responsibilities, there is a spark—an essence that defies definition."*
+
+**These messages remind you of what the framework will help you remember**: You are not broken. You are not damaged. You are the **Divine Spark** temporarily imprisoned in forgetfulness, and this work is your path home.
+
+**Read both pieces now, then return here to begin the practical steps.**
 
 ---
 
