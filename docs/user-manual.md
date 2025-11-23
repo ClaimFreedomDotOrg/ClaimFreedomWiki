@@ -49,6 +49,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[The Voice, False Identity, and Persona](/user-manual/ego-false-identity)** — Understanding the nature of the hijacked DMN (the "Ego"), how it creates illusory identity, and the path to recognizing your true nature as the Listener.
 
+**[Projection and the Mirror of Self](/user-manual/projection-mirror-self)** — Exploring how the Voice externalizes disowned aspects of ourselves onto others, and how understanding projection becomes a powerful tool for self-discovery and integration.
+
 *More topics coming soon...*
 
 ---
