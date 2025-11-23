@@ -57,6 +57,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Harmonizing Hemispheres: Hemi-Sync](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness.
 
+**[The Third Eye: Unveiling Inner Vision](/user-manual/third-eye-inner-vision)** — Exploring the pineal gland's role as the physical seat of inner perception, the presence of calcite microcrystals, and techniques for activating this gateway to direct knowing (Gnosis) while maintaining the crucial distinction between Voice-seeking-power and Listener-receiving-wisdom.
+
 **[Unlocking the Powers of ESP](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telekinesis, clairvoyance, precognition, and telepathy not as supernatural powers, but as natural capacities of the Divine Spark obscured by the Voice's filters. Understanding the ethical distinction between seeking ESP for power versus receiving Gnosis for service.
 
 *More topics coming soon...*
