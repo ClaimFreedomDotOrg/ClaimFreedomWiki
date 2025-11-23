@@ -54,13 +54,21 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ---
 
-## 📖 Free Book: The Conscious Creator's Handbook
+## Essential Guides
+
+### 📖 Free Book: The Conscious Creator's Handbook
 
 **[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read the Summary](/docs/conscious-creators-handbook)**
 
 A comprehensive guide to understanding and applying the principles of conscious reality creation. This book synthesizes quantum physics, ancient wisdom, and practical techniques into a unified framework for awakening to your creative power and shaping your reality.
 
 **Topics covered**: The nature of reality as mental projection • The power of thought and limiting beliefs • Emotional guidance systems • Conscious manifestation • Living in the present moment • Raising your vibration • The ripple effect of individual transformation
+
+### 📘 The User Manual: Unlocking the Power of Your Mind and Body
+
+**[Explore The User Manual](/docs/user-manual)**
+
+Practical, accessible wisdom for understanding and operating the magnificent instrument that is your mind and body. This collection bridges ancient spiritual insights and modern neuroscience, translating the Neuro-Gnostic framework into clear, actionable guidance.
 
 ---
 
