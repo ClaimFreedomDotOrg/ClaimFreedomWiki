@@ -63,6 +63,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Unlocking the Powers of ESP](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telekinesis, clairvoyance, precognition, and telepathy not as supernatural powers, but as natural capacities of the Divine Spark obscured by the Voice's filters. Understanding the ethical distinction between seeking ESP for power versus receiving Gnosis for service.
 
+**[The Sacred Mantra: OM MANI PADME HUM](/user-manual/om-mani-padme-hum)** — Unlocking the transformative power of this ancient Buddhist mantra through sound, vibration, and compassion. Exploring how vocalization quiets the DMN (Voice), synchronizes brain hemispheres, activates the vagus nerve, and programs compassionate intention into the bio-field—revealing the jewel (Divine Spark) within the lotus (human form).
+
 *More topics coming soon...*
 
 ---
