@@ -79,6 +79,13 @@ defaults:
       layout: default
       parent: "Biblical Decodings"
       nav_exclude: false
+  - scope:
+      path: "_user-manual"
+      type: "user-manual"
+    values:
+      layout: default
+      parent: "User Manual"
+      nav_exclude: false
 
 # Plugins supported by GitHub Pages
 plugins:
@@ -104,6 +111,9 @@ collections:
   biblical:
     output: true
     permalink: /biblical/:path/
+  user-manual:
+    output: true
+    permalink: /user-manual/:path/
 
 # Exclusions
 exclude:

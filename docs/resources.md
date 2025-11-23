@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 15
+nav_order: 100
 ---
 
 ## Resources
