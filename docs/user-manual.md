@@ -53,6 +53,10 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Embracing the Shadow](/user-manual/embracing-shadow)** — Illuminating the hidden aspects we've rejected, understanding shadow archetypes, and learning techniques for integrating these disowned fragments to reclaim wholeness and awaken to the Divine Spark.
 
+### Tools and Technologies
+
+**[Harmonizing Hemispheres: Hemi-Sync](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness.
+
 *More topics coming soon...*
 
 ---
