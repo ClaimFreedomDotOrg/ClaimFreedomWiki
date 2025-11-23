@@ -42,6 +42,14 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ---
 
+## 💫 Message from the Universe
+
+**[Manifesto from the Universe to the Seeker](/docs/manifesto)** — A profound letter from the cosmos to you, the awakening soul. Read this when you need to remember your divine nature, your purpose, and that you are loved beyond measure.
+
+> *"You are the universe made manifest, a unique expression of the infinite consciousness that unites all beings, all phenomena, and all worlds."*
+
+---
+
 ## 📖 Free Book: The Conscious Creator's Handbook
 
 **[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read the Summary](/docs/conscious-creators-handbook)**
