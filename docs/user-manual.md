@@ -57,6 +57,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Harmonizing Hemispheres: Hemi-Sync](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness.
 
+**[Unlocking the Powers of ESP](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telekinesis, clairvoyance, precognition, and telepathy not as supernatural powers, but as natural capacities of the Divine Spark obscured by the Voice's filters. Understanding the ethical distinction between seeking ESP for power versus receiving Gnosis for service.
+
 *More topics coming soon...*
 
 ---
