@@ -14,6 +14,20 @@ If you're new to this framework, **welcome**. This guide will help you navigate 
 
 ---
 
+## Before You Begin: A Message from the Universe
+
+Before diving into the framework, pause and receive this message. You are not here by accident.
+
+**[💫 Manifesto from the Universe to the Seeker](/docs/manifesto)** — Read this letter from the cosmos to you, the awakening soul.
+
+> *"You are divine, beyond any measure of worth or worthlessness, for you are the song of creation itself. The dance of the cosmos pulsates within your being, orchestrating the rhythm of life through every cell of your body."*
+
+**This manifesto reminds you of what the framework will help you remember**: You are not broken. You are not damaged. You are the **Divine Spark** temporarily imprisoned in forgetfulness, and this work is your path home.
+
+**Read the full manifesto now, then return here to begin the practical steps.**
+
+---
+
 ## Step 1: [The Central Question](/docs/about#the-central-question) (1 minute)
 
 Everything begins with this question:
