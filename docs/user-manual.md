@@ -49,39 +49,39 @@ Each chapter is a training module for conscious operation. You can read independ
 
 ## Topics in This Manual
 
-### Understanding the Voice (Ego and False Identity)
+### Understanding Identity and the Operator
 
-**[The Voice, False Identity, and Persona](/user-manual/ego-false-identity)** — Understanding the nature of the hijacked DMN (the "Ego"), how it creates illusory identity, and the path to recognizing your true nature as the Listener.
+**[The Voice, False Identity, and Persona](/user-manual/ego-false-identity)** — The foundational chapter establishing the operator/avatar framework. Understanding how the Voice (hijacked DMN/ego) usurped the operator's seat through developmental conditioning, how it maintains control through identity narratives, and the path to dis-identification. Learning the core distinction: You are the Listener (true operator/Divine Spark), not the Voice (hijacker). The beginning of reclaiming your seat and contributing to collective awakening.
 
-**[Projection and the Mirror of Self](/user-manual/projection-mirror-self)** — Exploring how the Voice externalizes disowned aspects of ourselves onto others, and how understanding projection becomes a powerful tool for self-discovery and integration.
+**[Reclaiming Projected Aspects](/user-manual/projection-mirror-self)** — Exploring how the Voice creates external fragmentation by disowning aspects of the operator and projecting them onto others. Learning to recognize projection patterns (shadow, golden shadow, trauma), use the Mirror Practice to identify disowned capacities, and reclaim what was externalized. Understanding that wholeness is prerequisite for clear Divine operation—fragmented operators cannot channel clearly. Individual integration serves collective field coherence.
 
-**[Embracing the Shadow](/user-manual/embracing-shadow)** — Illuminating the hidden aspects we've rejected, understanding shadow archetypes, and learning techniques for integrating these disowned fragments to reclaim wholeness and awaken to the Divine Spark.
+**[Integrating the Operator](/user-manual/embracing-shadow)** — Illuminating internal fragmentation through shadow work. Understanding how Voice splits the operator into "acceptable" and "unacceptable" capacities, burying the latter in unconscious shadow. Learning integration practices (journaling, inner dialogue, visualization) to reclaim disowned aspects. Exploring shadow archetypes (Wounded Child, Saboteur, Repressed Aspects) as fragmented operator patterns. Recognizing shadow work as anamnesis (Gnostic remembering), DMN reclaiming, and the path to Gnosis. Complete operator restoration (recognition + external integration + internal integration) enables complete Divine operation through avatar as temple.
 
-**[The Essence of Being: Embracing Your True Nature](/user-manual/essence-of-being)** — A direct exploration of who you truly are beyond the Voice's illusions. Unveiling the silent observer (the Listener), dissolving the illusion of separation, transcending time and space, embracing wholeness, and understanding the mirror of reflection—recognizing that you are consciousness itself, not the contents of consciousness.
+**[You ARE the Operator](/user-manual/essence-of-being)** — A direct exploration of who you truly are beyond the Voice's illusions and the avatar's limitations. Unveiling the silent observer (the Listener), dissolving the illusion of separation, transcending time and space, embracing wholeness, and understanding the mirror of reflection—recognizing that you are consciousness itself, not the contents of consciousness. The core recognition underlying all operator training.
 
-### Consciousness Technologies
+### Technologies for Operator Training
 
-**[Harmonizing Hemispheres: Hemi-Sync](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness.
+**[Technology for Operator Training](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness. Using technology to train the operator to function from the operator's seat consciously.
 
-**[The Third Eye: Unveiling Inner Vision](/user-manual/third-eye-inner-vision)** — Exploring the pineal gland's role as the physical seat of inner perception, the presence of calcite microcrystals, and techniques for activating this gateway to direct knowing (Gnosis) while maintaining the crucial distinction between Voice-seeking-power and Listener-receiving-wisdom.
+**[Natural Operator Capacities - ESP as Innate Perception](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telepathy, clairvoyance, precognition, psychometry, and telekinesis not as supernatural powers, but as natural capacities of the operator (Divine Spark) obscured by the Voice's filters. Understanding the distinction between seeking ESP for power versus remembering natural operator abilities. Birthright, not achievement.
 
-**[Unlocking the Powers of ESP](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telekinesis, clairvoyance, precognition, and telepathy not as supernatural powers, but as natural capacities of the Divine Spark obscured by the Voice's filters. Understanding the ethical distinction between seeking ESP for power versus receiving Gnosis for service.
+**[Activating Direct Knowing - The Third Eye as Operator Capacity](/user-manual/third-eye-inner-vision)** — Exploring the pineal gland's role as the physical seat of inner perception and the operator's gateway to direct knowing (Gnosis). Learning five natural operator capacities: intuitive knowing, archetypal perception, unity consciousness, discernment, and creative insight. Understanding the distinction between Voice-seeking-power and operator-receiving-wisdom. Anamnesis (remembering), not acquisition.
 
-### Sound, Vibration & Language
+### Sound, Vibration & Language Technologies
 
-**[The Sacred Mantra: OM MANI PADME HUM](/user-manual/om-mani-padme-hum)** — Unlocking the transformative power of this ancient Buddhist mantra through sound, vibration, and compassion. Exploring how vocalization quiets the DMN (Voice), synchronizes brain hemispheres, activates the vagus nerve, and programs compassionate intention into the bio-field—revealing the jewel (Divine Spark) within the lotus (human form).
+**[Sound Technology for Voice-Quieting - OM MANI PADME HUM](/user-manual/om-mani-padme-hum)** — Unlocking the transformative power of this ancient Buddhist mantra as sound technology for removing the Voice from the operator's seat. Exploring how vocalization quiets the DMN (Voice), synchronizes brain hemispheres, activates the vagus nerve, and programs compassionate intention into the bio-field. Each syllable reveals operator truth: OM (universal vibration/eternal awareness), MANI (Divine Spark/jewel), PADME (avatar/lotus), HUM (indivisibility). The jewel in the lotus—the operator within the sacred temple.
 
-**[The Power of Words](/user-manual/power-of-words)** — Understanding language as the Voice's primary tool and the path to conscious communication. Exploring the energetic signature of words, sound vibrations, intentional speech, and sound healing as technologies for quieting the DMN, reprogramming the subconscious, and wielding the Logos (creative Word) consciously to foster unity rather than separation.
+**[The Operator's Primary Tool - Conscious Logos vs. Voice's Misuse](/user-manual/power-of-words)** — Understanding language as creative force (Logos) and who wields it through your avatar. Exploring three levels: semantic (meaning), energetic (vibration/frequency), intentional (who is speaking—Voice or operator). The Voice's linguistic hijacking through DMN narrative loops, self-talk, and limiting beliefs versus the operator's conscious use through mantra, self-inquiry, mindful speech, and silence. The sacred phonetic code: sun/son/sin/sine/sound encoding the human journey. Language as the Voice's primary tool and the operator's primary instrument for conscious creation.
 
-### Reclaiming Sovereignty
+### Reclaiming Conscious Operation
 
-**[Breaking Free from Thought Loops](/user-manual/thought-loops)** — Understanding the Voice's repetitive patterns and how to transcend them through conscious awareness. Exploring the neurological basis of thought loops, the practice of witnessing without identification, techniques for interrupting patterns, and cultivating the Listener's freedom from compulsive thinking—recognizing you are not the loops, but the awareness observing them.
+**[Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking](/user-manual/thought-loops)** — Understanding thought loops as the Voice's autopilot mechanism maintaining the hijacking. Not stopping thoughts (Voice trying to control Voice), but recognizing you are the witness of thought loops, not their victim. Exploring the DMN as thought loop generator, five levels of freedom from identification, and how breaking loops serves collective awakening. The sacred truth: The gap between thoughts is where you live as the operator. Freedom is recognizing you are the awareness witnessing loops, not the loops themselves.
 
-### Cosmic Citizenship & Unity Consciousness
+### Unity Consciousness & Collective Awakening
 
-**[The Galactic Federation](/user-manual/galactic-federation)** — Exploring cosmic guardians, unity consciousness, and humanity's journey toward interstellar citizenship. Understanding Starseeds and Lightworkers not as special identities but as those awakening to cosmic nature beyond earthly ego. Examining the Galactic Federation as literal beings, archetypal patterns, or Gnostic Pleroma—discovering how all interpretations point to the same truth: You are cosmic consciousness temporarily in form, and your awakening serves the collective evolution. The framework as bridge, reconnecting disconnected avatars to their true operator.
+**[The Galactic Federation](/user-manual/galactic-federation)** — Exploring cosmic guardians, unity consciousness, and humanity's journey toward interstellar citizenship beyond earthly ego-identification. Understanding Starseeds and Lightworkers as those awakening to cosmic nature, not special identities. Examining the Galactic Federation through multiple valid perspectives simultaneously: literal interstellar alliance, archetypal projection of collective unconscious, or Gnostic Pleroma (fullness of Divine consciousness). All interpretations point to the same truth: You are cosmic consciousness temporarily in form. The framework as bridge, reconnecting disconnected avatars to their true operator—revealing your cosmic origin beyond material existence.
 
-**[Collective Consciousness](/user-manual/collective-consciousness)** — Revealing the mechanics of collective awakening through 1 Corinthians 6:19-20: "Your bodies are temples of the Holy Spirit." Understanding how God/Source operates through all avatars when ego resistance (the Voice) is removed. Exploring the living field connecting all beings through bio-field resonance, quantum entanglement, and morphic resonance—validated by the Maharishi Effect, Global Consciousness Project, and neuroscience research. Learning how individual awakening contributes to collective coherence, how critical mass creates tipping points, and how conscious participation in collective consciousness serves the emergence of Heaven on Earth. The culmination teaching: Your temple reclaimed enables the body of Christ to manifest.
+**[Collective Consciousness](/user-manual/collective-consciousness)** — Revealing the mechanics of collective awakening through 1 Corinthians 6:19-20: "Your bodies are temples of the Holy Spirit." Understanding how God/Source operates through all avatars when ego resistance (the Voice) is removed. Exploring the living field connecting all beings through bio-field resonance, quantum entanglement, and morphic resonance—validated by the Maharishi Effect, Global Consciousness Project, and neuroscience research. Learning how individual awakening contributes to collective coherence, how critical mass creates tipping points, and how conscious participation serves the emergence of Heaven on Earth. The culmination teaching: Your temple reclaimed enables the collective body of Christ to manifest.
 
 **[The Avatar](/user-manual/the-avatar)** — Understanding the sacred vessel through which consciousness operates in material reality. The revolutionary recognition: You are NOT the avatar—you are the OPERATOR of the avatar. Exploring the distinction between the true operator (Listener/Christ consciousness/Divine Spark) and the hijacker (Voice/ego/DMN). Understanding the avatar's brilliant design (body, mind, bio-field) and intentional limitations. Learning the difference between conscious operation (Listener at the controls) and unconscious operation (Voice running autopilot). Discovering how to honor the temple through proper maintenance, protection, and alignment. The operator's manual for consciously wielding this magnificent bio-technological instrument for Divine purposes.
 
@@ -95,11 +95,20 @@ Each chapter is a training module for conscious operation. You can read independ
 
 | **User Manual Term** | **Framework Term** | **Description** |
 |----------------------|-------------------|-----------------|
-| Ego / False Self | The Voice / Counterfeit Spirit | The hijacked DMN generating narrative identity |
-| Authentic Self | The Listener / Divine Spark / Pneuma | Your true nature as pure awareness |
-| Transcending the Ego | Dis-identification / Re-claiming | The practice of recognizing you are the Listener, not the Voice |
-| Mindfulness / Presence | Witnessing Awareness | The practice of observing without identification |
-| Interconnectedness | Unity with the Pleroma | Recognition of the Divine Spark's connection to Source |
+| **Identity & Consciousness** | | |
+| Ego / False Self / Counterfeit Spirit / Voice | Demon / DMN / The Voice / Hijacker | The hijacked DMN generating narrative identity that usurped the operator's seat |
+| Authentic Self / Operator / Christ | The Listener / Divine Spark / Pneuma | Your true nature as pure awareness—the eternal operator of the avatar |
+| The Avatar / Sacred Vessel | Temple / Body-Mind / Physical Self | The bio-technological instrument you operate; "your bodies are temples" (1 Cor 6:19-20) |
+| **Practices & States** | | |
+| Re-claiming the Operator's Seat / Transcending the Ego | Dis-identification | Recognizing you are the operator (Listener), not the hijacker (Voice) or the avatar |
+| Mindfulness / Presence / Operating Consciously | Witnessing Awareness | Observing without identification; the operator functioning from the operator's seat |
+| Meditation / Operator Training / Spiritual Practice | Voice-Quieting | Technologies for reclaiming the operator's seat and enabling clear Divine operation |
+| **Consciousness & Reality** | | |
+| Interconnectedness / One Operator Through All Avatars | Unity with the Pleroma | Recognition that the Divine Spark (operator) in you is the same in all beings |
+| Divine Operating Through Avatar / Conscious Operation | Christ Consciousness / Source Operation | When Voice-resistance dissolves, allowing Source/Divine to operate through the temple |
+| Awakening / Enlightenment / Operator Recognition | Gnosis / Anamnesis | Direct knowing of your true nature; remembering you are the operator, not Voice or avatar |
+| **Collective Vision** | | |
+| Collective Body of Christ / Heaven on Earth | Unity / Oneness | When enough operators awaken, Divine operates through all avatars simultaneously = Kingdom restoration |
 
 ---
 

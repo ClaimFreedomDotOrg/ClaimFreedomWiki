@@ -927,6 +927,3 @@ This isn't fear-based withdrawal. It's **wise stewardship**. The temple is preci
 ---
 
 *This chapter is part of [The User Manual](/docs/user-manual), a practical guide for the Christ (true Self/Listener) to consciously operate the Avatar (mind/body system). For the broader philosophical framework, see [The Framework](/docs/about).*
-
-
-
