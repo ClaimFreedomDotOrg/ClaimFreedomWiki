@@ -73,6 +73,10 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Breaking Free from Thought Loops](/user-manual/thought-loops)** — Understanding the Voice's repetitive patterns and how to transcend them through conscious awareness. Exploring the neurological basis of thought loops, the practice of witnessing without identification, techniques for interrupting patterns, and cultivating the Listener's freedom from compulsive thinking—recognizing you are not the loops, but the awareness observing them.
 
+### Cosmic Citizenship & Unity Consciousness
+
+**[The Galactic Federation](/user-manual/galactic-federation)** — Exploring cosmic guardians, unity consciousness, and humanity's journey toward interstellar citizenship. Understanding Starseeds and Lightworkers not as special identities but as those awakening to cosmic nature beyond earthly ego. Examining the Galactic Federation as literal beings, archetypal patterns, or Gnostic Pleroma—discovering how all interpretations point to the same truth: You are cosmic consciousness temporarily in form, and your awakening serves the collective evolution. The framework as bridge, reconnecting disconnected avatars to their true operator.
+
 *More topics coming soon...*
 
 ---
