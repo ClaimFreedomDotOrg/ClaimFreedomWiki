@@ -55,7 +55,7 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[The Essence of Being: Embracing Your True Nature](/user-manual/essence-of-being)** — A direct exploration of who you truly are beyond the Voice's illusions. Unveiling the silent observer (the Listener), dissolving the illusion of separation, transcending time and space, embracing wholeness, and understanding the mirror of reflection—recognizing that you are consciousness itself, not the contents of consciousness.
 
-### Tools and Technologies
+### Consciousness Technologies
 
 **[Harmonizing Hemispheres: Hemi-Sync](/user-manual/harmonizing-hemispheres)** — Understanding brain hemisphere synchronization, the Monroe Institute's Hemi-Sync technology, and how brainwave entrainment facilitates DMN quieting, dis-identification, and access to heightened states of awareness.
 
@@ -63,9 +63,15 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[Unlocking the Powers of ESP](/user-manual/unlocking-esp)** — Exploring extrasensory perception (ESP), telekinesis, clairvoyance, precognition, and telepathy not as supernatural powers, but as natural capacities of the Divine Spark obscured by the Voice's filters. Understanding the ethical distinction between seeking ESP for power versus receiving Gnosis for service.
 
+### Sound, Vibration & Language
+
 **[The Sacred Mantra: OM MANI PADME HUM](/user-manual/om-mani-padme-hum)** — Unlocking the transformative power of this ancient Buddhist mantra through sound, vibration, and compassion. Exploring how vocalization quiets the DMN (Voice), synchronizes brain hemispheres, activates the vagus nerve, and programs compassionate intention into the bio-field—revealing the jewel (Divine Spark) within the lotus (human form).
 
 **[The Power of Words](/user-manual/power-of-words)** — Understanding language as the Voice's primary tool and the path to conscious communication. Exploring the energetic signature of words, sound vibrations, intentional speech, and sound healing as technologies for quieting the DMN, reprogramming the subconscious, and wielding the Logos (creative Word) consciously to foster unity rather than separation.
+
+### Reclaiming Sovereignty
+
+**[Breaking Free from Thought Loops](/user-manual/thought-loops)** — Understanding the Voice's repetitive patterns and how to transcend them through conscious awareness. Exploring the neurological basis of thought loops, the practice of witnessing without identification, techniques for interrupting patterns, and cultivating the Listener's freedom from compulsive thinking—recognizing you are not the loops, but the awareness observing them.
 
 *More topics coming soon...*
 
