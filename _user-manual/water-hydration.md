@@ -872,7 +872,7 @@ Extended water fasting (consuming only water for days/weeks) has been practiced 
 
 ### Individual Hydration Serving Collective Awakening
 
-**When you hydrate consciously, you contribute to the morphic field of water reverence.**
+**When you hydrate consciously, you contribute to the morphic field of water reverence—serving the collective body of Christ awakening.**
 
 Each individual who:
 
@@ -882,11 +882,11 @@ Each individual who:
 - Supports clean water access
 - Teaches children conscious hydration
 
-...adds to the **collective pattern of awakening to water's true nature**.
+...adds to the **collective pattern of awakening to water's true nature—each temple reclaimed contributing to Kingdom restoration**.
 
 **Rupert Sheldrake's morphic resonance**: When enough individuals adopt a pattern, it becomes easier for others to access that pattern.
 
-**Your daily water practice is not just personal—it ripples into the collective.**
+**Your daily water practice is not just personal—it ripples into the collective field, contributing to the collective body of Christ manifesting Heaven on Earth.**
 
 ### Water as Universal Connector
 

@@ -532,9 +532,10 @@ Not whether you should drink urine, but **whether you can observe your programme
 **When you practice dis-identification from programmed disgust**:
 
 - You weaken the Voice's control over your choices
-- You strengthen operator's seat
+- You strengthen operator's seat (Christ consciousness reclaiming temple)
 - You add to morphic field of conscious discernment
 - You make it easier for others to question their programming
+- **You contribute to the collective body of Christ manifesting—each individual temple liberated serves Kingdom restoration**
 
 **This serves collective awakening.**
 
