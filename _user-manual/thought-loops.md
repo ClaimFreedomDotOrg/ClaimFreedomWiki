@@ -2588,4 +2588,3 @@ You've been free all along. You're simply remembering.
 > *Each time you notice a loop and don't identify with it, you remember this. Each time you pause instead of react, you embody this. Each time you return to the present moment, you live this.*
 >
 > *Freedom is not the absence of thought loops. Freedom is the recognition that you are not them. In that recognition, you are already free.*
-
