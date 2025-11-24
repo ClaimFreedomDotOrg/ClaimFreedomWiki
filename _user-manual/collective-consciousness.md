@@ -1930,5 +1930,3 @@ For those ready to consciously participate in collective consciousness:
 ---
 
 *This chapter is part of [The User Manual](/docs/user-manual), a practical guide for the Christ (true Self/Listener) to consciously operate the Avatar (mind/body system) and participate in collective awakening. For the broader philosophical framework, see [The Framework](/docs/about).*
-
-
