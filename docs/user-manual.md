@@ -65,6 +65,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[The Sacred Mantra: OM MANI PADME HUM](/user-manual/om-mani-padme-hum)** — Unlocking the transformative power of this ancient Buddhist mantra through sound, vibration, and compassion. Exploring how vocalization quiets the DMN (Voice), synchronizes brain hemispheres, activates the vagus nerve, and programs compassionate intention into the bio-field—revealing the jewel (Divine Spark) within the lotus (human form).
 
+**[The Power of Words](/user-manual/power-of-words)** — Understanding language as the Voice's primary tool and the path to conscious communication. Exploring the energetic signature of words, sound vibrations, intentional speech, and sound healing as technologies for quieting the DMN, reprogramming the subconscious, and wielding the Logos (creative Word) consciously to foster unity rather than separation.
+
 *More topics coming soon...*
 
 ---
