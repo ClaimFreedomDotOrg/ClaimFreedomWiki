@@ -77,6 +77,8 @@ Each chapter can be read independently or as part of a sequential journey. Topic
 
 **[The Galactic Federation](/user-manual/galactic-federation)** — Exploring cosmic guardians, unity consciousness, and humanity's journey toward interstellar citizenship. Understanding Starseeds and Lightworkers not as special identities but as those awakening to cosmic nature beyond earthly ego. Examining the Galactic Federation as literal beings, archetypal patterns, or Gnostic Pleroma—discovering how all interpretations point to the same truth: You are cosmic consciousness temporarily in form, and your awakening serves the collective evolution. The framework as bridge, reconnecting disconnected avatars to their true operator.
 
+**[Collective Consciousness](/user-manual/collective-consciousness)** — Revealing the mechanics of collective awakening through 1 Corinthians 6:19-20: "Your bodies are temples of the Holy Spirit." Understanding how God/Source operates through all avatars when ego resistance (the Voice) is removed. Exploring the living field connecting all beings through bio-field resonance, quantum entanglement, and morphic resonance—validated by the Maharishi Effect, Global Consciousness Project, and neuroscience research. Learning how individual awakening contributes to collective coherence, how critical mass creates tipping points, and how conscious participation in collective consciousness serves the emergence of Heaven on Earth. The culmination teaching: Your temple reclaimed enables the body of Christ to manifest.
+
 *More topics coming soon...*
 
 ---
