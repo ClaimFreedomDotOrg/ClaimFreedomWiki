@@ -37,7 +37,7 @@ Addressing the questions, doubts, and concerns that arise when encountering the 
 
 **Differences:**
 
-- Explicit Voice vs Listener distinction.
+- Explicit Voice vs. Listener distinction.
 - Hijacking / honey-pot framing creates urgency and clarity.
 - Integrated neuro + ancient wisdom synthesis.
 - Practical sovereignty focus (re-claiming DMN).
@@ -143,7 +143,7 @@ Yes. Medical and therapeutic interventions first for clinical conditions. This i
 | Time | Marker |
 |------|--------|
 | Immediate | Brief distinction glimpses |
-| Week 1 | Increased noticing of Voice |
+| Week 1 | Increased noticing of The Voice |
 | Month 1 | Longer gaps, easier disengagement |
 | Month 3 | Reduced rumination/anxiety intensity |
 | Month 6+ | Baseline presence more frequent |
@@ -194,7 +194,7 @@ Requires sustained, patient daily recognition. Not instant, not glamorous, occas
 
 Read less. Practice more.
 
-Right now: Notice thoughts. Ask: *"Am I that voice or the one listening?"* Feel the distinction. That awareness is present. Continue.
+Right now: Notice thoughts. Ask: *"Am I that Voice or the one listening?"* Feel the distinction. That awareness is present. Continue.
 
 > *"You can't fail. You can only notice, forget, and notice again. The noticing is liberation in microform."*
 

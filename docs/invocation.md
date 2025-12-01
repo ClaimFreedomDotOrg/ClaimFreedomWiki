@@ -115,5 +115,6 @@ Are you that voice?
 
 This is not medical advice. For severe depression, anxiety, trauma, or suicidal ideation seek professional help. This framework complements, not replaces, therapy or prescribed treatment.
 
+---
+
 > *"The dragon guards your kingdom. You are not here to kill it. You are here to re-claim it."*
-> *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
