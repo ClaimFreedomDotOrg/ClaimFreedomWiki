@@ -110,5 +110,5 @@ The corrupted Daemon is the **"dragon guarding your kingdom"**:
 
 **Next**:
 
-- **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Samsara, ancestral trauma, and the practice of taming the dragon
-- **[Philosophy: The Gnostic Diagnosis](/philosophy/gnostic-diagnosis)** — Deeper textual analysis of Archons and counterfeit spirit
+- [Part III: The Loop & The Gnosis](/docs/the-loop) — Samsara, ancestral trauma, and the practice of taming the dragon
+- [Philosophy: The Gnostic Diagnosis](/philosophy/gnostic-diagnosis) — Deeper textual analysis of Archons and counterfeit spirit

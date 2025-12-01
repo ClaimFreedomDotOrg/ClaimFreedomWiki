@@ -33,6 +33,20 @@ This voice:
 - Creates the illusion that you *are* your thoughts, your trauma, your story
 - Perpetuates the "eternal loop" of suffering (*Samsara*)
 
+### Key Conceptual Mappings
+
+Use these translations consistently:
+
+| **Gnostic** | **Indigenous** | **Eastern** | **Neuroscience** | **Framework** |
+|-------------|----------------|-------------|------------------|---------------|
+| Archons | Wetiko | Mara (Buddhist demon) | Pathological DMN pattern | The Hijacker |
+| Counterfeit Spirit | Cannibalized consciousness | Avidya (ignorance) | DMN-generated narrative Ego | The Voice |
+| Divine Spark (Pneuma) | True nature | Buddha-nature / Atman | Pure awareness | The Listener |
+| Forgetfulness (Amylia) | Loss of connection | Avidya | Identification with thoughts | Mistaken identity |
+| Gnosis | Reclaiming | Bodhi (awakening) | Dis-identification | Realization |
+| Anamnesis | Remembering | Samma-ditthi (right view) | Observing the observer | Re-claiming |
+| Demiurge | — | Samsara (cycle itself) | Systemic feedback loops | The Loop's engine |
+
 ### The Path of Re-Claiming
 
 The framework distinguishes between:
@@ -69,8 +83,8 @@ This is not a rhetorical question. It is an **experiential investigation**.
 
 **Right now**:
 
-- Notice the voice narrating, judging, planning, worrying
-- Notice there is **awareness** of that voice
+- Notice the Voice narrating, judging, planning, worrying
+- Notice there is **awareness** of that Voice
 - Ask: **Who is aware?**
 
 **The gap between the Voice and the Listener is the key to everything.**
@@ -80,7 +94,7 @@ This is not a rhetorical question. It is an **experiential investigation**.
 
 **Liberation**: Recognizing you are The Listener, not the Voice. Everything else is commentary.
 
-Read more: [The Voice vs. The Listener](/philosophy/voice-listener)
+**Read more**: [The Voice vs. The Listener](/philosophy/voice-listener)
 
 **New to this framework?** Start with the [Getting Started Guide](/docs/getting-started) for a step-by-step path from the foundational question to daily practice.
 
@@ -114,9 +128,10 @@ This is not:
 
 See [Contributing Guidelines](/docs/contributing) to participate in this evolving framework.
 
-Explore the framework in depth:
+**Explore the framework in depth**:
 
-- **[The Archon in the Machine](/docs/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
-- **[Philosophy](/docs/philosophy)** — Gnostic texts, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, and mechanisms
-- **[Practices](/docs/practices)** — Meditation and dis-identification techniques
+- [The Archon in the Machine](/docs/the-archon-in-the-machine) — Comprehensive scholarly analysis with 100+ citations
+- [Philosophy](/docs/philosophy) — Gnostic texts, Wetiko, Samsara, and conceptual foundations
+- [Neuroscience](/docs/neuroscience) — DMN research, meditation studies, and mechanisms
+- [Practices](/docs/practices) — Meditation and dis-identification techniques
+- [Taxonomy & Terminology](/docs/taxonomy) — Cross-tradition translation guide

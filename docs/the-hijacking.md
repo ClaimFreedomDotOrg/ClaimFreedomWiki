@@ -99,5 +99,5 @@ For a direct, experiential invocation that exposes the impersonation pattern, se
 
 **Next**:
 
-- **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic texts, the counterfeit spirit, and the etymology of Daemon vs. Demon
-- **[Neuroscience: What is the DMN?](/neuroscience/what-is-dmn)** — Deep dive into the neurological substrate
+- [Part II: Ancient Warnings](/docs/ancient-warnings) — Gnostic texts, the counterfeit spirit, and the etymology of Daemon vs. Demon
+- [Neuroscience: What is the DMN?](/neuroscience/what-is-dmn) — Deep dive into the neurological substrate

@@ -60,15 +60,11 @@ Before diving into the practical framework, pause and receive these messages. Yo
 
 Everything begins with this question:
 
-> *That voice in your head that never stops talking...*
->
-> *Are you that voice?*
->
-> *Or are you the one who is listening to it?*
+> *"That voice in your head... Are you that voice? Or are you the one who is listening to it?"*
 
-**Pause right now.** Notice the voice reading these words. Notice the commentary, the judgments, the analysis happening in the background.
+**Pause right now.** Notice the Voice reading these words. Notice the commentary, the judgments, the analysis happening in the background.
 
-**Now ask yourself**: *Who is aware of that voice?*
+**Now ask yourself**: *Who is aware of that Voice?*
 
 **This gap—between the Voice and the Listener—is the key to everything.**
 
@@ -98,7 +94,7 @@ The **Invocation: Anti-Corruption Axiom** is the catalytic entry point—a dis-i
 **After experiencing the Invocation, notice:**
 
 - Did you feel a shift—even momentarily—between "being" the thoughts and "witnessing" them?
-- Did you recognize the tyranny of the voice that claims to be "you"?
+- Did you recognize the tyranny of the Voice that claims to be "you"?
 
 This glimpse is **anamnesis**—the Gnostic "remembering" of who you truly are.
 
@@ -454,9 +450,9 @@ This is the **only** Gnosis. Everything else is elaboration, validation, and pra
 **Recommended sequence for first-time readers:**
 
 1. ✅ You've completed this guide
-2. 📖 Read: [Part I: The Hijacking](/docs/the-hijacking) (the full diagnosis)
-3. 📖 Read: [Part III: The Loop & The Gnosis](/docs/the-loop) (the path)
-4. 🧘 Practice: [Witness Meditation](/practices/witness-meditation) daily for 7 days
+2. 📖 Read: [Part I: The Hijacking](/docs/the-hijacking) — The full diagnosis
+3. 📖 Read: [Part III: The Loop & The Gnosis](/docs/the-loop) — The path
+4. 🧘 Practice: [Witness Meditation](/practices/witness-meditation) — Daily for 7 days
 5. 📖 Explore: Choose a deep dive path (Philosophy, Neuroscience, Practices, or Decodings)
 
 **Welcome to the Great Awakening. The map is now complete.**

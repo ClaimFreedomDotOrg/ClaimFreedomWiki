@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Neuro-Gnosticism
 nav_order: 1
 ---
@@ -48,13 +49,15 @@ The Default Mode Network (DMN) is the brain's narrative-generating system. When 
 
 ## Conceptual Mapping
 
-| Gnostic         | Indigenous | Eastern      | Neuroscience         | Framework         |
-|-----------------|------------|--------------|----------------------|-------------------|
-| Archons         | Wetiko     | Mara         | Pathological DMN     | The Hijacker      |
-| Counterfeit Ego | Cannibalized consciousness | Avidya | DMN-generated narrative | The Voice         |
-| Divine Spark    | True nature| Buddha-nature| Pure awareness       | The Listener      |
-| Gnosis          | Reclaiming | Bodhi        | Dis-identification   | Realization       |
-| Anamnesis       | Remembering| Samma-ditthi | Observing the observer| Re-claiming      |
+| **Gnostic** | **Indigenous** | **Eastern** | **Neuroscience** | **Framework** |
+|-------------|----------------|-------------|------------------|---------------|
+| Archons | Wetiko | Mara (Buddhist demon) | Pathological DMN pattern | The Hijacker |
+| Counterfeit Spirit | Cannibalized consciousness | Avidya (ignorance) | DMN-generated narrative Ego | The Voice |
+| Divine Spark (Pneuma) | True nature | Buddha-nature / Atman | Pure awareness | The Listener |
+| Forgetfulness (Amylia) | Loss of connection | Avidya | Identification with thoughts | Mistaken identity |
+| Gnosis | Reclaiming | Bodhi (awakening) | Dis-identification | Realization |
+| Anamnesis | Remembering | Samma-ditthi (right view) | Observing the observer | Re-claiming |
+| Demiurge | — | Samsara (cycle itself) | Systemic feedback loops | The Loop's engine |
 
 ## Testable and Applicable Across All Fields
 
@@ -74,10 +77,13 @@ Neuro-Gnosticism is not a mere philosophical speculation. It is a framework that
 
 ## Learn More
 
+- [About This Inquiry](/docs/about)
+- [Getting Started Guide](/docs/getting-started)
 - [Philosophy](/docs/philosophy)
 - [Neuroscience](/docs/neuroscience)
 - [Practices](/docs/practices)
-- [Resources](resources.md)
+- [Taxonomy & Terminology](/docs/taxonomy)
+- [Resources](/docs/resources)
 
 ---
 
