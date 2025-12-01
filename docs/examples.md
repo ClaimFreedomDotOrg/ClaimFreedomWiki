@@ -48,21 +48,25 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Arrival](/examples/arrival)** — Non-linear language rewiring temporal perception, circular time as Gnosis, and love chosen with foreknown grief
 - **[What The Bleep Do We Know!?](/examples/what-the-bleep)** — Critique of Tier 3 quantum mysticism: observer effect misapplication, Emoto pseudoscience, and distinguishing perennial truth from quantum flapdoodle
 - **[Stranger Than Fiction](/examples/stranger-than-fiction)** — Author-character duality, hearing the Voice externalized, and choosing to live authentically despite the narrated script
+- **[Inside Out](/examples/inside-out)** — The DMN's control room made visible, Joy's tyranny as toxic positivity, the Dark Night of fragmentation, and Sadness's redemptive integration
 
 ### Video Games
 
 - **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
 - **[Divinity: Original Sin](/examples/divinity-original-sin)** — Source vs. Void, Source Hunters as pre-Gnosis enforcers, Star/Blood Stones as Gnosis triggers, and remembering the Guardians at the End of Time
+- **[BioShock](/examples/bioshock)** — "Would you kindly" as hypnotic trigger, Rapture as failed Objectivist Kenoma, Atlas as the Archon, and "a man chooses, a slave obeys"
 
 ### TV Shows
 
 - **[Manifest](/examples/manifest)** — Callings as salience pings, Lifeboat ethics, and communal Gnosis under a ticking Death Date
 - **[Sense8](/examples/sense8)** — Distributed empathic cluster consciousness, Archonic surveillance, and ethical skill-sharing as collective Gnosis
 - **[Stranger Things](/examples/stranger-things)** — Upside Down as shadow DMN ecology, music anchors against possession, and communal truth as anti-hijack firewall
+- **[Dark](/examples/dark-netflix)** — Time loops as Samsara, Adam and Eva as competing Demiurges, Claudia's third path Gnosis, and breaking the knot through conscious sacrifice
 
 ### Books
 
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
+- **[Plato's Allegory of the Cave](/examples/platos-allegory-cave)** — The foundational Western Gnostic text: shadows as DMN narratives, the Sun as Pleroma, painful ascent as ego death, and the philosopher's return
 
 ### Songs
 
