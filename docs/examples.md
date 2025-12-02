@@ -62,6 +62,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Sense8](/examples/sense8)** — Distributed empathic cluster consciousness, Archonic surveillance, and ethical skill-sharing as collective Gnosis
 - **[Stranger Things](/examples/stranger-things)** — Upside Down as shadow DMN ecology, music anchors against possession, and communal truth as anti-hijack firewall
 - **[Dark](/examples/dark-netflix)** — Time loops as Samsara, Adam and Eva as competing Demiurges, Claudia's third path Gnosis, and breaking the knot through conscious sacrifice
+- **[The OA](/examples/the-oa)** — Near-death experiences as ego death portals, the five movements as embodied Gnosis, dimensional jumping as shifting DMN narratives, and faith despite epistemic uncertainty
 
 ### Books
 
