@@ -139,6 +139,8 @@ This collection decodes Scripture to reveal how **The Body of Christ** doctrine 
 - **[Romans 12: Living Sacrifice](/body-of-christ/romans-12)** — Transforming cells through mind renewal for collective service
 - **[Colossians 1: Christ the Head](/body-of-christ/colossians-1)** — The unifying operator consciousness coordinating all cells
 
+*More biblical decodings exploring The Body of Christ will be added to this collection.*
+
 ---
 
 ## The Vision: Heaven on Earth
