@@ -74,6 +74,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[His Dark Materials](/examples/his-dark-materials)** — Daemons as externalized souls, the Authority as Demiurge, Dust as conscious matter, Intercision as soul murder, and building the Republic of Heaven here in matter
 - **[The Neverending Story](/examples/the-neverending-story)** — Fantastica fading when imagination dies, naming the Empress as participatory Gnosis, AURYN's temptation erasing memory, and becoming conscious co-author of reality
 - **[Dune](/examples/dune)** — The Litany Against Fear as dis-identification practice, spice as literal Gnosis chemical creating dependency, Bene Gesserit systematic awareness training, the messianic trap of prescient vision, and the Kwisatz Haderach's perfect awareness becoming perfect paralysis
+- **[Fahrenheit 451](/examples/fahrenheit-451)** — Book burning as systematic Gnosis suppression, Mildred as hijacked DMN consumed by parlor walls, Clarisse asking "Are you happy?", Faber teaching quality/leisure/action, the Mechanical Hound as automated persecution, and the Book People as embodied living libraries
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
 - **[Plato's Allegory of the Cave](/examples/platos-allegory-cave)** — The foundational Western Gnostic text: shadows as DMN narratives, the Sun as Pleroma, painful ascent as ego death, and the philosopher's return
 
