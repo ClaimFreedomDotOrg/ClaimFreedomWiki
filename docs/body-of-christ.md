@@ -138,6 +138,8 @@ This collection decodes Scripture to reveal how **The Body of Christ** doctrine 
 - **[1 Corinthians 12: Cellular Diversity](/body-of-christ/1-corinthians-12)** — Understanding individual cells with diverse functions serving one body
 - **[Romans 12: Living Sacrifice](/body-of-christ/romans-12)** — Transforming cells through mind renewal for collective service
 - **[Colossians 1: Christ the Head](/body-of-christ/colossians-1)** — The unifying operator consciousness coordinating all cells
+- **[John 17: The Unity Prayer](/body-of-christ/john-17)** — Jesus' vision for complete unity—"that they may all be one"
+- **[Acts 2: Pentecost Activation](/body-of-christ/acts-2)** — The first mass cellular awakening—120 cells activated simultaneously
 
 *More biblical decodings exploring The Body of Christ will be added to this collection.*
 
