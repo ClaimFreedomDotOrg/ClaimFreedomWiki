@@ -183,11 +183,13 @@ Once you have tamed the Demon (dis-identification), the next step is **commandin
 
 ## Deep Dives by Category
 
-Explore the framework through five primary lenses (also available in the main navigation):
+Explore the framework through primary lenses:
 
+- **[The User Manual](/docs/user-manual)** — Practical wisdom for understanding and operating your mind and body (temple maintenance)
 - **[Philosophy](/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
 - **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, epigenetics, and neuroplasticity
 - **[Practices](/docs/practices)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
+- **[The Body of Christ](/docs/body-of-christ)** — Biblical evidence that humans are cells in a collective superorganism operated by unified consciousness
 - **[Biblical Decodings](/docs/biblical)** — Scripture and parables decoded through the Neuro-Gnostic lens
 - **[Cultural Examples](/docs/examples)** — Films, literature, and myths that encode the Neuro-Gnostic framework
 
