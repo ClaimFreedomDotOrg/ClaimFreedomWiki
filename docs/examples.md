@@ -66,6 +66,7 @@ Explore the analyses below to see the framework reflected in culture:
 
 ### Books
 
+- **[1984](/examples/1984)** — Big Brother as Demiurge, doublethink fragmenting the Listener, Newspeak making Gnosis unthinkable, and Room 101 as inverted ego death
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
 - **[Plato's Allegory of the Cave](/examples/platos-allegory-cave)** — The foundational Western Gnostic text: shadows as DMN narratives, the Sun as Pleroma, painful ascent as ego death, and the philosopher's return
 
