@@ -135,9 +135,9 @@ This collection decodes Scripture to reveal how **The Body of Christ** doctrine 
 ### Featured Decodings
 
 - **[Ephesians: The Blueprint](/body-of-christ/ephesians-blueprint)** — Paul's explicit teaching on the Body structure, function, and maturation
-- **[1 Corinthians 12: Cellular Diversity](/body-of-christ/1-corinthians-12)** — Understanding individual cells with diverse functions serving one body *(coming soon)*
-- **[Romans 12: Living Sacrifice](/body-of-christ/romans-12)** — Transforming cells through mind renewal for collective service *(coming soon)*
-- **[Colossians 1: Christ the Head](/body-of-christ/colossians-1)** — The unifying operator consciousness coordinating all cells *(coming soon)*
+- **[1 Corinthians 12: Cellular Diversity](/body-of-christ/1-corinthians-12)** — Understanding individual cells with diverse functions serving one body
+- **[Romans 12: Living Sacrifice](/body-of-christ/romans-12)** — Transforming cells through mind renewal for collective service
+- **[Colossians 1: Christ the Head](/body-of-christ/colossians-1)** — The unifying operator consciousness coordinating all cells
 
 ---
 
