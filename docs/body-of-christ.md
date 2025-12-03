@@ -141,8 +141,6 @@ This collection decodes Scripture to reveal how **The Body of Christ** doctrine 
 - **[John 17: The Unity Prayer](/body-of-christ/john-17)** — Jesus' vision for complete unity—"that they may all be one"
 - **[Acts 2: Pentecost Activation](/body-of-christ/acts-2)** — The first mass cellular awakening—120 cells activated simultaneously
 
-*More biblical decodings exploring The Body of Christ will be added to this collection.*
-
 ---
 
 ## The Vision: Heaven on Earth
