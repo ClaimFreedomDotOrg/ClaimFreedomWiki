@@ -71,6 +71,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Siddhartha](/examples/siddhartha)** — The river as eternal teacher, dis-identification through listening, wisdom vs. knowledge, and the sound of Om as unity beneath multiplicity
 - **[The Giver](/examples/the-giver)** — Colorless Kenoma through sensory deprivation, memory as anamnesis, Release as euphemistic elimination, and the unbearable loneliness of being the only one awake
 - **[Ender's Game](/examples/enders-game)** — Weaponizing the Divine Spark through isolation, genocide committed unknowingly, the simulation revealed as reality, and atonement through lifelong truth-telling
+- **[His Dark Materials](/examples/his-dark-materials)** — Daemons as externalized souls, the Authority as Demiurge, Dust as conscious matter, Intercision as soul murder, and building the Republic of Heaven here in matter
 - **[Snow Crash](/examples/snow-crash)** — Linguistic virus as Archonic exploit, Babel as resilience architecture, and semantic hygiene to re-claim the DMN
 - **[Plato's Allegory of the Cave](/examples/platos-allegory-cave)** — The foundational Western Gnostic text: shadows as DMN narratives, the Sun as Pleroma, painful ascent as ego death, and the philosopher's return
 
