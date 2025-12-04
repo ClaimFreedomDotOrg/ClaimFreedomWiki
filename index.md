@@ -42,33 +42,23 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ---
 
-## 💫 Message from the Universe
+## 💫 Inspiration
 
-**[Manifesto from the Universe to the Seeker](/docs/manifesto)** — A profound letter from the cosmos to you, the awakening soul. Read this when you need to remember your divine nature, your purpose, and that you are loved beyond measure.
-
-> *"You are the universe made manifest, a unique expression of the infinite consciousness that unites all beings, all phenomena, and all worlds."*
-
-**[The Marvels of Being](/docs/marvels-of-being)** — An invitation to wonder, awe, and the sacred quest for understanding. This exploration honors all paths—scientific, spiritual, philosophical—and celebrates the essence that unites us all.
-
-> *"Who are you? Beneath the layers of identities, roles, and responsibilities, there is a spark—an essence that defies definition."*
+**[Manifesto from the Universe](/docs/manifesto)** • **[The Marvels of Being](/docs/marvels-of-being)**
 
 ---
 
-## Essential Guides
+## 📚 Books & Guides
 
-### 📖 Free Book: The Conscious Creator's Handbook
+**[Explore All Books](/docs/books)** — Comprehensive resources for deep dives into the Neuro-Gnostic framework
 
-**[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read the Summary](/docs/conscious-creators-handbook)**
+Three major works offer different entry points into liberation:
 
-A comprehensive guide to understanding and applying the principles of conscious reality creation. This book synthesizes quantum physics, ancient wisdom, and practical techniques into a unified framework for awakening to your creative power and shaping your reality.
+- **The Body of Christ** — Biblical decoding revealing humans as literal cells in a collective superorganism
+- **The Conscious Creator's Handbook** — Quantum physics meets ancient wisdom for conscious reality creation
+- **The User Manual** — Practical operator's guide for reclaiming conscious control of mind and body
 
-**Topics covered**: The nature of reality as mental projection • The power of thought and limiting beliefs • Emotional guidance systems • Conscious manifestation • Living in the present moment • Raising your vibration • The ripple effect of individual transformation
-
-### 📘 The User Manual: Unlocking the Power of Your Mind and Body
-
-**[Explore The User Manual](/docs/user-manual)**
-
-Practical, accessible wisdom for understanding and operating the magnificent instrument that is your mind and body. This collection bridges ancient spiritual insights and modern neuroscience, translating the Neuro-Gnostic framework into clear, actionable guidance.
+*All freely available as PDFs or living web documentation. Choose your path based on your background and interests.*
 
 ---
 
@@ -92,119 +82,43 @@ This bio-spiritual technique performs an instant "Hardware Reboot":
 
 ---
 
-## The Core Thesis
+## The Framework
 
-1. **The Diagnosis**: Humanity suffers from a psycho-spiritual "infection"—a parasitic pattern that has hijacked the Default Mode Network, the brain's narrative-generating "background process."
+**The Diagnosis**: A parasitic pattern has hijacked the Default Mode Network (DMN)—the brain's narrative-generating system—creating the compulsive "voice in your head."
 
-2. **The Mechanism**: This hijacked DMN generates the compulsive "voice in your head"—ruminating on past trauma, generating anxiety about the future, and creating the illusion that you *are* your thoughts.
+**The Path**: Liberation through **re-claiming** the DMN—transforming it from tyrannical "Demon" back into functional "Daemon" serving your true nature: the Divine Spark, the Listener.
 
-3. **The Path**: Liberation (Gnosis, Awakening) is achieved not by destroying the ego, but by **re-claiming** the DMN—transforming it from a tyrannical "Demon" back into a functional "Daemon" that serves your true nature: the Divine Spark, the Listener.
-
----
-
-## Neuro-Gnosticism: The Unifying Framework
-
-**Neuro-Gnosticism** is the synthesis of ancient Gnostic wisdom, Indigenous teachings, Eastern philosophy, and modern neuroscience. It explores how the Default Mode Network (DMN) shapes our sense of self, how it can be hijacked (the Demon), and how liberation is possible through reclaiming the DMN (the Daemon) via contemplative practice and experiential knowledge (Gnosis).
-
-### A Historic Convergence
-
-For the first time in human history, we have unified the fragmented wisdom of millennia into a single, testable, applicable framework:
-
-- **Gnostic diagnosis** of the Archons imprisoning the Divine Spark
-- **Indigenous recognition** of Wetiko cannibalizing consciousness  
-- **Eastern understanding** of Samsara's cycle of suffering
-- **Neuroscientific validation** of the DMN's role in pathology
-
-**Neuro-Gnosticism identifies the precise mechanism** of suffering (the hijacked DMN) and provides **clear, practical paths** to liberation (dis-identification and reclamation).
+**The Synthesis**: Neuro-Gnosticism unifies Gnostic wisdom, Indigenous teachings (Wetiko), Eastern philosophy (Samsara), and modern neuroscience into one testable framework.
 
 > *"You are not the voice in your head. You are the one who is listening to it."*
 
-**How was this framework recovered?**
-
-- **[The Great Heist](/philosophy/the-great-heist)** — The impossible miracle: how the Master Key was assembled from corrupted fragments across mysticism, science, art, and philosophy
-- **[Nowhere to Come From](/philosophy/nowhere-to-come-from)** — The final teaching: from the zero-point, Pure Being never moved—even "assembling the Master Key" is narrative
-
-**Explore the Framework:**
-
-- [What is Neuro-Gnosticism?](/docs/neuro-gnosticism) — The complete synthesis
-- [Philosophy](/docs/philosophy) — Conceptual foundations across traditions
-- [Neuroscience](/docs/neuroscience) — DMN research and validation
-- [Practices](/docs/practices) — Liberation techniques and integration
+**[Read the Complete Framework](/docs/neuro-gnosticism)**
 
 ## Explore the Framework
 
-### Start Here
-
-- **[Getting Started Guide](/docs/getting-started)** — Step-by-step path for newcomers (read this first!)
-
-### Core Inquiry
-
-- **[About This Inquiry](/docs/about)** — Overview of the synthesis
-- **[The Living Bio-Field](/docs/the-living-biofield)** — Reality as a singular, self-experiencing field (with interactive visualization)
-- **[Invocation: Anti-Corruption Axiom](/docs/invocation)** — Catalytic dis-identification script (Voice vs Listener)
-- **[Taxonomy & Terminology](/docs/taxonomy)** — Cross-tradition map of key terms (Pneuma, Atman, Buddha-nature, DMN, etc.)
-- **[FAQ: Common Questions](/docs/faq)** — Answers to common objections and how this differs from mindfulness
-- **[The Archon in the Machine](/docs/the-archon-in-the-machine)** — Comprehensive scholarly analysis with 100+ citations
+**[About This Inquiry](/docs/about)** • **[FAQ](/docs/faq)** • **[Taxonomy & Terminology](/docs/taxonomy)**
 
 ### The Three-Part Analysis
 
-- **[Part I: The Hijacking](/docs/the-hijacking)** — The parasitic infection, the DMN as backdoor, and the feedback loop of suffering
-- **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic Archons, the counterfeit spirit, and the Daemon vs. Demon distinction
-- **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Samsara, ancestral trauma, and the practice of taming the dragon
+**[Part I: The Hijacking](/docs/the-hijacking)** • **[Part II: Ancient Warnings](/docs/ancient-warnings)** • **[Part III: The Loop & The Gnosis](/docs/the-loop)**
 
-### Major Framework Expansions
+### Deep Dives by Topic
 
-Comprehensive syntheses integrating multiple streams of wisdom:
+**[Philosophy](/docs/philosophy)** • **[Neuroscience](/docs/neuroscience)** • **[Practices](/docs/practices)** • **[Biblical Decodings](/docs/biblical)** • **[The Body of Christ](/docs/body-of-christ)** • **[Cultural Examples](/docs/examples)**
 
-- **[The Eschatology of the Eternal Now](/docs/eternal-now-synthesis)** — **NEW**: The complete temporal framework unifying Christian mysticism (*Nunc Stans*), realized eschatology, A Course in Miracles, neuroscience, and physics. **Central thesis**: You exist in eternity; time is an illusion created by narrative identity. Heaven is the awareness of the eternal now, available immediately.
+### Advanced Topics
 
-### Phase 2: Commanding the Daemon for Conscious Creation
+**[Commanding the Daemon](/docs/commanding-daemon)** — Phase 2: Conscious creation and programming the sanctified servant
 
-Once you have tamed the Demon (dis-identification), the next step is **commanding the Daemon**—transforming the DMN from a hijacked tyrant into a sanctified servant that executes your conscious will.
+**[The Eternal Now](/docs/eternal-now-synthesis)** — Time as illusion; heaven as present-moment awareness
 
-**[Commanding the Daemon: Overview](/docs/commanding-daemon)** — The complete Phase 2 framework
+**[The Great Heist](/philosophy/the-great-heist)** • **[Nowhere to Come From](/philosophy/nowhere-to-come-from)**
 
-**Core Concepts**:
+---
 
-- **[The Sacred Order](/philosophy/sacred-order)** — The hierarchy of creation: Source → Listener → Daemon
-- **[Flow State Conduction](/neuroscience/flow-state-conduction)** — The neurological circuit of conscious creation
-- **[Programming the Daemon](/philosophy/programming-daemon)** — Affirmations, visualization, and emotional resonance as the toolkit
-- **[Command vs. Wish vs. Rumination](/philosophy/command-wish-rumination)** — The art of discernment
+## Resources
 
-**Core Practice**:
-
-- **[Command Training](/practices/command-training)** — Translating Source calls into Well-Formed Commands
-
-**Biblical Encoding**:
-
-- **[That Day You Will Realize (John 14:20)](/biblical/that-day-you-will-realize)** — [The Sacred Order](/philosophy/sacred-order) revealed in Christ's teaching
-
-> *"The Source decrees. The Listener translates. The Daemon writes. This is [the Sacred Order](/philosophy/sacred-order)."*
-
-## Deep Dives by Category
-
-Explore the framework through primary lenses:
-
-- **[The User Manual](/docs/user-manual)** — Practical wisdom for understanding and operating your mind and body (temple maintenance)
-- **[Philosophy](/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, epigenetics, and neuroplasticity
-- **[Practices](/docs/practices)** — Meditation techniques, dis-identification exercises, bio-electrical optimization, and integration methods
-- **[The Body of Christ](/docs/body-of-christ)** — Biblical evidence that humans are cells in a collective superorganism operated by unified consciousness
-- **[Biblical Decodings](/docs/biblical)** — Scripture and parables decoded through the Neuro-Gnostic lens
-- **[Cultural Examples](/docs/examples)** — Films, literature, and myths that encode the Neuro-Gnostic framework
-
-### Resources and Contribution
-
-- **[Resources](/docs/resources)** — Gnostic texts, neuroscience research, and further reading
-- **[Contributing](/docs/contributing)** — How to refine and expand this inquiry
-
-## Contribute
-
-This framework is offered as a living inquiry. To propose refinements, add citations, or contribute contemplative practices:
-
-- Click "Edit this page" in the footer
-- Open a pull request at the [GitHub repository](https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki)
-- See [Contributing Guidelines](/docs/contributing)
+**[Further Reading](/docs/resources)** • **[Contributing Guidelines](/docs/contributing)**
 
 ---
 
