@@ -20,6 +20,10 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 
 ### 1. The Body of Christ: A Literal Decoding of Ancient Wisdom
 
+<div style="text-align:center; margin:1.5rem 0;">
+  <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ Book Cover" style="max-width:300px; width:100%; height:auto; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)  
 **Version:** 1.2.0
 
