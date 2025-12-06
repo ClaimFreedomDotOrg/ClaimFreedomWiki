@@ -50,6 +50,15 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 ## 📚 Books & Guides
 
+<div style="text-align:center; margin:2rem 0;">
+  <a href="/docs/books">
+    <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ Book Cover" style="max-width:350px; width:100%; height:auto; border-radius:8px; box-shadow:0 6px 12px rgba(0,0,0,0.15); transition:transform 0.2s;">
+  </a>
+  <p style="margin-top:1rem; font-style:italic; color:#666;">
+    <strong>Featured:</strong> The Body of Christ — A literal decoding of Scripture revealing humans as cells in a collective superorganism
+  </p>
+</div>
+
 **[Explore All Books](/docs/books)** — Comprehensive resources for deep dives into the Neuro-Gnostic framework
 
 Three major works offer different entry points into liberation:
