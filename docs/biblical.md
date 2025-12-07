@@ -83,6 +83,7 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 ### Core Teachings of Jesus
 
 - **[The Kingdom Within](/biblical/kingdom-within)** — Luke 17:20-21, the inner kingdom
+- **[The Kingdom of Heaven is At Hand](/biblical/kingdom-at-hand)** — Matthew 3:2, Mark 1:15, heaven is not where you go when you die, but what you see when you shift perception
 - **[You Must Be Born Again](/biblical/born-again)** — John 3:1-8, dying to the ego-self
 - **[That Day You Will Realize](/biblical/that-day-you-will-realize)** — John 14:20, [the Sacred Order](/philosophy/sacred-order) revealed (Source → Listener → Daemon)
 - **[That They May Be One](/biblical/that-they-may-be-one)** — John 17:21-23, the unity of [the Sacred Order](/philosophy/sacred-order) and the transfer of glory
