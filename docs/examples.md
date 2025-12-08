@@ -55,6 +55,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Fallout: The Vault Dweller's Exodus](/examples/fallout-vault-dweller)** — The Vault as Kenoma, Vault-Tec as Demiurge, the Wasteland as harsh Pleroma, and "war never changes" as Samsara
 - **[Divinity: Original Sin](/examples/divinity-original-sin)** — Source vs. Void, Source Hunters as pre-Gnosis enforcers, Star/Blood Stones as Gnosis triggers, and remembering the Guardians at the End of Time
 - **[BioShock](/examples/bioshock)** — "Would you kindly" as hypnotic trigger, Rapture as failed Objectivist Kenoma, Atlas as the Archon, and "a man chooses, a slave obeys"
+- **[State of Mind](/examples/state-of-mind)** — Consciousness upload as soul fragmentation, AI copies as perfected Counterfeit Spirit, City 5 as false Pleroma, and the Divine Spark that cannot be digitized
 
 ### TV Shows
 
