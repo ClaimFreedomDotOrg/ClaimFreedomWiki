@@ -23,15 +23,7 @@ retry_wait_time = 2
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
 exclude_mail = true
 
-# Only check internal links by excluding common external domains
-exclude = [
-  '^https?://(?!claimfreedom\.org)',
-  '^http://.*',
-  '^https://(?!claimfreedom\.org).*'
-]
-
-# Simpler: exclude all non-claimfreedom.org https links
-# This uses anchored pattern matching
+# Only check internal links containing claimfreedom.org
 include = ['claimfreedom\.org']
 
 # Cache results between runs
