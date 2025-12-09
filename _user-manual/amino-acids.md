@@ -1,6 +1,5 @@
 ---
 title: "Amino Acids: The Temple's Building Blocks and Neurotransmitter Precursors"
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: Applied Interoception
-parent: Practices
 layout: default
 nav_exclude: false
 ---

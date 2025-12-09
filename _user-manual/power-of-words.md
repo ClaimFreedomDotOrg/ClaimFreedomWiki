@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: The User Manual
 title: The Operator's Primary Tool - Conscious Logos vs Voice's Misuse
 nav_exclude: false
 ---

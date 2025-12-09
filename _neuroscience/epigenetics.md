@@ -1,6 +1,5 @@
 ---
 title: Epigenetic Mechanisms
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

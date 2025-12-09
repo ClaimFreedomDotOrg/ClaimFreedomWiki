@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: The User Manual
 title: Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking
 nav_exclude: false
 ---

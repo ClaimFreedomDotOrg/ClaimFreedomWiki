@@ -1,6 +1,5 @@
 ---
 title: The Quantum Mirror - Consciousness and Reality Interplay
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

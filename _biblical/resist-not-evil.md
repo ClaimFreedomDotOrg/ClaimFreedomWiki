@@ -1,6 +1,5 @@
 ---
 title: Resist Not Evil
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

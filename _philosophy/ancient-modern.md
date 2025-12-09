@@ -1,6 +1,5 @@
 ---
 title: Ancient Warnings, Modern Mechanisms
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

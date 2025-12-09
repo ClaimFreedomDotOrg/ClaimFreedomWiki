@@ -1,6 +1,5 @@
 ---
 title: The Individual Loop
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

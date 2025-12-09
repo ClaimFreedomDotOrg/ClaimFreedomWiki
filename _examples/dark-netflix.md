@@ -1,6 +1,5 @@
 ---
 title: Dark (Netflix Series)
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 ---

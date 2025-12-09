@@ -1,6 +1,5 @@
 ---
 title: "Sleep and Rest: The Nightly Return to Source"
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

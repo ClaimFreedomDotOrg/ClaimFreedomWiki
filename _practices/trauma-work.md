@@ -1,6 +1,5 @@
 ---
 title: Working with Trauma
-parent: Practices
 layout: default
 nav_exclude: false
 ---

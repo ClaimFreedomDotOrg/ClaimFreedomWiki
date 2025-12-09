@@ -1,6 +1,5 @@
 ---
 title: DMN Hyperactivity
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

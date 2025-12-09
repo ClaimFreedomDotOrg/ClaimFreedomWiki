@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: The User Manual
 title: The Avatar
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: The Redeemer Archetype
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

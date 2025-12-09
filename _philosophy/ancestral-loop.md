@@ -1,6 +1,5 @@
 ---
 title: The Ancestral Loop
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

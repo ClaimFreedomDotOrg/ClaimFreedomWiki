@@ -1,6 +1,5 @@
 ---
 title: "Breath: The Pneuma Interface"
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

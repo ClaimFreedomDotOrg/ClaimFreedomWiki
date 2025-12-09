@@ -1,6 +1,5 @@
 ---
 title: Romans 12 - Living Sacrifice and Mind Renewal
-parent: The Body of Christ
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: Transgenerational Transmission
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

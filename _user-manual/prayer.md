@@ -1,6 +1,5 @@
 ---
 title: "Prayer: The Practice of Voice-Quieting"
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

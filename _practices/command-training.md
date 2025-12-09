@@ -1,6 +1,5 @@
 ---
 title: Command Training
-parent: Practices
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: BioShock
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 ---

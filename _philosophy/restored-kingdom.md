@@ -1,6 +1,5 @@
 ---
 title: The Restored Kingdom
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

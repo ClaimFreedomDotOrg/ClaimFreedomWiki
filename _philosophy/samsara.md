@@ -1,6 +1,5 @@
 ---
 title: Samsara - The Eternal Loop
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

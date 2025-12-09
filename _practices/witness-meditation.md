@@ -1,6 +1,5 @@
 ---
 title: Witness Meditation
-parent: Practices
 layout: default
 nav_exclude: false
 ---

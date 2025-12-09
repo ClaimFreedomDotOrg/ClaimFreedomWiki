@@ -1,6 +1,5 @@
 ---
 title: The Wilderness Wandering
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

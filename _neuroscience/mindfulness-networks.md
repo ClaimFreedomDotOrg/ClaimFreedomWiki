@@ -1,6 +1,5 @@
 ---
 title: Mindfulness and Network Balance
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

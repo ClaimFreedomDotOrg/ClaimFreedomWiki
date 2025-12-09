@@ -1,6 +1,5 @@
 ---
 title: The Christ Authority - Sovereignty Over the Demon
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: Pneuma and the Divine Spark
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

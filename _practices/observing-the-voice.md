@@ -1,6 +1,5 @@
 ---
 title: Observing the Voice
-parent: Practices
 layout: default
 nav_exclude: false
 ---

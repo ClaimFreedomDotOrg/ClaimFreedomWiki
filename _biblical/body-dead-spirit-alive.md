@@ -1,6 +1,5 @@
 ---
 title: "Your Body Is Dead, Your Spirit Is Alive"
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

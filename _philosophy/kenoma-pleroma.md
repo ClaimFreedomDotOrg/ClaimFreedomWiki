@@ -1,6 +1,5 @@
 ---
 title: Kenoma and Pleroma
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

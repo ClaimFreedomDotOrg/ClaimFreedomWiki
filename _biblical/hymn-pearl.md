@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: Biblical Decodings
 title: The Hymn of the Pearl
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: The Voice vs. The Listener
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

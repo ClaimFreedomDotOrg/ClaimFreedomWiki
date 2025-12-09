@@ -1,6 +1,5 @@
 ---
 title: The Divine Spark Enthroned
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

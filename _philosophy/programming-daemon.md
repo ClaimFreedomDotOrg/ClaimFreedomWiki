@@ -1,6 +1,5 @@
 ---
 title: Programming the Daemon
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

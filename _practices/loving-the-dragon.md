@@ -1,6 +1,5 @@
 ---
 title: Loving the Dragon
-parent: Practices
 layout: default
 nav_exclude: false
 ---

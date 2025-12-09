@@ -1,6 +1,5 @@
 ---
 title: The Lorax
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 ---

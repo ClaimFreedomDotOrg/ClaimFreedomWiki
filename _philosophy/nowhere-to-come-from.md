@@ -1,6 +1,5 @@
 ---
 title: Nowhere to Come From
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

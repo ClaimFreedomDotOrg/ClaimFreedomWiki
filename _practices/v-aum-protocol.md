@@ -1,6 +1,5 @@
 ---
 title: The V-Aum Protocol
-parent: Practices
 layout: default
 nav_exclude: false
 ---

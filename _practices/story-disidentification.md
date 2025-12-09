@@ -1,6 +1,5 @@
 ---
 title: Dis-Identifying from Story
-parent: Practices
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: The Unified Framework
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

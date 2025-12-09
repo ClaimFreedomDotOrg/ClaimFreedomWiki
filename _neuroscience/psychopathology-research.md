@@ -1,6 +1,5 @@
 ---
 title: DMN and Psychopathology Research
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

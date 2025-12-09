@@ -1,6 +1,5 @@
 ---
 title: Calming the Storm
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

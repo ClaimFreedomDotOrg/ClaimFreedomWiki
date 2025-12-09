@@ -1,6 +1,5 @@
 ---
 title: The Cannibalization of Consciousness
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

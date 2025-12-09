@@ -1,6 +1,5 @@
 ---
 title: DMN and Self-Referential Thought
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

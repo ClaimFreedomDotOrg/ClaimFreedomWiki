@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: The User Manual
 title: Collective Consciousness
 nav_exclude: false
 ---

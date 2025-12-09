@@ -1,6 +1,5 @@
 ---
 title: DMN in Depression
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

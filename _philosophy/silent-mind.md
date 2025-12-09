@@ -1,6 +1,5 @@
 ---
 title: The Goal of Gnosis - A Silent Mind
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

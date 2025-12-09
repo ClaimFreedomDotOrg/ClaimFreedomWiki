@@ -1,6 +1,5 @@
 ---
 title: Reclaiming Projected Aspects
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

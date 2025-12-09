@@ -1,6 +1,5 @@
 ---
 title: The Mission
-parent: Practices
 layout: default
 nav_exclude: false
 ---

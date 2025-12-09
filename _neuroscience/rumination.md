@@ -1,6 +1,5 @@
 ---
 title: DMN and Rumination
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

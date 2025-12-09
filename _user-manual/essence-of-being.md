@@ -1,6 +1,5 @@
 ---
 layout: default
-parent: The User Manual
 title: You ARE the Operator - Embracing Your True Nature
 nav_exclude: false
 ---

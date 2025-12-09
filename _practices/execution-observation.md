@@ -1,6 +1,5 @@
 ---
 title: Execution Observation
-parent: Practices
 layout: default
 nav_exclude: false
 ---

@@ -1,6 +1,5 @@
 ---
 title: Breaking the Epigenetic Loop
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

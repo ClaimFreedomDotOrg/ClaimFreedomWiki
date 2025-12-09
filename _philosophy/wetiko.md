@@ -1,6 +1,5 @@
 ---
 title: Wetiko - The Mind Virus
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

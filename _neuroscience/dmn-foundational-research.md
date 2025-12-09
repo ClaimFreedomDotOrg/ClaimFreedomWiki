@@ -1,6 +1,5 @@
 ---
 title: DMN Discovery and Function
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

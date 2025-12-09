@@ -1,6 +1,5 @@
 ---
 title: The Counterfeit Self
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

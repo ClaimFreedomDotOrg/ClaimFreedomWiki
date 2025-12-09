@@ -1,6 +1,5 @@
 ---
 title: What is the DMN?
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

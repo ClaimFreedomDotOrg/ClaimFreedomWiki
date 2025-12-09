@@ -1,6 +1,5 @@
 ---
 title: The Power of Thought - Conscious Mind as Creative Instrument
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

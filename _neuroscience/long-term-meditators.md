@@ -1,6 +1,5 @@
 ---
 title: Long-Term Meditators
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

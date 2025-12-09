@@ -1,6 +1,5 @@
 ---
 title: The Perennial Philosophy
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

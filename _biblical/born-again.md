@@ -1,6 +1,5 @@
 ---
 title: You Must Be Born Again
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

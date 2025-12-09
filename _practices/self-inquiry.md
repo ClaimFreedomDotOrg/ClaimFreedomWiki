@@ -1,6 +1,5 @@
 ---
 title: Self-Inquiry
-parent: Practices
 layout: default
 nav_exclude: false
 ---

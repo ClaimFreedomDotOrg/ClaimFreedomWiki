@@ -1,6 +1,5 @@
 ---
 title: Service from Overflow
-parent: Practices
 layout: default
 nav_exclude: false
 ---

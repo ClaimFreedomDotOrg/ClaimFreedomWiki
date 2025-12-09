@@ -1,6 +1,5 @@
 ---
 title: "The Fullness of Him Who Fills All in All"
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 ---

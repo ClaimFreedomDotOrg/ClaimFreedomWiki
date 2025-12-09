@@ -1,6 +1,5 @@
 ---
 title: Chronic Stress and Disease
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

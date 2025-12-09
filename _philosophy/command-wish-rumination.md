@@ -1,6 +1,5 @@
 ---
 title: Command vs. Wish vs. Rumination
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

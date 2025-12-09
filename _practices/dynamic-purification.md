@@ -1,6 +1,5 @@
 ---
 title: Dynamic Purification Playbook
-parent: Practices
 layout: default
 nav_exclude: false
 ---

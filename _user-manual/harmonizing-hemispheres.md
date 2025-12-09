@@ -1,6 +1,5 @@
 ---
 title: Technology for Operator Training
-parent: The User Manual
 layout: default
 nav_exclude: false
 ---

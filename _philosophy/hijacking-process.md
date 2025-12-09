@@ -1,6 +1,5 @@
 ---
 title: The Hijacking Process
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---
