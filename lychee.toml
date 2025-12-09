@@ -5,6 +5,9 @@
 # Exclude specific paths (regex patterns)
 exclude_path = ["node_modules"]
 
+# Base URL for resolving relative links
+base = "https://claimfreedom.org"
+
 # Request behavior
 max_redirects = 10
 # accept field removed - use default accepted content types
@@ -19,6 +22,9 @@ retry_wait_time = 2
 
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
 exclude_mail = true
+
+# Only check internal links (claimfreedom.org)
+include_verbatim = ["https://claimfreedom.org/*"]
 
 # Cache results between runs
 cache = true
