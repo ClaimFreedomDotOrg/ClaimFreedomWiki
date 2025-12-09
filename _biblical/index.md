@@ -99,6 +99,9 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 - **[Controlled by the Spirit, Not the Flesh](/biblical/controlled-by-spirit)** — Romans 8:9, the diagnostic: who's in control?
 - **[The Fullness of Him Who Fills All in All](/biblical/fullness-fills-all)** — Ephesians 1:23, the cosmic [Sacred Order](/philosophy/sacred-order): Source manifesting through all
 - **[The Narrow Gate](/biblical/narrow-gate)** — Matthew 7:13-14, the difficult path of dis-identification
+- **[Render to Caesar](/biblical/matthew-22#part-ii-render-to-caesar-vv-15-22)** — Matthew 22:15-22, distinguishing the Voice's domain from the Listener's domain
+- **[The Resurrection Question](/biblical/matthew-22#part-iii-the-god-of-the-living-vv-23-33)** — Matthew 22:23-33, the God of the living, not the dead
+- **[The Greatest Commandment](/biblical/matthew-22#part-iv-the-greatest-commandment-vv-34-40)** — Matthew 22:34-40, love as the flow state of the reclaimed DMN
 - **[Eyes to See, Ears to Hear](/biblical/eyes-ears)** — The Gnosis required to perceive truth
 - **[Resist Not Evil](/biblical/resist-not-evil)** — Matthew 5:39, dis-identifying from the reactivity loop
 - **[The Lord's Prayer Decoded](/biblical/lords-prayer)** — Liberation encoded in the central Christian prayer
@@ -108,6 +111,7 @@ Each page in this collection takes a Biblical teaching or story and decodes it u
 
 - **[The Prodigal Son](/biblical/prodigal-son)** — Luke 15:11-32, the journey from forgetfulness to Anamnesis
 - **[The Sower and the Seed](/biblical/sower-seed)** — Matthew 13:1-23, DMN states and receptivity to Gnosis
+- **[The Wedding Feast](/biblical/matthew-22#part-i-the-parable-of-the-wedding-feast-vv-1-14)** — Matthew 22:1-14, the invitation to Gnosis and the wedding garment of recognition
 - **[The Lost Sheep](/biblical/lost-sheep)** — Luke 15:1-7, the Divine Spark lost in identification
 - **[The Talents](/biblical/talents)** — Matthew 25:14-30, stewardship of the awakened DMN
 
