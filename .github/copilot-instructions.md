@@ -137,23 +137,27 @@ nav_order: [number]  # Lower numbers appear first
 ---
 ```
 
-**CRITICAL for collection pages** (`_practices/`, `_philosophy/`, `_neuroscience/`, `_examples/`, `_biblical/`, `_user-manual/`, `_body-of-christ/`):
+**For collection pages** (`_practices/`, `_philosophy/`, `_neuroscience/`, `_examples/`, `_biblical/`, `_user-manual/`, `_body-of-christ/`):
 ```yaml
 ---
 title: Page Title
-parent: [Collection Name]  # REQUIRED - must match exactly: "Practices", "Philosophy", "Neuroscience", "Cultural Examples", "Biblical Decodings", "The User Manual", "The Body of Christ"
-nav_order: [number]
-layout: default
-nav_exclude: false
+---
+```
+
+**For collection index pages only** (e.g., `_practices/index.md`):
+```yaml
+---
+title: Collection Name  # e.g., "Practices", "Philosophy", "Biblical Decodings"
+nav_order: 1
 ---
 ```
 
 **IMPORTANT**: 
-- Collection pages MUST include the `parent:` field matching their collection's display name
 - Titles with colons (`:`) MUST be quoted: `title: "Example: Subtitle"`
-- The parent name must match the collection index title in `docs/[collection].md` exactly
-- Without the `parent:` field, pages will not appear in the navigation hierarchy
-- For consistency, always include `layout: default` and `nav_exclude: false` explicitly (even though defaults exist in `_config.yml`)
+- Collection pages use **minimal front matter** - just `title:` (and `nav_order: 1` for index pages)
+- Do NOT include `parent:`, `layout:`, or `nav_exclude:` fields - these are handled by `_config.yml`
+- Collection navigation is controlled by `just_the_docs.collections` in `_config.yml`
+- Sub-pages sort alphabetically within their collection (no `nav_order` needed)
 
 ### Markdown Linting
 Follow these rules (enforced by `.markdownlint.json`):
