@@ -17,8 +17,16 @@ remote_theme: just-the-docs/just-the-docs
 just_the_docs:
   # Set a logo later by placing an image in /assets/images/logo.png and uncommenting
   # logo: "/assets/images/logo.png"
-  color_scheme: dark
+  color_scheme: claim_freedom
   search_enabled: true
+  heading_anchors: true
+  # Enable back to top link on pages
+  back_to_top: true
+  back_to_top_text: "Back to top"
+  # Footer content in last edited timestamp
+  last_edit_timestamp: true
+  last_edit_time_format: "%b %e %Y at %I:%M %p"
+  # Enable external links to open in new tab
   # Collections configuration for navigation and search
   collections:
     practices:
