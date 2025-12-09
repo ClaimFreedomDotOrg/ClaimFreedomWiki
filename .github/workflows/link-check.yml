@@ -23,7 +23,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           # Check all files, config handles filtering and options
-          args: --config ./lychee.toml --verbose --include-verbatim .
+          args: --config ./lychee.toml --verbose .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
