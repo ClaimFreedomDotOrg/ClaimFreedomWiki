@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Invocation (Annotated): Anti-Corruption Axiom
+title: "Invocation (Annotated): Anti-Corruption Axiom"
 nav_order: 2.2
 ---
 

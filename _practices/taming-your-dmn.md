@@ -1,5 +1,5 @@
 ---
-title: Practical Guide: Taming Your DMN
+title: "Practical Guide: Taming Your DMN"
 nav_order: 2
 parent: Practices
 layout: default

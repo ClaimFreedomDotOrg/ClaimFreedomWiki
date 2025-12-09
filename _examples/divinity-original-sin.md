@@ -1,5 +1,5 @@
 ---
-title: Divinity: Original Sin
+title: "Divinity: Original Sin"
 nav_order: 8
 ---
 
