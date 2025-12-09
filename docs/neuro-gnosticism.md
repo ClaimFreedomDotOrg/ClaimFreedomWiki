@@ -79,9 +79,9 @@ Neuro-Gnosticism is not a mere philosophical speculation. It is a framework that
 
 - [About This Inquiry](/docs/about)
 - [Getting Started Guide](/docs/getting-started)
-- [Philosophy](/docs/philosophy)
-- [Neuroscience](/docs/neuroscience)
-- [Practices](/docs/practices)
+- [Philosophy](/philosophy/index/)
+- [Neuroscience](/neuroscience/index/)
+- [Practices](/practices/index/)
 - [Taxonomy & Terminology](/docs/taxonomy)
 - [Resources](/docs/resources)
 

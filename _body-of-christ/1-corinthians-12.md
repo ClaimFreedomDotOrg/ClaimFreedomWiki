@@ -530,7 +530,7 @@ Not "you're like a body." Not "imagine yourselves as a body." **YOU ARE.**
 
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — Bio-field mechanics and critical mass
 - **[The Avatar](/user-manual/the-avatar)** — Understanding your temple as cell in collective body
-- **[The User Manual](/docs/user-manual)** — Practical cell maintenance for body coherence
+- **[The User Manual](/user-manual/index/)** — Practical cell maintenance for body coherence
 
 ---
 

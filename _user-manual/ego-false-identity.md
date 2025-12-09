@@ -1123,7 +1123,7 @@ You align with your sacred purpose: Being a clear channel for Divine operation.
 
 - **[Getting Started Guide](/docs/getting-started)** — Your complete path from recognition to practice
 - **[About This Framework](/docs/about)** — The synthesis of Gnosticism, neuroscience, and liberation
-- **[User Manual Overview](/docs/user-manual)** — Complete operator training curriculum
+- **[User Manual Overview](/user-manual/index/)** — Complete operator training curriculum
 
 ---
 

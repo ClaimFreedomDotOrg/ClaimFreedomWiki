@@ -569,7 +569,7 @@ This prayer contains:
 
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — Bio-field mechanics and critical mass
 - **[The Christ Within](/user-manual/christ-within)** — Recognizing indwelling divinity
-- **[Unity Consciousness](/docs/philosophy)** — Gnostic cosmology and the Pleroma
+- **[Unity Consciousness](/philosophy/index/)** — Gnostic cosmology and the Pleroma
 
 ---
 

@@ -349,9 +349,9 @@ These frameworks are complementary. Neuro-Gnosticism provides the diagnostic cla
 
 - **[Getting Started Guide](/docs/getting-started)** — Begin your journey of awakening
 - **[The V-Aum Protocol](/practices/v-aum-protocol)** — Experience instant Gnosis (the Gnostic Off-Switch)
-- **[Philosophy](/docs/philosophy)** — Explore Gnostic cosmology and the nature of consciousness
-- **[Practices](/docs/practices)** — Meditation and dis-identification techniques
-- **[Neuroscience](/docs/neuroscience)** — Understand the DMN and the neuroscience of awakening
+- **[Philosophy](/philosophy/index/)** — Explore Gnostic cosmology and the nature of consciousness
+- **[Practices](/practices/index/)** — Meditation and dis-identification techniques
+- **[Neuroscience](/neuroscience/index/)** — Understand the DMN and the neuroscience of awakening
 
 ---
 

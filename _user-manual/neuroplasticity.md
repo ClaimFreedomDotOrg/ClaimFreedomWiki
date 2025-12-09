@@ -444,7 +444,7 @@ Consider a musician learning to play an instrument:
 
 **Operator applications**:
 
-**1. Meditation practice** (see **[Practices](/docs/practices)**):
+**1. Meditation practice** (see **[Practices](/practices/index/)**):
 
 - **New skill**: Witnessing awareness, DMN quieting
 - **Repetition**: Daily practice (even 5 minutes)

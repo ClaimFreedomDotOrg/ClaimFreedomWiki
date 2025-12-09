@@ -492,7 +492,7 @@ When facing any decision or interaction:
 
 **Instructions**:
 
-1. Choose one biblical parable ([browse biblical decodings](/docs/biblical))
+1. Choose one biblical parable ([browse biblical decodings](/biblical/index/))
 2. Read the allegorical interpretation
 3. Each day, reflect on one aspect of the parable
 4. Find ways to **embody** the teaching in your daily life
@@ -969,7 +969,7 @@ Stop believing you are the voice. Recognize you are the one listening to it. Ope
 - **[The Avatar](/user-manual/the-avatar)** — Understanding the sacred temple in depth
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — How individual awakening serves the whole
 - **[The Voice, False Identity, and Persona](/user-manual/ego-false-identity)** — Understanding the hijacker
-- **[Biblical Decodings](/docs/biblical)** — Allegorical interpretations of parables and scripture
+- **[Biblical Decodings](/biblical/index/)** — Allegorical interpretations of parables and scripture
 - **[Commanding the Daemon](/docs/commanding-daemon)** — Phase 2: Operating avatar consciously for Divine purposes
 
 **Practices**:

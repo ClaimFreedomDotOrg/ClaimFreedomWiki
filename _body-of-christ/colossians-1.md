@@ -662,7 +662,7 @@ Paul's cosmic vision—Christ as the unified operator consciousness coordinating
 
 - **[The Christ Within](/user-manual/christ-within)** — Recognizing the Divine Spark operating through your avatar
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — Bio-field mechanics and critical mass
-- **[Philosophy: Gnostic Cosmology](/docs/philosophy)** — The Pleroma, Logos, and Divine fullness
+- **[Philosophy: Gnostic Cosmology](/philosophy/index/)** — The Pleroma, Logos, and Divine fullness
 
 ---
 

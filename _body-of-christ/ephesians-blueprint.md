@@ -496,9 +496,9 @@ Paul's letter to the Ephesians is a **complete operator manual** for cells in Th
 
 **Framework foundations**:
 
-- **[The User Manual](/docs/user-manual)** — Practical temple maintenance for cell coherence
+- **[The User Manual](/user-manual/index/)** — Practical temple maintenance for cell coherence
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — Bio-field mechanics and critical mass
-- **[Philosophy: Gnostic Cosmology](/docs/philosophy)** — The Pleroma, Archons, Divine Spark
+- **[Philosophy: Gnostic Cosmology](/philosophy/index/)** — The Pleroma, Archons, Divine Spark
 
 ---
 

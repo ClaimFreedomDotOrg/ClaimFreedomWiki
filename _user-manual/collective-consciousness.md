@@ -1922,8 +1922,8 @@ For those ready to consciously participate in collective consciousness:
 
 - **Previous**: [The Galactic Federation](/user-manual/galactic-federation)
 - **Next**: [To be continued...]
-- **Index**: [The User Manual](/docs/user-manual)
+- **Index**: [The User Manual](/user-manual/index/)
 
 ---
 
-*This chapter is part of [The User Manual](/docs/user-manual), a practical guide for the Christ (true Self/Listener) to consciously operate the Avatar (mind/body system) and participate in collective awakening. For the broader philosophical framework, see [The Framework](/docs/about).*
+*This chapter is part of [The User Manual](/user-manual/index/), a practical guide for the Christ (true Self/Listener) to consciously operate the Avatar (mind/body system) and participate in collective awakening. For the broader philosophical framework, see [The Framework](/docs/about).*

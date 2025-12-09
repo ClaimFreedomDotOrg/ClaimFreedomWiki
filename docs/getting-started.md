@@ -249,7 +249,7 @@ This is a **bio-spiritual technique** that performs an instant "Hardware Reboot"
 - Are you able to create space between thoughts and reaction?
 - Has the tyranny of the inner narrative lessened—even slightly?
 
-📖 **Explore all practices**: [Practices Index](/docs/practices)
+📖 **Explore all practices**: [Practices Index](/practices/index/)
 
 ---
 
@@ -345,7 +345,7 @@ If you're drawn to **conceptual understanding** and **ancient wisdom**:
 5. [The Sacred Surrender](/philosophy/sacred-surrender) — The Trinity as conduction system
 6. [Anamnesis: Remembering](/philosophy/anamnesis) — Gnostic recollection
 
-**Full collection**: [Philosophy Index](/docs/philosophy)
+**Full collection**: [Philosophy Index](/philosophy/index/)
 
 ### Path B: Neuroscience & Mechanism
 
@@ -356,7 +356,7 @@ If you're drawn to **scientific validation** and **how the brain works**:
 3. [Epigenetics & the Loop](/neuroscience/epigenetics) — How trauma is inherited and can be broken
 4. [Neuroplasticity](/neuroscience/neuroplasticity) — How the brain rewires
 
-**Full collection**: [Neuroscience Index](/docs/neuroscience)
+**Full collection**: [Neuroscience Index](/neuroscience/index/)
 
 ### Path C: Practices & Integration
 
@@ -367,7 +367,7 @@ If you're drawn to **hands-on techniques** and **daily application**:
 3. [Dynamic Purification Playbook](/practices/dynamic-purification) — Multi-domain clearing (A.R.I.A.)
 4. [Integration After Gnosis](/practices/integration-after-gnosis) — Stabilizing awakening
 
-**Full collection**: [Practices Index](/docs/practices)
+**Full collection**: [Practices Index](/practices/index/)
 
 ### Path D: Biblical & Cultural Decodings
 
@@ -378,7 +378,7 @@ If you're drawn to **reinterpreting sacred texts** and **recognizing the pattern
 3. [The Matrix](/examples/the-matrix) — Wake up from the simulation
 4. [The Truman Show](/examples/the-truman-show) — Escaping the constructed reality
 
-**Full collections**: [Biblical Index](/docs/biblical) | [Cultural Examples](/docs/examples)
+**Full collections**: [Biblical Index](/biblical/index/) | [Cultural Examples](/examples/index/)
 
 ---
 

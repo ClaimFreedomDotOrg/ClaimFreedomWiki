@@ -190,6 +190,6 @@ It is the **end of the loop of hell** within your own consciousness, achieved by
 
 **Next**:
 
-- [Practices](/docs/practices) — Practical meditation and dis-identification methods
-- [Neuroscience](/docs/neuroscience) — Deep dive into DMN research and mechanisms
+- [Practices](/practices/index/) — Practical meditation and dis-identification methods
+- [Neuroscience](/neuroscience/index/) — Deep dive into DMN research and mechanisms
 - [Resources](/docs/resources) — Gnostic texts, neuroscience papers, and further reading

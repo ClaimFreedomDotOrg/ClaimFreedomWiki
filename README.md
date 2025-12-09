@@ -61,9 +61,9 @@ This framework unifies:
 
 ### Deep Dives by Category
 
-- **[Philosophy](https://claimfreedom.org/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, Divine Spark, and conceptual foundations
-- **[Neuroscience](https://claimfreedom.org/docs/neuroscience)** — DMN research, meditation studies, epigenetics, neuroplasticity
-- **[Practices](https://claimfreedom.org/docs/practices)** — Meditation techniques, dis-identification exercises, integration methods
+- **[Philosophy](https://claimfreedom.org/philosophy/)** — Gnostic cosmology, Wetiko, Samsara, Divine Spark, and conceptual foundations
+- **[Neuroscience](https://claimfreedom.org/neuroscience/)** — DMN research, meditation studies, epigenetics, neuroplasticity
+- **[Practices](https://claimfreedom.org/practices/)** — Meditation techniques, dis-identification exercises, integration methods
 
 ---
 

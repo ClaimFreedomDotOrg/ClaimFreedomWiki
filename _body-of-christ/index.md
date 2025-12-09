@@ -185,10 +185,10 @@ Each page decodes specific biblical passages revealing **The Body of Christ** me
 
 ## Further Exploration
 
-- **[The User Manual](/docs/user-manual)** — Practical temple maintenance for optimal cell function
+- **[The User Manual](/user-manual/index/)** — Practical temple maintenance for optimal cell function
 - **[Collective Consciousness](/user-manual/collective-consciousness)** — Understanding the living field connecting all beings
-- **[Biblical Decodings](/docs/biblical)** — Other Scripture passages decoded through the framework
-- **[Philosophy](/docs/philosophy)** — Gnostic cosmology and the Pleroma (Divine fullness)
+- **[Biblical Decodings](/biblical/index/)** — Other Scripture passages decoded through the framework
+- **[Philosophy](/philosophy/index/)** — Gnostic cosmology and the Pleroma (Divine fullness)
 
 ---
 

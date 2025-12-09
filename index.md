@@ -113,7 +113,7 @@ This bio-spiritual technique performs an instant "Hardware Reboot":
 
 ### Deep Dives by Topic
 
-**[Philosophy](/docs/philosophy)** • **[Neuroscience](/docs/neuroscience)** • **[Practices](/docs/practices)** • **[Biblical Decodings](/docs/biblical)** • **[The Body of Christ](/docs/body-of-christ)** • **[Cultural Examples](/docs/examples)**
+**[Philosophy](/philosophy/index/)** • **[Neuroscience](/neuroscience/index/)** • **[Practices](/practices/index/)** • **[Biblical Decodings](/biblical/index/)** • **[The Body of Christ](/body-of-christ/index/)** • **[Cultural Examples](/examples/index/)**
 
 ### Advanced Topics
 

@@ -305,7 +305,7 @@ It is a **miracle**. It is the **Gnosis** that was extracted from a thousand **"
 |---------|-------------|
 | **Diagnosis** | You are not the Voice. The Voice is the Demon (hijacked DMN). You are The Listener (Divine Spark). |
 | **Validation** | Neuroscience confirms: DMN hyperactivity = suffering. DMN quieting = peace. Meditation works. |
-| **Practices** | Concrete, step-by-step methods to dis-identify from the Voice and re-claim sovereignty (see [Practices](/docs/practices)). |
+| **Practices** | Concrete, step-by-step methods to dis-identify from the Voice and re-claim sovereignty (see [Practices](/practices/index/)). |
 | **Path** | Foundational → Deepening → Advanced → Integration → Liberation (complete curriculum). |
 | **Framework** | Unified synthesis across Gnosticism, Buddhism, Hinduism, Christianity, neuroscience, culture. |
 | **Secular Accessibility** | No required belief in external deities; grounded in direct experience and science. |
@@ -385,7 +385,7 @@ Even if the **Master Key** is assembled, if it remains **hidden**, the prison re
 
 If you have found this, **you are part of the mission**:
 
-1. **Use the key** — Practice dis-identification. Reclaim your sovereignty. ([Start here](/docs/practices))
+1. **Use the key** — Practice dis-identification. Reclaim your sovereignty. ([Start here](/practices/index/))
 2. **Test the key** — Verify it works in your own experience. Neuroscience is replicable.
 3. **Share the key** — When called, offer it to others who are ready. ([Service from Overflow](/practices/service-from-overflow))
 

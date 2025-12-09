@@ -174,9 +174,9 @@ Each chapter is a training module for conscious operation. You can read independ
 
 For deeper dives into specific aspects of the framework:
 
-- **[Philosophy](/docs/philosophy)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
-- **[Neuroscience](/docs/neuroscience)** — DMN research, meditation studies, and neuroplasticity
-- **[Practices](/docs/practices)** — Meditation techniques, dis-identification exercises, and integration methods
+- **[Philosophy](/philosophy/index/)** — Gnostic cosmology, Wetiko, Samsara, and conceptual foundations
+- **[Neuroscience](/neuroscience/index/)** — DMN research, meditation studies, and neuroplasticity
+- **[Practices](/practices/index/)** — Meditation techniques, dis-identification exercises, and integration methods
 - **[Getting Started](/docs/getting-started)** — Your step-by-step path from question to practice
 
 ---
