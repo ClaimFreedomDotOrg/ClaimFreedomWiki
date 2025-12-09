@@ -22,8 +22,8 @@ jobs:
         continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
-          # Check all files, config handles filtering and options
-          args: --config ./lychee.toml --verbose .
+          # Check all files with base URL to resolve internal paths
+          args: --base https://claimfreedom.org --config ./lychee.toml --verbose .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

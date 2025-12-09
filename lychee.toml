@@ -26,7 +26,7 @@ retry_wait_time = 2
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
 exclude_mail = true
 
-# Only check internal links containing claimfreedom.org
+# Only check internal claimfreedom.org links
 include = ['claimfreedom\.org']
 
 # Cache results between runs
