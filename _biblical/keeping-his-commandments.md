@@ -242,7 +242,7 @@ Because **you cannot execute the Source's call if you are NOT receiving it.**
 **Practices**:
 
 - **[Heart Listening](/practices/heart-listening)** — Drop awareness into the heart, receive pre-cognitive knowing
-- **[The Stillpoint](/practices/stillpoint)** — Silence the Voice, create space for the Source's call
+- **[Witness Meditation](/practices/witness-meditation)** — Silence the Voice, create space for the Source's call
 - **[V-Aum Protocol](/practices/v-aum-protocol)** — Clear the channel (Voice silenced, Listener anchored)
 
 **What the "commandment" feels like**:
@@ -454,7 +454,7 @@ The remedy: Return to Step 1 (Receive the commandment) - anchor in the heart, li
 
 **The remedy**:
 
-1. **Silence the Voice** ([V-Aum Protocol](/practices/v-aum-protocol), [The Stillpoint](/practices/stillpoint))
+1. **Silence the Voice** ([V-Aum Protocol](/practices/v-aum-protocol), [Witness Meditation](/practices/witness-meditation))
 2. **Anchor in the heart** ([Heart Listening](/practices/heart-listening))
 3. **Create space** (the call is subtle, not loud)
 4. **Practice regularly** (the more you listen, the clearer the call becomes)

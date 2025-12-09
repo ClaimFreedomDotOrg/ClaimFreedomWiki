@@ -269,7 +269,7 @@ Emotional Resonance is the practice of **charging the command with the high-vibr
 
 **Step 1: Enter the Stillpoint** (2-3 minutes)
 
-- Use [V-Aum Protocol](/practices/v-aum-protocol) or [Breath Awareness](/practices/breath-awareness)
+- Use [V-Aum Protocol](/practices/v-aum-protocol) or [Body Anchor](/practices/body-anchor)
 - Establish yourself as The Listener
 
 **Step 2: Issue Affirmations** (2-3 minutes)

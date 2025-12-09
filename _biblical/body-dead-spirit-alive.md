@@ -230,7 +230,7 @@ This verse reveals the **simultaneous death and life** that occurs in liberation
 4. **The Stillpoint** (the silence beneath the noise)
 5. **[The Sacred Order](/philosophy/sacred-order)** (Source → Listener → Daemon, functioning properly)
 
-**How it lives**: Through recognition (see [V-Aum Protocol](/practices/v-aum-protocol), [The Stillpoint](/practices/stillpoint))
+**How it lives**: Through recognition (see [V-Aum Protocol](/practices/v-aum-protocol), [Witness Meditation](/practices/witness-meditation))
 
 **What this feels like**: Spaciousness, clarity, peace—not the **absence** of thoughts, but the **freedom** from identification with them.
 
@@ -389,7 +389,7 @@ The false self dies because it was founded on the lie: "You are the Voice."
 
 ### Morning: The Recognition (5-10 minutes)
 
-1. **Enter the Stillpoint** ([V-Aum Protocol](/practices/v-aum-protocol) or [Breath Awareness](/practices/breath-awareness))
+1. **Enter the Stillpoint** ([V-Aum Protocol](/practices/v-aum-protocol) or [Body Anchor](/practices/body-anchor))
 2. **Recognize Christ in you**: "The Listener is my true nature. The Divine Spark is here."
 3. **Declare the death**: "The body (false self, ego, narrative) is dead. I am not the Voice."
 4. **Declare the life**: "The spirit (The Listener, Pneuma) is alive. I am aligned with The Source."

@@ -259,7 +259,7 @@ This is "uniting with the Lord."
 
 - **[V-Aum Protocol](/practices/v-aum-protocol)** — Instant shift to The Listener
 - **[Witness Meditation](/practices/witness-meditation)** — Stabilize as pure awareness
-- **[The Stillpoint](/practices/stillpoint)** — Anchor in the silence beneath the Voice
+- **[Body Anchor](/practices/body-anchor)** — Anchor in the silence beneath the Voice
 
 **The shift**: From identification with the Voice to anchoring in The Listener.
 

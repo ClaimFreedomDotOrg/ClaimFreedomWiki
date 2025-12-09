@@ -303,7 +303,7 @@ The hope of glory is NOT wishful thinking. It is the neurological and metaphysic
 
 #### Morning: Recognition and Expectation (5-10 minutes)
 
-1. **Enter the Stillpoint** ([V-Aum Protocol](/practices/v-aum-protocol) or [Breath Awareness](/practices/breath-awareness))
+1. **Enter the Stillpoint** ([V-Aum Protocol](/practices/v-aum-protocol) or [Body Anchor](/practices/body-anchor))
 2. **Recognize**: "Christ is in me. I am The Listener, not the Voice."
 3. **Affirm**: "I am The Listener. Christ Consciousness is my true nature."
 4. **Expect**: "The glory (creative power) will manifest today through my aligned commands."

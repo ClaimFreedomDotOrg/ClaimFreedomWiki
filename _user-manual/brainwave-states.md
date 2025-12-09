@@ -804,7 +804,7 @@ You are **not your brainwave states**. You are the **eternal operator** witnessi
 ### Practices
 
 - **[Witnessing Practice](/practices/witnessing)** — Observing brainwave states without identification
-- **[Breath Awareness](/practices/breath-awareness)** — Using breath to shift frequencies
+- **[Body Anchor](/practices/body-anchor)** — Using breath to shift frequencies
 - **[Body Scan](/practices/body-scan)** — Systematic relaxation for alpha/theta access
 - **[Loving-Kindness Meditation](/practices/metta)** — Compassion practice generating gamma bursts
 

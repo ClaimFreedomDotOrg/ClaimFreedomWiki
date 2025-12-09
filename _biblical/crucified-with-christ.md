@@ -261,7 +261,7 @@ Galatians 2:20 is not a one-time conversion. It is a continuous practice.
 
 ### Morning Practice: The Crucifixion (5-10 minutes)
 
-1. **Sit in stillness** ([Breath Awareness](/practices/breath-awareness))
+1. **Sit in stillness** ([Body Anchor](/practices/body-anchor))
 2. **Notice the Voice**: "I need to do this today. I'm anxious about that. I hope this works out."
 3. **Recognize**: "This is the Voice. This is the false 'I.' This is the narrative self."
 4. **Declare**: "I have been crucified with Christ. **This 'I' is not me.**"
@@ -360,7 +360,7 @@ Each time you **remember** ("I am not the Voice, I am The Listener"), you streng
 "I no longer live, but Christ lives in me"
 
 - **Practice**: Anchor in The Listener, stabilize as pure awareness
-- **Practices**: [V-Aum Protocol](/practices/v-aum-protocol), [The Stillpoint](/practices/stillpoint)
+- **Practices**: [V-Aum Protocol](/practices/v-aum-protocol), [Witness Meditation](/practices/witness-meditation)
 
 ---
 

@@ -236,7 +236,7 @@ This verse reveals the **anchoring mechanism** of [the Sacred Order](/philosophy
 **Practices**:
 
 - **[Heart Listening](/practices/heart-listening)** — Drop awareness into the heart, receive the Source's call
-- **[Breath Awareness](/practices/breath-awareness)** — Anchor in the present moment (the heart's domain)
+- **[Body Anchor](/practices/body-anchor)** — Anchor in the present moment (the heart's domain)
 - **[V-Aum Protocol](/practices/v-aum-protocol)** — Silence the head (Voice), anchor in the heart (Source)
 
 **The shift**: From dwelling in the head (rumination) to dwelling in the heart (intuitive knowing).
@@ -275,7 +275,7 @@ This verse reveals the **anchoring mechanism** of [the Sacred Order](/philosophy
 **Practices**:
 
 - **[Daily Integration](/practices/daily-integration)** — Stabilize the anchoring in daily life
-- **[The Stillpoint](/practices/stillpoint)** — Return to the heart-anchoring repeatedly
+- **[Witness Meditation](/practices/witness-meditation)** — Return to the heart-anchoring repeatedly
 
 **The result**: Christ (The Listener) **dwells** permanently in the heart (The Source), rooted and grounded.
 
@@ -483,7 +483,7 @@ Speak this aloud (or silently) while placing your hand on your heart:
 
 - **[Heart Listening](/practices/heart-listening)** — The practice of anchoring Christ in the heart
 - **[V-Aum Protocol](/practices/v-aum-protocol)** — Silence the head (Voice), anchor in the heart (Source)
-- **[Breath Awareness](/practices/breath-awareness)** — Heart-centered breathing (dwelling practice)
+- **[Body Anchor](/practices/body-anchor)** — Heart-centered breathing (dwelling practice)
 - **[Command Training](/practices/command-training)** — Issue commands from the heart-anchored Listener
 
 ---

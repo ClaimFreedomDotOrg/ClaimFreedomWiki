@@ -143,7 +143,7 @@ This verse reveals **how you know** you're anchored in The Listener (Christ Cons
 
 **How you know**: When you pause, there is a **quiet presence**—not blankness, but **aware stillness**
 
-**Practices**: [V-Aum Protocol](/practices/v-aum-protocol), [The Stillpoint](/practices/stillpoint), [Breath Awareness](/practices/breath-awareness)
+**Practices**: [V-Aum Protocol](/practices/v-aum-protocol), [Witness Meditation](/practices/witness-meditation), [Body Anchor](/practices/body-anchor)
 
 **This is the Spirit**: The awareness that is **always here**, beneath the noise.
 
