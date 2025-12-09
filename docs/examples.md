@@ -42,6 +42,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Groundhog Day](/examples/groundhog-day)** — Samsara made literal, the DMN's temporal loop, and liberation through radical transformation
 - **[City of Ember](/examples/city-of-ember)** — The underground prison as Kenoma, lost Gnosis, the dark descent, and emerging into Pleroma
 - **[The Lorax](/examples/the-lorax)** — How the Daemon becomes the Demon, Thneedville as artificial paradise, the Lorax as conscience, and planting the last seed
+- **[How the Grinch Stole Christmas](/examples/the-grinch)** — Childhood trauma as hijacking origin, the two-sizes-too-small heart as contracted consciousness, Mt. Crumpit isolation as dissociation, unconditional witness healing the wound, and the Demon reclaimed as Daemon
 - **[The Island](/examples/the-island)** — Engineered Kenoma, counterfeit ascension lottery, organ harvest as parasitic extraction, and liberation through sensory contradiction
 - **[Eternal Sunshine of the Spotless Mind](/examples/eternal-sunshine)** — Memory erasure as DMN editing, narrative identity exposed, and choosing conscious re-integration over amnesia
 - **[Total Recall](/examples/total-recall)** — Implanted memories as fabricated DMN, Rekall as Demiurgic memory manipulation, Cohaagen as god of air, the unreliable narrator problem, and liberation through action despite narrative uncertainty
