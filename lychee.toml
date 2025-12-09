@@ -8,8 +8,8 @@ exclude_path = ["node_modules"]
 # Base URL for resolving relative links
 base = "https://claimfreedom.org"
 
-# Remap absolute paths to full URLs
-remap = ['^/ https://claimfreedom.org/']
+# Remap absolute paths starting with / to full URLs
+remap = ['^/(.*)$ https://claimfreedom.org/$1']
 
 # Request behavior
 max_redirects = 10
