@@ -3,7 +3,6 @@ title: The Giver
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 31
 ---
 
 # The Giver: Memory as Gnosis, Color as Awakening, and the Price of Sameness

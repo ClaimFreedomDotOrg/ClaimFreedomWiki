@@ -3,7 +3,6 @@ title: Don’t Stop Believin’ – Journey
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 19
 ---
 
 # “Don’t Stop Believin’”: Narrative Compression, Micro-Presence, and Reframing Hope as Practice

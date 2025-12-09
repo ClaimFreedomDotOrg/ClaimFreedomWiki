@@ -3,7 +3,6 @@ title: Ender's Game
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 32
 ---
 
 # Ender's Game: The Unknowing Genocidaire, Simulated Reality, and the Weight of Truth

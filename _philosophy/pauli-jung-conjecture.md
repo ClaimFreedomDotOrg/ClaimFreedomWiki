@@ -3,7 +3,6 @@ title: The Pauli-Jung Conjecture
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 30
 ---
 
 # The Pauli-Jung Conjecture: The Unus Mundus and the Marriage of Mind and Matter

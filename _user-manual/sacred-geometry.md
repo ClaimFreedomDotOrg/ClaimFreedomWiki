@@ -3,7 +3,6 @@ title: Sacred Geometry - The Divine Blueprint Reclaimed
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 31
 ---
 
 # Sacred Geometry: The Divine Blueprint Reclaimed

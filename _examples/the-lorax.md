@@ -3,7 +3,6 @@ title: The Lorax
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 5
 ---
 
 # The Lorax: The Corruption of the Creator

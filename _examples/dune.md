@@ -3,7 +3,6 @@ title: Dune
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 35
 ---
 
 # Dune: The Litany Against Fear, Spice Consciousness, and the Kwisatz Haderach

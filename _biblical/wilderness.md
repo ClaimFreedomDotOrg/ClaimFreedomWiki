@@ -3,7 +3,6 @@ title: The Wilderness Wandering
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 22
 ---
 
 # The Wilderness Wandering: Purification of Parasitic Patterns

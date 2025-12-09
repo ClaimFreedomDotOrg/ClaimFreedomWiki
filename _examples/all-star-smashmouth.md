@@ -3,7 +3,6 @@ title: All Star – Smash Mouth
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 20
 ---
 
 # “All Star”: Meme Armor, Performative Ego, and Reclaiming Play as Conscious Practice

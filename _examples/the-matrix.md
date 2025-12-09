@@ -3,7 +3,6 @@ title: The Matrix
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 2
 ---
 
 # The Matrix: The Gnostic Diagnosis Made Literal

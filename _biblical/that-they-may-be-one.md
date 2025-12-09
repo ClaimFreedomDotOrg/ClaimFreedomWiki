@@ -3,7 +3,6 @@ title: "That They May Be One"
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 29
 ---
 
 # "That All of Them May Be One, as You, Father, Are in Me, and I Am in You"

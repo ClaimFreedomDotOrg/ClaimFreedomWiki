@@ -3,7 +3,6 @@ title: Genetics and Epigenetics - The Avatar's Programmable Blueprint
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 21
 ---
 
 # Genetics and Epigenetics: The Avatar's Programmable Blueprint

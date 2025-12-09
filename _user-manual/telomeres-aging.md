@@ -3,7 +3,6 @@ title: "Telomeres and Aging: The Avatar's Cellular Clock"
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 39
 ---
 
 # Telomeres and Aging: The Avatar's Cellular Clock

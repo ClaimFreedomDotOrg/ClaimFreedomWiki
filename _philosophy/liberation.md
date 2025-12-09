@@ -1,7 +1,6 @@
 ---
 title: Nirvana and Moksha - Liberation
 parent: Philosophy
-nav_order: 11
 layout: default
 nav_exclude: false
 ---

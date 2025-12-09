@@ -3,7 +3,6 @@ title: Brave New World
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 29
 ---
 
 # Brave New World: Engineered Bliss, Chemical Hijacking, and the Soft Tyranny of Pleasure

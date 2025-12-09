@@ -3,7 +3,6 @@ title: "Operator, Temple, Flow: Dismantling the False Trinity"
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 35
 ---
 
 # Operator, Temple, Flow: Dismantling the False Trinity

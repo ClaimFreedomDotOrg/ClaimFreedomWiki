@@ -3,7 +3,6 @@ title: Doubting Thomas
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 19
 ---
 
 # Doubting Thomas: Experiential Gnosis vs. Blind Belief

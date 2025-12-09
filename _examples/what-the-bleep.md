@@ -3,7 +3,6 @@ title: What The Bleep Do We Know!?
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 99
 ---
 
 # What The Bleep Do We Know!?: Quantum Mysticism in Popular Culture

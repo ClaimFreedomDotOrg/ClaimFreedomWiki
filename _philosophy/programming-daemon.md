@@ -3,7 +3,6 @@ title: Programming the Daemon
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 51
 ---
 
 # Programming the Daemon: The Toolkit for Conscious Creation

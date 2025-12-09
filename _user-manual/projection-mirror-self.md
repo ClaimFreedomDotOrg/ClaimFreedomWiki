@@ -1,7 +1,6 @@
 ---
 title: Reclaiming Projected Aspects
 parent: The User Manual
-nav_order: 2
 layout: default
 nav_exclude: false
 ---

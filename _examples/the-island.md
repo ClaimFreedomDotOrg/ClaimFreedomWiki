@@ -3,7 +3,6 @@ title: The Island
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 6
 ---
 
 # The Island: Counterfeit Ascension and Engineered Kenoma

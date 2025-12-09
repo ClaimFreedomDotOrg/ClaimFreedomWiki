@@ -3,7 +3,6 @@ title: The Crucifixion
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 17
 ---
 
 # The Crucifixion: Death of the Ego-Self, Resurrection of the Listener

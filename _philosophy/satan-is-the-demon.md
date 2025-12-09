@@ -1,7 +1,6 @@
 ---
 title: Satan Is the Demon - The Character in the Infinite Loop
 parent: Philosophy
-nav_order: 19
 layout: default
 nav_exclude: false
 ---

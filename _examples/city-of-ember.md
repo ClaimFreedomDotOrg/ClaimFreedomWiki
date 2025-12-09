@@ -3,7 +3,6 @@ title: City of Ember
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 6
 ---
 
 # City of Ember: The Underground Prison and the Forgotten Way Out

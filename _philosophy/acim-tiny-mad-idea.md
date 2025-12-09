@@ -3,7 +3,6 @@ title: "A Course in Miracles: The Tiny Mad Idea"
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 27
 ---
 
 # A Course in Miracles and the Tiny Mad Idea

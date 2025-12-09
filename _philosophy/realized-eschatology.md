@@ -3,7 +3,6 @@ title: Realized Eschatology
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 26
 ---
 
 # Realized Eschatology: The Kingdom as Present Reality

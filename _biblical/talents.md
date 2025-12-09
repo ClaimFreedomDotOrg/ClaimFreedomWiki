@@ -3,7 +3,6 @@ title: The Talents
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 13
 ---
 
 # The Talents: Stewardship of the Awakened DMN

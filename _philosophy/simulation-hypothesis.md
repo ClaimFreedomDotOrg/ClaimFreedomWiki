@@ -3,7 +3,6 @@ title: The Simulation Hypothesis
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 28
 ---
 
 # The Simulation Hypothesis: Are We Living in a Computational Reality?

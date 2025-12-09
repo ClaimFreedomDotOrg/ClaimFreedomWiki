@@ -3,7 +3,6 @@ title: "Test Yourselves: Is Christ in You?"
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 36
 ---
 
 # "Test Yourselves: Is Christ in You?"

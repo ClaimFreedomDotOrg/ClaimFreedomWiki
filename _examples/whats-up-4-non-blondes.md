@@ -3,7 +3,6 @@ title: What's Up? – 4 Non Blondes
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 16
 ---
 
 # “What’s Up?”: Existential Pressure, Archonic Noise, and the Cry for Gnosis

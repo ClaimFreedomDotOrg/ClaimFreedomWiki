@@ -3,7 +3,6 @@ title: "Water: The Avatar's Consciousness Conductor"
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 25
 ---
 
 # Water: The Avatar's Consciousness Conductor

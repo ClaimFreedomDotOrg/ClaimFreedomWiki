@@ -3,7 +3,6 @@ title: Total Recall
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 27
 ---
 
 # Total Recall: Implanted Memories and the Question of Identity

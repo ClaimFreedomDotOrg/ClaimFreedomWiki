@@ -3,7 +3,6 @@ title: The Christ Within - Recognizing the Divine Spark Operating Through Your A
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 15
 ---
 
 # The Christ Within: Recognizing the Divine Spark Operating Through Your Avatar

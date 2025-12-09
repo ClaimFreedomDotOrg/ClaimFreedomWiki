@@ -3,7 +3,6 @@ title: "Keeping His Commandments: The Flow of Mutual Indwelling"
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 37
 ---
 
 # "Keeping His Commandments: The Flow of Mutual Indwelling"

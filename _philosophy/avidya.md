@@ -1,7 +1,6 @@
 ---
 title: Avidya - The Ignorance That Binds
 parent: Philosophy
-nav_order: 10
 layout: default
 nav_exclude: false
 ---

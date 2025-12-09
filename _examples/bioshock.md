@@ -3,7 +3,6 @@ title: BioShock
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 25
 ---
 
 # BioShock: "Would You Kindly" — The Programmed Self Exposed

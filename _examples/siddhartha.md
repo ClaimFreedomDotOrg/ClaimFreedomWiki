@@ -3,7 +3,6 @@ title: Siddhartha
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 30
 ---
 
 # Siddhartha: The River, Dis-identification, and the Sound of Om

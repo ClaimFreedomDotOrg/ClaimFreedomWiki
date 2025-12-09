@@ -1,7 +1,6 @@
 ---
 title: The Divine Spark Enthroned
 parent: Philosophy
-nav_order: 16
 layout: default
 nav_exclude: false
 ---

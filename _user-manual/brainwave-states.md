@@ -3,7 +3,6 @@ title: Brainwave States - Understanding the Avatar's Neural Frequencies
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 22
 ---
 
 # Brainwave States: Understanding the Avatar's Neural Frequencies

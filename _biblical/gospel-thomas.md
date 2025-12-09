@@ -3,7 +3,6 @@ layout: default
 parent: Biblical Decodings
 title: The Gospel of Thomas
 nav_exclude: false
-nav_order: 24
 ---
 
 # The Gospel of Thomas: The Explicit Gnosis

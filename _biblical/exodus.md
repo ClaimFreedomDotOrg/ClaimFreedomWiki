@@ -3,7 +3,6 @@ title: The Exodus
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 21
 ---
 
 # The Exodus: Liberation from DMN Tyranny

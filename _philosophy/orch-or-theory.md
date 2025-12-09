@@ -3,7 +3,6 @@ title: Orchestrated Objective Reduction (Orch OR)
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 31
 ---
 
 # Orchestrated Objective Reduction: The Quantum Biology of Consciousness

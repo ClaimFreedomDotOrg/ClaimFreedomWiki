@@ -1,7 +1,6 @@
 ---
 title: Sailboat with No Wind
 parent: Practices
-nav_order: 15
 nav_exclude: false
 layout: default
 ---

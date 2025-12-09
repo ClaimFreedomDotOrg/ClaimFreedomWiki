@@ -3,7 +3,6 @@ title: Acts 2 - Pentecost and The First Cellular Activation
 parent: The Body of Christ
 layout: default
 nav_exclude: false
-nav_order: 6
 ---
 
 # Acts 2: Pentecost and The First Cellular Activation

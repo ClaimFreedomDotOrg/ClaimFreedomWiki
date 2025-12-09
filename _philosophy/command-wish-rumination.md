@@ -3,7 +3,6 @@ title: Command vs. Wish vs. Rumination
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 52
 ---
 
 # Command vs. Wish vs. Rumination: The Art of Discernment

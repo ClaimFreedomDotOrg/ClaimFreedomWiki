@@ -1,7 +1,6 @@
 ---
 title: DMN in Anxiety Disorders
 parent: Neuroscience
-nav_order: 5
 layout: default
 nav_exclude: false
 ---

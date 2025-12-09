@@ -1,7 +1,6 @@
 ---
 title: Natural Anthelmintic Options
 parent: Neuroscience
-nav_order: 20
 layout: default
 nav_exclude: false
 ---

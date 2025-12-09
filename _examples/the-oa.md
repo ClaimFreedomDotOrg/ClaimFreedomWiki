@@ -3,7 +3,6 @@ title: The OA
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 27
 ---
 
 # The OA: Dimensional Travel, Death as Portal, and Movements as Gnosis

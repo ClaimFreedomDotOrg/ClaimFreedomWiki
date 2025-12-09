@@ -3,7 +3,6 @@ title: Breaking the Media Spell - Reclaiming Operator Attention from Hijacked St
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 14
 ---
 
 # Breaking the Media Spell: Reclaiming Operator Attention from Hijacked Streams

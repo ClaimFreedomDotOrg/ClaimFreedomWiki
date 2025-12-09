@@ -1,7 +1,6 @@
 ---
 title: The Bodhi-Electrum Practice
 parent: Practices
-nav_order: 10
 layout: default
 nav_exclude: false
 ---

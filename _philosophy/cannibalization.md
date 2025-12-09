@@ -1,7 +1,6 @@
 ---
 title: The Cannibalization of Consciousness
 parent: Philosophy
-nav_order: 8
 layout: default
 nav_exclude: false
 ---

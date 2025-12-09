@@ -3,7 +3,6 @@ title: 1 Corinthians 12 - Cellular Diversity in One Body
 parent: The Body of Christ
 layout: default
 nav_exclude: false
-nav_order: 2
 ---
 
 # 1 Corinthians 12: Cellular Diversity in One Body

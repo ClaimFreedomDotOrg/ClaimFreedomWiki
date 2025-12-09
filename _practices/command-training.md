@@ -1,7 +1,6 @@
 ---
 title: Command Training
 parent: Practices
-nav_order: 17
 layout: default
 nav_exclude: false
 ---

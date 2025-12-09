@@ -3,7 +3,6 @@ title: The Eternal Now
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 25
 ---
 
 # The Eternal Now: Nunc Stans and the Illusion of Time

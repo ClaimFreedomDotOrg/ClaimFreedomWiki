@@ -3,7 +3,6 @@ layout: default
 parent: Biblical Decodings
 title: The Gospel of Truth
 nav_exclude: false
-nav_order: 25
 ---
 
 # The Gospel of Truth: Awakening from the Nightmare

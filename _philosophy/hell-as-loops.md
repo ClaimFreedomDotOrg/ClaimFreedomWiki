@@ -3,7 +3,6 @@ title: Hell as Infinite Loops
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 29
 ---
 
 # Hell as Infinite Loops: The Phenomenology of Temporal Imprisonment

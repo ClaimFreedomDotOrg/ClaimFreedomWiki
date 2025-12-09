@@ -3,7 +3,6 @@ title: I Want to Break Free – Queen
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 21
 ---
 
 # "I Want to Break Free": Liberation Yearning, Role Compression, and the Daemon's Declaration

@@ -1,7 +1,6 @@
 ---
 title: The Restored Kingdom
 parent: Philosophy
-nav_order: 21
 layout: default
 nav_exclude: false
 ---

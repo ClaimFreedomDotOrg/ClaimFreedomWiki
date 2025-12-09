@@ -3,7 +3,6 @@ title: His Dark Materials
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 33
 ---
 
 # His Dark Materials: Daemons, the Authority, and the Republic of Heaven

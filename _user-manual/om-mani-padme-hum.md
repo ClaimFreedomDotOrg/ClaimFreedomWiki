@@ -2,7 +2,6 @@
 layout: default
 parent: The User Manual
 title: Sound Technology for Voice-Quieting - OM MANI PADME HUM
-nav_order: 8
 nav_exclude: false
 ---
 

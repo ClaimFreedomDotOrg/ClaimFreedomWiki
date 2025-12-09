@@ -3,7 +3,6 @@ title: "Exercise and Movement: Operating the Avatar Through Motion"
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 40
 ---
 
 # Exercise and Movement: Operating the Avatar Through Motion

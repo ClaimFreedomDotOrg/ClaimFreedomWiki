@@ -1,7 +1,6 @@
 ---
 title: The Sacred Surrender
 parent: Philosophy
-nav_order: 22
 layout: default
 nav_exclude: false
 ---

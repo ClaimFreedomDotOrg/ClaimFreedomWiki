@@ -3,7 +3,6 @@ title: Imagine – John Lennon
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 18
 ---
 
 # “Imagine”: Subtractive Vision, Deconstructing Ownership Scripts, and Present Unity

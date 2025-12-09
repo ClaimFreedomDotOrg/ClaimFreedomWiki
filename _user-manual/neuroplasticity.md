@@ -3,7 +3,6 @@ title: Neuroplasticity - Reprogramming the Avatar
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 20
 ---
 
 # Neuroplasticity: Reprogramming the Avatar

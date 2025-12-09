@@ -1,7 +1,6 @@
 ---
 title: "Practical Guide: Taming Your DMN"
 parent: Practices
-nav_order: 2
 layout: default
 nav_exclude: false
 ---

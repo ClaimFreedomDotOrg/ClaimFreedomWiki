@@ -3,7 +3,6 @@ title: The Tower of Babel
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 20
 ---
 
 # The Tower of Babel: Ego-Driven Striving vs. Listening

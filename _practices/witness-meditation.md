@@ -1,7 +1,6 @@
 ---
 title: Witness Meditation
 parent: Practices
-nav_order: 3
 layout: default
 nav_exclude: false
 ---

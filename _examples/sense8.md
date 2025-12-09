@@ -3,7 +3,6 @@ title: Sense8
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 14
 ---
 
 # Sense8: Shared Consciousness, Empathic Gnosis, and Defending the Cluster

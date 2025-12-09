@@ -3,7 +3,6 @@ layout: default
 parent: Biblical Decodings
 title: The Gospel of Philip
 nav_exclude: false
-nav_order: 26
 ---
 
 # The Gospel of Philip: The Bridal Chamber and Embodied Gnosis

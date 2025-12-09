@@ -3,7 +3,6 @@ title: You Must Be Born Again
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 2
 ---
 
 # You Must Be Born Again: Ego-Death and Resurrection

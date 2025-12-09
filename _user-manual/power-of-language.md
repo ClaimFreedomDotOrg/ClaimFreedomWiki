@@ -3,7 +3,6 @@ title: The Power of Language - Unraveling the Nam Shub
 parent: The User Manual
 layout: default
 nav_exclude: false
-nav_order: 16
 ---
 
 # The Power of Language: Unraveling the Nam Shub

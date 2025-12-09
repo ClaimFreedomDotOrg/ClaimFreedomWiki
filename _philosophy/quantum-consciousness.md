@@ -3,7 +3,6 @@ title: Quantum Consciousness
 parent: Philosophy
 layout: default
 nav_exclude: false
-nav_order: 27
 ---
 
 # The Quantum Self: Navigating the Paradox of "0" and "1"

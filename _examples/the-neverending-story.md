@@ -3,7 +3,6 @@ title: The Neverending Story
 parent: Cultural Examples
 layout: default
 nav_exclude: false
-nav_order: 34
 ---
 
 # The Neverending Story: Fantastica Fading, Naming the Empress, and Becoming the Author

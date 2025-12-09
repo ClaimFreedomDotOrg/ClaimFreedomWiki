@@ -1,7 +1,6 @@
 ---
 title: The Voice, False Identity, and Persona
 parent: The User Manual
-nav_order: 1
 layout: default
 nav_exclude: false
 ---

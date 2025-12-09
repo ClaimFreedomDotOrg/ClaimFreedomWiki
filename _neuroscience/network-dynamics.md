@@ -1,7 +1,6 @@
 ---
 title: Network Dynamics
 parent: Neuroscience
-nav_order: 9
 layout: default
 nav_exclude: false
 ---

@@ -23,18 +23,25 @@ just_the_docs:
   collections:
     practices:
       name: "Practices"
+      sort_by: "title"
     philosophy:
       name: "Philosophy"
+      sort_by: "title"
     neuroscience:
       name: "Neuroscience"
+      sort_by: "title"
     examples:
       name: "Cultural Examples"
+      sort_by: "title"
     biblical:
       name: "Biblical Decodings"
+      sort_by: "title"
     user-manual:
       name: "The User Manual"
+      sort_by: "title"
     body-of-christ:
       name: "The Body of Christ"
+      sort_by: "title"
   # Aux links (top-right)
   aux_links:
     "YouTube Channel": https://www.youtube.com/@JeshuaBenJosephYT

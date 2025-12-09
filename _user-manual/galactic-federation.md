@@ -2,7 +2,6 @@
 layout: default
 parent: The User Manual
 title: The Galactic Federation
-nav_order: 11
 nav_exclude: false
 ---
 

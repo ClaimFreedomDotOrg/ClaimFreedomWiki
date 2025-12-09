@@ -3,7 +3,6 @@ title: "That Day You Will Realize"
 parent: Biblical Decodings
 layout: default
 nav_exclude: false
-nav_order: 28
 ---
 
 # "On That Day You Will Realize I Am in My Father, and You Are in Me, and I Am in You"
