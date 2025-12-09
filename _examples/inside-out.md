@@ -1,5 +1,6 @@
 ---
 title: Inside Out
+parent: Cultural Examples
 nav_order: 27
 ---
 

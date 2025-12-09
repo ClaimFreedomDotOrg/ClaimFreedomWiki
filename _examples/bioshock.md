@@ -1,5 +1,6 @@
 ---
 title: BioShock
+parent: Cultural Examples
 nav_order: 25
 ---
 

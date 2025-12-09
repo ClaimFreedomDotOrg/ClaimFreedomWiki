@@ -1,5 +1,6 @@
 ---
 title: The Perennial Philosophy
+parent: Philosophy
 nav_order: 32
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: State of Mind
+parent: Cultural Examples
 nav_order: 26
 ---
 

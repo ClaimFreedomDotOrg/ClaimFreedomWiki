@@ -1,5 +1,6 @@
 ---
 title: "Breath: The Pneuma Interface"
+parent: The User Manual
 nav_order: 27
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Quantum Consciousness
+parent: Philosophy
 nav_order: 27
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Test Yourselves: Is Christ in You?"
+parent: Biblical Decodings
 nav_order: 36
 ---
 

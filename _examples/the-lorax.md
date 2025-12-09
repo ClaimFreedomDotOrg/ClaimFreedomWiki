@@ -1,5 +1,6 @@
 ---
 title: The Lorax
+parent: Cultural Examples
 nav_order: 5
 ---
 

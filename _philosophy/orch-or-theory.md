@@ -1,5 +1,6 @@
 ---
 title: Orchestrated Objective Reduction (Orch OR)
+parent: Philosophy
 nav_order: 31
 ---
 

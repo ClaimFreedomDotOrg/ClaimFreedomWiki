@@ -1,5 +1,6 @@
 ---
 title: The Giver
+parent: Cultural Examples
 nav_order: 31
 ---
 

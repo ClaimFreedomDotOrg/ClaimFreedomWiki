@@ -1,5 +1,6 @@
 ---
 title: The Talents
+parent: Biblical Decodings
 nav_order: 13
 ---
 

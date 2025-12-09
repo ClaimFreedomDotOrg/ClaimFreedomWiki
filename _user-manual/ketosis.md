@@ -1,5 +1,6 @@
 ---
 title: Ketosis - Metabolic Sovereignty and Voice Silence
+parent: The User Manual
 nav_order: 29
 ---
 

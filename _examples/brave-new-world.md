@@ -1,5 +1,6 @@
 ---
 title: Brave New World
+parent: Cultural Examples
 nav_order: 29
 ---
 

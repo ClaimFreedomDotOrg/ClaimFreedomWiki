@@ -1,5 +1,6 @@
 ---
 title: Manifest
+parent: Cultural Examples
 nav_order: 13
 ---
 

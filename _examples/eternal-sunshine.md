@@ -1,5 +1,6 @@
 ---
 title: Eternal Sunshine of the Spotless Mind
+parent: Cultural Examples
 nav_order: 10
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Truman Show
+parent: Cultural Examples
 nav_order: 3
 ---
 

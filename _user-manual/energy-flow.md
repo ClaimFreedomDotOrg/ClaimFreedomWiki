@@ -1,5 +1,6 @@
 ---
 title: Energy Flow - Operator Training for Temple Conduction
+parent: The User Manual
 nav_order: 30
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Job's Ordeal
+parent: Biblical Decodings
 nav_order: 23
 ---
 

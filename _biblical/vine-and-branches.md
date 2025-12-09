@@ -1,5 +1,6 @@
 ---
 title: "The Vine and the Branches"
+parent: Biblical Decodings
 nav_order: 38
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Sleep and Rest: The Nightly Return to Source"
+parent: The User Manual
 nav_order: 26
 ---
 

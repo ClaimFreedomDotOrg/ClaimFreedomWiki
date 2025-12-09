@@ -1,5 +1,6 @@
 ---
 title: The Exodus
+parent: Biblical Decodings
 nav_order: 21
 ---
 

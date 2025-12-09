@@ -1,5 +1,6 @@
 ---
 title: Microtubules and Consciousness
+parent: Neuroscience
 nav_order: 99
 ---
 

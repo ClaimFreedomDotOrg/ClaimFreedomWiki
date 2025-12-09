@@ -1,5 +1,6 @@
 ---
 title: Stranger Than Fiction
+parent: Cultural Examples
 nav_order: 1
 ---
 

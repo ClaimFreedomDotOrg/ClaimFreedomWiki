@@ -1,5 +1,6 @@
 ---
 title: The Tower of Babel
+parent: Biblical Decodings
 nav_order: 20
 ---
 

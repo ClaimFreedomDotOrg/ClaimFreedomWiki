@@ -1,5 +1,6 @@
 ---
 title: "I Have Made Your Name Known"
+parent: Biblical Decodings
 nav_order: 40
 ---
 

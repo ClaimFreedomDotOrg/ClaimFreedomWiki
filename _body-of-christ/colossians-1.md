@@ -1,5 +1,6 @@
 ---
 title: Colossians 1 - Christ the Head
+parent: The Body of Christ
 nav_order: 4
 ---
 

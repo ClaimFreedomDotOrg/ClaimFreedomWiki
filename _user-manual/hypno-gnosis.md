@@ -1,5 +1,6 @@
 ---
 title: "Hypno-Gnosis: Below Knowing"
+parent: The User Manual
 nav_order: 28
 ---
 

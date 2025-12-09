@@ -1,5 +1,6 @@
 ---
 title: "That They May Be One"
+parent: Biblical Decodings
 nav_order: 29
 ---
 

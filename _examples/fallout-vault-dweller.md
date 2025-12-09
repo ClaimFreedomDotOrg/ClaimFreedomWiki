@@ -1,5 +1,6 @@
 ---
 title: "Fallout: The Vault Dweller's Exodus"
+parent: Cultural Examples
 nav_order: 7
 ---
 

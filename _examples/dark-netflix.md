@@ -1,5 +1,6 @@
 ---
 title: Dark (Netflix Series)
+parent: Cultural Examples
 nav_order: 26
 ---
 

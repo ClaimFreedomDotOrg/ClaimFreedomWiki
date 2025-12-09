@@ -1,5 +1,6 @@
 ---
 title: Casting Out Demons
+parent: Biblical Decodings
 nav_order: 16
 ---
 

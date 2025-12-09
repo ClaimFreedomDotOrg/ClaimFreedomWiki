@@ -1,5 +1,6 @@
 ---
 title: The Kingdom of Heaven is At Hand
+parent: Biblical Decodings
 nav_order: 8
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "One with Him in Spirit"
+parent: Biblical Decodings
 nav_order: 34
 ---
 

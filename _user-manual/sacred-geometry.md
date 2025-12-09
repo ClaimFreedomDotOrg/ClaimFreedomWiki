@@ -1,5 +1,6 @@
 ---
 title: Sacred Geometry - The Divine Blueprint Reclaimed
+parent: The User Manual
 nav_order: 31
 ---
 

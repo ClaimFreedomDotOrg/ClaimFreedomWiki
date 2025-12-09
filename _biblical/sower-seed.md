@@ -1,5 +1,6 @@
 ---
 title: The Sower and the Seed
+parent: Biblical Decodings
 nav_order: 11
 ---
 

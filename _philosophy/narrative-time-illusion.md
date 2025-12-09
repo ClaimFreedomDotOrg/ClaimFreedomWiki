@@ -1,5 +1,6 @@
 ---
 title: Narrative Identity and the Illusion of Time
+parent: Philosophy
 nav_order: 28
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Crucifixion
+parent: Biblical Decodings
 nav_order: 17
 ---
 

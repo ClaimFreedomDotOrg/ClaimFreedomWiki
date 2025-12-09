@@ -1,5 +1,6 @@
 ---
 title: The Road to Emmaus
+parent: Biblical Decodings
 nav_order: 18
 ---
 

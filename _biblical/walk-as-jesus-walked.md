@@ -1,5 +1,6 @@
 ---
 title: "Walk as Jesus Walked"
+parent: Biblical Decodings
 nav_order: 41
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Snow Crash
+parent: Cultural Examples
 nav_order: 12
 ---
 

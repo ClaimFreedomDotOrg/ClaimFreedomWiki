@@ -1,5 +1,6 @@
 ---
 title: Ephesians - The Blueprint for The Body of Christ
+parent: The Body of Christ
 nav_order: 1
 ---
 

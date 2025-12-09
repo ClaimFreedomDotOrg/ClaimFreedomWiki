@@ -1,5 +1,6 @@
 ---
 title: "Christ in You, the Hope of Glory"
+parent: Biblical Decodings
 nav_order: 30
 ---
 

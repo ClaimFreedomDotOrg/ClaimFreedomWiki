@@ -1,5 +1,6 @@
 ---
 title: Fractals - As Above, So Below
+parent: The User Manual
 nav_order: 24
 ---
 

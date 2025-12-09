@@ -1,5 +1,6 @@
 ---
 title: "Keeping His Commandments: The Flow of Mutual Indwelling"
+parent: Biblical Decodings
 nav_order: 37
 ---
 

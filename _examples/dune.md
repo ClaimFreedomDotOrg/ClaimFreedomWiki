@@ -1,5 +1,6 @@
 ---
 title: Dune
+parent: Cultural Examples
 nav_order: 35
 ---
 

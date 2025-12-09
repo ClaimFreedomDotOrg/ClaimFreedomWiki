@@ -1,5 +1,6 @@
 ---
 title: Programming the Daemon
+parent: Philosophy
 nav_order: 51
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Arrival
+parent: Cultural Examples
 nav_order: 11
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: John 17 - The Unity Prayer
+parent: The Body of Christ
 nav_order: 5
 ---
 

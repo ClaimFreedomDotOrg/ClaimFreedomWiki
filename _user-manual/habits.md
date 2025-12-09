@@ -1,5 +1,6 @@
 ---
 title: Habits
+parent: The User Manual
 nav_order: 37
 ---
 

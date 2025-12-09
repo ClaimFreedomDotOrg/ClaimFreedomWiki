@@ -1,5 +1,6 @@
 ---
 title: Sense8
+parent: Cultural Examples
 nav_order: 14
 ---
 

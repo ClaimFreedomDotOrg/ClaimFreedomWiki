@@ -1,5 +1,6 @@
 ---
 title: All Star – Smash Mouth
+parent: Cultural Examples
 nav_order: 20
 ---
 

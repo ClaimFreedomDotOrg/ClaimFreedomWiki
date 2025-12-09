@@ -1,5 +1,6 @@
 ---
 title: Stranger Things
+parent: Cultural Examples
 nav_order: 15
 ---
 

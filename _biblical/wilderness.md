@@ -1,5 +1,6 @@
 ---
 title: The Wilderness Wandering
+parent: Biblical Decodings
 nav_order: 22
 ---
 

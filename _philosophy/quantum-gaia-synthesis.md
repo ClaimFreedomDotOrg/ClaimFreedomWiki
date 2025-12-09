@@ -1,5 +1,6 @@
 ---
 title: The Quantum Gaia Synthesis
+parent: Philosophy
 nav_order: 33
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Realized Eschatology
+parent: Philosophy
 nav_order: 26
 ---
 

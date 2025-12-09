@@ -1,5 +1,6 @@
 ---
 title: The Prodigal Son
+parent: Biblical Decodings
 nav_order: 10
 ---
 

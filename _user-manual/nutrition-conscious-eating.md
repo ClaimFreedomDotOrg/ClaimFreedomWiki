@@ -1,5 +1,6 @@
 ---
 title: "Nutrition: Conscious Fuel for the Sacred Temple"
+parent: The User Manual
 nav_order: 28
 ---
 

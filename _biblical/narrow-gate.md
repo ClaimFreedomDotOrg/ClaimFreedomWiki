@@ -1,5 +1,6 @@
 ---
 title: The Narrow Gate
+parent: Biblical Decodings
 nav_order: 3
 ---
 

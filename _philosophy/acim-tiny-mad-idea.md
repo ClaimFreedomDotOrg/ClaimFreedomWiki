@@ -1,5 +1,6 @@
 ---
 title: "A Course in Miracles: The Tiny Mad Idea"
+parent: Philosophy
 nav_order: 27
 ---
 

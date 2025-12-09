@@ -1,5 +1,6 @@
 ---
 title: The Simulation Hypothesis
+parent: Philosophy
 nav_order: 28
 ---
 

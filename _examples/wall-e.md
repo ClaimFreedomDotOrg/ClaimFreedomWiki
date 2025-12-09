@@ -1,5 +1,6 @@
 ---
 title: WALL-E
+parent: Cultural Examples
 nav_order: 24
 ---
 

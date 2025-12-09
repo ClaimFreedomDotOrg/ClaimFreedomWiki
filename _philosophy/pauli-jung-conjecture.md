@@ -1,5 +1,6 @@
 ---
 title: The Pauli-Jung Conjecture
+parent: Philosophy
 nav_order: 30
 ---
 

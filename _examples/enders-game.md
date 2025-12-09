@@ -1,5 +1,6 @@
 ---
 title: Ender's Game
+parent: Cultural Examples
 nav_order: 32
 ---
 

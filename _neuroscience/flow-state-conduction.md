@@ -1,5 +1,6 @@
 ---
 title: Flow State Conduction
+parent: Neuroscience
 nav_order: 32
 ---
 

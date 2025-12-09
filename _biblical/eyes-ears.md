@@ -1,5 +1,6 @@
 ---
 title: Eyes to See, Ears to Hear
+parent: Biblical Decodings
 nav_order: 4
 ---
 

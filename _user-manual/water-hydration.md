@@ -1,5 +1,6 @@
 ---
 title: "Water: The Avatar's Consciousness Conductor"
+parent: The User Manual
 nav_order: 25
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Sacred Order
+parent: Philosophy
 nav_order: 50
 ---
 

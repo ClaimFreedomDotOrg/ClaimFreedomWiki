@@ -1,5 +1,6 @@
 ---
 title: "Operator, Temple, Flow: Dismantling the False Trinity"
+parent: The User Manual
 nav_order: 35
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Biblical Decodings
 title: The Gospel of Truth
 nav_order: 25
 ---

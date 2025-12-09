@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Biblical Decodings
 title: The Gospel of Thomas
 nav_order: 24
 ---

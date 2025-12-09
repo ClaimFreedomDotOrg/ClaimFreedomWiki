@@ -1,5 +1,6 @@
 ---
 title: "That Day You Will Realize"
+parent: Biblical Decodings
 nav_order: 28
 ---
 

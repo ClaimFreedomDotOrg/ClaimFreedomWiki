@@ -1,5 +1,6 @@
 ---
 title: Siddhartha
+parent: Cultural Examples
 nav_order: 30
 ---
 

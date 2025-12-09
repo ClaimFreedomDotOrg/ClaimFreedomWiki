@@ -1,5 +1,6 @@
 ---
 title: Altered Carbon
+parent: Cultural Examples
 nav_order: 15
 ---
 

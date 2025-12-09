@@ -1,5 +1,6 @@
 ---
 title: Focus - The Double-Edged Sword of Attention
+parent: The User Manual
 nav_order: 32
 ---
 

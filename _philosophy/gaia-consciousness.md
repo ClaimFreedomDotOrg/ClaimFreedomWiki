@@ -1,5 +1,6 @@
 ---
 title: Gaia Consciousness
+parent: Philosophy
 nav_order: 29
 ---
 

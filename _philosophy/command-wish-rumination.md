@@ -1,5 +1,6 @@
 ---
 title: Command vs. Wish vs. Rumination
+parent: Philosophy
 nav_order: 52
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Eternal Now
+parent: Philosophy
 nav_order: 25
 ---
 

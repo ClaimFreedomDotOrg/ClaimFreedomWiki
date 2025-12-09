@@ -1,5 +1,6 @@
 ---
 title: The Temptation of Christ
+parent: Biblical Decodings
 nav_order: 14
 ---
 

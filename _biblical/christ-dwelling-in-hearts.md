@@ -1,5 +1,6 @@
 ---
 title: "Christ Dwelling in Your Hearts"
+parent: Biblical Decodings
 nav_order: 35
 ---
 

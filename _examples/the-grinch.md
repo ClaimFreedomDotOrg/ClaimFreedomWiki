@@ -1,5 +1,6 @@
 ---
 title: How the Grinch Stole Christmas (2000)
+parent: Cultural Examples
 nav_order: 28
 ---
 

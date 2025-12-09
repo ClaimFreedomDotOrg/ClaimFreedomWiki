@@ -1,5 +1,6 @@
 ---
 title: City of Ember
+parent: Cultural Examples
 nav_order: 6
 ---
 

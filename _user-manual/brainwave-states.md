@@ -1,5 +1,6 @@
 ---
 title: Brainwave States - Understanding the Avatar's Neural Frequencies
+parent: The User Manual
 nav_order: 22
 ---
 

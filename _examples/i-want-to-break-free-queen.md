@@ -1,5 +1,6 @@
 ---
 title: I Want to Break Free – Queen
+parent: Cultural Examples
 nav_order: 21
 ---
 

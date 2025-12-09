@@ -1,5 +1,6 @@
 ---
 title: "Shivambu: The Avatar's Perfect Feedback Loop"
+parent: The User Manual
 nav_order: 26
 ---
 

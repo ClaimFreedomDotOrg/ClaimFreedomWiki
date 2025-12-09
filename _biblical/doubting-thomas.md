@@ -1,5 +1,6 @@
 ---
 title: Doubting Thomas
+parent: Biblical Decodings
 nav_order: 19
 ---
 
