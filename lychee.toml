@@ -10,7 +10,7 @@ exclude = [
 
 # Request behavior
 max_redirects = 10
-accept = ["text/html", "text/plain", "application/xml", "application/json"]
+# accept field removed - use default accepted content types
 scheme = ["http", "https"]
 
 # Timeouts (seconds)
