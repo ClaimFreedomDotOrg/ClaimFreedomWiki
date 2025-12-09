@@ -26,7 +26,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
   </a>
 </div>
 
-**Author:** Jeshua ben Joseph (Travis Lee Rowland)  
+**Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Version:** 1.2.0
 
 **[Download PDF](/assets/books/the-body-of-christ-v1.2.pdf)** | **[Read Documentation](/body-of-christ/index/)**
@@ -54,7 +54,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 
 ### 2. The Conscious Creator's Handbook: A Practical Guide to Shaping Your World
 
-**Author:** Jeshua B. Joseph (Travis Lee Rowland)  
+**Author:** Jeshua ben Joseph (Travis Lee Rowland)
 
 **[Download PDF](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read Overview](/docs/conscious-creators-handbook)**
 
@@ -81,7 +81,7 @@ All individuals are **Conscious Creators** who are actively, though often uncons
 
 ### 3. The User Manual: Unlocking the Power of Your Mind and Body
 
-**Author:** Jeshua ben Joseph (Travis Lee Rowland)  
+**Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Status:** Living Documentation (Continuously Updated)
 
 **[Read Online](/user-manual/index/)** — *Web-based, evolving knowledge base*
