@@ -1689,7 +1689,7 @@ Not someday. Not after years of practice. Not through heroic effort.
 
 - **[Breath Meditation](/practices/breath-meditation.md)** — Foundation for pre-sleep Voice-quieting
 - **[Body Scan](/practices/body-scan.md)** — Progressive relaxation for sleep onset
-- **[Loving-Kindness](/practices/loving-kindness.md)** — Pre-sleep compassion practice
+- **[Loving the Dragon](/practices/loving-the-dragon)** — Pre-sleep compassion practice
 
 ### Neuroscience Foundations
 

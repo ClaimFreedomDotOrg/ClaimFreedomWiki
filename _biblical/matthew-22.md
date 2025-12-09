@@ -503,16 +503,17 @@ When you notice yourself caught in the Voice's narrative (anxiety about money, s
 
 ### Neuroscience
 
-- **[DMN and Flow States](/neuroscience/flow-states)** — Love as the reclaimed DMN's natural flow
+- **[Flow State Conduction](/neuroscience/flow-state-conduction)** — Love as the reclaimed DMN's natural flow
 - **[Salience Network](/neuroscience/salience-network)** — The Listener distinguishing Caesar from God
-- **[Empathy and DMN](/neuroscience/empathy-dmn)** — Loving your neighbor through dis-identification
+- **[Meditation and DMN](/neuroscience/meditation-dmn)** — How dis-identification transforms neural networks
 
 ### Practices
 
 - **[Observing the Voice](/practices/observing-the-voice)** — Rendering to Caesar what is Caesar's
 - **[Witness Meditation](/practices/witness-meditation)** — Putting on the wedding garment
 - **[Self-Inquiry](/practices/self-inquiry)** — "Whose image is this?"—recognizing God's image within
-- **[Loving-Kindness Practice](/practices/loving-kindness)** — Loving your neighbor as yourself through recognition
+- **[Flow State Conduction](/practices/flow-state-conduction)** — Practicing love as conduction from Source
+- **[Loving the Dragon](/practices/loving-the-dragon)** — Loving your neighbor as yourself through recognition
 
 ### Related Biblical Decodings
 

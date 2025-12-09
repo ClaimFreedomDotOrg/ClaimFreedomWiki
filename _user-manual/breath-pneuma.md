@@ -1105,7 +1105,7 @@ Serve the awakening.
 ### Contemplative Practices
 
 - **[Breath Meditation](/practices/breath-meditation.md)** — Foundational breath-awareness practice
-- **[Loving-Kindness Practice](/practices/loving-kindness.md)** — Using breath to direct compassion
+- **[Loving the Dragon](/practices/loving-the-dragon)** — Using breath to direct compassion
 - **[Body Scan Meditation](/practices/body-scan.md)** — Breath as tool for interoceptive awareness
 
 ### Neuroscience Foundations
