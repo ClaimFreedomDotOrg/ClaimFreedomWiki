@@ -1,12 +1,9 @@
 # lychee configuration for ClaimFreedomWiki
 # Docs: https://github.com/lycheeverse/lychee/blob/master/lychee.example.toml
 
-# What to check
-include = ["**/*.md", "**/*.html"]
-exclude = [
-  "**/node_modules/**",
-  "**/.git/**",
-]
+# What to check - file patterns handled in workflow args
+# Exclude specific paths (regex patterns)
+exclude_path = ["node_modules"]
 
 # Request behavior
 max_redirects = 10
