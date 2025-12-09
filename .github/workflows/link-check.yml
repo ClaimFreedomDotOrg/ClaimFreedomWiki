@@ -22,8 +22,8 @@ jobs:
         continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
-          # Check all markdown and HTML files using config
-          args: --config ./lychee.toml --verbose '**/*.md' '**/*.html'
+          # Check all files in the repository using config
+          args: --config ./lychee.toml --verbose .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
