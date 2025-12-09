@@ -8,6 +8,9 @@ exclude_path = ["node_modules"]
 # Base URL for resolving relative links
 base = "https://claimfreedom.org"
 
+# Remap absolute paths to full URLs
+remap = ['^/ https://claimfreedom.org/']
+
 # Request behavior
 max_redirects = 10
 # accept field removed - use default accepted content types
