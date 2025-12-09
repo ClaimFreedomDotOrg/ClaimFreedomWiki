@@ -17,7 +17,7 @@ remote_theme: just-the-docs/just-the-docs
 just_the_docs:
   # Set a logo later by placing an image in /assets/images/logo.png and uncommenting
   # logo: "/assets/images/logo.png"
-  color_scheme: light
+  color_scheme: dark
   search_enabled: true
   # Collections configuration for navigation and search
   collections:
