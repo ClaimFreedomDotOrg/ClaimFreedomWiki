@@ -1,5 +1,6 @@
 ---
 title: The Garden of Eden
+parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 30

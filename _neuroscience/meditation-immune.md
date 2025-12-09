@@ -1,5 +1,6 @@
 ---
 title: Meditation and Immune Function
+parent: Neuroscience
 nav_order: 19
 layout: default
 nav_exclude: false

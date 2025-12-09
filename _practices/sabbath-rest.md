@@ -1,5 +1,6 @@
 ---
 title: Sabbath Rest
+parent: Practices
 nav_order: 19
 layout: default
 nav_exclude: false

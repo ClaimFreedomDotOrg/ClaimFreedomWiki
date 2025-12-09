@@ -1,5 +1,6 @@
 ---
 title: Heart Listening
+parent: Practices
 nav_order: 16
 nav_exclude: false
 layout: default

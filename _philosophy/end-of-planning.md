@@ -1,5 +1,6 @@
 ---
 title: The End of Planning - Visualization and Sacred Surrender
+parent: Philosophy
 nav_order: 17
 layout: default
 nav_exclude: false

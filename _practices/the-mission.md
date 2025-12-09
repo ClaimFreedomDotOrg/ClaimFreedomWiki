@@ -1,5 +1,6 @@
 ---
 title: The Mission
+parent: Practices
 nav_order: 11
 layout: default
 nav_exclude: false

@@ -1,5 +1,6 @@
 ---
 title: Etymology and Function - Daemon vs. Demon
+parent: Philosophy
 nav_order: 12
 layout: default
 nav_exclude: false

@@ -1,5 +1,6 @@
 ---
 title: Integration After Gnosis
+parent: Practices
 nav_order: 12
 layout: default
 nav_exclude: false

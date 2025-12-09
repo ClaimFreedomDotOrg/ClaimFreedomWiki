@@ -1,5 +1,6 @@
 ---
 title: "Toroids of Power: Divine Circulation Through the Collective Body"
+parent: The User Manual
 layout: default
 nav_exclude: false
 nav_order: 34

@@ -1,5 +1,6 @@
 ---
 title: DMN and the Narrative Self
+parent: Neuroscience
 nav_order: 4
 layout: default
 nav_exclude: false

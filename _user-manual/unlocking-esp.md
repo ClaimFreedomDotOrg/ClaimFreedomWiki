@@ -1,5 +1,6 @@
 ---
 title: Natural Operator Capacities - ESP as Innate Perception
+parent: The User Manual
 nav_order: 5
 layout: default
 nav_exclude: false

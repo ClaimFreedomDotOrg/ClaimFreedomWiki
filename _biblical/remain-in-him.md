@@ -1,5 +1,6 @@
 ---
 title: "We Remain in Him, and He in Us"
+parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 32

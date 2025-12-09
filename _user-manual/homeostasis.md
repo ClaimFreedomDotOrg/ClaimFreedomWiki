@@ -1,5 +1,6 @@
 ---
 title: "Homeostasis: Cell Health for the Collective Body"
+parent: The User Manual
 layout: default
 nav_exclude: false
 nav_order: 33

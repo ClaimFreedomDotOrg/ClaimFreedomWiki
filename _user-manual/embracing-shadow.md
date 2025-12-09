@@ -1,5 +1,6 @@
 ---
 title: Integrating the Operator
+parent: The User Manual
 nav_order: 3
 layout: default
 nav_exclude: false

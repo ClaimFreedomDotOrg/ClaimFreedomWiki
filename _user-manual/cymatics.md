@@ -1,5 +1,6 @@
 ---
 title: Cymatics - Sound Made Visible
+parent: The User Manual
 layout: default
 nav_exclude: false
 nav_order: 17

@@ -1,5 +1,6 @@
 ---
 title: Ender's Game
+parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 32

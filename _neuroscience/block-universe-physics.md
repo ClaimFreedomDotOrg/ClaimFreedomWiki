@@ -1,5 +1,6 @@
 ---
 title: Block Universe and the Physics of Time
+parent: Neuroscience
 layout: default
 nav_exclude: false
 nav_order: 52

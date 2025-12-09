@@ -1,5 +1,6 @@
 ---
 title: Meditation Effects on DMN
+parent: Neuroscience
 nav_order: 10
 layout: default
 nav_exclude: false

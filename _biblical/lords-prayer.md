@@ -1,5 +1,6 @@
 ---
 title: The Lord's Prayer Decoded
+parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 6

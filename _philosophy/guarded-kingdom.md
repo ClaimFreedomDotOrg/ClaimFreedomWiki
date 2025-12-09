@@ -1,5 +1,6 @@
 ---
 title: The Guarded Kingdom
+parent: Philosophy
 nav_order: 20
 layout: default
 nav_exclude: false

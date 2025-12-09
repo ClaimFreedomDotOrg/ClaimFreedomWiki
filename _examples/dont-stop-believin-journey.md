@@ -1,5 +1,6 @@
 ---
 title: Don’t Stop Believin’ – Journey
+parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 19

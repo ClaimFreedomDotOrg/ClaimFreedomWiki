@@ -1,5 +1,6 @@
 ---
 title: The Deception of Time and the Eternal Now
+parent: Philosophy
 nav_order: 18
 layout: default
 nav_exclude: false

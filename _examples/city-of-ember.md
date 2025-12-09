@@ -1,5 +1,6 @@
 ---
 title: City of Ember
+parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 6

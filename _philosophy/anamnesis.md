@@ -1,5 +1,6 @@
 ---
 title: Anamnesis - Remembering
+parent: Philosophy
 nav_order: 3
 layout: default
 nav_exclude: false

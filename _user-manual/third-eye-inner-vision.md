@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: The User Manual
 title: Activating Direct Knowing - The Third Eye as Operator Capacity
 nav_order: 6
 nav_exclude: false

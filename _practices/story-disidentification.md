@@ -1,5 +1,6 @@
 ---
 title: Dis-Identifying from Story
+parent: Practices
 nav_order: 4
 layout: default
 nav_exclude: false
@@ -68,6 +69,7 @@ The real work happens **throughout the day**:
 ### Morning
 
 Upon waking, notice the **first story** the DMN generates:
+
 - "Ugh, I don't want to get up..."
 - "I have so much to do today..."
 - Label it: "Story about resistance" or "Story about overwhelm"
@@ -131,6 +133,7 @@ Welcome to the meta-loop! The DMN will even weaponize the practice. Just label t
 ### Weekly Review
 
 Once a week, journal:
+
 - What are the **top 3 recurring stories** my DMN tells?
 - What function do they serve? (Protection, control, identity maintenance?)
 - What would life be like if I stopped believing them?
@@ -138,6 +141,7 @@ Once a week, journal:
 ### Story Inventory
 
 Create a list of your core narratives:
+
 - About yourself ("I'm not good enough")
 - About others ("People can't be trusted")
 - About life ("The world is dangerous")

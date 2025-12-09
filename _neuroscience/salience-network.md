@@ -1,5 +1,6 @@
 ---
 title: The Salience Network
+parent: Neuroscience
 nav_order: 8
 layout: default
 nav_exclude: false
