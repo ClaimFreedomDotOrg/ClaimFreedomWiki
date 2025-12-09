@@ -1,6 +1,5 @@
 ---
 title: The Lost Sheep
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 12

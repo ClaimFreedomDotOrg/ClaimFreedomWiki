@@ -3,7 +3,6 @@ title: Sabbath Rest
 nav_order: 19
 layout: default
 nav_exclude: false
-parent: Practices
 ---
 
 # Sabbath Rest: The Practice of Non-Origination

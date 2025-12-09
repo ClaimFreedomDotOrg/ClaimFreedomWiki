@@ -1,6 +1,5 @@
 ---
 title: Get Behind Me, Satan
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 7

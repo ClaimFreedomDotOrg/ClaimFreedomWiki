@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Practices
-nav_order: 8
-has_children: true
-permalink: /practices/
+nav_order: 1
 ---
 
 # Practices for Re-Claiming

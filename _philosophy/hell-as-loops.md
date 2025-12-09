@@ -1,6 +1,5 @@
 ---
 title: Hell as Infinite Loops
-parent: Philosophy
 layout: default
 nav_exclude: false
 nav_order: 29

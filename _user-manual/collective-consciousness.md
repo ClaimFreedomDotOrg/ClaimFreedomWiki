@@ -3,7 +3,6 @@ layout: default
 title: Collective Consciousness
 nav_order: 12
 nav_exclude: false
-parent: The User Manual
 ---
 
 # Collective Consciousness

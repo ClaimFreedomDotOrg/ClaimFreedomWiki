@@ -1,9 +1,6 @@
 ---
-layout: default
 title: The Body of Christ
-nav_order: 11
-has_children: true
-permalink: /body-of-christ/
+nav_order: 1
 ---
 
 # The Body of Christ: The Collective Avatar of Divine Operation

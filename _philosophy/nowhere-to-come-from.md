@@ -3,7 +3,6 @@ title: Nowhere to Come From
 nav_order: 50
 layout: default
 nav_exclude: false
-parent: Philosophy
 ---
 
 # Nowhere to Come From

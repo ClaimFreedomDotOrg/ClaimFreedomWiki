@@ -1,7 +1,6 @@
 ---
 title: Kenoma and Pleroma
 nav_order: 5
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

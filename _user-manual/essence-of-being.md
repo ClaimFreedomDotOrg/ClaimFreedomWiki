@@ -3,7 +3,6 @@ layout: default
 title: You ARE the Operator - Embracing Your True Nature
 nav_order: 7
 nav_exclude: false
-parent: The User Manual
 ---
 
 # You ARE the Operator

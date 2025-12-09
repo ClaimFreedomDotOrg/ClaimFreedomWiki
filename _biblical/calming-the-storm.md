@@ -3,7 +3,6 @@ title: Calming the Storm
 nav_order: 25
 layout: default
 nav_exclude: false
-parent: Biblical Decodings
 ---
 
 # Calming the Storm

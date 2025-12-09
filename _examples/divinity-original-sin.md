@@ -1,6 +1,5 @@
 ---
 title: "Divinity: Original Sin"
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 8

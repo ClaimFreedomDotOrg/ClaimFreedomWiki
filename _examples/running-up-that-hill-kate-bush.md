@@ -1,6 +1,5 @@
 ---
 title: Running Up That Hill (A Deal With God) – Kate Bush
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 17

@@ -3,7 +3,6 @@ title: Natural Operator Capacities - ESP as Innate Perception
 nav_order: 5
 layout: default
 nav_exclude: false
-parent: User Manual
 ---
 
 # Natural Operator Capacities: ESP as Innate Perception

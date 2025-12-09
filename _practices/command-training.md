@@ -3,7 +3,6 @@ title: Command Training
 nav_order: 17
 layout: default
 nav_exclude: false
-parent: Practices
 ---
 
 # Command Training: Translating Will into Action

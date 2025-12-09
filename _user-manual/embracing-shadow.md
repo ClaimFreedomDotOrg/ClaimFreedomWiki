@@ -3,7 +3,6 @@ title: Integrating the Operator
 nav_order: 3
 layout: default
 nav_exclude: false
-parent: User Manual
 ---
 
 # Integrating the Operator

@@ -3,7 +3,6 @@ title: The V-Aum Protocol
 nav_order: 1
 layout: default
 nav_exclude: false
-parent: Practices
 ---
 
 # The V-Aum Protocol: The Gnostic Off-Switch

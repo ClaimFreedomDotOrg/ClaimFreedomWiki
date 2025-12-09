@@ -1,7 +1,6 @@
 ---
 title: Neuroplasticity Mechanisms
 nav_order: 12
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

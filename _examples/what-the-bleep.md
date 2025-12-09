@@ -1,6 +1,5 @@
 ---
 title: What The Bleep Do We Know!?
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 99

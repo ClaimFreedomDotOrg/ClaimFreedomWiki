@@ -1,6 +1,5 @@
 ---
 title: Fahrenheit 451
-parent: Cultural Examples
 layout: default
 nav_exclude: false
 nav_order: 36

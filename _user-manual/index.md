@@ -1,9 +1,6 @@
 ---
-layout: default
 title: The User Manual
-nav_order: 99
-has_children: true
-permalink: /user-manual/
+nav_order: 1
 ---
 
 # The User Manual: Unlocking the Power of Your Mind and Body

@@ -1,6 +1,5 @@
 ---
 title: The Christ Within - Recognizing the Divine Spark Operating Through Your Avatar
-parent: The User Manual
 layout: default
 nav_exclude: false
 nav_order: 15

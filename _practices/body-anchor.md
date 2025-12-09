@@ -1,7 +1,6 @@
 ---
 title: Body as Anchor
 nav_order: 2
-parent: Practices
 layout: default
 nav_exclude: false
 ---

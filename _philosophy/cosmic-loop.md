@@ -1,7 +1,6 @@
 ---
 title: The Cosmic Loop
 nav_order: 19
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

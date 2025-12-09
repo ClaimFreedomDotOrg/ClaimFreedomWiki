@@ -1,7 +1,6 @@
 ---
 title: Epigenetics Research
 nav_order: 23
-parent: Neuroscience
 layout: default
 nav_exclude: false
 ---

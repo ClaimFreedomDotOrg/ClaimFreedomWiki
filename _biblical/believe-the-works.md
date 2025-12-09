@@ -1,6 +1,5 @@
 ---
 title: "Believe the Works Themselves"
-parent: Biblical Decodings
 layout: default
 nav_exclude: false
 nav_order: 39

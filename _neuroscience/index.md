@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Neuroscience
-nav_order: 8
-has_children: true
-permalink: /neuroscience/
+nav_order: 1
 ---
 
 # Neuroscience: The Physical Mechanisms

@@ -1,7 +1,6 @@
 ---
 title: The Gnostic Diagnosis
 nav_order: 1
-parent: Philosophy
 layout: default
 nav_exclude: false
 ---

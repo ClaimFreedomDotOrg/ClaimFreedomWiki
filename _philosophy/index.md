@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Philosophy
-nav_order: 8
-has_children: true
-permalink: /philosophy/
+nav_order: 1
 ---
 
 # Philosophy: The Conceptual Framework

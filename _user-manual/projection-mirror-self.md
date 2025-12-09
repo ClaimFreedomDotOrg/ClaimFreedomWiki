@@ -3,7 +3,6 @@ title: Reclaiming Projected Aspects
 nav_order: 2
 layout: default
 nav_exclude: false
-parent: User Manual
 ---
 
 # Reclaiming Projected Aspects

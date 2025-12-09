@@ -3,7 +3,6 @@ layout: default
 title: The Avatar
 nav_order: 13
 nav_exclude: false
-parent: The User Manual
 ---
 
 # The Avatar

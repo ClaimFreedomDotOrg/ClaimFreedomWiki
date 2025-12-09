@@ -3,7 +3,6 @@ layout: default
 title: Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking
 nav_order: 10
 nav_exclude: false
-parent: The User Manual
 ---
 
 # Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking
