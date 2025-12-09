@@ -3,7 +3,7 @@ layout: default
 title: Biblical Decodings
 nav_order: 9
 has_children: true
-permalink: /docs/biblical/
+permalink: /biblical/
 ---
 
 # Biblical Decodings: The Neuro-Gnostic Gospel

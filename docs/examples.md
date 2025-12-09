@@ -3,6 +3,7 @@ layout: default
 title: Cultural Examples
 nav_order: 9
 has_children: true
+permalink: /examples/
 ---
 
 # Cultural Examples: The Framework in Stories
