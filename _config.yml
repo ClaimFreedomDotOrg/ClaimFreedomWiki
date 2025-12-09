@@ -19,36 +19,6 @@ just_the_docs:
   # logo: "/assets/images/logo.png"
   color_scheme: light
   search_enabled: true
-  # Collections configuration for navigation
-  collections:
-    practices:
-      name: Practices
-      nav_exclude: false
-      search_exclude: false
-    philosophy:
-      name: Philosophy
-      nav_exclude: false
-      search_exclude: false
-    neuroscience:
-      name: Neuroscience
-      nav_exclude: false
-      search_exclude: false
-    examples:
-      name: Cultural Examples
-      nav_exclude: false
-      search_exclude: false
-    biblical:
-      name: Biblical Decodings
-      nav_exclude: false
-      search_exclude: false
-    user-manual:
-      name: User Manual
-      nav_exclude: false
-      search_exclude: false
-    body-of-christ:
-      name: The Body of Christ
-      nav_exclude: false
-      search_exclude: false
   # Aux links (top-right)
   aux_links:
     "YouTube Channel": https://www.youtube.com/@JeshuaBenJosephYT
