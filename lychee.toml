@@ -23,8 +23,8 @@ retry_wait_time = 2
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
 exclude_mail = true
 
-# Only check internal links (claimfreedom.org)
-include_verbatim = ["https://claimfreedom.org/*"]
+# Exclude all external links - only check claimfreedom.org
+exclude = ['^(?!https://claimfreedom\.org).*$']
 
 # Cache results between runs
 cache = true
