@@ -18,8 +18,6 @@ retries = 2
 retry_wait_time = 2
 
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
-# Add more patterns as needed
-exclude_path = []
 exclude_mail = true
 
 # Cache results between runs
