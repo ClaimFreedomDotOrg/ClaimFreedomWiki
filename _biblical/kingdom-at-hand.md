@@ -243,8 +243,8 @@ From the Listener's perspective, ask:
 
 ### Neuroscience
 
-- **[DMN and Perception](/neuroscience/dmn-perception)** — How the hijacked DMN filters reality
-- **[Meditation and Reality Tunnels](/neuroscience/meditation-reality-tunnels)** — Shifting perceptual frameworks
+- **[DMN and Perception](/neuroscience/dmn-narrative-self)** — How the hijacked DMN filters reality
+- **[Meditation and Reality Tunnels](/neuroscience/meditation-dmn)** — Shifting perceptual frameworks
 - **[Neuroplasticity and Awakening](/neuroscience/neuroplasticity)** — The brain can be retrained to see differently
 
 ### Practices

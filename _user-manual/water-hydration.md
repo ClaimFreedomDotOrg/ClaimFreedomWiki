@@ -1150,7 +1150,7 @@ Serve the awakening.
 
 - **[Body Scan Meditation](/practices/body-scan.md)** — Sensing the avatar's signals (including thirst)
 - **[Mindful Eating](/practices/mindful-eating.md)** — Extends to mindful drinking
-- **[Gratitude Practice](/practices/gratitude.md)** — Offering thanks for water and life
+- **[Gratitude Practice](/practices/gratitude)** — Offering thanks for water and life
 
 ### Neuroscience Foundations
 

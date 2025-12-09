@@ -1585,8 +1585,8 @@ Not someday. Not after perfect diet achieved. Not through extreme restriction.
 ### Contemplative Practices
 
 - **[Mindful Eating](/practices/mindful-eating.md)** — Full practice guide
-- **[Gratitude Practice](/practices/gratitude.md)** — Offering thanks for food
 - **[Body Scan Meditation](/practices/body-scan.md)** — Sensing hunger/satiety signals
+- **[Gratitude Practice](/practices/gratitude)** — Offering thanks for food
 
 ### Neuroscience Foundations
 

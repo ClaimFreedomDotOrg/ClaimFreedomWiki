@@ -470,7 +470,7 @@ Speak this aloud (or silently) to anchor the practice:
 
 - **[The Counterfeit Self](/philosophy/counterfeit-self)** — The false "I" that must be crucified
 - **[The Divine Spark](/philosophy/divine-spark)** — The "Christ in you" that lives
-- **[Dis-identification](/philosophy/disidentification)** — The practice of crucifying the false self
+- **[Dis-identification](/philosophy/voice-listener)** — The practice of crucifying the false self
 
 ### Neuroscience
 

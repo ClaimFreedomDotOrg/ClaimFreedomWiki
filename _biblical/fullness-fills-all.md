@@ -478,7 +478,6 @@ Speak this to anchor in the collective field:
 - **[Witness Meditation](/practices/witness-meditation)** — Anchoring as a functional cell (Listener active)
 - **[Heart Listening](/practices/heart-listening)** — Receiving the Source's call (filling you)
 - **[V-Aum Protocol](/practices/v-aum-protocol)** — Healing when diseased (Voice hijacking)
-- **[Group Meditation](/practices/group-meditation)** — Experiencing the collective field amplified
 
 ---
 

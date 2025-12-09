@@ -1671,8 +1671,8 @@ Conditionally essential amino acids:
 ### Contemplative Practices
 
 - **[Mindful Eating](/practices/mindful-eating)** — Bringing presence to protein consumption
-- **[Gratitude Practice](/practices/gratitude)** — Offering thanks for molecular building blocks
 - **[Body Scan Meditation](/practices/body-scan)** — Sensing avatar's amino acid needs through body awareness
+- **[Gratitude Practice](/practices/gratitude)** — Offering thanks for molecular building blocks
 
 ---
 

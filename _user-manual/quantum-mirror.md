@@ -1060,8 +1060,8 @@ You hold extraordinary power—the power of **conscious observation**, **coheren
 
 - **[Heart Coherence](/practices/heart-coherence)** — Foundational practice for vibrational alignment
 - **[Witnessing Awareness](/practices/witnessing-awareness)** — Observing what you're broadcasting
-- **[Gratitude Practice](/practices/gratitude)** — Amplifying coherent frequency
 - **[Visualization](/practices/visualization)** — Consciously collapsing quantum probability
+- **[Gratitude Practice](/practices/gratitude)** — Amplifying coherent frequency
 
 **Philosophy**:
 
