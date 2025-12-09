@@ -23,6 +23,7 @@ How DMN dysfunction manifests as mental suffering.
 - [DMN in Depression](/neuroscience/dmn-depression) — Rumination loops and hyperconnectivity
 - [DMN in Anxiety Disorders](/neuroscience/dmn-anxiety) — Catastrophic prospection and future-bias
 - [DMN and Rumination](/neuroscience/rumination) — The neurological "loop of hell"
+- [Cognitive Dissonance](/neuroscience/cognitive-dissonance) — The discomfort from contradictory beliefs and how the DMN resolves it
 
 ## Brain Networks and Balance
 

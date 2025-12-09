@@ -16,6 +16,7 @@ The framework synthesizes insights from:
 Early Christian mystical texts describing the Archons, the Demiurge, and the imprisonment of the Divine Spark within the counterfeit spirit.
 
 - [The Gnostic Diagnosis](/philosophy/gnostic-diagnosis) — Archons, counterfeit spirit, and cosmic identity theft
+- [Gnosis](/philosophy/gnosis) — Experiential knowing vs. intellectual belief; the saving knowledge
 - [Pneuma and the Divine Spark](/philosophy/divine-spark) — The true Self trapped in matter
 - [Anamnesis: Remembering](/philosophy/anamnesis) — Gnostic recollection as the path to liberation
 

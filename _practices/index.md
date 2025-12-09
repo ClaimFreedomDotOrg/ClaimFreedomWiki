@@ -45,6 +45,7 @@ All practices begin with [the central question](/docs/about#the-central-question
 - [Dis-Identifying from Story](/practices/story-disidentification) — Breaking DMN narrative loops
 - [Loving the Dragon](/practices/loving-the-dragon) — Compassionate relationship with the hijacked DMN
 - [Daily Micro-Practices](/practices/daily-integration) — Throughout-the-day awareness exercises
+- [Gratitude Practice](/practices/gratitude) — Shifting from the Voice's lack narrative to the Listener's abundance
 
 ### Advanced Inquiry
 
