@@ -1,7 +1,5 @@
 ---
 title: "Believe the Works Themselves"
-layout: default
-nav_exclude: false
 ---
 
 # "Believe the Works Themselves"

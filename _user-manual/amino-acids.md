@@ -1,7 +1,5 @@
 ---
 title: "Amino Acids: The Temple's Building Blocks and Neurotransmitter Precursors"
-layout: default
-nav_exclude: false
 ---
 
 # Amino Acids: The Temple's Building Blocks and Neurotransmitter Precursors

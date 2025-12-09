@@ -1,7 +1,5 @@
 ---
 title: City of Ember
-layout: default
-nav_exclude: false
 ---
 
 # City of Ember: The Underground Prison and the Forgotten Way Out

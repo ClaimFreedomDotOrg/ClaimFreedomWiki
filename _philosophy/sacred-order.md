@@ -1,7 +1,5 @@
 ---
 title: The Sacred Order
-layout: default
-nav_exclude: false
 ---
 
 # The Sacred Order: The Hierarchy of Creation

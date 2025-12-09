@@ -1,7 +1,5 @@
 ---
 title: The Bodhi-Electrum Practice
-layout: default
-nav_exclude: false
 ---
 
 # The Bodhi-Electrum Practice

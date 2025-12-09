@@ -1,7 +1,5 @@
 ---
 title: The Kingdom of Heaven is At Hand
-layout: default
-nav_exclude: false
 ---
 
 # The Kingdom of Heaven is At Hand

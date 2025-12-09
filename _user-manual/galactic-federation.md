@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Galactic Federation
-nav_exclude: false
 ---
 
 # The Galactic Federation

@@ -1,7 +1,5 @@
 ---
 title: DMN and Psychopathology Research
-layout: default
-nav_exclude: false
 ---
 
 # DMN and Psychopathology Research

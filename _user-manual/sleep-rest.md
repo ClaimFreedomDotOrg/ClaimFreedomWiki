@@ -1,7 +1,5 @@
 ---
 title: "Sleep and Rest: The Nightly Return to Source"
-layout: default
-nav_exclude: false
 ---
 
 # Sleep and Rest: The Nightly Return to Source

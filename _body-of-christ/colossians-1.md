@@ -1,7 +1,5 @@
 ---
 title: Colossians 1 - Christ the Head
-layout: default
-nav_exclude: false
 ---
 
 # Colossians 1: Christ the Head

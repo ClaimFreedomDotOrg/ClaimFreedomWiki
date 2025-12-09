@@ -1,7 +1,5 @@
 ---
 title: The Matrix
-layout: default
-nav_exclude: false
 ---
 
 # The Matrix: The Gnostic Diagnosis Made Literal

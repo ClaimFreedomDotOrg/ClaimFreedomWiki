@@ -1,7 +1,5 @@
 ---
 title: State of Mind
-layout: default
-nav_exclude: false
 ---
 
 # State of Mind: The Uploaded Consciousness as Counterfeit Spirit

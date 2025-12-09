@@ -1,7 +1,5 @@
 ---
 title: The OA
-layout: default
-nav_exclude: false
 ---
 
 # The OA: Dimensional Travel, Death as Portal, and Movements as Gnosis

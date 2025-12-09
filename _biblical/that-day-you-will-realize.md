@@ -1,7 +1,5 @@
 ---
 title: "That Day You Will Realize"
-layout: default
-nav_exclude: false
 ---
 
 # "On That Day You Will Realize I Am in My Father, and You Are in Me, and I Am in You"

@@ -1,7 +1,5 @@
 ---
 title: DMN in Anxiety Disorders
-layout: default
-nav_exclude: false
 ---
 
 # DMN in Anxiety Disorders

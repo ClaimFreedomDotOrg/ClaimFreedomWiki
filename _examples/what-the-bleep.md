@@ -1,7 +1,5 @@
 ---
 title: What The Bleep Do We Know!?
-layout: default
-nav_exclude: false
 ---
 
 # What The Bleep Do We Know!?: Quantum Mysticism in Popular Culture

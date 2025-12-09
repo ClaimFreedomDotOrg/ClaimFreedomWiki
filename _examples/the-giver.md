@@ -1,7 +1,5 @@
 ---
 title: The Giver
-layout: default
-nav_exclude: false
 ---
 
 # The Giver: Memory as Gnosis, Color as Awakening, and the Price of Sameness

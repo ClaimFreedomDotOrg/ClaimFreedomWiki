@@ -1,7 +1,5 @@
 ---
 title: "Keeping His Commandments: The Flow of Mutual Indwelling"
-layout: default
-nav_exclude: false
 ---
 
 # "Keeping His Commandments: The Flow of Mutual Indwelling"

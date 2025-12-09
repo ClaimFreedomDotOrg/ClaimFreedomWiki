@@ -1,7 +1,5 @@
 ---
 title: Microtubules and Consciousness
-layout: default
-nav_exclude: false
 ---
 
 # Microtubules and Consciousness: A Critical Analysis of Quantum Biology

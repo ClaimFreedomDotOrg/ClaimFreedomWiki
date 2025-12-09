@@ -1,7 +1,5 @@
 ---
 title: Quantum Consciousness
-layout: default
-nav_exclude: false
 ---
 
 # The Quantum Self: Navigating the Paradox of "0" and "1"

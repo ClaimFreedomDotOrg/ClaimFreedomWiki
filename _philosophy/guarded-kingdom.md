@@ -1,7 +1,5 @@
 ---
 title: The Guarded Kingdom
-layout: default
-nav_exclude: false
 ---
 
 # The Guarded Kingdom

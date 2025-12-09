@@ -1,7 +1,5 @@
 ---
 title: Transgenerational Transmission
-layout: default
-nav_exclude: false
 ---
 
 # Transgenerational Transmission

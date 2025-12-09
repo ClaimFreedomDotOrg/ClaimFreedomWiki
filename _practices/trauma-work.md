@@ -1,7 +1,5 @@
 ---
 title: Working with Trauma
-layout: default
-nav_exclude: false
 ---
 
 # Working with Trauma

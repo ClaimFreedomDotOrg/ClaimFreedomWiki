@@ -1,7 +1,5 @@
 ---
 title: Total Recall
-layout: default
-nav_exclude: false
 ---
 
 # Total Recall: Implanted Memories and the Question of Identity

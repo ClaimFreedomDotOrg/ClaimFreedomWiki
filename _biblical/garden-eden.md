@@ -1,7 +1,5 @@
 ---
 title: The Garden of Eden
-layout: default
-nav_exclude: false
 ---
 
 # The Garden of Eden: The Original Hijacking

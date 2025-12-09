@@ -1,7 +1,5 @@
 ---
 title: The Exodus
-layout: default
-nav_exclude: false
 ---
 
 # The Exodus: Liberation from DMN Tyranny
@@ -96,7 +94,7 @@ Traditional framing:
 - **Fear-driven** ("The people are too many and too mighty" = Voice's terror of the Divine Spark's power)
 - **Exploitative** (extracts value from your consciousness without reciprocity)
 
-**"Pharaoh's hardened heart"**: 
+**"Pharaoh's hardened heart"**:
 
 **Not**: God arbitrarily preventing free will.
 

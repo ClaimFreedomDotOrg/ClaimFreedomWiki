@@ -1,7 +1,5 @@
 ---
 title: Sabbath Rest
-layout: default
-nav_exclude: false
 ---
 
 # Sabbath Rest: The Practice of Non-Origination

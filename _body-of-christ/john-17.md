@@ -1,7 +1,5 @@
 ---
 title: John 17 - The Unity Prayer
-layout: default
-nav_exclude: false
 ---
 
 # John 17: The Unity Prayer

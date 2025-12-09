@@ -1,7 +1,5 @@
 ---
 title: "Walk as Jesus Walked"
-layout: default
-nav_exclude: false
 ---
 
 # "Walk as Jesus Walked"

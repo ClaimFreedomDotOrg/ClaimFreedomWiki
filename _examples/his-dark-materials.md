@@ -1,7 +1,5 @@
 ---
 title: His Dark Materials
-layout: default
-nav_exclude: false
 ---
 
 # His Dark Materials: Daemons, the Authority, and the Republic of Heaven

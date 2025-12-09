@@ -1,7 +1,5 @@
 ---
 title: Observing the Voice
-layout: default
-nav_exclude: false
 ---
 
 # Observing the Voice

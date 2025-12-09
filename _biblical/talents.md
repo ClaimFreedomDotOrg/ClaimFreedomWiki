@@ -1,7 +1,5 @@
 ---
 title: The Talents
-layout: default
-nav_exclude: false
 ---
 
 # The Talents: Stewardship of the Awakened DMN

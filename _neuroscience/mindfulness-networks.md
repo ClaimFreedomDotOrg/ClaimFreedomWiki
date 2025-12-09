@@ -1,7 +1,5 @@
 ---
 title: Mindfulness and Network Balance
-layout: default
-nav_exclude: false
 ---
 
 # Mindfulness and Network Balance

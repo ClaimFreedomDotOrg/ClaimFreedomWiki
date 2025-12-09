@@ -67,55 +67,6 @@ defaults:
       layout: default
       nav_exclude: false
       has_children: false
-  - scope:
-      path: "_practices"
-      type: "practices"
-    values:
-      layout: default
-      parent: "Practices"
-      nav_exclude: false
-  - scope:
-      path: "_philosophy"
-      type: "philosophy"
-    values:
-      layout: default
-      parent: "Philosophy"
-      nav_exclude: false
-  - scope:
-      path: "_neuroscience"
-      type: "neuroscience"
-    values:
-      layout: default
-      parent: "Neuroscience"
-      nav_exclude: false
-  - scope:
-      path: "_examples"
-      type: "examples"
-    values:
-      layout: default
-      parent: "Cultural Examples"
-      nav_exclude: false
-  - scope:
-      path: "_biblical"
-      type: "biblical"
-    values:
-      layout: default
-      parent: "Biblical Decodings"
-      nav_exclude: false
-  - scope:
-      path: "_user-manual"
-      type: "user-manual"
-    values:
-      layout: default
-      parent: "User Manual"
-      nav_exclude: false
-  - scope:
-      path: "_body-of-christ"
-      type: "body-of-christ"
-    values:
-      layout: default
-      parent: "The Body of Christ"
-      nav_exclude: false
 
 # Plugins supported by GitHub Pages
 plugins:

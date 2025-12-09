@@ -1,7 +1,5 @@
 ---
 title: Plato's Allegory of the Cave
-layout: default
-nav_exclude: false
 ---
 
 # Plato's Allegory of the Cave: The Original Gnostic Blueprint

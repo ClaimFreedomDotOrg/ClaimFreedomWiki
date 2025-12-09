@@ -1,7 +1,5 @@
 ---
 title: "Divinity: Original Sin"
-layout: default
-nav_exclude: false
 ---
 
 # Divinity: Original Sin — Source, Void, and Anamnesis

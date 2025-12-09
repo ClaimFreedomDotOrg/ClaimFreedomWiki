@@ -1,7 +1,5 @@
 ---
 title: "One with Him in Spirit"
-layout: default
-nav_exclude: false
 ---
 
 # "One with Him in Spirit"

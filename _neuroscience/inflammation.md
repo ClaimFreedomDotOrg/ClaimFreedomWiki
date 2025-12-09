@@ -1,7 +1,5 @@
 ---
 title: Inflammation and the Hijacked Mind
-layout: default
-nav_exclude: false
 ---
 
 # Inflammation and the Hijacked Mind

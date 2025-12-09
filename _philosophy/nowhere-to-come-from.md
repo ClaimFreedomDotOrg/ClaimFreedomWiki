@@ -1,7 +1,5 @@
 ---
 title: Nowhere to Come From
-layout: default
-nav_exclude: false
 ---
 
 # Nowhere to Come From

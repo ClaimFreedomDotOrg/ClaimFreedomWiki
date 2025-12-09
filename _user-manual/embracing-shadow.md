@@ -1,7 +1,5 @@
 ---
 title: Integrating the Operator
-layout: default
-nav_exclude: false
 ---
 
 # Integrating the Operator

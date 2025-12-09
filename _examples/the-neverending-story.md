@@ -1,7 +1,5 @@
 ---
 title: The Neverending Story
-layout: default
-nav_exclude: false
 ---
 
 # The Neverending Story: Fantastica Fading, Naming the Empress, and Becoming the Author

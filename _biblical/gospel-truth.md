@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Gospel of Truth
-nav_exclude: false
 ---
 
 # The Gospel of Truth: Awakening from the Nightmare

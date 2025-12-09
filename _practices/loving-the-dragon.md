@@ -1,7 +1,5 @@
 ---
 title: Loving the Dragon
-layout: default
-nav_exclude: false
 ---
 
 # Loving the Dragon

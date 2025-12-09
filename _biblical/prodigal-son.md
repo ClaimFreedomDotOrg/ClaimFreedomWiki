@@ -1,7 +1,5 @@
 ---
 title: The Prodigal Son
-layout: default
-nav_exclude: false
 ---
 
 # The Prodigal Son: Anamnesis Encoded

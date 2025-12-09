@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Avatar
-nav_exclude: false
 ---
 
 # The Avatar

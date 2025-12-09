@@ -1,7 +1,5 @@
 ---
 title: "Telomeres and Aging: The Avatar's Cellular Clock"
-layout: default
-nav_exclude: false
 ---
 
 # Telomeres and Aging: The Avatar's Cellular Clock

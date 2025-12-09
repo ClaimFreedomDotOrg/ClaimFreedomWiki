@@ -1,7 +1,5 @@
 ---
 title: The Power of Language - Unraveling the Nam Shub
-layout: default
-nav_exclude: false
 ---
 
 # The Power of Language: Unraveling the Nam Shub

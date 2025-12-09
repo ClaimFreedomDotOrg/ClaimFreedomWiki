@@ -1,7 +1,5 @@
 ---
 title: Natural Operator Capacities - ESP as Innate Perception
-layout: default
-nav_exclude: false
 ---
 
 # Natural Operator Capacities: ESP as Innate Perception

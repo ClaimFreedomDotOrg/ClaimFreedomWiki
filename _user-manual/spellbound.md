@@ -1,7 +1,5 @@
 ---
 title: Breaking the Media Spell - Reclaiming Operator Attention from Hijacked Streams
-layout: default
-nav_exclude: false
 ---
 
 # Breaking the Media Spell: Reclaiming Operator Attention from Hijacked Streams

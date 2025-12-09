@@ -1,7 +1,5 @@
 ---
 title: Epigenetics Research
-layout: default
-nav_exclude: false
 ---
 
 # Epigenetics Research

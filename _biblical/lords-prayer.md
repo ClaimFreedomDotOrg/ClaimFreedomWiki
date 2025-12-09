@@ -1,7 +1,5 @@
 ---
 title: The Lord's Prayer Decoded
-layout: default
-nav_exclude: false
 ---
 
 # The Lord's Prayer Decoded: Liberation Hidden in Plain Sight

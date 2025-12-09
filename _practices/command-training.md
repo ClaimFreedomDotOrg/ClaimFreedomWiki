@@ -1,7 +1,5 @@
 ---
 title: Command Training
-layout: default
-nav_exclude: false
 ---
 
 # Command Training: Translating Will into Action

@@ -1,7 +1,5 @@
 ---
 title: "Breath: The Pneuma Interface"
-layout: default
-nav_exclude: false
 ---
 
 # Breath: The Pneuma Interface

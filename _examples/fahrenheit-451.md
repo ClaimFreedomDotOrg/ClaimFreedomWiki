@@ -1,7 +1,5 @@
 ---
 title: Fahrenheit 451
-layout: default
-nav_exclude: false
 ---
 
 # Fahrenheit 451: Burning Books, Burning Gnosis, and the Mechanical Hound

@@ -1,7 +1,5 @@
 ---
 title: Chronic Stress and Disease
-layout: default
-nav_exclude: false
 ---
 
 # Chronic Stress and Disease

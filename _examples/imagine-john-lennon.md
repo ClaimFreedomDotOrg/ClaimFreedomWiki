@@ -1,7 +1,5 @@
 ---
 title: Imagine – John Lennon
-layout: default
-nav_exclude: false
 ---
 
 # “Imagine”: Subtractive Vision, Deconstructing Ownership Scripts, and Present Unity

@@ -1,7 +1,5 @@
 ---
 title: Sailboat with No Wind
-nav_exclude: false
-layout: default
 ---
 
 # Sailboat with No Wind: The Stillness Practice

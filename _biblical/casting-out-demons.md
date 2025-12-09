@@ -1,7 +1,5 @@
 ---
 title: Casting Out Demons
-layout: default
-nav_exclude: false
 ---
 
 # Casting Out Demons: Exorcism as Liberation from Parasitic Patterns

@@ -1,7 +1,5 @@
 ---
 title: The Goal of Gnosis - A Silent Mind
-layout: default
-nav_exclude: false
 ---
 
 # The Goal of Gnosis: A Silent Mind

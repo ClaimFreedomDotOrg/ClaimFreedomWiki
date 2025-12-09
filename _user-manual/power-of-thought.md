@@ -1,7 +1,5 @@
 ---
 title: The Power of Thought - Conscious Mind as Creative Instrument
-layout: default
-nav_exclude: false
 ---
 
 # The Power of Thought: Conscious Mind as Creative Instrument

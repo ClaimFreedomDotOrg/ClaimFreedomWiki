@@ -1,7 +1,5 @@
 ---
 title: Resist Not Evil
-layout: default
-nav_exclude: false
 ---
 
 # Resist Not Evil: Dis-Identifying from the Reactivity Loop

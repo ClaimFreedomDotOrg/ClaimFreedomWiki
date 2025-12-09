@@ -1,7 +1,5 @@
 ---
 title: The Temptation of Christ
-layout: default
-nav_exclude: false
 ---
 
 # The Temptation of Christ: Resisting the Hijacked DMN's Lures

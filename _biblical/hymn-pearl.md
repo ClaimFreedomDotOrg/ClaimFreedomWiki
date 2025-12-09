@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Hymn of the Pearl
-nav_exclude: false
 ---
 
 # The Hymn of the Pearl: The Divine Spark's Journey Home

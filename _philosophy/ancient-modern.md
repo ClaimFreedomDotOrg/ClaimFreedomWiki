@@ -1,7 +1,5 @@
 ---
 title: Ancient Warnings, Modern Mechanisms
-layout: default
-nav_exclude: false
 ---
 
 # Ancient Warnings, Modern Mechanisms

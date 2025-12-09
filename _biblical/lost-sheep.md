@@ -1,7 +1,5 @@
 ---
 title: The Lost Sheep
-layout: default
-nav_exclude: false
 ---
 
 # The Lost Sheep: The Divine Spark Lost in Identification

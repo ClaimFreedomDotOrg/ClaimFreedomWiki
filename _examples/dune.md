@@ -1,7 +1,5 @@
 ---
 title: Dune
-layout: default
-nav_exclude: false
 ---
 
 # Dune: The Litany Against Fear, Spice Consciousness, and the Kwisatz Haderach

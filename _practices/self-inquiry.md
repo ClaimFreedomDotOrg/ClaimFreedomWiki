@@ -1,7 +1,5 @@
 ---
 title: Self-Inquiry
-layout: default
-nav_exclude: false
 ---
 
 # Self-Inquiry: "Who Am I?" Exploration

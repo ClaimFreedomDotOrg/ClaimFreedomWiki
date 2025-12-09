@@ -1,7 +1,5 @@
 ---
 title: Narrative Identity and the Illusion of Time
-layout: default
-nav_exclude: false
 ---
 
 # Narrative Identity and the Illusion of Time

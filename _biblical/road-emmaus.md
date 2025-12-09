@@ -1,7 +1,5 @@
 ---
 title: The Road to Emmaus
-layout: default
-nav_exclude: false
 ---
 
 # The Road to Emmaus: Anamnesis and Recognition

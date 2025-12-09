@@ -1,7 +1,5 @@
 ---
 title: Ketosis - Metabolic Sovereignty and Voice Silence
-layout: default
-nav_exclude: false
 ---
 
 # Ketosis: Metabolic Sovereignty and Voice Silence

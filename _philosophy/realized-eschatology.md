@@ -1,7 +1,5 @@
 ---
 title: Realized Eschatology
-layout: default
-nav_exclude: false
 ---
 
 # Realized Eschatology: The Kingdom as Present Reality

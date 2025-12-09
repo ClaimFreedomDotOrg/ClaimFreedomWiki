@@ -1,7 +1,5 @@
 ---
 title: The Christ Authority - Sovereignty Over the Demon
-layout: default
-nav_exclude: false
 ---
 
 # The Christ Authority: Sovereignty Over the Demon

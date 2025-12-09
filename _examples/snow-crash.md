@@ -1,7 +1,5 @@
 ---
 title: Snow Crash
-layout: default
-nav_exclude: false
 ---
 
 # Snow Crash: Viral Code, Linguistic Gnosis, and Cognitive Firewalls

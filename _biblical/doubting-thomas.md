@@ -1,7 +1,5 @@
 ---
 title: Doubting Thomas
-layout: default
-nav_exclude: false
 ---
 
 # Doubting Thomas: Experiential Gnosis vs. Blind Belief

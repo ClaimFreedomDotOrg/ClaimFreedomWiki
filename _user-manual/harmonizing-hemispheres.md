@@ -1,7 +1,5 @@
 ---
 title: Technology for Operator Training
-layout: default
-nav_exclude: false
 ---
 
 # Technology for Operator Training

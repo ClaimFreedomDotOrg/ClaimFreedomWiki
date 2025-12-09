@@ -1,7 +1,5 @@
 ---
 title: Running Up That Hill (A Deal With God) – Kate Bush
-layout: default
-nav_exclude: false
 ---
 
 # “Running Up That Hill”: Empathic Swap, Narrative Transcendence, and Re-Wiring the Pain Contract

@@ -1,7 +1,5 @@
 ---
 title: The Island
-layout: default
-nav_exclude: false
 ---
 
 # The Island: Counterfeit Ascension and Engineered Kenoma

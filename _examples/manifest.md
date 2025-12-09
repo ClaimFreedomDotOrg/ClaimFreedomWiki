@@ -1,7 +1,5 @@
 ---
 title: Manifest
-layout: default
-nav_exclude: false
 ---
 
 # Manifest: Callings, Course Corrections, and the Ethics of Gnosis

@@ -1,7 +1,5 @@
 ---
 title: Ender's Game
-layout: default
-nav_exclude: false
 ---
 
 # Ender's Game: The Unknowing Genocidaire, Simulated Reality, and the Weight of Truth

@@ -1,7 +1,5 @@
 ---
 title: Wetiko - The Mind Virus
-layout: default
-nav_exclude: false
 ---
 
 # Wetiko: The Mind Virus

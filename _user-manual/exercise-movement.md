@@ -1,7 +1,5 @@
 ---
 title: "Exercise and Movement: Operating the Avatar Through Motion"
-layout: default
-nav_exclude: false
 ---
 
 # Exercise and Movement: Operating the Avatar Through Motion

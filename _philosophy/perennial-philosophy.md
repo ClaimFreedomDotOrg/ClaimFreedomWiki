@@ -1,7 +1,5 @@
 ---
 title: The Perennial Philosophy
-layout: default
-nav_exclude: false
 ---
 
 # The Perennial Philosophy: The "Collective Game" Encoded Across All Traditions

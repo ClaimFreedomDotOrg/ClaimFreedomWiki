@@ -1,7 +1,5 @@
 ---
 title: Meditation Effects on DMN
-layout: default
-nav_exclude: false
 ---
 
 # Meditation Effects on DMN

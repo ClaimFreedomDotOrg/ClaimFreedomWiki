@@ -1,7 +1,5 @@
 ---
 title: Hell as Infinite Loops
-layout: default
-nav_exclude: false
 ---
 
 # Hell as Infinite Loops: The Phenomenology of Temporal Imprisonment

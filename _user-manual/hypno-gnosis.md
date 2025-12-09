@@ -1,7 +1,5 @@
 ---
 title: "Hypno-Gnosis: Below Knowing"
-layout: default
-nav_exclude: false
 ---
 
 # Hypno-Gnosis: Below Knowing

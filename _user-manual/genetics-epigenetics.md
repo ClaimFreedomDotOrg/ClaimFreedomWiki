@@ -1,7 +1,5 @@
 ---
 title: Genetics and Epigenetics - The Avatar's Programmable Blueprint
-layout: default
-nav_exclude: false
 ---
 
 # Genetics and Epigenetics: The Avatar's Programmable Blueprint

@@ -1,7 +1,5 @@
 ---
 title: The Pauli-Jung Conjecture
-layout: default
-nav_exclude: false
 ---
 
 # The Pauli-Jung Conjecture: The Unus Mundus and the Marriage of Mind and Matter

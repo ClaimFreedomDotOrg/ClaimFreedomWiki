@@ -1,7 +1,5 @@
 ---
 title: Block Universe and the Physics of Time
-layout: default
-nav_exclude: false
 ---
 
 # Block Universe and the Physics of Time

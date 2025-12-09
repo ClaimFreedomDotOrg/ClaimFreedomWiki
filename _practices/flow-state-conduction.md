@@ -1,7 +1,5 @@
 ---
 title: Flow State Conduction
-layout: default
-nav_exclude: false
 ---
 
 # Flow State Conduction: Creative Work as Pure Translation

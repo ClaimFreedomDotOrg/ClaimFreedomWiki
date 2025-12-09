@@ -1,7 +1,5 @@
 ---
 title: The Salience Network
-layout: default
-nav_exclude: false
 ---
 
 # The Salience Network

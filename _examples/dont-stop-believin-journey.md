@@ -1,7 +1,5 @@
 ---
 title: Don’t Stop Believin’ – Journey
-layout: default
-nav_exclude: false
 ---
 
 # “Don’t Stop Believin’”: Narrative Compression, Micro-Presence, and Reframing Hope as Practice

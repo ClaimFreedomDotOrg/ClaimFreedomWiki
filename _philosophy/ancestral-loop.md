@@ -1,7 +1,5 @@
 ---
 title: The Ancestral Loop
-layout: default
-nav_exclude: false
 ---
 
 # The Ancestral Loop

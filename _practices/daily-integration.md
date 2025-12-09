@@ -1,7 +1,5 @@
 ---
 title: Daily Micro-Practices
-layout: default
-nav_exclude: false
 ---
 
 # Daily Micro-Practices

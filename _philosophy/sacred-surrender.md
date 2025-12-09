@@ -1,7 +1,5 @@
 ---
 title: The Sacred Surrender
-layout: default
-nav_exclude: false
 ---
 
 # The Sacred Surrender: The Final Gnosis of the Sovereign

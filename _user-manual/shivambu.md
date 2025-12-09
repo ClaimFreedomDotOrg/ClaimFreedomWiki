@@ -1,7 +1,5 @@
 ---
 title: "Shivambu: The Avatar's Perfect Feedback Loop"
-layout: default
-nav_exclude: false
 ---
 
 # Shivambu: The Avatar's Perfect Feedback Loop

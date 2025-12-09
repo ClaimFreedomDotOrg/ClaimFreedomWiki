@@ -1,7 +1,5 @@
 ---
 title: The Kingdom Within
-layout: default
-nav_exclude: false
 ---
 
 # The Kingdom Within

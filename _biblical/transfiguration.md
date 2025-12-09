@@ -1,7 +1,5 @@
 ---
 title: The Transfiguration
-layout: default
-nav_exclude: false
 ---
 
 # The Transfiguration: The Unveiled Divine Spark

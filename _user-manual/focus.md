@@ -1,7 +1,5 @@
 ---
 title: Focus - The Double-Edged Sword of Attention
-layout: default
-nav_exclude: false
 ---
 
 # Focus: The Double-Edged Sword of Attention

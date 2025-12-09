@@ -1,7 +1,5 @@
 ---
 title: Energy Flow - Operator Training for Temple Conduction
-layout: default
-nav_exclude: false
 ---
 
 # Energy Flow: Operator Training for Temple Conduction

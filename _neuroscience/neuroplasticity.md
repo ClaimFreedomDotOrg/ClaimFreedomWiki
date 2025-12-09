@@ -1,7 +1,5 @@
 ---
 title: Neuroplasticity Mechanisms
-layout: default
-nav_exclude: false
 ---
 
 # Neuroplasticity Mechanisms

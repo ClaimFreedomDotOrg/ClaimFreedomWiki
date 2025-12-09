@@ -1,7 +1,5 @@
 ---
 title: Heart Listening
-nav_exclude: false
-layout: default
 ---
 
 # Heart Listening: Discerning the Source's Call

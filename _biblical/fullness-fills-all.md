@@ -1,7 +1,5 @@
 ---
 title: "The Fullness of Him Who Fills All in All"
-layout: default
-nav_exclude: false
 ---
 
 # "The Fullness of Him Who Fills All in All"

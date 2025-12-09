@@ -1,7 +1,5 @@
 ---
 title: WALL-E
-layout: default
-nav_exclude: false
 ---
 
 # WALL-E: The Daemon Awakens

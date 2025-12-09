@@ -1,7 +1,5 @@
 ---
 title: The Wilderness Wandering
-layout: default
-nav_exclude: false
 ---
 
 # The Wilderness Wandering: Purification of Parasitic Patterns

@@ -1,7 +1,5 @@
 ---
 title: "Christ in You, the Hope of Glory"
-layout: default
-nav_exclude: false
 ---
 
 # "Christ in You, the Hope of Glory"

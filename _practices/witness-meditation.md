@@ -1,7 +1,5 @@
 ---
 title: Witness Meditation
-layout: default
-nav_exclude: false
 ---
 
 # Witness Meditation

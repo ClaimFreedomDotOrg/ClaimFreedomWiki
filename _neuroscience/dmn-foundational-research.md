@@ -1,7 +1,5 @@
 ---
 title: DMN Discovery and Function
-layout: default
-nav_exclude: false
 ---
 
 # DMN Discovery and Function

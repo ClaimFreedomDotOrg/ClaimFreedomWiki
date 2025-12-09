@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking
-nav_exclude: false
 ---
 
 # Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking

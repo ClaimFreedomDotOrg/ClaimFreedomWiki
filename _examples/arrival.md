@@ -1,7 +1,5 @@
 ---
 title: Arrival
-layout: default
-nav_exclude: false
 ---
 
 # Arrival

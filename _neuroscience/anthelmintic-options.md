@@ -1,7 +1,5 @@
 ---
 title: Natural Anthelmintic Options
-layout: default
-nav_exclude: false
 ---
 
 ## Natural Anthelmintic Options

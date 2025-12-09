@@ -1,7 +1,5 @@
 ---
 title: Body as Anchor
-layout: default
-nav_exclude: false
 ---
 
 # Body as Anchor

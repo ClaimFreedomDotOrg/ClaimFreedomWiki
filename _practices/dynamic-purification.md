@@ -1,7 +1,5 @@
 ---
 title: Dynamic Purification Playbook
-layout: default
-nav_exclude: false
 ---
 
 # The Framework for Dynamic Purification

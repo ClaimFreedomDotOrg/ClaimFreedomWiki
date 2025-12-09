@@ -1,7 +1,5 @@
 ---
 title: Siddhartha
-layout: default
-nav_exclude: false
 ---
 
 # Siddhartha: The River, Dis-identification, and the Sound of Om

@@ -1,7 +1,5 @@
 ---
 title: The V-Aum Protocol
-layout: default
-nav_exclude: false
 ---
 
 # The V-Aum Protocol: The Gnostic Off-Switch

@@ -1,7 +1,5 @@
 ---
 title: Command vs. Wish vs. Rumination
-layout: default
-nav_exclude: false
 ---
 
 # Command vs. Wish vs. Rumination: The Art of Discernment

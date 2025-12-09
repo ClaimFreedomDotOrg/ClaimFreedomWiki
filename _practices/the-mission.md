@@ -1,7 +1,5 @@
 ---
 title: The Mission
-layout: default
-nav_exclude: false
 ---
 
 # The Mission: Awakening Others

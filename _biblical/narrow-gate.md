@@ -1,7 +1,5 @@
 ---
 title: The Narrow Gate
-layout: default
-nav_exclude: false
 ---
 
 # The Narrow Gate: The Difficult Path of Dis-Identification

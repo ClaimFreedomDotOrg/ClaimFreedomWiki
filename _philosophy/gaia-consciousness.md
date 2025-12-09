@@ -1,7 +1,5 @@
 ---
 title: Gaia Consciousness
-layout: default
-nav_exclude: false
 ---
 
 # Gaia Consciousness: The Living Earth and the Collective Awakening

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Gospel of Philip
-nav_exclude: false
 ---
 
 # The Gospel of Philip: The Bridal Chamber and Embodied Gnosis

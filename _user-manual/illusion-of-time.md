@@ -1,7 +1,5 @@
 ---
 title: The Illusion of Time - Recognizing Your Timeless Nature
-layout: default
-nav_exclude: false
 ---
 
 # The Illusion of Time: Recognizing Your Timeless Nature

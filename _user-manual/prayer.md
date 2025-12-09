@@ -1,7 +1,5 @@
 ---
 title: "Prayer: The Practice of Voice-Quieting"
-layout: default
-nav_exclude: false
 ---
 
 # Prayer: The Practice of Voice-Quieting

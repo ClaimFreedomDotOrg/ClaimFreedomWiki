@@ -1,7 +1,5 @@
 ---
 title: DMN and Rumination
-layout: default
-nav_exclude: false
 ---
 
 # DMN and Rumination

@@ -1,7 +1,5 @@
 ---
 title: Nirvana and Moksha - Liberation
-layout: default
-nav_exclude: false
 ---
 
 # Nirvana and Moksha: Liberation

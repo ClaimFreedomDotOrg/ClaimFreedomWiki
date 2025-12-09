@@ -1,7 +1,5 @@
 ---
 title: "Christ Dwelling in Your Hearts"
-layout: default
-nav_exclude: false
 ---
 
 # "Christ Dwelling in Your Hearts"

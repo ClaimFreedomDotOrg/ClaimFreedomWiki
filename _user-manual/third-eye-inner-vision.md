@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Activating Direct Knowing - The Third Eye as Operator Capacity
-nav_exclude: false
 ---
 
 # Activating Direct Knowing: The Third Eye as Operator Capacity

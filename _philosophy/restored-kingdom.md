@@ -1,7 +1,5 @@
 ---
 title: The Restored Kingdom
-layout: default
-nav_exclude: false
 ---
 
 # The Restored Kingdom

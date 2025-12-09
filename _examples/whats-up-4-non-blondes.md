@@ -1,7 +1,5 @@
 ---
 title: What's Up? – 4 Non Blondes
-layout: default
-nav_exclude: false
 ---
 
 # “What’s Up?”: Existential Pressure, Archonic Noise, and the Cry for Gnosis

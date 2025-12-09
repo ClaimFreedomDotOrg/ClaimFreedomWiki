@@ -1,7 +1,5 @@
 ---
 title: Orchestrated Objective Reduction (Orch OR)
-layout: default
-nav_exclude: false
 ---
 
 # Orchestrated Objective Reduction: The Quantum Biology of Consciousness

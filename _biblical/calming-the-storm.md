@@ -1,7 +1,5 @@
 ---
 title: Calming the Storm
-layout: default
-nav_exclude: false
 ---
 
 # Calming the Storm

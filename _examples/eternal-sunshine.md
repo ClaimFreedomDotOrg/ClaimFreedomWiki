@@ -1,7 +1,5 @@
 ---
 title: Eternal Sunshine of the Spotless Mind
-layout: default
-nav_exclude: false
 ---
 
 # Eternal Sunshine of the Spotless Mind

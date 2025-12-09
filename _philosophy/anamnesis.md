@@ -1,7 +1,5 @@
 ---
 title: Anamnesis - Remembering
-layout: default
-nav_exclude: false
 ---
 
 # Anamnesis: Remembering

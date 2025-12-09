@@ -1,7 +1,5 @@
 ---
 title: "I Have Been Crucified with Christ"
-layout: default
-nav_exclude: false
 ---
 
 # "I Have Been Crucified with Christ"

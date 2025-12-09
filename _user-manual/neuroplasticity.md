@@ -1,7 +1,5 @@
 ---
 title: Neuroplasticity - Reprogramming the Avatar
-layout: default
-nav_exclude: false
 ---
 
 # Neuroplasticity: Reprogramming the Avatar

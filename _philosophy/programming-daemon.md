@@ -1,7 +1,5 @@
 ---
 title: Programming the Daemon
-layout: default
-nav_exclude: false
 ---
 
 # Programming the Daemon: The Toolkit for Conscious Creation

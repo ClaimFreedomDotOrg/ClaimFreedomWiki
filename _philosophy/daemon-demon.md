@@ -1,7 +1,5 @@
 ---
 title: Etymology and Function - Daemon vs. Demon
-layout: default
-nav_exclude: false
 ---
 
 # Etymology and Function: Daemon vs. Demon

@@ -1,7 +1,5 @@
 ---
 title: Brainwave States - Understanding the Avatar's Neural Frequencies
-layout: default
-nav_exclude: false
 ---
 
 # Brainwave States: Understanding the Avatar's Neural Frequencies

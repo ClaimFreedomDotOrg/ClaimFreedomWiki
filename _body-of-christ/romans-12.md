@@ -1,7 +1,5 @@
 ---
 title: Romans 12 - Living Sacrifice and Mind Renewal
-layout: default
-nav_exclude: false
 ---
 
 # Romans 12: Living Sacrifice and Mind Renewal

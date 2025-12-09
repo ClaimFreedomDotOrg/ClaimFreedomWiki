@@ -1,7 +1,5 @@
 ---
 title: "Toroids of Power: Divine Circulation Through the Collective Body"
-layout: default
-nav_exclude: false
 ---
 
 # Toroids of Power: Divine Circulation Through the Collective Body

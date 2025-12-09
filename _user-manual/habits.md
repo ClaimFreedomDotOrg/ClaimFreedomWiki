@@ -1,7 +1,5 @@
 ---
 title: Habits
-layout: default
-nav_exclude: false
 ---
 
 # Habits: Neural Patterns for Temple Operation

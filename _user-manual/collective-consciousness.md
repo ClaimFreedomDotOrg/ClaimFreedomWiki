@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Collective Consciousness
-nav_exclude: false
 ---
 
 # Collective Consciousness

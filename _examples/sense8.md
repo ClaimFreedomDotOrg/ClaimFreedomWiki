@@ -1,7 +1,5 @@
 ---
 title: Sense8
-layout: default
-nav_exclude: false
 ---
 
 # Sense8: Shared Consciousness, Empathic Gnosis, and Defending the Cluster

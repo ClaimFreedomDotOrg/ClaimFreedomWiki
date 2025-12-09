@@ -1,7 +1,5 @@
 ---
 title: Network Dynamics
-layout: default
-nav_exclude: false
 ---
 
 # Network Dynamics

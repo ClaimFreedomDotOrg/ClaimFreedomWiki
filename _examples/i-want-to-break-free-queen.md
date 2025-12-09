@@ -1,7 +1,5 @@
 ---
 title: I Want to Break Free – Queen
-layout: default
-nav_exclude: false
 ---
 
 # "I Want to Break Free": Liberation Yearning, Role Compression, and the Daemon's Declaration

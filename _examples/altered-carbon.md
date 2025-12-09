@@ -1,7 +1,5 @@
 ---
 title: Altered Carbon
-layout: default
-nav_exclude: false
 ---
 
 # Altered Carbon: The Stack, The Sleeve, and What Cannot Be Stored

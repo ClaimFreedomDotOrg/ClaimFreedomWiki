@@ -1,7 +1,5 @@
 ---
 title: Kymata - The Language of Cymatic Form
-layout: default
-nav_exclude: false
 ---
 
 # Kymata: The Language of Cymatic Form

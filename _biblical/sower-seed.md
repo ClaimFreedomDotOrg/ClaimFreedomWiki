@@ -1,7 +1,5 @@
 ---
 title: The Sower and the Seed
-layout: default
-nav_exclude: false
 ---
 
 # The Sower and the Seed: DMN States and Receptivity to Gnosis

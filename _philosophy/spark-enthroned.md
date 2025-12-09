@@ -1,7 +1,5 @@
 ---
 title: The Divine Spark Enthroned
-layout: default
-nav_exclude: false
 ---
 
 # The Divine Spark Enthroned

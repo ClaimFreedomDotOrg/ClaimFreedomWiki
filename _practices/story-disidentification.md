@@ -1,7 +1,5 @@
 ---
 title: Dis-Identifying from Story
-layout: default
-nav_exclude: false
 ---
 
 # Dis-Identifying from Story

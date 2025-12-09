@@ -1,7 +1,5 @@
 ---
 title: The Lorax
-layout: default
-nav_exclude: false
 ---
 
 # The Lorax: The Corruption of the Creator

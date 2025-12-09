@@ -1,7 +1,5 @@
 ---
 title: The Truman Show
-layout: default
-nav_exclude: false
 ---
 
 # The Truman Show: The Demiurge as Architect

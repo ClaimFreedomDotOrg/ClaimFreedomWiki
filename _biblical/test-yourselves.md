@@ -1,7 +1,5 @@
 ---
 title: "Test Yourselves: Is Christ in You?"
-layout: default
-nav_exclude: false
 ---
 
 # "Test Yourselves: Is Christ in You?"

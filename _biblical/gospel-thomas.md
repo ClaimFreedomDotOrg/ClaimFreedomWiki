@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Gospel of Thomas
-nav_exclude: false
 ---
 
 # The Gospel of Thomas: The Explicit Gnosis

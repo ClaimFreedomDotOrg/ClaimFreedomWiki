@@ -1,7 +1,5 @@
 ---
 title: "That They May Be One"
-layout: default
-nav_exclude: false
 ---
 
 # "That All of Them May Be One, as You, Father, Are in Me, and I Am in You"

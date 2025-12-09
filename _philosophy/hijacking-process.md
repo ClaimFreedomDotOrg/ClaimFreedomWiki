@@ -1,7 +1,5 @@
 ---
 title: The Hijacking Process
-layout: default
-nav_exclude: false
 ---
 
 # The Hijacking Process

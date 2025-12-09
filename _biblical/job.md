@@ -1,7 +1,5 @@
 ---
 title: Job's Ordeal
-layout: default
-nav_exclude: false
 ---
 
 # Job's Ordeal: Dis-Identification Through Radical Suffering

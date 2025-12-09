@@ -1,7 +1,5 @@
 ---
 title: Stranger Things
-layout: default
-nav_exclude: false
 ---
 
 # Stranger Things: The Upside Down, Trauma Gateways, and Re-Claiming Narrative Through Presence

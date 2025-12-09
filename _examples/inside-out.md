@@ -1,7 +1,5 @@
 ---
 title: Inside Out
-layout: default
-nav_exclude: false
 ---
 
 # Inside Out: The DMN's Control Room Made Visible

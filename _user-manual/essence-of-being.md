@@ -1,7 +1,5 @@
 ---
-layout: default
 title: You ARE the Operator - Embracing Your True Nature
-nav_exclude: false
 ---
 
 # You ARE the Operator

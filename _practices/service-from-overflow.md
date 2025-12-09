@@ -1,7 +1,5 @@
 ---
 title: Service from Overflow
-layout: default
-nav_exclude: false
 ---
 
 # Service from Overflow: Mission Work as Sacred Conduction

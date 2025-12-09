@@ -1,7 +1,5 @@
 ---
 title: The Counterfeit Self
-layout: default
-nav_exclude: false
 ---
 
 # The Counterfeit Self

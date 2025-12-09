@@ -1,7 +1,5 @@
 ---
 title: Meditation and Immune Function
-layout: default
-nav_exclude: false
 ---
 
 # Meditation and Immune Function

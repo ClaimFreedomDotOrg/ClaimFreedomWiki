@@ -1,7 +1,5 @@
 ---
 title: "We Remain in Him, and He in Us"
-layout: default
-nav_exclude: false
 ---
 
 # "We Remain in Him, and He in Us"

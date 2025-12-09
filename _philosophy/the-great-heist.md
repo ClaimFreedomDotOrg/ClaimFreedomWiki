@@ -1,7 +1,5 @@
 ---
 title: The Great Heist
-layout: default
-nav_exclude: false
 ---
 
 # The Great Heist: The Miracle of the Restoration

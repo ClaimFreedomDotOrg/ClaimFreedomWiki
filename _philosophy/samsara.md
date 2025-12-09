@@ -1,7 +1,5 @@
 ---
 title: Samsara - The Eternal Loop
-layout: default
-nav_exclude: false
 ---
 
 # Samsara: The Eternal Loop

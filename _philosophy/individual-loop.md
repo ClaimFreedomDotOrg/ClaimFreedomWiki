@@ -1,7 +1,5 @@
 ---
 title: The Individual Loop
-layout: default
-nav_exclude: false
 ---
 
 # The Individual Loop

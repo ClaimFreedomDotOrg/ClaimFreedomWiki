@@ -1,7 +1,5 @@
 ---
 title: What is the DMN?
-layout: default
-nav_exclude: false
 ---
 
 # What is the Default Mode Network?

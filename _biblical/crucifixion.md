@@ -1,7 +1,5 @@
 ---
 title: The Crucifixion
-layout: default
-nav_exclude: false
 ---
 
 # The Crucifixion: Death of the Ego-Self, Resurrection of the Listener

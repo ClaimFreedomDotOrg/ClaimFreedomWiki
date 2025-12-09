@@ -1,7 +1,5 @@
 ---
 title: Kenoma and Pleroma
-layout: default
-nav_exclude: false
 ---
 
 # Kenoma and Pleroma: The Two Realities

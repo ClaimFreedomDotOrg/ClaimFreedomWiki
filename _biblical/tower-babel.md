@@ -1,7 +1,5 @@
 ---
 title: The Tower of Babel
-layout: default
-nav_exclude: false
 ---
 
 # The Tower of Babel: Ego-Driven Striving vs. Listening

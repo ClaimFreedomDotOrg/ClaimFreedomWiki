@@ -1,7 +1,5 @@
 ---
 title: Pneuma and the Divine Spark
-layout: default
-nav_exclude: false
 ---
 
 # Pneuma and the Divine Spark

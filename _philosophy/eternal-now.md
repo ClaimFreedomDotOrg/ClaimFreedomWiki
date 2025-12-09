@@ -1,7 +1,5 @@
 ---
 title: The Eternal Now
-layout: default
-nav_exclude: false
 ---
 
 # The Eternal Now: Nunc Stans and the Illusion of Time

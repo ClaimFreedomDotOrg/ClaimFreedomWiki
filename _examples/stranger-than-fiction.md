@@ -1,7 +1,5 @@
 ---
 title: Stranger Than Fiction
-layout: default
-nav_exclude: false
 ---
 
 # Stranger Than Fiction: The DMN Made Visible

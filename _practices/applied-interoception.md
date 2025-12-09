@@ -1,7 +1,5 @@
 ---
 title: Applied Interoception
-layout: default
-nav_exclude: false
 ---
 
 # Applied Interoception

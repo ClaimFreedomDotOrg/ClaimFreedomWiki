@@ -1,7 +1,5 @@
 ---
 title: "The Vine and the Branches"
-layout: default
-nav_exclude: false
 ---
 
 # "The Vine and the Branches"

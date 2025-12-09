@@ -1,7 +1,5 @@
 ---
 title: "Water: The Avatar's Consciousness Conductor"
-layout: default
-nav_exclude: false
 ---
 
 # Water: The Avatar's Consciousness Conductor

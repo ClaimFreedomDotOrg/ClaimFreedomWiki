@@ -1,7 +1,5 @@
 ---
 title: The Redeemer Archetype
-layout: default
-nav_exclude: false
 ---
 
 # The Redeemer Archetype

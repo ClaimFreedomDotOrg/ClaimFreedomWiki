@@ -1,7 +1,5 @@
 ---
 title: The Deception of Time and the Eternal Now
-layout: default
-nav_exclude: false
 ---
 
 # The Deception of Time and the Eternal Now

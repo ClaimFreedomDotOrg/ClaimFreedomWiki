@@ -1,7 +1,5 @@
 ---
 title: The Voice, False Identity, and Persona
-layout: default
-nav_exclude: false
 ---
 
 # The Voice, False Identity, and Persona

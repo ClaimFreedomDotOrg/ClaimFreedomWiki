@@ -1,7 +1,5 @@
 ---
 title: Execution Observation
-layout: default
-nav_exclude: false
 ---
 
 # Execution Observation: Watching Without Claiming

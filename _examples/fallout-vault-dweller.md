@@ -1,7 +1,5 @@
 ---
 title: "Fallout: The Vault Dweller's Exodus"
-layout: default
-nav_exclude: false
 ---
 
 # Fallout: The Vault Dweller's Exodus from the Underground

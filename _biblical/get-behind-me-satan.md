@@ -1,7 +1,5 @@
 ---
 title: Get Behind Me, Satan
-layout: default
-nav_exclude: false
 ---
 
 # Get Behind Me, Satan: Taming the Voice

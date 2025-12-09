@@ -1,7 +1,5 @@
 ---
 title: Cymatics - Sound Made Visible
-layout: default
-nav_exclude: false
 ---
 
 # Cymatics: Sound Made Visible

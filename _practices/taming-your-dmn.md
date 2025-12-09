@@ -1,7 +1,5 @@
 ---
 title: "Practical Guide: Taming Your DMN"
-layout: default
-nav_exclude: false
 ---
 
 # Practical Guide: Taming Your DMN

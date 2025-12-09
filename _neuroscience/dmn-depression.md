@@ -1,7 +1,5 @@
 ---
 title: DMN in Depression
-layout: default
-nav_exclude: false
 ---
 
 # DMN in Depression

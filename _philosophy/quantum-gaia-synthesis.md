@@ -1,7 +1,5 @@
 ---
 title: The Quantum Gaia Synthesis
-layout: default
-nav_exclude: false
 ---
 
 # The Quantum Gaia Synthesis: Awakening at All Scales

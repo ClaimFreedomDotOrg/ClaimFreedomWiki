@@ -1,7 +1,5 @@
 ---
 title: The Unified Framework
-layout: default
-nav_exclude: false
 ---
 
 # The Unified Framework

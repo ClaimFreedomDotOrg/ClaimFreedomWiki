@@ -1,7 +1,5 @@
 ---
 title: All Star – Smash Mouth
-layout: default
-nav_exclude: false
 ---
 
 # “All Star”: Meme Armor, Performative Ego, and Reclaiming Play as Conscious Practice

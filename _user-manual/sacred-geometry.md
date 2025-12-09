@@ -1,7 +1,5 @@
 ---
 title: Sacred Geometry - The Divine Blueprint Reclaimed
-layout: default
-nav_exclude: false
 ---
 
 # Sacred Geometry: The Divine Blueprint Reclaimed

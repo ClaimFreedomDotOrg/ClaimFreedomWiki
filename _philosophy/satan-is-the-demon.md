@@ -1,7 +1,5 @@
 ---
 title: Satan Is the Demon - The Character in the Infinite Loop
-layout: default
-nav_exclude: false
 ---
 
 # Satan Is the Demon: The Character in the Infinite Loop

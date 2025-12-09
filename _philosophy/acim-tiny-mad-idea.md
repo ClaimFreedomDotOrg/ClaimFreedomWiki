@@ -1,7 +1,5 @@
 ---
 title: "A Course in Miracles: The Tiny Mad Idea"
-layout: default
-nav_exclude: false
 ---
 
 # A Course in Miracles and the Tiny Mad Idea

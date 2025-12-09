@@ -1,7 +1,5 @@
 ---
 title: The Cannibalization of Consciousness
-layout: default
-nav_exclude: false
 ---
 
 # The Cannibalization of Consciousness

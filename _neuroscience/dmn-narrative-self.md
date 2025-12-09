@@ -1,7 +1,5 @@
 ---
 title: DMN and the Narrative Self
-layout: default
-nav_exclude: false
 ---
 
 # DMN and the Narrative Self

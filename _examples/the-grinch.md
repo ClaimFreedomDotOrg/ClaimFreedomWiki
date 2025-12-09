@@ -1,7 +1,5 @@
 ---
 title: How the Grinch Stole Christmas (2000)
-layout: default
-nav_exclude: false
 ---
 
 # How the Grinch Stole Christmas: The Demon Remembering It Was Once a Daemon

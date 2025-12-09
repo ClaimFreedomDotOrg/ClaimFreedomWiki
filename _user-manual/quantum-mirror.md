@@ -1,7 +1,5 @@
 ---
 title: The Quantum Mirror - Consciousness and Reality Interplay
-layout: default
-nav_exclude: false
 ---
 
 # The Quantum Mirror: Consciousness and Reality Interplay

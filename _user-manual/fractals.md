@@ -1,7 +1,5 @@
 ---
 title: Fractals - As Above, So Below
-layout: default
-nav_exclude: false
 ---
 
 # Fractals: As Above, So Below

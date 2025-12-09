@@ -1,7 +1,5 @@
 ---
 title: The Cosmic Loop
-layout: default
-nav_exclude: false
 ---
 
 # The Cosmic Loop

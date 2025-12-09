@@ -1,7 +1,5 @@
 ---
 title: DMN and Self-Referential Thought
-layout: default
-nav_exclude: false
 ---
 
 # DMN and Self-Referential Thought

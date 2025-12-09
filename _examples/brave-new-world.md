@@ -1,7 +1,5 @@
 ---
 title: Brave New World
-layout: default
-nav_exclude: false
 ---
 
 # Brave New World: Engineered Bliss, Chemical Hijacking, and the Soft Tyranny of Pleasure

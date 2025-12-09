@@ -1,7 +1,5 @@
 ---
 title: "I Have Made Your Name Known"
-layout: default
-nav_exclude: false
 ---
 
 # "I Have Made Your Name Known"

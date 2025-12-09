@@ -1,7 +1,5 @@
 ---
 title: DMN Hyperactivity
-layout: default
-nav_exclude: false
 ---
 
 # DMN Hyperactivity

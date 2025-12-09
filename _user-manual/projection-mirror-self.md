@@ -1,7 +1,5 @@
 ---
 title: Reclaiming Projected Aspects
-layout: default
-nav_exclude: false
 ---
 
 # Reclaiming Projected Aspects

@@ -1,7 +1,5 @@
 ---
 title: Long-Term Meditators
-layout: default
-nav_exclude: false
 ---
 
 # Long-Term Meditators

@@ -1,7 +1,5 @@
 ---
 title: "Homeostasis: Cell Health for the Collective Body"
-layout: default
-nav_exclude: false
 ---
 
 # Homeostasis: Cell Health for the Collective Body

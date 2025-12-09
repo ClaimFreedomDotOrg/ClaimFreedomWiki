@@ -1,7 +1,5 @@
 ---
 title: Dark (Netflix Series)
-layout: default
-nav_exclude: false
 ---
 
 # Dark: Time Loops, Determinism, and Breaking Samsara

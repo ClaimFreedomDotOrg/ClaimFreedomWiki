@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Sound Technology for Voice-Quieting - OM MANI PADME HUM
-nav_exclude: false
 ---
 
 # Sound Technology for Voice-Quieting: OM MANI PADME HUM as Operator Training

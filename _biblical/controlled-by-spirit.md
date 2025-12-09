@@ -1,7 +1,5 @@
 ---
 title: "Controlled by the Spirit, Not the Flesh"
-layout: default
-nav_exclude: false
 ---
 
 # "Controlled by the Spirit, Not the Flesh"

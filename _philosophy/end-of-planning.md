@@ -1,7 +1,5 @@
 ---
 title: The End of Planning - Visualization and Sacred Surrender
-layout: default
-nav_exclude: false
 ---
 
 # The End of Planning: Visualization and Sacred Surrender

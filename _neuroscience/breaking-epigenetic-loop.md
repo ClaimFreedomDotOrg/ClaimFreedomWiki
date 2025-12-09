@@ -1,7 +1,5 @@
 ---
 title: Breaking the Epigenetic Loop
-layout: default
-nav_exclude: false
 ---
 
 # Breaking the Epigenetic Loop

@@ -1,7 +1,5 @@
 ---
 title: Eternal Life
-layout: default
-nav_exclude: false
 ---
 
 # Eternal Life

@@ -1,7 +1,5 @@
 ---
 title: "Nutrition: Conscious Fuel for the Sacred Temple"
-layout: default
-nav_exclude: false
 ---
 
 # Nutrition: Conscious Fuel for the Sacred Temple

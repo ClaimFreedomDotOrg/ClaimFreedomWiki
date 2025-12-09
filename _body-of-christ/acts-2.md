@@ -1,7 +1,5 @@
 ---
 title: Acts 2 - Pentecost and The First Cellular Activation
-layout: default
-nav_exclude: false
 ---
 
 # Acts 2: Pentecost and The First Cellular Activation

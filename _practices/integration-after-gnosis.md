@@ -1,7 +1,5 @@
 ---
 title: Integration After Gnosis
-layout: default
-nav_exclude: false
 ---
 
 # Integration After Gnosis

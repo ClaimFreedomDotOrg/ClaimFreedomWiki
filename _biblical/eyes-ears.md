@@ -1,7 +1,5 @@
 ---
 title: Eyes to See, Ears to Hear
-layout: default
-nav_exclude: false
 ---
 
 # Eyes to See, Ears to Hear: The Gnosis Required to Perceive Truth

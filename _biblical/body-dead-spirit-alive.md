@@ -1,7 +1,5 @@
 ---
 title: "Your Body Is Dead, Your Spirit Is Alive"
-layout: default
-nav_exclude: false
 ---
 
 # "Your Body Is Dead, Your Spirit Is Alive"

@@ -1,7 +1,5 @@
 ---
 title: The Gnostic Diagnosis
-layout: default
-nav_exclude: false
 ---
 
 # The Gnostic Diagnosis: Archons and the Counterfeit Spirit

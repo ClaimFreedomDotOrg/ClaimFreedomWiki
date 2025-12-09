@@ -1,7 +1,5 @@
 ---
 title: 1 Corinthians 12 - Cellular Diversity in One Body
-layout: default
-nav_exclude: false
 ---
 
 # 1 Corinthians 12: Cellular Diversity in One Body

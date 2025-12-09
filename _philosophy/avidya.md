@@ -1,7 +1,5 @@
 ---
 title: Avidya - The Ignorance That Binds
-layout: default
-nav_exclude: false
 ---
 
 # Avidya: The Ignorance That Binds

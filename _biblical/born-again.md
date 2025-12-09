@@ -1,7 +1,5 @@
 ---
 title: You Must Be Born Again
-layout: default
-nav_exclude: false
 ---
 
 # You Must Be Born Again: Ego-Death and Resurrection

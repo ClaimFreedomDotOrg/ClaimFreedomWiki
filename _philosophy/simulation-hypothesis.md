@@ -1,7 +1,5 @@
 ---
 title: The Simulation Hypothesis
-layout: default
-nav_exclude: false
 ---
 
 # The Simulation Hypothesis: Are We Living in a Computational Reality?

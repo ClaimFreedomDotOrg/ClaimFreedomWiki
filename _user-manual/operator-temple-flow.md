@@ -1,7 +1,5 @@
 ---
 title: "Operator, Temple, Flow: Dismantling the False Trinity"
-layout: default
-nav_exclude: false
 ---
 
 # Operator, Temple, Flow: Dismantling the False Trinity

@@ -1,7 +1,5 @@
 ---
 title: Epigenetic Mechanisms
-layout: default
-nav_exclude: false
 ---
 
 # Epigenetic Mechanisms

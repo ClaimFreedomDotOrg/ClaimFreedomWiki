@@ -1,7 +1,5 @@
 ---
 title: Groundhog Day
-layout: default
-nav_exclude: false
 ---
 
 # Groundhog Day: Samsara Made Literal

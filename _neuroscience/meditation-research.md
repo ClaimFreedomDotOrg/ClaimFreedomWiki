@@ -1,7 +1,5 @@
 ---
 title: Meditation Neuroscience Studies
-layout: default
-nav_exclude: false
 ---
 
 # Meditation Neuroscience Studies

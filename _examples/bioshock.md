@@ -1,7 +1,5 @@
 ---
 title: BioShock
-layout: default
-nav_exclude: false
 ---
 
 # BioShock: "Would You Kindly" — The Programmed Self Exposed
