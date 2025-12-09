@@ -1,5 +1,5 @@
 ---
-title: Biblical Decodings
+title: Biblical Decodings (Index)
 nav_order: 1
 ---
 

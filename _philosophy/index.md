@@ -1,5 +1,5 @@
 ---
-title: Philosophy
+title: Philosophy (Index)
 nav_order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Cultural Examples
+title: Cultural Examples (Index)
 nav_order: 1
 ---
 

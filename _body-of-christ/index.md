@@ -1,5 +1,5 @@
 ---
-title: The Body of Christ
+title: The Body of Christ (Index)
 nav_order: 1
 ---
 

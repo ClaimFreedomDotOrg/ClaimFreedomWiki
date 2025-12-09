@@ -1,5 +1,5 @@
 ---
-title: The User Manual
+title: The User Manual (Index)
 nav_order: 1
 ---
 

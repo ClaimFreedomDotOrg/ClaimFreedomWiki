@@ -1,5 +1,5 @@
 ---
-title: Practices
+title: Practices (Index)
 nav_order: 1
 ---
 

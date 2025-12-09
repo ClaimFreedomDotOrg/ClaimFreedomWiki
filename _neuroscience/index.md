@@ -1,5 +1,5 @@
 ---
-title: Neuroscience
+title: Neuroscience (Index)
 nav_order: 1
 ---
 
