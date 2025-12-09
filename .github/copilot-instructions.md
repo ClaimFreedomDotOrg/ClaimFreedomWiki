@@ -129,22 +129,29 @@ DMN research, meditation studies, epigenetics, neuroplasticity.
 ## Code & Markdown Standards
 
 ### Front Matter
-All pages must include:
+**For regular pages in `/docs/`**:
 ```yaml
 ---
-layout: default  # or omit for collection pages (defaults apply)
 title: Page Title
 nav_order: [number]  # Lower numbers appear first
 ---
 ```
 
-For collection pages:
+**CRITICAL for collection pages** (`_practices/`, `_philosophy/`, `_neuroscience/`, `_examples/`, `_biblical/`, `_user-manual/`, `_body-of-christ/`):
 ```yaml
 ---
-title: Page Title  # no "layout" needed
+title: Page Title
+parent: [Collection Name]  # REQUIRED - must match exactly: "Practices", "Philosophy", "Neuroscience", "Cultural Examples", "Biblical Decodings", "The User Manual", "The Body of Christ"
 nav_order: [number]
 ---
 ```
+
+**IMPORTANT**: 
+- Collection pages MUST include the `parent:` field matching their collection's display name
+- Titles with colons (`:`) MUST be quoted: `title: "Example: Subtitle"`
+- The parent name must match the collection index title in `docs/[collection].md` exactly
+- Without the `parent:` field, pages will not appear in the navigation hierarchy
+- `layout: default` is automatically applied via `_config.yml` defaults and does not need to be specified
 
 ### Markdown Linting
 Follow these rules (enforced by `.markdownlint.json`):
