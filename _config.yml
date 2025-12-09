@@ -67,6 +67,41 @@ defaults:
       layout: default
       nav_exclude: false
       has_children: false
+  - scope:
+      path: ""
+      type: "practices"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "philosophy"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "neuroscience"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "examples"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "biblical"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "user-manual"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "body-of-christ"
+    values:
+      layout: default
 
 # Plugins supported by GitHub Pages
 plugins:
