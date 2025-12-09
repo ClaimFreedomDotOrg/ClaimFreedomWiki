@@ -1,6 +1,8 @@
 ---
 title: Breaking the Media Spell - Reclaiming Operator Attention from Hijacked Streams
 parent: The User Manual
+layout: default
+nav_exclude: false
 nav_order: 14
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Execution Observation
 nav_order: 18
+layout: default
+nav_exclude: false
 parent: Practices
 ---
 

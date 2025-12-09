@@ -2,6 +2,7 @@
 layout: default
 parent: Biblical Decodings
 title: The Gospel of Philip
+nav_exclude: false
 nav_order: 26
 ---
 

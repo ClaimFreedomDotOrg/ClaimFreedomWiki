@@ -1,6 +1,8 @@
 ---
 title: The Illusion of Time - Recognizing Your Timeless Nature
 parent: The User Manual
+layout: default
+nav_exclude: false
 nav_order: 23
 ---
 

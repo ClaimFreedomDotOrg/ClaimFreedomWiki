@@ -1,6 +1,8 @@
 ---
 title: The Great Heist
 nav_order: 23
+layout: default
+nav_exclude: false
 parent: Philosophy
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: The Sacred Order
 parent: Philosophy
+layout: default
+nav_exclude: false
 nav_order: 50
 ---
 

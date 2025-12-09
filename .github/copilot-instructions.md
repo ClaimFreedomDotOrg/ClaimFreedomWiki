@@ -143,6 +143,8 @@ nav_order: [number]  # Lower numbers appear first
 title: Page Title
 parent: [Collection Name]  # REQUIRED - must match exactly: "Practices", "Philosophy", "Neuroscience", "Cultural Examples", "Biblical Decodings", "The User Manual", "The Body of Christ"
 nav_order: [number]
+layout: default
+nav_exclude: false
 ---
 ```
 
@@ -151,7 +153,7 @@ nav_order: [number]
 - Titles with colons (`:`) MUST be quoted: `title: "Example: Subtitle"`
 - The parent name must match the collection index title in `docs/[collection].md` exactly
 - Without the `parent:` field, pages will not appear in the navigation hierarchy
-- `layout: default` is automatically applied via `_config.yml` defaults and does not need to be specified
+- For consistency, always include `layout: default` and `nav_exclude: false` explicitly (even though defaults exist in `_config.yml`)
 
 ### Markdown Linting
 Follow these rules (enforced by `.markdownlint.json`):

@@ -1,6 +1,8 @@
 ---
 title: Plato's Allegory of the Cave
 parent: Cultural Examples
+layout: default
+nav_exclude: false
 nav_order: 24
 ---
 

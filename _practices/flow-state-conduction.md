@@ -1,6 +1,8 @@
 ---
 title: Flow State Conduction
 nav_order: 20
+layout: default
+nav_exclude: false
 parent: Practices
 ---
 

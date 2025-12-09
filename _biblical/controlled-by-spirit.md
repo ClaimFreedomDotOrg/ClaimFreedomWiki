@@ -1,6 +1,8 @@
 ---
 title: "Controlled by the Spirit, Not the Flesh"
 parent: Biblical Decodings
+layout: default
+nav_exclude: false
 nav_order: 42
 ---
 

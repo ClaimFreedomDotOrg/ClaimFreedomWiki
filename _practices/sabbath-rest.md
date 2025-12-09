@@ -1,6 +1,8 @@
 ---
 title: Sabbath Rest
 nav_order: 19
+layout: default
+nav_exclude: false
 parent: Practices
 ---
 

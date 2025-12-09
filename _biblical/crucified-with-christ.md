@@ -1,6 +1,8 @@
 ---
 title: "I Have Been Crucified with Christ"
 parent: Biblical Decodings
+layout: default
+nav_exclude: false
 nav_order: 31
 ---
 

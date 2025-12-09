@@ -1,6 +1,8 @@
 ---
 title: WALL-E
 parent: Cultural Examples
+layout: default
+nav_exclude: false
 nav_order: 24
 ---
 

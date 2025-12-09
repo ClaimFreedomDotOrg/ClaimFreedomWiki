@@ -2,6 +2,7 @@
 title: Heart Listening
 nav_order: 16
 parent: Practices
+nav_exclude: false
 layout: default
 ---
 

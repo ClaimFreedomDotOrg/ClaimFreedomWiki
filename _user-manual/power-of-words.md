@@ -2,6 +2,7 @@
 layout: default
 title: The Operator's Primary Tool - Conscious Logos vs Voice's Misuse
 nav_order: 9
+nav_exclude: false
 parent: The User Manual
 ---
 
