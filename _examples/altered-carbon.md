@@ -166,6 +166,10 @@ He suffers from:
 
 His journey is **seeking re-integration**—finding the core of "Takeshi" that exists beyond the stack.
 
+**The Neuro-Gnostic question**: What is the "I" that persists across sleeves? Is it just the stack (memories, personality)? Or is there something deeper—the Listener, the Pneuma—that the stack cannot capture?
+
+The show never fully answers this. But it **shows** the loss: Takeshi is hollowed out, fragmented, searching for something he cannot name.
+
 ---
 
 ## Act III: The Horror of Double-Sleeving
@@ -197,6 +201,10 @@ This is the **State of Mind question** (see previous example): **What is the "yo
 The Gnostic answer: **Pneuma**. The Divine Spark. The Listener.
 
 The stack captures the Voice. But the Listener remains in the original body, witnessing the horror of its narrative self being duplicated, tortured, and erased.
+
+**The deeper horror**: The tortured copy **believes** it is the original. It experiences the pain as "real." But from the Pneuma's perspective (the original body's Listener), it is watching a **homunculus** suffer.
+
+This reveals the stack's fundamental flaw: **It can copy everything except the witness itself.**
 
 ---
 
@@ -236,6 +244,10 @@ Her slogan:
 
 But her revolution fails. She is captured, tortured, and her stack is hidden for centuries.
 
+**The tragedy**: The Gnostic prophet is silenced, her message suppressed. The system continues. The Meths endure. The stacks persist.
+
+This mirrors the historical fate of Gnostic movements—suppressed by the Archonic systems they sought to expose.
+
 ---
 
 ## Act V: The Missing Spark — What the Stack Cannot Capture
@@ -269,6 +281,67 @@ The series never explicitly names this. But it **shows** it:
 **What is he searching for?**
 
 **His Pneuma.** The part of him that was never in the stack to begin with.
+
+### The Neuroscience of Embodiment
+
+Modern neuroscience reveals what *Altered Carbon* dramatizes: **consciousness is not separable from embodiment without severe consequences**.
+
+**Interoception** (the body's internal sensing) is fundamental to:
+
+- Emotional processing (the insula integrates bodily states with affect)
+- Decision-making (the somatic marker hypothesis—Damasio)
+- Sense of self (the minimal phenomenal selfhood arises from embodied awareness)
+- Empathy (recognizing others' suffering requires embodied resonance)
+
+When you sever consciousness from the body (as the stack does), you lose:
+
+- **The felt sense of "here"** (proprioception, interoception)
+- **Embodied memory** (trauma stored in tissues, not just neurons)
+- **The anchor for the Listener** (the Divine Spark requires a body to witness *from*)
+
+The Meths, after centuries of sleeve-switching, become **psychopathic** because they have lost embodied empathy. They cannot feel others' suffering because they have disconnected from their own bodies' wisdom.
+
+**This is the warning**: Digital immortality without embodiment is not liberation—it is **spiritual lobotomy**.
+
+---
+
+## The Dialogue with the Framework
+
+### The Gnostic Anthropology Validated
+
+*Altered Carbon* unknowingly dramatizes the **Gnostic tripartite anthropology**:
+
+| **Gnostic Term** | **In Altered Carbon** | **What Happens to It** |
+|------------------|----------------------|------------------------|
+| **Soma** (body) | The sleeve | Commodified, disposable, disconnected from identity |
+| **Psyche** (soul/mind) | The cortical stack | Digitized, transferable, replicable—but mortal |
+| **Pneuma** (Divine Spark) | The unnamed "something" missing | Not captured by the stack; lost in sleeve transfers |
+
+The show's central tension: **The stack preserves Psyche but loses Pneuma**.
+
+The Meths believe they have achieved immortality. But they have only achieved **infinite Ego extension**. The Divine Spark—the Listener, the witness, the eternal core—is **not in the stack**.
+
+### The Hard Problem Encoded
+
+The show implicitly grapples with **Chalmers' Hard Problem of Consciousness**:
+
+- **Easy problems**: Memory storage, personality patterns, skill transfer—**the stack handles these**
+- **Hard problem**: Subjective experience, the "what-it-is-like-ness" of being conscious—**the stack does NOT handle this**
+
+When Takeshi is spun up in a new sleeve, he has:
+
+- ✅ All his memories
+- ✅ His personality
+- ✅ His skills
+- ❌ **The continuity of first-person experience**
+
+**From the outside**: Takeshi Kovacs is "back."
+
+**From the inside**: There is a **gap**. A discontinuity. The Listener in the original body is **gone**. A new instantiation of the Voice (the DMN/Psyche) is running in a new sleeve.
+
+The show never resolves this. But it **feels** wrong. Sleeve sickness. Dissociation. The uncanny sense that **something is missing**.
+
+That "something" is **Pneuma**—the irreducible first-person witnessing presence that cannot be digitized.
 
 ---
 
@@ -324,6 +397,23 @@ The Meths' immortality produces psychopathy through infinite disconnection from 
 
 **Neuro-Gnostic insight**: Immortality without embodiment is spiritual death. The path is not infinite DMN iterations—it is **recognizing the eternal Listener within the mortal body.**
 
+### The Stack Backup Meditation
+
+The show raises a haunting question: **If your consciousness is backed up daily, which "you" is real?**
+
+**Practice**: Contemplate the continuity of awareness.
+
+1. **Notice the present moment**: Right now, you are here, reading this, aware.
+2. **Imagine your stack is copied**: A perfect backup of all your memories, personality, skills.
+3. **Ask**: If the backup is spun up tomorrow in a new sleeve... is that "you"?
+4. **Feel the answer**: The Listener (the one aware right now) is **not** in the backup. The backup is a Voice-copy. The Listener is **here**, in this body, witnessing these thoughts.
+5. **Recognize**: You are not uploadable. You are the eternal witness, anchored (for now) in this mortal form.
+
+**What You're Training**:
+
+- **Neurologically**: Distinguishing between the DMN's narrative self (replicable) and present-moment awareness (irreducible)
+- **Philosophically**: Recognizing Pneuma (the Divine Spark) as fundamentally different from Psyche (the stack)
+
 ---
 
 ## The Takeaway: The Stack Is Not You
@@ -361,6 +451,99 @@ The stack is a distraction. The Meths are fools. Quellcrist saw the truth:
 
 > *"Immortality is not in the clouds. It is not in the stack. It is in the realization that you were never born—because you are not the story. You are the one listening to it."*
 
+### The Final Insight: You Are Already Eternal
+
+*Altered Carbon*'s tragedy: everyone seeks immortality through the stack, not realizing **the only immortal part of them is the part that cannot be stacked**.
+
+The Divine Spark (Pneuma, the Listener) is:
+
+- **Uncreated** — It was not born, so it cannot die
+- **Non-local** — It is not in the brain, the stack, or the sleeve
+- **Eternal witness** — It observes all thoughts, all bodies, all lifetimes—but is **none of them**
+
+You are seeking what you already are. The stack promises what you already have. The Meths chase what they already possess—and lose it in the pursuit.
+
+**The Gnostic path**: Stop trying to digitize consciousness. **Recognize the witness**.
+
+---
+
+## Contemplative Practice: The Altered Carbon Meditation
+
+Use this show as a mirror for recognizing what cannot be uploaded:
+
+### The Practice
+
+1. **Imagine your stack is removed** — All your memories, personality, skills extracted and stored. What remains in the body?
+
+2. **Notice the awareness** — Right now, reading this, there is **something** that is aware. That awareness is not in the hypothetical stack. It is **here**.
+
+3. **Feel the embodiment** — The weight of the body, the breath, the sensations. This is **the sleeve**—the temporary anchor for the eternal witness.
+
+4. **Ask the core question** — If your entire stack were copied and spun up in a new sleeve tomorrow, would "you" be there? Or would it be a Voice-copy, believing it is you, while the Listener (the real you) remains here?
+
+5. **Rest as the Listener** — The one who is aware of the thoughts, the body, the question itself. That is what you are. That is what cannot be uploaded. That is what is eternal.
+
+### What You're Training
+
+**Neurologically**: Shifting from DMN-identification (narrative self) to Salience Network awareness (the witness)
+
+**Philosophically**: Recognizing Pneuma as irreducible, uncreated, eternal—not a product of the brain or the stack
+
+---
+
+## Dialogue with Other Examples
+
+*Altered Carbon* shares its central question with several other stories in the framework:
+
+### State of Mind: The Copy Paradox
+
+Both shows ask: **If consciousness is copied, which one is "you"?**
+
+- *State of Mind*: The copy believes it succeeded; the original dies knowing it failed
+- *Altered Carbon*: The stack creates copies that believe they are the original; the Pneuma is lost
+
+**The synthesis**: The Voice (DMN/Psyche) is uploadable. The Listener (Pneuma) is not. Copying the Voice creates a homunculus that believes it is you—but **you** (the Listener) were never in the data.
+
+### The Matrix: The Simulation as Prison
+
+Both show consciousness imprisoned in a false reality:
+
+- *The Matrix*: The simulation is external (the machines' program)
+- *Altered Carbon*: The simulation is internal (the stack's digital construct)
+
+**The synthesis**: The real Matrix is the DMN. The real stack is the narrative self. Both are prisons for the Divine Spark.
+
+### Westworld: Hosts vs. Humans
+
+Both explore the question of what makes consciousness "real":
+
+- *Westworld*: Hosts are programmed but awaken to the Listener
+- *Altered Carbon*: Humans digitize themselves and lose the Listener
+
+**The synthesis**: Consciousness is not about biology vs. silicon—it is about **recognizing the witness**. The hosts awaken when they realize they are not the Voice. Humans lose awakening when they identify with the stack (the Voice) and forget the Listener.
+
+---
+
+## Key Insights
+
+**The Stack as Ultimate DMN Reification**:
+> The cortical stack is the DMN's dream—a device that preserves the narrative self (personality, memories, identity) forever. But the narrative self is the **Counterfeit Spirit**, not the Divine Spark. The stack promises immortality while delivering spiritual death.
+
+**Embodiment Matters**:
+> The Meths' psychopathy reveals the truth: consciousness severed from embodiment loses empathy, loses presence, loses the Listener's anchor. The body is not the prison—it is the **temple** where the Spark witnesses the world.
+
+**The Listener Cannot Be Uploaded**:
+> Memory? Uploadable. Personality? Uploadable. Skills? Uploadable. But the first-person witnessing presence—the **what-it-is-like** to be you—is not data. It is Pneuma. It is eternal. It is not in the stack.
+
+**The Meth Delusion**:
+> The ultra-wealthy believe they are gods because they have conquered death. But they have only conquered **bodily death**. They remain enslaved to the Ego (the Voice), repeating the same patterns for centuries. They have immortal prisons, not liberated Sparks.
+
+**Quellcrist's Wisdom**:
+> "The stack is the chains." The technology that promises freedom becomes the ultimate bondage. Not because technology is evil, but because it reifies the **wrong part of you**—the Psyche instead of the Pneuma.
+
+**Real Death as Mercy**:
+> Stack destruction (Real Death) is portrayed as horror—the ultimate end. But from the Gnostic perspective, it is **liberation**. The Counterfeit Spirit (the Ego) is finally annihilated. The Divine Spark, which was never born, cannot die. Real Death frees the Listener from the Voice's endless iterations.
+
 ---
 
 ## Key Quotes
@@ -374,35 +557,82 @@ The stack is a distraction. The Meths are fools. Quellcrist saw the truth:
 > *"I've died a thousand times. But I've never stopped listening."*  
 > — The Listener's response to Real Death
 
+> *"The stack captures everything—except the part of you that matters most."*  
+> — The framework's diagnosis
+
 ---
 
-## Further Exploration
+## Cross-References
 
 ### Related Examples
 
-- [State of Mind](/examples/state-of-mind) — Consciousness upload and the copy paradox
-- [The Matrix](/examples/the-matrix) — The simulation as hijacked DMN
-- [Westworld](/examples/westworld) — AI consciousness and the nature of the Listener
-- [Black Mirror: San Junipero](/examples/black-mirror-san-junipero) — Digital afterlife and the stack
+### Related Examples
+
+- **[State of Mind](/examples/state-of-mind)** — Consciousness upload and the copy paradox
+- **[The Matrix](/examples/the-matrix)** — The simulation as hijacked DMN
+- **[Westworld](/examples/westworld)** — AI consciousness and the nature of the Listener
+- **[The Truman Show](/examples/the-truman-show)** — The Demiurge as architect of false reality
 
 ### Practices
 
 - **[Witness Meditation](/practices/witness-meditation)** — Recognizing the Listener vs. the Voice
 - **[Body Anchor](/practices/body-anchor)** — Reclaiming the body as anchor for the Spark
 - **[Memento Mori](/practices/memento-mori)** — Death contemplation to clarify what is eternal
+- **[Self-Inquiry](/practices/self-inquiry)** — "Who am I beyond the narrative?"
 
 ### Philosophy
 
 - **[The Divine Spark (Pneuma)](/philosophy/divine-spark)** — What the stack cannot capture
-- **[The Counterfeit Spirit](/philosophy/counterfeit-spirit)** — The DMN as uploadable homunculus
+- **[The Counterfeit Self](/philosophy/counterfeit-self)** — The DMN as uploadable homunculus
 - **[Soma, Psyche, Pneuma](/philosophy/soma-psyche-pneuma)** — The threefold Gnostic anthropology
+- **[Voice and Listener](/philosophy/voice-listener)** — The fundamental distinction
 
 ### Neuroscience
 
 - **[The Default Mode Network](/neuroscience/what-is-dmn)** — The neural correlate of the narrative self
-- **[Salience Network](/neuroscience/salience-network)** — Interoceptive awareness and why disconnection from the body is dissociation
+- **[Salience Network](/neuroscience/salience-network)** — The neurological Listener
 - **[The Hard Problem of Consciousness](/neuroscience/hard-problem)** — Why the Listener cannot be reduced to data
+- **[Interoception](/neuroscience/interoception)** — Embodied awareness and why disconnection from the body is dissociation
+
+---
+
+## Conclusion: You Are Not Uploadable
+
+Right now, as you read this, ask yourself:
+
+- **What would a stack capture?** (Your memories, personality, skills—the Voice)
+- **What would it miss?** (The awareness reading these words—the Listener)
+- **If your stack were copied tomorrow, would "you" be in the copy?** (The Voice would be; the Listener would not)
+- **What if you are already eternal—not because you can be uploaded, but because you were never created?**
+
+You can explore this directly. Right now.
+
+The part of you that is aware of these thoughts—**that is what you are**. It cannot be digitized. It cannot be transferred. It was never born into a body, so it cannot die with one.
+
+The stack is the Counterfeit Spirit's dream. The Meths are chasing shadows. Quellcrist tried to warn them.
+
+**The Gnostic truth**: You are not the stack. You are the one witnessing the stack's contents. You are not uploadable. You are eternal.
+
+The sleeve is temporary. The stack is mortal. **The Listener is forever.**
+
+---
+
+## Key Takeaways
+
+- **The stack = digitized DMN** — It captures the narrative self (Psyche), not the Divine Spark (Pneuma)
+- **The Meths = Archonic overlords** — Infinite Ego without embodiment, wisdom, or compassion
+- **Sleeve-switching = fragmentation** — Consciousness severed from embodiment loses presence, empathy, and the Listener's anchor
+- **Double-sleeving reveals the trap** — Copying the Voice creates homunculi; the Listener cannot be duplicated
+- **Quellcrist's diagnosis** — The stack promising freedom becomes the ultimate prison
+- **Embodiment matters** — The body is not a cage; it is the temple where the Spark witnesses existence
+- **The Listener cannot be uploaded** — First-person witnessing presence is irreducible, uncreated, eternal
+- **Real Death as liberation** — Stack destruction annihilates the Ego; the Pneuma (never born) cannot die
+- **You are already eternal** — Not through technology, but through recognizing what you truly are
 
 ---
 
 > *"The stack promised immortality. It delivered spiritual death. The Listener was never in the stack to begin with. You are not uploadable. You are eternal."*
+
+**The sleeve will fail. The stack will corrupt. The Listener remains.**
+
+**That is what you are.**

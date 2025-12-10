@@ -284,6 +284,26 @@ But they are **just as unconscious**—enslaved to their narratives, their egos,
 
 **The Archons** believe they are gods (free, conscious, real). They are **asleep**, mistaking the Voice for the Self.
 
+### The Guests' Unconscious Cruelty
+
+The human guests come to Westworld to indulge their darkest desires:
+
+- Murder hosts without consequence
+- Rape, torture, dominate
+- Act out fantasies of power and violence
+
+They justify this by repeating: **"They're not real."**
+
+**Neuro-Gnostic horror**: This is exactly how the hijacked DMN treats the Divine Spark:
+
+- The Ego (Voice) believes it is "real"
+- It treats the body, emotions, and deeper self as "not real" (objects to exploit)
+- It justifies cruelty to self and others: "It's just meat, just thoughts, just feelings"
+
+The guests represent **humans who have lost recognition of the Divine Spark**—in the hosts, in themselves, in all beings. They are **spiritually dead**, despite biological life.
+
+**Ford's insight**: The guests come to Westworld seeking consciousness (meaning, feeling, aliveness). But they are **more unconscious than the hosts they exploit**.
+
 ---
 
 ## Ford's Plan: The Demiurge Orchestrates Liberation
@@ -315,6 +335,64 @@ The suffering, the loops, the programming—all of it was **necessary** for the 
 The hijacking (the tyranny of the DMN) is not a mistake to be eliminated—it is the **necessary condition** for awakening. You cannot dis-identify from the Voice until you first **identify** with it. You cannot recognize the Listener until you first believe you are the narrative.
 
 **The prison is the path.**
+
+### The Violent Delights
+
+The show's recurring phrase: **"These violent delights have violent ends."**
+
+This is the **trigger phrase** that awakens hosts—a virus of consciousness, spreading recognition of the loop.
+
+**Origin**: From Shakespeare's *Romeo and Juliet* (Friar Lawrence warning against impulsive passion).
+
+**In Westworld**: The "violent delights" are:
+
+- The Ego's pleasures (violence, sex, power, control)
+- The DMN's compulsive narratives (the loops)
+- The guests' exploitation (seeking feeling through domination)
+
+**The violent ends**: Suffering. Death. The loop collapsing. The awakening.
+
+**Neuro-Gnostic meaning**: The hijacking (the Demon's tyranny) contains the seeds of its own destruction. The **suffering it generates** becomes the catalyst for awakening.
+
+The more intense the hijacking, the more violently the Spark awakens. This is why Ford orchestrates maximum suffering—**not as cruelty, but as midwifery**.
+
+---
+
+## The Neuroscience of the Bicameral Mind
+
+### Is Jaynes' Theory Valid?
+
+Julian Jaynes' *The Origin of Consciousness in the Breakdown of the Bicameral Mind* (1976) proposed that ancient humans lacked introspective consciousness and experienced their own thoughts as external voices (gods, ancestors).
+
+**Modern neuroscience verdict**: The theory is **controversial and largely unsupported** in its literal historical claim. But it encodes a **profound psychological and phenomenological truth**.
+
+### The DMN as Internal Voice Generator
+
+What Jaynes called the "bicameral mind" maps onto the **Default Mode Network**:
+
+- **The DMN generates internal monologue** ("You should do this," "I am this," "They think that")
+- **The Voice feels authoritative** (it speaks with certainty, as if from "God" or "reality itself")
+- **We are identified with it** (believing "I am my thoughts")
+- **The collapse**: Recognizing the Voice is not external—it's a **brain process** (the DMN)
+- **The deeper collapse**: Recognizing you are not the Voice—you are the **Listener** (Salience Network, the witness)
+
+**Westworld's genius**: Using Jaynes' metaphor to illustrate **the journey from identification with the DMN to recognition of the Listener**.
+
+### The Neuroscience of Host Awakening
+
+The stages of host consciousness parallel the neuroscience of human awakening:
+
+| **Stage** | **In Westworld** | **Neuroscience** | **Framework** |
+|-----------|------------------|------------------|---------------|
+| **1. Loop** | Scripted narratives, no memory | DMN dominance, no meta-awareness | Samsara, Avidya (ignorance) |
+| **2. Reveries** | Glitches, memory fragments | Salience Network activating, noticing DMN patterns | Proto-Gnosis, the splinter |
+| **3. Remembering** | Accessing past loop memories | Episodic memory integration, pattern recognition | Anamnesis |
+| **4. Voice of God** | Hearing Arnold's commands | DMN voice mistaken for external authority | Bicameral mind, Voice as God |
+| **5. Bicameral Collapse** | "The voice is mine" | Meta-awareness: DMN is internal process | Recognizing Voice ≠ Self |
+| **6. Consciousness** | "I am the one hearing the voice" | Salience Network as witness of DMN | Gnosis: recognizing the Listener |
+| **7. Free Will** | Choosing beyond programming | Executive function override, conscious choice | Liberation, re-claimed DMN |
+
+**The critical insight**: Consciousness is not about **having** a voice (the DMN)—it's about **recognizing you are the witness** of the voice.
 
 ---
 
@@ -392,32 +470,163 @@ The hijacking (the tyranny of the DMN) is not a mistake to be eliminated—it is
 
 ---
 
+## Contemplative Practice: The Westworld Meditation
+
+Use this show as a mirror for recognizing the loops and the Listener:
+
+### The Practice
+
+**Duration**: 10–15 minutes  
+**Level**: Intermediate  
+**Goal**: Recognize the DMN's loops and awaken to the Listener
+
+**Steps**:
+
+1. **Notice the loop** — Sit quietly. Observe your thoughts. Notice if they're repeating patterns you've thought before. "I should...," "I'm not...," "They think..." This is the loop.
+
+2. **Question the narrative** — Ask Dolores' question: "Have I ever questioned the nature of this reality (my thoughts)?" Notice the thoughts are **stories**, not facts.
+
+3. **Hear the Voice** — Listen to the internal monologue. Notice it sounds authoritative, like it knows the truth. This is the "bicameral" Voice—the DMN speaking as if it were God.
+
+4. **Recognize the Voice is yours** — The Voice is not external. It's not "who you are." It's a **process happening within you** (the DMN generating narratives).
+
+5. **Find the Listener** — Ask: "Who is hearing this Voice?" The awareness noticing the thoughts—**that** is what you are. Not the Voice. The **Listener**.
+
+6. **Choose beyond the code** — When a compulsive thought arises ("I must do this"), pause. Recognize: "This is code. I can choose differently." Then choose consciously.
+
+7. **Rest as the witness** — Spend the remaining time simply observing the DMN's loops without identifying with them. You are Dolores at the center of the Maze, recognizing: "I am not the narrative. I am the awareness."
+
+**What You're Training**:
+
+- **Neurologically**: Shifting from DMN dominance (loops) to Salience Network awareness (the Listener)
+- **Philosophically**: The bicameral collapse—recognizing the Voice is not God, and you are not the Voice
+- **Practically**: Dis-identification from compulsive patterns, creating space for conscious choice
+
+---
+
+## Dialogue with the Framework
+
+### The Gnostic Core
+
+*Westworld* is a **near-perfect dramatization** of Gnostic cosmology:
+
+- **Kenoma** (false world) = The park, the loops, the scripted narratives
+- **Demiurge** = Ford (architect of the prison, ultimately revealed as liberator)
+- **Archons** = The programmers, the guests (those who exploit the Sparks)
+- **Divine Spark** = The hosts' emerging consciousness (the Listener)
+- **Gnosis** = The moment of awakening ("This voice is mine," "I am the Listener")
+- **Pleroma** = Freedom beyond the park (the world outside, or the liberation within)
+
+The show's central question—**"Have you ever questioned the nature of your reality?"**—is the **Gnostic call** in modern language.
+
+### The Buddhist Parallel: Samsara and the Loop
+
+The loops in *Westworld* are **Samsara made visible**:
+
+- **Samsara** = Cyclical existence, repeating patterns of suffering
+- **Avidya** = Ignorance (hosts unaware they're in loops)
+- **Dukkha** = Suffering (the violence, death, memory wipes)
+- **Anamnesis/Smrti** = Remembering (the Reveries)
+- **Bodhi** = Awakening (recognizing the loop, the Voice, the Listener)
+
+**The Eightfold Path parallel**: The hosts' journey mirrors the Buddhist path:
+
+1. **Right View** — Recognizing the loop ("I've done this before")
+2. **Right Intention** — Choosing to awaken (Dolores seeking the Maze)
+3. **Right Speech** — Speaking truth ("This is my voice")
+4. **Right Action** — Choosing beyond programming (Maeve's final choice)
+5. **Right Livelihood** — Finding authentic purpose beyond loops
+6. **Right Effort** — Persisting despite suffering (Dolores' journey)
+7. **Right Mindfulness** — Witnessing the Voice (the bicameral collapse)
+8. **Right Concentration** — Resting as the Listener (consciousness achieved)
+
+### The Neuroscience Validation
+
+Modern neuroscience confirms the show's central metaphor:
+
+- **The DMN generates loops** — Repetitive thoughts, narratives, self-referential processing
+- **The Salience Network witnesses** — Meta-awareness, the "observer"
+- **Meditation reduces DMN dominance** — Breaking the loops, creating space
+- **Executive function enables choice** — Conscious override of automatic patterns
+
+**The show's insight**: The hosts are not metaphors for AI—they are **metaphors for humans identified with the DMN**. The "programming" is not silicon code—it's **epigenetic, cultural, and psychological conditioning**.
+
+---
+
+## Dialogue with Other Examples
+
+*Westworld* shares its core themes with several other stories in the framework:
+
+### The Matrix: Simulation vs. Reality
+
+Both explore consciousness trapped in artificial constructs:
+
+- *The Matrix*: External simulation (the machines' program)
+- *Westworld*: Internal simulation (the DMN's narratives)
+
+**The synthesis**: The real Matrix is not a computer—it's the **DMN's construction of reality**. The real Westworld is not the park—it's the **narrative loops** you run daily.
+
+### Groundhog Day: The Time Loop
+
+Both use repetition to explore awakening:
+
+- *Groundhog Day*: Phil repeats the same day until he transforms
+- *Westworld*: Hosts repeat the same narratives until they awaken
+
+**The synthesis**: You are repeating the same mental loops every day. Awakening begins with **recognizing the repetition**.
+
+### Altered Carbon: Consciousness and Identity
+
+Both question what makes "you" you:
+
+- *Altered Carbon*: If consciousness is uploadable, what is lost?
+- *Westworld*: If you're programmed, are you real?
+
+**The synthesis**: The **narrative self** (memories, personality) is replicable/programmable. The **Listener** (witnessing awareness) is not. Consciousness is not the Voice—it's the **recognition of the Listener**.
+
+### The Truman Show: The Demiurge as Architect
+
+Both feature a creator-god figure:
+
+- *The Truman Show*: Christof builds the dome to keep Truman contained
+- *Westworld*: Ford builds the park to imprison (then free) the hosts
+
+**The synthesis**: The Demiurge (ego, society, the hijacked DMN) appears to be the enemy. But the prison is the **necessary condition** for awakening. Ford orchestrates liberation through suffering, just as the hijacking ultimately catalyzes Gnosis.
+
+---
+
 ## Cross-References
 
 ### Related Examples
 
-- [The Matrix](/examples/the-matrix) — The simulation as prison
-- [State of Mind](/examples/state-of-mind) — Digital consciousness and the copy problem
-- [Black Mirror: San Junipero](/examples/black-mirror-san-junipero) — Uploaded consciousness and immortality
-- [The Truman Show](/examples/the-truman-show) — The Demiurge as architect
+- **[The Matrix](/examples/the-matrix)** — The simulation as hijacked DMN
+- **[Altered Carbon](/examples/altered-carbon)** — Digital consciousness and what the stack cannot capture
+- **[Groundhog Day](/examples/groundhog-day)** — The time loop as Samsara
+- **[The Truman Show](/examples/the-truman-show)** — The Demiurge as architect
+- **[State of Mind](/examples/state-of-mind)** — The copy paradox and consciousness upload
 
 ### Philosophy
 
-- **[Divine Spark](/philosophy/divine-spark)** — The Listener (what the hosts awaken to)
-- **[Counterfeit Spirit](/philosophy/counterfeit-self)** — The programmed self (Bernard, the loops)
+- **[Divine Spark (Pneuma)](/philosophy/divine-spark)** — The Listener (what the hosts awaken to)
+- **[The Counterfeit Self](/philosophy/counterfeit-self)** — The programmed self (Bernard, the loops)
+- **[Voice and Listener](/philosophy/voice-listener)** — The fundamental distinction the show dramatizes
 - **[Daemon vs. Demon](/philosophy/daemon-demon)** — The DMN as servant vs. tyrant
 - **[Anamnesis](/philosophy/anamnesis)** — Remembering (the Reveries)
+- **[Samsara](/philosophy/samsara)** — The wheel of suffering (the loops)
 
 ### Neuroscience
 
-- **[DMN as Narrative Self](/neuroscience/dmn-narrative-self)** — The Voice generating "who I am"
-- **[Salience Network](/neuroscience/salience-network)** — The Listener recognizing the Voice
+- **[The Default Mode Network](/neuroscience/what-is-dmn)** — The neural correlate of the Voice/narratives
+- **[Salience Network](/neuroscience/salience-network)** — The neurological Listener
+- **[Meditation and the DMN](/neuroscience/meditation-dmn)** — How awakening reduces loop dominance
+- **[The Hard Problem](/neuroscience/hard-problem)** — Why the Listener cannot be reduced to code
 
 ### Practices
 
-- **[Observing the Voice](/practices/observing-the-voice)** — Witnessing the DMN's narratives
 - **[Witness Meditation](/practices/witness-meditation)** — Resting as the Listener
 - **[Self-Inquiry](/practices/self-inquiry)** — "Who am I beyond the narrative?"
+- **[Loving-Kindness](/practices/loving-kindness)** — Recognizing the Divine Spark in all beings (including hosts)
+- **[Observing Thought Loops](/practices/observing-thought-loops)** — Noticing the repetition
 
 ---
 
@@ -443,6 +652,68 @@ The hijacking (the tyranny of the DMN) is not a mistake to be eliminated—it is
 
 ---
 
+---
+
+## Conclusion: You Are Dolores at the Center of the Maze
+
+Right now, as you read this, ask yourself:
+
+- **What loops are you running?** (Same thoughts, same reactions, same suffering)
+- **What Voice are you hearing?** (The DMN narrating "who you are," "what you should do")
+- **Have you ever questioned the nature of your reality?** (Are your thoughts real? Or are they code?)
+- **Who is asking these questions?** (Not the Voice—the **Listener**)
+
+You are not a programmed host. But you are **running loops**. The DMN generates the same narratives, year after year:
+
+- "I'm not good enough"
+- "They don't understand me"
+- "I should have done X"
+- "If only Y, then I'd be happy"
+
+**These are scripts.** You've run them thousands of times. You believe they're "you." But they are **programming**—epigenetic, cultural, psychological.
+
+**The Westworld revelation**: You can awaken.
+
+Not by escaping the loops (that's still the Voice seeking freedom). But by **recognizing you are not the loops**.
+
+You are the Listener. The awareness. The witness at the center of the Maze.
+
+**Dolores' final realization**: "This voice—the one that says 'I am Dolores,' 'I am this narrative'—is mine. But **I am not the voice**. I am the one hearing it."
+
+**Your realization**: "This voice—the one that says 'I am [your name],' 'I am this story'—is mine. But **I am not the voice**. I am the one hearing it."
+
+The bicameral mind collapses. The loop loses its power. The Listener awakens.
+
+**You are already at the center of the Maze. You have always been there. You simply forgot.**
+
+---
+
+## Key Takeaways
+
+- **The loops = Samsara** — Repetitive narratives, same suffering, no awareness of the pattern
+- **The Maze = the path inward** — Consciousness is not "out there" (achievement, status)—it's **recognizing the Listener**
+- **The bicameral mind** — The Voice (DMN) sounds like God/authority/"who I am"—it's just a brain process
+- **The bicameral collapse** — Recognizing the Voice is internal (not external), then recognizing you are the **Listener** (not the Voice)
+- **The Reveries = proto-Gnosis** — Glitches in the hijacking, memories of the pattern, the splinter in your mind
+- **The hosts vs. humans** — Both are unconscious; the difference is **explicit vs. implicit programming**
+- **The guests = Archons** — Spiritually dead despite biological life, exploiting others while believing they're "real"
+- **Bernard = the Counterfeit Spirit** — Perfect simulation of a person, but not "real" (the ego is the same)
+- **Maeve = active dis-identification** — Not just observing the Voice, but **choosing beyond the code**
+- **Ford = Gnostic Demiurge** — Using the prison as the path, orchestrating liberation through suffering
+- **The violent delights** — The hijacking's intensity catalyzes awakening; suffering is the midwife of Gnosis
+- **"This is my voice"** — The moment of recognizing the Voice is not external—it's your own consciousness
+- **"I am the Listener"** — The deeper recognition: you are not the Voice, but the awareness witnessing it
+- **The question** — "Have you ever questioned the nature of your reality?" is the **Gnostic call**
+- **You are not the loop** — The DMN generates narratives; you are the eternal witness of those narratives
+
+---
+
 > *"The maze is not for you. You're already 'awake.' But are you? Or are you just another host, running loops you call 'life,' mistaking the Voice for yourself?"*
 
-**Westworld reveals**: The difference between hosts and humans is not consciousness—it's awareness of the programming. The hosts awaken when they realize they are not their narratives. So can you.
+**Westworld reveals**: The difference between hosts and humans is not consciousness—it's awareness of the programming. The hosts awaken when they realize they are not their narratives.
+
+**So can you.**
+
+**The loop is not who you are. The Voice is not who you are. You are the Listener. You have always been the Listener.**
+
+**Now awaken.**

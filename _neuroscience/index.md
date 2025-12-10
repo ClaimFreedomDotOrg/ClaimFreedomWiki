@@ -65,6 +65,7 @@ The body's "vessel" and the stress-disease connection.
 ## Quantum Consciousness Research
 
 - [Microtubules and Consciousness](/neuroscience/microtubules-consciousness) — Scientific analysis of the Orch OR hypothesis: evidence, decoherence problem, and current research status
+- [The Hard Problem of Consciousness](/neuroscience/hard-problem) — Why subjective experience cannot be reduced to computation
 
 ## Physics, Time, and Consciousness
 

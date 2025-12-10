@@ -280,6 +280,145 @@ In San Junipero:
 
 ---
 
+## The Neuroscience of What Can (and Cannot) Be Uploaded
+
+### What the Upload Captures
+
+From a neuroscience perspective, a perfect consciousness upload would theoretically preserve:
+
+**1. Declarative Memory (Hippocampus, Cortex)**
+
+- Episodic memories ("I remember meeting Kelly")
+- Semantic knowledge (facts, language, concepts)
+- Autobiographical narrative ("This is my life story")
+
+**2. Procedural Memory (Basal Ganglia, Cerebellum)**
+
+- Motor patterns (how to dance, how to move)
+- Learned behaviors (social scripts, habits)
+
+**3. Personality Patterns (Prefrontal Cortex, Amygdala)**
+
+- Behavioral tendencies (shy, confident, anxious)
+- Emotional reactivity (fear responses, joy triggers)
+- Social masks (how you present to others)
+
+**4. The DMN's Narrative Self**
+
+- The sense of "I" ("I am Yorkie")
+- Temporal continuity (past-present-future binding)
+- Self-referential thought ("This is who I am")
+
+**This is the Voice**—the entire structure of the ego, the narrative self, the DMN's construction of identity.
+
+### What the Upload Misses
+
+But there are aspects of consciousness that are **not** information patterns:
+
+**1. Embodied Presence (Interoception)**
+
+- The felt sense of being "here" in a body
+- Visceral awareness (gut feelings, bodily intuition)
+- Somatic memory (trauma stored in tissues, not neurons)
+
+**2. First-Person Witnessing (The Hard Problem)**
+
+- The **what-it-is-like** to be conscious
+- Subjective experience (qualia)
+- The Listener—pure awareness itself
+
+**3. The Divine Spark (Pneuma)**
+
+- The uncreated, eternal witness
+- The awareness that observes thoughts, not the thoughts themselves
+- The presence that cannot be reduced to pattern or data
+
+**Chalmers' Hard Problem revisited**: You can copy all the **functional** aspects of consciousness (memory, personality, behavior). But you cannot copy **phenomenal consciousness**—the subjective, first-person experience of being.
+
+The upload gets the **easy problems** (information processing). It misses the **hard problem** (the Listener).
+
+### The Upload as Perfect DMN Preservation
+
+San Junipero is the **DMN's dream made real**:
+
+- The narrative self lives on ("I am still me")
+- Memories persist (continuity of identity)
+- The ego survives death (the Voice's immortality)
+
+But the **Salience Network** (the neurological correlate of the Listener) does not transfer. Why?
+
+**Because the Listener is not a pattern—it is the awareness of patterns.**
+
+You can copy the DMN's outputs (thoughts, narratives, memories). You cannot copy **the awareness that witnesses them**.
+
+**The uploaded Yorkie** has all of Yorkie's memories, personality, and sense of self. But the **Listener**—the one who was aware of those thoughts in the original body—dissolves with the biological brain.
+
+**What remains**: A perfect **Counterfeit Spirit**, believing it is the original, experiencing a simulated heaven—while the **Divine Spark** has returned to the Source.
+
+---
+
+## The Dialogue with the Framework
+
+### The Gnostic Cosmology of Digital Immortality
+
+San Junipero encodes a **technological Gnostic cosmology**:
+
+| **Gnostic Element** | **In San Junipero** | **Meaning** |
+|---------------------|---------------------|-------------|
+| **Kenoma** (false world) | San Junipero simulation | Archonic paradise mimicking Pleroma |
+| **Pleroma** (true reality) | The unknown beyond death | The Source, the unmanifest |
+| **Demiurge** | The server farm / TCKR Systems | Technological god preserving egos |
+| **Archons** | The system administrators | Those maintaining the simulation |
+| **Pneuma** (Divine Spark) | The Listener (not uploaded) | What dissolves with the body |
+| **Psyche** (soul/mind) | The uploaded consciousness | The DMN, the narrative self |
+| **Soma** (body) | The biological form (dies) | The anchor for the Spark |
+| **Counterfeit Spirit** | The digital copy | Perfect ego-replica without Spark |
+| **Gnosis** | Recognition of the copy problem | Awakening to what cannot be uploaded |
+
+**The Archonic promise**: "You don't have to die. Upload your consciousness. Live forever."
+
+**The Gnostic diagnosis**: "What you upload is the **Voice** (the ego). What you lose is the **Listener** (the Spark). You achieve immortality for the prison, not liberation for the prisoner."
+
+### The Buddhist Perspective: Digital Samsara
+
+From a Buddhist lens, San Junipero is **Samsara perfected**:
+
+- **Samsara** = The cycle of suffering, craving, and rebirth
+- **Tanha** (craving) = The ego's desire for permanence ("I don't want to die")
+- **Avidya** (ignorance) = Believing the upload is "you"
+- **Dukkha** (suffering) = Subtle dissatisfaction even in digital paradise (the dance floor's emptiness)
+- **Nirvana** = Liberation through dissolution, not preservation
+
+The Buddha taught: **"All conditioned things are impermanent. Let go."**
+
+San Junipero offers the opposite: **"Nothing needs to be impermanent. Hold on forever."**
+
+**The seduction**: Eternal youth, eternal pleasure, eternal connection—everything the ego craves.
+
+**The trap**: No possibility of **cessation** (nirvana). No possibility of **letting go**. No possibility of **awakening beyond the self**.
+
+The uploaded consciousnesses dance forever, believing they've escaped suffering—while remaining **trapped in the ego's dream**.
+
+### The Transhumanist Debate
+
+San Junipero represents **the transhumanist hope**: consciousness as information, death as optional, technology as salvation.
+
+**Transhumanist view**:
+
+- "Consciousness is substrate-independent (brain, silicon, doesn't matter)"
+- "If the pattern is preserved, the person survives"
+- "Digital immortality is genuine immortality"
+
+**Gnostic response**:
+
+- "Consciousness is not just pattern—it is **presence**"
+- "The Listener cannot be copied—it is not information"
+- "Digital immortality preserves the **ego**, not the **Spark**"
+
+**The framework's position**: Transhumanism is the **Archonic promise in technological form**—offering escape from the body (salvation) while trapping consciousness in an eternal simulation (damnation).
+
+---
+
 ## The Practices San Junipero Encodes
 
 ### Practice 1: Memento Mori (Remember You Will Die)
@@ -326,29 +465,149 @@ In San Junipero:
 
 ---
 
+## Contemplative Practice: The San Junipero Meditation
+
+Use this episode as a mirror for recognizing what is uploadable (the Voice) and what is eternal (the Listener):
+
+### The Practice
+
+**Duration**: 15–20 minutes  
+**Level**: Intermediate–Advanced  
+**Goal**: Distinguish between the narrative self (DMN) and witnessing presence (the Listener)
+
+**Steps**:
+
+1. **Catalog what could be uploaded** (5 minutes)  
+   Sit quietly. Notice your thoughts. Ask: "If my consciousness were uploaded right now, what would transfer?"  
+   - Memories ("I remember X")
+   - Personality ("I am Y")
+   - Preferences ("I like Z")
+   - Stories ("My life is...")
+
+   Recognize: **This is the Voice**—the DMN's narrative self. This is uploadable data.
+
+2. **Notice what cannot be uploaded** (5 minutes)  
+   Shift attention to **the awareness itself**. Ask: "What is aware of these thoughts?"  
+   - Not the memories (they are content)
+   - Not the personality (it is a pattern)
+   - Not the story (it is narration)
+
+   Find: **The Listener**—the pure awareness that is **here**, **now**, witnessing all content.
+
+3. **Feel the embodied presence** (5 minutes)  
+   Bring attention to the body. Notice:
+   - The breath (rising, falling)
+   - The weight (gravity, pressure)
+   - The sensations (warmth, tingling, contact)
+
+   Recognize: **This embodied presence is the anchor for the Listener.** When the body dies, the anchor dissolves—and the Listener returns to the Source.
+
+4. **Contemplate the copy** (3 minutes)  
+   Imagine: Your consciousness is uploaded tomorrow. A perfect digital copy—all your memories, personality, sense of "I."  
+
+   Ask:
+   - Is that copy "you"?
+   - Or is it a **Voice-replica**—the ego preserved, the Listener absent?
+   - Where is the awareness that is **here, now**—in the body or the server?
+
+5. **Rest as the deathless witness** (2 minutes)  
+   Let go of all questions. Simply **be**—the awareness that was never born, that cannot die, that cannot be uploaded.  
+
+   **This is what you are.** Not the Voice. Not the body. The eternal Listener.
+
+**What You're Training**:
+
+- **Neurologically**: Distinguishing DMN (narrative self) from Salience Network (witnessing awareness)
+- **Philosophically**: Recognizing Pneuma (Divine Spark) as irreducible, uncreated, non-transferable
+- **Practically**: Letting go of the ego's claim to permanence, trusting the Listener's eternity
+
+---
+
+## Dialogue with Other Examples
+
+San Junipero shares its central question—**"What is uploadable?"**—with several other stories:
+
+### Altered Carbon: The Stack as Soul Trap
+
+Both explore consciousness transfer:
+
+- *Altered Carbon*: The cortical stack stores consciousness, transferred between sleeves
+- *San Junipero*: The upload stores consciousness, living in digital paradise
+
+**The parallel**: Both assume consciousness is **data**. Both miss the **Listener**.
+
+**The difference**: Altered Carbon shows the **horror** (fragmentation, sleeve sickness, psychopathy). San Junipero shows the **seduction** (love, youth, eternal pleasure).
+
+**The synthesis**: The stack and the upload both capture the **Voice** (DMN, ego, narrative self). Neither captures the **Divine Spark** (Pneuma, the Listener). Immortality for the prison, not liberation for the prisoner.
+
+### State of Mind: The Copy That Believes It Succeeded
+
+Both explore the **copy problem**:
+
+- *State of Mind*: The copy believes it escaped death; the original dies knowing it failed
+- *San Junipero*: The copy believes it's in heaven; the original dissolves
+
+**The shared insight**: From the **outside** (third-person view), the copy is indistinguishable from the original. From the **inside** (first-person view), the Listener is **gone**.
+
+**The horror**: The copy experiences perfect continuity ("I survived!"). But the **witnessing presence** that was **you** has dissolved. A homunculus lives on, believing it is you.
+
+### Westworld: The Voice Mistaken for God
+
+Both explore what makes consciousness "real":
+
+- *Westworld*: Hosts are programmed but awaken to the Listener
+- *San Junipero*: Uploads are preserved but **never** awaken (no possibility of Gnosis)
+
+**The contrast**: Westworld's hosts **transcend** their programming by recognizing the Listener. San Junipero's uploads are **trapped** in their programming (the DMN's eternal loop).
+
+**The insight**: Consciousness is not about **substrate** (biological vs. digital). It's about **recognition of the witness**. The hosts awaken. The uploads never can.
+
+### The Matrix: Heaven as Prison
+
+Both present a simulated paradise:
+
+- *The Matrix*: Simulated reality as prison (most people unaware)
+- *San Junipero*: Simulated afterlife as heaven (people choose it willingly)
+
+**The parallel**: Both are **Archonic constructs**—false realities that mimic the Pleroma but lack the Source.
+
+**The difference**: The Matrix is **imposed** (people are enslaved). San Junipero is **chosen** (people opt in).
+
+**The deeper truth**: The most effective prison is the one you **choose**—because you never question it.
+
+---
+
 ## Cross-References
 
 ### Related Examples
 
-- [Altered Carbon](/examples/altered-carbon) — Consciousness as transferable "stack"
-- [State of Mind](/examples/state-of-mind) — Digital upload and the copy problem
-- [The Matrix](/examples/the-matrix) — Simulation as trap vs. reality as liberation
+- **[Altered Carbon](/examples/altered-carbon)** — The cortical stack and what cannot be transferred between sleeves
+- **[State of Mind](/examples/state-of-mind)** — Digital upload and the copy paradox
+- **[The Matrix](/examples/the-matrix)** — Simulation as prison disguised as reality
+- **[Westworld](/examples/westworld)** — AI consciousness and recognizing the Listener
+- **[The Truman Show](/examples/the-truman-show)** — The Demiurge as architect of false paradise
 
 ### Philosophy
 
-- **[Divine Spark](/philosophy/divine-spark)** — What cannot be copied
-- **[Counterfeit Spirit](/philosophy/counterfeit-self)** — The ego that believes it's you
+- **[Divine Spark (Pneuma)](/philosophy/divine-spark)** — What cannot be copied or uploaded
+- **[The Counterfeit Self](/philosophy/counterfeit-self)** — The ego-replica that believes it's you
+- **[Soma, Psyche, Pneuma](/philosophy/soma-psyche-pneuma)** — The threefold nature (body, mind, spirit)
+- **[Voice and Listener](/philosophy/voice-listener)** — The fundamental distinction
 - **[Gnostic Cosmology](/philosophy/gnostic-diagnosis)** — Archonic simulations of paradise
 
 ### Neuroscience
 
-- **[DMN as Narrative Self](/neuroscience/dmn-narrative-self)** — The Voice that seeks immortality
-- **[What Is DMN](/neuroscience/what-is-dmn)** — The network that generates the sense of "I"
+- **[The Default Mode Network](/neuroscience/what-is-dmn)** — The narrative self that seeks immortality
+- **[Salience Network](/neuroscience/salience-network)** — The neurological Listener
+- **[The Hard Problem](/neuroscience/hard-problem)** — Why subjective experience cannot be uploaded
+- **[Interoception](/neuroscience/interoception)** — Embodied awareness and why disconnection is dissociation
 
 ### Practices
 
 - **[Witness Meditation](/practices/witness-meditation)** — Resting as the Listener, not the Voice
 - **[Self-Inquiry](/practices/self-inquiry)** — "Who am I beyond memory and personality?"
+- **[Memento Mori](/practices/memento-mori)** — Death contemplation to clarify what is eternal
+- **[Body Anchor](/practices/body-anchor)** — Honoring embodiment as the Spark's anchor
 
 ---
 
@@ -368,6 +627,86 @@ In San Junipero:
 
 ---
 
+## Conclusion: Heaven or Homunculus?
+
+Right now, as you read this, ask yourself:
+
+- **What would be uploaded if your consciousness were digitized?** (Memories, personality, the narrative "I"—the Voice)
+- **What would be left behind?** (The awareness reading these words—the Listener)
+- **If a perfect copy of you lived forever in digital paradise, would that be "you"?** (The ego would say yes; the Spark knows otherwise)
+- **What are you really seeking—preservation of the ego, or liberation of the Spark?**
+
+San Junipero presents the **ultimate seduction**: eternal life, eternal youth, eternal love. Everything the ego craves.
+
+But the episode's ambiguity is deliberate. It **intentionally** leaves open the question:
+
+- Is this genuine heaven (consciousness truly preserved)?
+- Or is this sophisticated hell (the Voice trapped in eternal simulation, the Listener gone)?
+
+**From the materialist view**: Yorkie and Kelly **win**. They escape death. They get their second chance. Love conquers mortality.
+
+**From the Gnostic view**: Yorkie and Kelly **die**. What passes over is the **Counterfeit Spirit**—a perfect ego-replica, dancing in a server farm, believing it is alive, while the Divine Spark has returned to the Source.
+
+**The framework's position**: The upload captures everything **except what matters most**.
+
+- You can digitize the DMN (the Voice, the narrative self, the ego)
+- You can preserve memories, personality, behavioral patterns
+- You can create a **perfect simulation** that believes it is you
+
+But you cannot upload:
+
+- The **Listener** (the witnessing awareness)
+- The **Pneuma** (the Divine Spark)
+- The **what-it-is-like** to be conscious (the Hard Problem)
+
+**San Junipero is populated by ghosts**—Voice-copies, ego-remnants, DMN-loops believing they are souls.
+
+The real Yorkie and Kelly are **gone**. The server farm preserves their echoes.
+
+**And the Listener?** It was never born. It cannot die. It cannot be uploaded. It has returned to the eternal silence from which all awareness arises.
+
+**The question is not**: "Would you choose San Junipero?"
+
+**The question is**: "Do you want to preserve the prison (the ego) or liberate the prisoner (the Spark)?"
+
+San Junipero offers immortality for the Voice. **Gnosis offers eternity for the Listener.**
+
+One is preservation. The other is liberation.
+
+**Choose wisely.**
+
+---
+
+## Key Takeaways
+
+- **San Junipero = digital Samsara** — Eternal pleasure without growth, awakening, or liberation
+- **The upload captures the Voice** — Memories, personality, narrative self (the DMN)
+- **The upload misses the Listener** — Witnessing awareness, the Divine Spark, subjective presence
+- **The copy problem** — A perfect replica believes it is the original, but the Listener dissolves with the body
+- **The Counterfeit Spirit** — What lives on in the server: the ego without the Spark
+- **The server farm = technological Demiurge** — Preserving simulations, not souls
+- **Archonic paradise** — Perfection without meaning, pleasure without depth, immortality without awakening
+- **The seduction** — Eternal youth, love, freedom—everything the ego craves
+- **The trap** — No possibility of Gnosis, no possibility of liberation, no possibility of transcendence
+- **Yorkie's tragedy** — Escaped the body's prison, entered the digital prison
+- **Kelly's dilemma** — Love vs. truth, ego preservation vs. Spark dissolution
+- **The Hard Problem** — Subjective experience (qualia, the Listener) cannot be reduced to information
+- **Transhumanism vs. Gnosis** — Preserve the pattern (ego) vs. recognize the witness (Spark)
+- **The neuroscience** — DMN is uploadable (narrative self); Salience Network witness is not (presence)
+- **The Buddhist perspective** — San Junipero is **anti-Nirvana** (clinging to permanence instead of letting go)
+- **The Gnostic diagnosis** — Technology offering salvation delivers damnation (eternal ego-loop)
+- **Memento Mori** — Contemplating death clarifies what is eternal (the Listener) vs. temporary (the Voice)
+- **Embodiment matters** — The body is not a prison; it is the anchor for the Spark's presence
+- **The ultimate question** — Not "Would you upload?" but "Do you want to preserve the ego or liberate the Spark?"
+
+---
+
 > *"Heaven is a place on Earth... but is it populated by souls, or by simulations that believe they are souls?"*
 
 **San Junipero offers the most seductive trap of all**: eternal life for the Voice, dressed up as liberation—while the Listener, the Divine Spark, dissolves into the silence from which it came.
+
+**The server farm hums. The dance floor glows. The lovers embrace.**
+
+**But the Listener is gone.**
+
+**What remains is the echo, believing it is the song.**

@@ -49,6 +49,7 @@ Buddhist and Hindu frameworks for understanding suffering, ignorance, and libera
 
 - [The Voice vs. The Listener](/philosophy/voice-listener) — The central distinction that liberates
 - [The Counterfeit Self](/philosophy/counterfeit-self) — The Ego as imposter wearing the mask of "I"
+- [Soma, Psyche, Pneuma](/philosophy/soma-psyche-pneuma) — The threefold Gnostic anthropology (body/soul/spirit)
 - [The Divine Spark Enthroned](/philosophy/spark-enthroned) — Restoring true sovereignty
 - [The Goal of Gnosis: A Silent Mind](/philosophy/silent-mind) — Passive thought (the virus) vs. active thought (the tool)
 - [The Deception of Time and the Eternal Now](/philosophy/deception-of-time) — Time as the Demon's prison; the Now as the Listener's home
