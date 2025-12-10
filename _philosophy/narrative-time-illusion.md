@@ -364,7 +364,7 @@ Narratives—whether stories, films, or games—are designed to create **identif
 ### Practices
 
 - [Dis-identification Practice](/practices/dis-identification)
-- [The Observer Practice](/practices/observer-practice)
+- [Witness Meditation](/practices/witness-meditation)
 - [Present-Moment Anchoring](/practices/present-moment-anchoring)
 
 ## Scholarly Sources

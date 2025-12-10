@@ -313,7 +313,7 @@ If the future "already exists" (Block Universe) or "does not yet exist" (Present
 ### Practices
 
 - [Present-Moment Anchoring](/practices/present-moment-anchoring)
-- [The Observer Practice](/practices/observer-practice)
+- [Witness Meditation](/practices/witness-meditation)
 
 ## Scholarly and Scientific Sources
 

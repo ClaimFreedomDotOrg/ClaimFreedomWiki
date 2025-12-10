@@ -450,7 +450,7 @@ Even if Smolin is correct, his "thick present" still emphasizes:
 - Recognize: "Thoughts are events in awareness, not 'me'"
 - The loop continues, but you are outside it
 
-See: [The Observer Practice](/practices/observer-practice)
+See: [Witness Meditation](/practices/witness-meditation)
 
 #### 2. Present-Moment Anchoring
 
@@ -538,9 +538,9 @@ Everything else is commentary.
 
 ### Practices
 
-- [Dis-identification Practice](/practices/dis-identification)
-- [The Observer Practice](/practices/observer-practice)
-- [Present-Moment Anchoring](/practices/present-moment-anchoring)
+- [Story Disidentification](/practices/story-disidentification)
+- [Witness Meditation](/practices/witness-meditation)
+- [Body Anchor](/practices/body-anchor)
 
 ---
 

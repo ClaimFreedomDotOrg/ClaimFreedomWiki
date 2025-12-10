@@ -387,8 +387,8 @@ The stack is a distraction. The Meths are fools. Quellcrist saw the truth:
 
 ### Practices
 
-- **[The Observer Practice](/practices/observer-practice)** — Recognizing the Listener vs. the Voice
-- **[Embodiment Meditation](/practices/embodiment-meditation)** — Reclaiming the body as anchor for the Spark
+- **[Witness Meditation](/practices/witness-meditation)** — Recognizing the Listener vs. the Voice
+- **[Body Anchor](/practices/body-anchor)** — Reclaiming the body as anchor for the Spark
 - **[Memento Mori](/practices/memento-mori)** — Death contemplation to clarify what is eternal
 
 ### Philosophy
@@ -399,8 +399,8 @@ The stack is a distraction. The Meths are fools. Quellcrist saw the truth:
 
 ### Neuroscience
 
-- **[The Default Mode Network](/neuroscience/default-mode-network)** — The neural correlate of the narrative self
-- **[Embodied Cognition](/neuroscience/embodied-cognition)** — Why disconnection from the body is dissociation
+- **[The Default Mode Network](/neuroscience/what-is-dmn)** — The neural correlate of the narrative self
+- **[Salience Network](/neuroscience/salience-network)** — Interoceptive awareness and why disconnection from the body is dissociation
 - **[The Hard Problem of Consciousness](/neuroscience/hard-problem)** — Why the Listener cannot be reduced to data
 
 ---

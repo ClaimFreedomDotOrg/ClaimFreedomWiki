@@ -50,6 +50,7 @@ All practices begin with [the central question](/docs/about#the-central-question
 ### Advanced Inquiry
 
 - [Self-Inquiry](/practices/self-inquiry) — "Who am I?" exploration (Advaita method)
+- [Memento Mori](/practices/memento-mori) — Death contemplation to clarify what is eternal vs. temporary
 - [Working with Trauma](/practices/trauma-work) — Grounded, trauma-informed titration and resourcing
 
 ### Somatic & Energetic Practices

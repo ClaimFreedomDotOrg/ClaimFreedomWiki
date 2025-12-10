@@ -331,7 +331,7 @@ This is [re-claiming](/docs/the-loop), not destruction—transforming the [Demon
 ### Practices
 
 - [Present-Moment Anchoring](/practices/present-moment-anchoring)
-- [The Observer Practice](/practices/observer-practice)
+- [Witness Meditation](/practices/witness-meditation)
 
 ## Scholarly Sources
 

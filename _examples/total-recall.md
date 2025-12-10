@@ -455,7 +455,7 @@ Even if Quaid is lobotomized in a chair, **the one who refused the pill was real
 
 ### Practices
 
-- **[The Observer Practice](/practices/observer-practice)** — Locating the Listener when narrative fails
+- **[Witness Meditation](/practices/witness-meditation)** — Locating the Listener when narrative fails
 - **[Grounding in Uncertainty](/practices/grounding-uncertainty)** — Practicing faith as action
 - **[Story Dis-identification](/practices/story-disidentification)** — Recognizing DMN fabrications
 
@@ -468,7 +468,7 @@ Even if Quaid is lobotomized in a chair, **the one who refused the pill was real
 
 ### Neuroscience
 
-- **[The Default Mode Network](/neuroscience/default-mode-network)** — The brain's narrative generator
+- **[The Default Mode Network](/neuroscience/what-is-dmn)** — The brain's narrative generator
 - **[False Memory](/neuroscience/false-memory)** — How the DMN fabricates the past
 - **[Narrative Identity](/neuroscience/narrative-identity)** — The constructed self
 

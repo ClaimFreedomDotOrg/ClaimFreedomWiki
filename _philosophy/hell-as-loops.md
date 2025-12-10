@@ -389,7 +389,7 @@ If God is Love and Love is reality, then **ignorance** (Hell) must eventually di
 
 #### Strategy 1: The Observer Practice
 
-See: [The Observer Practice](/practices/observer-practice)
+See: [Witness Meditation](/practices/witness-meditation)
 
 - Witness thoughts without engagement
 - Recognize: "Thoughts are events in awareness, not 'me'"
@@ -456,9 +456,9 @@ See: [The Observer Practice](/practices/observer-practice)
 
 ### Practices
 
-- [The Observer Practice](/practices/observer-practice)
-- [Dis-identification Practice](/practices/dis-identification)
-- [Present-Moment Anchoring](/practices/present-moment-anchoring)
+- [Witness Meditation](/practices/witness-meditation)
+- [Story Disidentification](/practices/story-disidentification)
+- [Body Anchor](/practices/body-anchor)
 
 ## Scholarly and Cultural Sources
 

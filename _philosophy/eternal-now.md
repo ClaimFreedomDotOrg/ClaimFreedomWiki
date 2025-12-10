@@ -245,7 +245,7 @@ This breaks the identification with the temporal narrative self.
 
 ### Practices
 
-- [The Observer Practice](/practices/observer-practice) — Witnessing thoughts without identification
+- [Witness Meditation](/practices/witness-meditation) — Witnessing thoughts without identification
 - [Present-Moment Anchoring](/practices/present-moment-anchoring) — Returning to the now
 
 ## Scholarly Sources

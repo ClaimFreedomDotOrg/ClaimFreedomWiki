@@ -387,9 +387,9 @@ The task is not to digitize yourself. **The task is to remember who you are.**
 
 ### Practices
 
-- **[The Observer Practice](/practices/observer-practice)** — Recognizing the Listener vs. the Voice
-- **[Witnessing Thoughts](/practices/witnessing-thoughts)** — Dis-identification from the DMN's narrative
-- **[Integration Meditation](/practices/integration-meditation)** — Re-claiming fragmented aspects of self
+- **[Witness Meditation](/practices/witness-meditation)** — Recognizing the Listener vs. the Voice
+- **[Observing the Voice](/practices/observing-the-voice)** — Dis-identification from the DMN's narrative
+- **[Integration After Gnosis](/practices/integration-after-gnosis)** — Re-claiming fragmented aspects of self
 
 ### Philosophy
 
@@ -399,7 +399,7 @@ The task is not to digitize yourself. **The task is to remember who you are.**
 
 ### Neuroscience
 
-- **[The Default Mode Network](/neuroscience/default-mode-network)** — The neural correlate of the narrative self
+- **[The Default Mode Network](/neuroscience/what-is-dmn)** — The neural correlate of the narrative self
 - **[Consciousness Upload Fallacy](/neuroscience/consciousness-upload)** — Why the Divine Spark cannot be digitized
 - **[Memory and Identity](/neuroscience/memory-identity)** — What makes "you" you
 
