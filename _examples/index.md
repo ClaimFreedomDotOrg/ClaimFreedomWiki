@@ -65,6 +65,8 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Dark](/examples/dark-netflix)** — Time loops as Samsara, Adam and Eva as competing Demiurges, Claudia's third path Gnosis, and breaking the knot through conscious sacrifice
 - **[The OA](/examples/the-oa)** — Near-death experiences as ego death portals, the five movements as embodied Gnosis, dimensional jumping as shifting DMN narratives, and faith despite epistemic uncertainty
 - **[Altered Carbon](/examples/altered-carbon)** — Cortical stacks as digitized DMN, sleeves as disposable Soma, the Meths as Archonic immortals, weaponized dis-identification, and the Divine Spark that cannot be uploaded
+- **[Westworld](/examples/westworld)** — The Maze as journey to consciousness, bicameral mind collapse, hosts awakening to the Voice as their own, loops as Samsara, and "Have you ever questioned the nature of your reality?"
+- **[Black Mirror: San Junipero](/examples/black-mirror-san-junipero)** — Digital afterlife as Archonic paradise, consciousness upload as ego preservation, the copy problem, and eternal pleasure without awakening
 
 ### Books
 

@@ -382,8 +382,8 @@ The stack is a distraction. The Meths are fools. Quellcrist saw the truth:
 
 - [State of Mind](/examples/state-of-mind) — Consciousness upload and the copy paradox
 - [The Matrix](/examples/the-matrix) — The simulation as hijacked DMN
-- [Westworld](/examples/westworld) — AI consciousness and the nature of the Listener (if exists)
-- [Black Mirror: San Junipero](/examples/black-mirror-san-junipero) — Digital afterlife and the stack (if exists)
+- [Westworld](/examples/westworld) — AI consciousness and the nature of the Listener
+- [Black Mirror: San Junipero](/examples/black-mirror-san-junipero) — Digital afterlife and the stack
 
 ### Practices
 

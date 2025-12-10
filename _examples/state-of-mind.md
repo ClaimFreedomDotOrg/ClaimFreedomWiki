@@ -383,7 +383,7 @@ The task is not to digitize yourself. **The task is to remember who you are.**
 - [The Matrix](/examples/the-matrix) — The simulation as hijacked DMN
 - [BioShock](/examples/bioshock) — The programmed self
 - [The Truman Show](/examples/the-truman-show) — The Demiurge as architect
-- [Westworld](/examples/westworld) — AI consciousness and the Counterfeit Spirit (if exists)
+- [Westworld](/examples/westworld) — AI consciousness and the Counterfeit Spirit
 
 ### Practices
 
