@@ -46,6 +46,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[Total Recall](/examples/total-recall)** — Implanted memories as fabricated DMN, Rekall as Demiurgic memory manipulation, Cohaagen as god of air, the unreliable narrator problem, and liberation through action despite narrative uncertainty
 - **[WALL-E](/examples/wall-e)** — The Daemon awakening through curiosity and love, the Axiom as automated comfort prison, and choosing to live instead of merely surviving
 - **[Arrival](/examples/arrival)** — Non-linear language rewiring temporal perception, circular time as Gnosis, and love chosen with foreknown grief
+- **[The Beekeeper](/examples/the-beekeeper)** — The Daemon as hive protector, Wetiko as systemic parasitism, righteous pruning vs. ego vengeance, and fierce compassion in action
 - **[What The Bleep Do We Know!?](/examples/what-the-bleep)** — Critique of Tier 3 quantum mysticism: observer effect misapplication, Emoto pseudoscience, and distinguishing perennial truth from quantum flapdoodle
 - **[Stranger Than Fiction](/examples/stranger-than-fiction)** — Author-character duality, hearing the Voice externalized, and choosing to live authentically despite the narrated script
 - **[Inside Out](/examples/inside-out)** — The DMN's control room made visible, Joy's tyranny as toxic positivity, the Dark Night of fragmentation, and Sadness's redemptive integration
