@@ -49,6 +49,7 @@ Explore the analyses below to see the framework reflected in culture:
 - **[What The Bleep Do We Know!?](/examples/what-the-bleep)** — Critique of Tier 3 quantum mysticism: observer effect misapplication, Emoto pseudoscience, and distinguishing perennial truth from quantum flapdoodle
 - **[Stranger Than Fiction](/examples/stranger-than-fiction)** — Author-character duality, hearing the Voice externalized, and choosing to live authentically despite the narrated script
 - **[Inside Out](/examples/inside-out)** — The DMN's control room made visible, Joy's tyranny as toxic positivity, the Dark Night of fragmentation, and Sadness's redemptive integration
+- **[Lucy](/examples/lucy)** — The DMN unshackled, progressive dis-identification through brain capacity expansion, the danger of awakening without integration, and the difference between dissolving into "everywhere" vs. embodied presence
 
 ### Video Games
 
