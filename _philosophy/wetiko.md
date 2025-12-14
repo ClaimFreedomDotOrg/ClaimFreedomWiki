@@ -442,7 +442,7 @@ When you **tame the dragon** (transform the Demon back into a Daemon), you are *
 2. **[Dynamic Purification Playbook](/practices/dynamic-purification)** — Systematic healing across all domains
 3. **[Loving the Dragon](/practices/loving-the-dragon)** — Compassionate relationship with the wounded Ego
 4. **[Integration After Gnosis](/practices/integration-after-gnosis)** — Grounding the awakening, avoiding spiritual bypassing
-5. **Reciprocity and Service** — Practice giving rather than taking, honoring the sacred in all beings
+5. **[Service from Overflow](/practices/service-from-overflow)** — Practice giving rather than taking, honoring the sacred in all beings
 
 ---
 
