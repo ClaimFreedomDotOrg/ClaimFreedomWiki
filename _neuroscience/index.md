@@ -31,6 +31,7 @@ The DMN does not operate in isolation—its relationship with other networks det
 
 - [The Task-Positive Network](/neuroscience/task-positive-network) — Executive control and present-moment focus
 - [The Salience Network](/neuroscience/salience-network) — The neurological "Listener"
+- [The Network Toggle Mechanism](/neuroscience/network-toggle-mechanism) — How the Listener switches between Flow and Reflection; ADHD as broken toggle
 - [Network Dynamics](/neuroscience/network-dynamics) — The anti-correlation and balance
 
 ## Meditation and Neuroplasticity
