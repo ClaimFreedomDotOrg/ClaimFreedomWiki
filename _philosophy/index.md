@@ -25,6 +25,7 @@ Early Christian mystical texts describing the Archons, the Demiurge, and the imp
 The Algonquian concept of Wetiko as a psycho-spiritual cannibal disease driving greed and violence.
 
 - [Wetiko: The Mind Virus](/philosophy/wetiko) — Indigenous diagnosis of the parasitic infection
+- [Wetiko and the Default Mode Network](/philosophy/wetiko-dmn) — Neuroscientific validation of the mind virus
 - [The Cannibalization of Consciousness](/philosophy/cannibalization) — How Wetiko consumes true nature
 
 ### Eastern Philosophy

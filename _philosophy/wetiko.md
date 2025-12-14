@@ -14,6 +14,8 @@ Indigenous wisdom traditions, particularly among the Cree, Ojibwe, and other Alg
 
 It is the same parasitic pattern, diagnosed across cultures and millennia.
 
+> **For the detailed neuroscientific mapping of how Wetiko operates through the Default Mode Network, see**: [Wetiko and the Default Mode Network](/philosophy/wetiko-dmn)
+
 ---
 
 ## The Etymology and Traditional Understanding
@@ -458,6 +460,7 @@ When enough beings remember, the **collective mind virus is dispelled**, and the
 
 ## Further Exploration
 
+- [Wetiko and the Default Mode Network](/philosophy/wetiko-dmn) — **Neuroscientific validation**: How the mind virus operates through brain networks
 - [The Gnostic Diagnosis](/philosophy/gnostic-diagnosis) — The Archons and the counterfeit spirit
 - [Pneuma and the Divine Spark](/philosophy/divine-spark) — Your true nature, immune to infection
 - [The Cannibalization of Consciousness](/philosophy/cannibalization) — How Wetiko consumes the true Self
