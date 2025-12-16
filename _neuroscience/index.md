@@ -24,6 +24,7 @@ How DMN dysfunction manifests as mental suffering.
 - [DMN in Anxiety Disorders](/neuroscience/dmn-anxiety) — Catastrophic prospection and future-bias
 - [DMN and Rumination](/neuroscience/rumination) — The neurological "loop of hell"
 - [Cognitive Dissonance](/neuroscience/cognitive-dissonance) — The discomfort from contradictory beliefs and how the DMN resolves it
+- [Tics and Tourette's Syndrome](/neuroscience/tics-tourettes) — Involuntary movement, Salience Network gating failure, and the hijacked motor system
 
 ## Brain Networks and Balance
 
