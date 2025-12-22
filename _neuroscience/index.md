@@ -44,6 +44,12 @@ How contemplative practices physically rewire the brain.
 - [Neuroplasticity Mechanisms](/neuroscience/neuroplasticity) — How the brain changes with practice
 - [Long-Term Meditators](/neuroscience/long-term-meditators) — Structural and functional brain changes
 
+## Technological Interventions
+
+Evidence-based devices and protocols for DMN regulation.
+
+- [**Project H.A.L.O.: Hemispheric Alignment & Limbic Override**](/neuroscience/project-halo) — 🔆 **Open-source wearable neurofeedback system** combining tVNS, bilateral stimulation, and EEG monitoring for automated trauma processing and DMN re-claiming
+
 ## Epigenetics and Transgenerational Trauma
 
 The biological inheritance of suffering.

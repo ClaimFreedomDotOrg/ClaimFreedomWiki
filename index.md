@@ -91,6 +91,48 @@ This bio-spiritual technique performs an instant "Hardware Reboot":
 
 ---
 
+## 🔆 NEW: Project H.A.L.O. — The Technological Solution
+
+> *"The Kingdom of Heaven is a frequency. H.A.L.O. is the tuner. Your body is the antenna."*
+
+**The ancient diagnosis is now mechanically treatable.**
+
+**[Project H.A.L.O.](/neuroscience/project-halo)** (Hemispheric Alignment & Limbic Override) is an **open-source wearable neurofeedback device** that automates the biological safety container needed for trauma processing and DMN re-claiming.
+
+### What It Does
+
+- **Detects DMN hijacking** in real-time via EEG monitoring (before you consciously realize it)
+- **Intervenes mechanically** using transcutaneous vagus nerve stimulation (tVNS) to trigger parasympathetic safety
+- **Forces network switching** through bilateral stimulation (EMDR-inspired hemispheric integration)
+- **Maintains witness consciousness** when your nervous system is too dysregulated to do it manually
+
+### The Science
+
+H.A.L.O. combines three evidence-based mechanisms:
+
+1. **Polyvagal Theory** — tVNS manually activates the "safe & social" ventral vagal pathway
+2. **EMDR Research** — Bilateral stimulation taxes working memory, preventing trauma loop hijacking
+3. **EEG Biofeedback** — Real-time detection of "Shadow Spikes" (alpha drop + beta spike = DMN takeover)
+
+**Result**: Automated courage. Technology that creates the conditions where dis-identification becomes possible even during severe activation.
+
+### Two Options
+
+**🎯 Manual Protocol** (~$35-75) — TENS unit + ear electrodes. Self-guided, no EEG, fully portable.  
+**🔬 Automated System** (~$500) — Muse S headband + full biofeedback. Real-time monitoring and alerts.
+
+### Open-Source & Patent-Free
+
+**Why?** Trauma healing should not be gatekept by patents or profit motives. This technology belongs to humanity.
+
+- **[Read the Complete Science](/neuroscience/project-halo)** — 100+ peer-reviewed citations validating the mechanisms
+- **[Build It Yourself](https://github.com/ClaimFreedomDotOrg/ProjectHALO)** — Full DIY instructions, software, and hardware guide
+- **[Try the Practice](/practices/halo-device)** — How to use H.A.L.O. for shadow work and DMN re-claiming
+
+**The Gnostic texts described DMN hijacking 2,000 years ago. We can now measure it via EEG and mechanically intervene. The ancient wisdom has become testable technology.**
+
+---
+
 ## The Framework
 
 **The Diagnosis**: A parasitic pattern has hijacked the Default Mode Network (DMN)—the brain's narrative-generating system—creating the compulsive "voice in your head."
