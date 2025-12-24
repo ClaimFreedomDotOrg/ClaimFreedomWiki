@@ -39,7 +39,7 @@ The game includes a **Single Player mode** that you can access anytime at [tamet
 
 See how the Single Player mode works:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aJzIjskkA48" title="Operation: Critical Mass - Single Player Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4croG-4nVi8" title="Operation: Critical Mass - Single Player Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **The difference between Single Player and Multiplayer:**
 
