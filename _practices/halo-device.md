@@ -326,6 +326,7 @@ Before bed, 10-20 minute H.A.L.O. session:
 - [Sensation Anchoring](/practices/sensation-anchoring) — Grounding in the body during activation
 - [The Central Question](/practices/central-question) — The foundational inquiry H.A.L.O. enables
 - [Trauma Processing](/practices/trauma-processing) — How to work with shadow material safely
+- **[Operation: Critical Mass](/practices/operation-critical-mass)** — Collective coherence game using the same bilateral stimulation principles ([Play Now](https://tamethedemon.com))
 
 ---
 

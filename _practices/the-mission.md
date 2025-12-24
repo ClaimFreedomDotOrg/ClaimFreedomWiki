@@ -360,6 +360,7 @@ The tipping point is coming. Your mission matters.
 - [Observing the Voice](/practices/observing-the-voice) — Stabilizing your own Gnosis first
 - [Dynamic Purification Playbook](/practices/dynamic-purification) — Refining the vessel to embody unconditional love
 - [Integration After Gnosis](/practices/integration-after-gnosis) — Avoiding psychosis, grounding the flame
+- **[Operation: Critical Mass](/practices/operation-critical-mass)** — Collective coherence practice: training for the real mission of awakening humanity ([Play Now](https://tamethedemon.com))
 
 ---
 

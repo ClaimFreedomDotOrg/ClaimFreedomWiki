@@ -57,6 +57,11 @@ All practices begin with [the central question](/docs/about#the-central-question
 
 - [The Bodhi-Electrum Practice](/practices/bodhi-electrum) — Bio-electrical field purification and light body integration
 
+### Technological & Collective Practices
+
+- [H.A.L.O. Device](/practices/halo-device) — Wearable neurofeedback system for trauma processing and dis-identification training
+- **[Operation: Critical Mass](/practices/operation-critical-mass)** — Multiplayer coherence game: collective dis-identification and synchronized awakening ([Play Now](https://tamethedemon.com))
+
 ### Advanced Gnosis & Mission
 
 **Note**: These practices assume direct realization (Gnosis) has occurred. If you have not experienced awakening, focus on foundational practices first.

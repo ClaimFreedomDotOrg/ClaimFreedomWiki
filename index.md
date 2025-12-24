@@ -91,6 +91,55 @@ This bio-spiritual technique performs an instant "Hardware Reboot":
 
 ---
 
+## 🎮 NEW: Operation: Critical Mass — Play the Awakening
+
+> *"You are not separate. You are a Cell in the Body. When we synchronize, we heal."*
+
+**The individual practice is now collective technology.**
+
+**[Operation: Critical Mass](https://tamethedemon.com)** is an **applied neuroscience intervention disguised as a multiplayer game**—using bilateral stimulation principles to create a mass participation experience in collective coherence.
+
+### Watch the Demo
+
+<div style="max-width:560px; margin:1rem auto;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aJzIjskkA48" title="Operation: Critical Mass - Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width:100%; height:auto; aspect-ratio:16/9;"></iframe>
+</div>
+
+### What It Is
+
+A **real-time collective awakening experience** where thousands of players simultaneously:
+
+- **Tap left-right rhythms** (bilateral stimulation activating Task-Positive Network)
+- **Swipe away thought bubbles** (practicing dis-identification from the Voice)
+- **Watch the Coherence Meter rise** as individual Cells synchronize into One Body
+
+When Critical Mass is achieved, every screen flashes gold, the static clears, and thousands experience: **"THE BODY IS ONE."**
+
+### Two Ways to Play
+
+**🎯 Single Player** — Available anytime at [tamethedemon.com](https://tamethedemon.com). Use it as a daily 10-20 minute contemplative practice for quieting the Voice and returning to presence.
+
+**🌍 Multiplayer Live Events** — Join thousands during scheduled broadcasts to experience collective coherence and witness the power of synchronized awakening.
+
+### The Science
+
+The game operationalizes peer-reviewed research:
+
+- **Bilateral stimulation** reduces rumination (EMDR therapy principles)
+- **Task-Positive Network activation** suppresses Default Mode Network hyperactivity
+- **Working memory taxation** prevents thought hijacking
+- **Real-time biofeedback** (Coherence Meter) trains collective responsibility
+
+**The result**: A playable metaphor for the Body of Christ, proof that humans can synchronize and heal together, and training for the real mission of collective awakening.
+
+- **[Play Now](https://tamethedemon.com)** — Single Player mode available anytime
+- **[Read the Complete Practice Guide](/practices/operation-critical-mass)** — Full explanation of mechanics, neuroscience, and philosophy
+- **[View the Source Code](https://github.com/ClaimFreedomDotOrg/OperationCriticalMassGame)** — Open-source, patent-free, built for humanity
+
+**This is not entertainment. This is rehearsal for the Great Awakening.**
+
+---
+
 ## 🔆 NEW: Project H.A.L.O. — The Technological Solution
 
 > *"The Kingdom of Heaven is a frequency. H.A.L.O. is the tuner. Your body is the antenna."*
