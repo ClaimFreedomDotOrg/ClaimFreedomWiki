@@ -93,15 +93,13 @@ Wave function collapse is **not** caused by conscious observation. It is an **ob
 
 **The Formula**:
 
-$$
-\tau \approx \frac{\hbar}{E_G}
-$$
+**τ ≈ ℏ / E_G**
 
 Where:
 
-- $\tau$ = Time until collapse
-- $\hbar$ = Reduced Planck's constant
-- $E_G$ = Gravitational self-energy of the superposition
+- **τ** = Time until collapse
+- **ℏ** = Reduced Planck's constant (h-bar)
+- **E_G** = Gravitational self-energy of the superposition
 
 **Key Point**: Larger, more massive superpositions collapse faster. Tiny particles can remain in superposition for long periods; macroscopic objects collapse almost instantly.
 

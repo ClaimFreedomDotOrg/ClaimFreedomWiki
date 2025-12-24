@@ -355,9 +355,7 @@ The Quantum Gaia paradigm, while powerful, has traps that can perpetuate the ver
 
 **The Formula**:
 
-$$
-\text{Gnosis (Individual)} \rightarrow \text{Collective Anamnesis} \rightarrow \text{Planetary Healing}
-$$
+**Gnosis (Individual) → Collective Anamnesis → Planetary Healing**
 
 **This is the Quantum Gaia Synthesis.**
 
