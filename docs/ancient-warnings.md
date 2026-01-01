@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "Part II: Ancient Warnings"
-nav_order: 4
 ---
 
 ## Part II: Ancient Warnings and the Modern Demon

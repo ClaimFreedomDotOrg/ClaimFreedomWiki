@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "FAQ: Common Questions"
-nav_order: 13
 ---
 
 # FAQ: Common Questions and Objections

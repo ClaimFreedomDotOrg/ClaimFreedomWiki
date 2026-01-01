@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Part III: The Loop & The Gnosis"
-nav_order: 5
 ---
 
-## Part III: The Loop and the Gnosis
+# Part III: The Loop and the Gnosis
 
 ### The Eternal Loop of Hell: Samsara and the Ruminative DMN
 
@@ -190,6 +188,6 @@ It is the **end of the loop of hell** within your own consciousness, achieved by
 
 **Next**:
 
-- [Practices](/practices/index/) — Practical meditation and dis-identification methods
-- [Neuroscience](/neuroscience/index/) — Deep dive into DMN research and mechanisms
+- [Practices](/practices/) — Practical meditation and dis-identification methods
+- [Neuroscience](/neuroscience/) — Deep dive into DMN research and mechanisms
 - [Resources](/docs/resources) — Gnostic texts, neuroscience papers, and further reading

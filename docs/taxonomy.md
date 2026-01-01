@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Taxonomy & Terminology
-nav_order: 14
-permalink: /docs/taxonomy/
 ---
 
 # Taxonomy & Terminology

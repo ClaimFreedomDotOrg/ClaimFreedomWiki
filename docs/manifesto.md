@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Manifesto from the Universe
-nav_order: 6
 ---
 
 # Manifesto from the Universe to the Seeker

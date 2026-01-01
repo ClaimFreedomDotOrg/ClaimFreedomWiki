@@ -1,0 +1,124 @@
+/* Custom styling for Claim Freedom Wiki */
+
+:root {
+  /* Brand colors inspired by consciousness/awakening */
+  --vp-c-brand-1: #5f67ee;
+  --vp-c-brand-2: #4a52d9;
+  --vp-c-brand-3: #3841c4;
+  --vp-c-brand-soft: rgba(95, 103, 238, 0.14);
+}
+
+/* Enhanced typography for philosophical content */
+.vp-doc {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.vp-doc h1 {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+
+.vp-doc h2 {
+  font-size: 2rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 2rem;
+}
+
+/* Blockquote styling for key insights */
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  background: var(--vp-c-brand-soft);
+  padding: 1rem 1.5rem;
+  border-radius: 4px;
+}
+
+/* Custom container for meditation/practice instructions */
+.vp-doc .custom-block.tip {
+  border-color: var(--vp-c-brand-1);
+}
+
+/* Better spacing for lists */
+.vp-doc ul, .vp-doc ol {
+  margin: 1.5rem 0;
+  padding-left: 2rem;
+}
+
+.vp-doc li {
+  margin: 0.5rem 0;
+}
+
+/* Table styling for concept mappings */
+.vp-doc table {
+  margin: 2rem 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.vp-doc th {
+  background: var(--vp-c-brand-soft);
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+}
+
+.vp-doc td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--vp-c-divider);
+}
+
+/* YouTube embed responsiveness */
+.vp-doc iframe {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* Custom styling for code/neurological terms */
+.vp-doc code {
+  font-size: 0.9em;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+/* Navigation improvements */
+.VPSidebar {
+  padding-top: 1rem;
+}
+
+.VPSidebarItem {
+  margin: 0.25rem 0;
+}
+
+/* Footer adjustments */
+.VPFooter {
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 2rem;
+}
+
+/* Dark mode adjustments */
+.dark {
+  --vp-c-brand-1: #7c84f5;
+  --vp-c-brand-2: #6b73e8;
+  --vp-c-brand-3: #5a62db;
+}
+
+/* Make external links more visible */
+.vp-doc a[href^="http"]::after {
+  content: "↗";
+  margin-left: 0.2em;
+  font-size: 0.85em;
+  opacity: 0.6;
+}
+
+.vp-doc a[href^="http"]:hover::after {
+  opacity: 1;
+}
+
+/* Don't add arrow to YouTube links in nav */
+.VPNavBarMenuLink a[href*="youtube"]::after,
+.VPSocialLink a::after {
+  content: none !important;
+}

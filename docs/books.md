@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Books
-nav_order: 98
 ---
 
 # Books: Deep Dives into the Neuro-Gnostic Framework
@@ -29,7 +27,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Version:** 1.2.0
 
-**[Download PDF](/assets/books/the-body-of-christ-v1.2.pdf)** | **[Read Documentation](/body-of-christ/index/)**
+**[Download PDF](/assets/books/the-body-of-christ-v1.2.pdf)** | **[Read Documentation](/body-of-christ/)**
 
 #### Core Thesis
 
@@ -84,7 +82,7 @@ All individuals are **Conscious Creators** who are actively, though often uncons
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Status:** Living Documentation (Continuously Updated)
 
-**[Read Online](/user-manual/index/)** — *Web-based, evolving knowledge base*
+**[Read Online](/user-manual/)** — *Web-based, evolving knowledge base*
 
 #### Core Thesis
 
@@ -113,26 +111,26 @@ You are NOT the avatar (body-mind). You are the **OPERATOR** of the avatar. This
 
 ### New to the Framework?
 
-1. **Start with:** [The User Manual](/user-manual/index/) — Accessible introduction to operator/avatar distinction and practical techniques
+1. **Start with:** [The User Manual](/user-manual/) — Accessible introduction to operator/avatar distinction and practical techniques
 2. **Then read:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Understand your creative power and reality mechanics
 3. **Deep dive:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Biblical validation and collective consciousness understanding
 
 ### Biblical Student or Christian Background?
 
 1. **Start with:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Decode Scripture through the Neuro-Gnostic lens
-2. **Then read:** [The User Manual](/user-manual/index/) — Practical application of biblical wisdom
+2. **Then read:** [The User Manual](/user-manual/) — Practical application of biblical wisdom
 3. **Expand with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Quantum foundations of "faith moves mountains"
 
 ### Neuroscience or Psychology Background?
 
 1. **Start with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Observer Effect, consciousness-created reality
 2. **Then read:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — DMN hijacking, cellular intelligence, systems biology
-3. **Practice with:** [The User Manual](/user-manual/index/) — Neuroplasticity, brainwave states, epigenetics in action
+3. **Practice with:** [The User Manual](/user-manual/) — Neuroplasticity, brainwave states, epigenetics in action
 
 ### Systems Thinker or Collective Intelligence Focus?
 
 1. **Start with:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Humans as cells, superorganism mechanics, field coherence
-2. **Then read:** [The User Manual](/user-manual/index/) — Individual optimization serving collective function
+2. **Then read:** [The User Manual](/user-manual/) — Individual optimization serving collective function
 3. **Expand with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Co-creation and respecting free will
 
 ---
@@ -157,4 +155,4 @@ These books are offered freely as part of the mission to liberate consciousness.
 
 ---
 
-**[Return to Home](/)** | **[Explore the Framework](/docs/neuro-gnosticism)** | **[Start Practicing](/practices/index/)**
+**[Return to Home](/)** | **[Explore the Framework](/docs/neuro-gnosticism)** | **[Start Practicing](/practices/)**

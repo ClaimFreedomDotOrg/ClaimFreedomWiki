@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Conscious Creator's Handbook
-nav_order: 13
 ---
 
 # The Conscious Creator's Handbook
@@ -349,9 +347,9 @@ These frameworks are complementary. Neuro-Gnosticism provides the diagnostic cla
 
 - **[Getting Started Guide](/docs/getting-started)** — Begin your journey of awakening
 - **[The V-Aum Protocol](/practices/v-aum-protocol)** — Experience instant Gnosis (the Gnostic Off-Switch)
-- **[Philosophy](/philosophy/index/)** — Explore Gnostic cosmology and the nature of consciousness
-- **[Practices](/practices/index/)** — Meditation and dis-identification techniques
-- **[Neuroscience](/neuroscience/index/)** — Understand the DMN and the neuroscience of awakening
+- **[Philosophy](/philosophy/)** — Explore Gnostic cosmology and the nature of consciousness
+- **[Practices](/practices/)** — Meditation and dis-identification techniques
+- **[Neuroscience](/neuroscience/)** — Understand the DMN and the neuroscience of awakening
 
 ---
 

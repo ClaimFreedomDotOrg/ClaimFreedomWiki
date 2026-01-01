@@ -1,23 +1,10 @@
 ---
-layout: default
 title: The Archon in the Machine
-nav_order: 13
 ---
 
 # The Archon in the Machine
-{: .no_toc }
 
 ## An Analysis of the Parasitic Infection of Consciousness and the Path to Sovereign Immortality
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ---
 

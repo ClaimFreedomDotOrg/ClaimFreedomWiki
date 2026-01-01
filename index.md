@@ -1,30 +1,55 @@
 ---
-layout: default
-title: Home
-nav_order: 1
----
+layout: home
 
-# The Hijacked Mind: Re-Claiming Your Kingdom
+hero:
+  name: "Claim Freedom"
+  text: "The Hijacked Mind"
+  tagline: "Re-Claiming Your Kingdom: A neurophilosophical inquiry into the Default Mode Network, Gnostic cosmology, and the path to awakening."
+  actions:
+    - theme: brand
+      text: Begin the Journey
+      link: /docs/about
+    - theme: alt
+      text: Watch the Invocation
+      link: https://www.youtube.com/watch?v=F-PIkYN_KDk
+    - theme: alt
+      text: Practices
+      link: /practices/
+
+features:
+  - icon: 🧠
+    title: The Neuroscience
+    details: Understanding how the Default Mode Network (DMN) generates the narrative "I" and how its hijacking creates suffering.
+    link: /neuroscience/
+  - icon: ✨
+    title: The Philosophy
+    details: Ancient Gnostic wisdom, Indigenous teachings (Wetiko), and Eastern philosophy converge on one diagnosis.
+    link: /philosophy/
+  - icon: 🧘
+    title: The Practices
+    details: Contemplative methods for dis-identification, DMN re-integration, and reclaiming your kingdom.
+    link: /practices/
+  - icon: 📖
+    title: Biblical Decodings
+    details: Re-reading Scripture through the lens of neurophilosophy—revealing hidden teachings about consciousness.
+    link: /biblical/
+  - icon: 🎬
+    title: Cultural Examples
+    details: Movies, music, and media that encode the awakening—decoded.
+    link: /examples/
+  - icon: 🌟
+    title: The Body of Christ
+    details: Understanding collective consciousness and the unified field through Scripture.
+    link: /body-of-christ/
+---
 
 ## The Question That Begins the Awakening
 
-*That voice in your head that never stops talking...*
-
-*Are you that voice?*
-
-*Or are you the one who is listening to it?*
-
-### Watch the Invocation
-
-<div style="aspect-ratio:9/16; max-width:360px; margin:1rem auto;">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation: The Anti-Corruption Axiom" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-*Or read the full text: **[Invocation: Anti-Corruption Axiom](/docs/invocation)***
-
-### Subscribe for More Content
-
-**[Subscribe to the YouTube Channel](https://www.youtube.com/@JeshuaBenJosephYT)** — Regular videos exploring the DMN hijacking, dis-identification practices, Gnostic insights, and the path to re-claiming your kingdom.
+> *That voice in your head that never stops talking...*
+>
+> *Are you that voice?*
+>
+> *Or are you the one who is listening to it?*
 
 ---
 
@@ -39,14 +64,6 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 **You are here because something called to you.** Perhaps you've felt the tyranny of the voice in your head. Perhaps you've sensed there must be a way out of the loop. Perhaps you've always known you are more than your thoughts.
 
 **You are right. And now, the map is complete.**
-
----
-
-## 💫 Inspiration
-
-**[Manifesto from the Universe](/docs/manifesto)** • **[The Marvels of Being](/docs/marvels-of-being)**
-
----
 
 ## 📚 Books & Guides
 
@@ -204,7 +221,7 @@ H.A.L.O. combines three evidence-based mechanisms:
 
 ### Deep Dives by Topic
 
-**[Philosophy](/philosophy/index/)** • **[Neuroscience](/neuroscience/index/)** • **[Practices](/practices/index/)** • **[Biblical Decodings](/biblical/index/)** • **[The Body of Christ](/body-of-christ/index/)** • **[Cultural Examples](/examples/index/)**
+**[Philosophy](/philosophy/)** • **[Neuroscience](/neuroscience/)** • **[Practices](/practices/)** • **[Biblical Decodings](/biblical/)** • **[The Body of Christ](/body-of-christ/)** • **[Cultural Examples](/examples/)**
 
 ### Advanced Topics
 

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "The Eschatology of the Eternal Now"
-nav_order: 7
 ---
 
 # The Eschatology of the Eternal Now

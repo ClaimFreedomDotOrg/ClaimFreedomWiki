@@ -1,0 +1,1125 @@
+{
+  "/practices/": [
+    {
+      "text": "Practices",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/practices/"
+        },
+        {
+          "text": "Applied Interoception",
+          "link": "/practices/applied-interoception"
+        },
+        {
+          "text": "The Bodhi-Electrum Practice",
+          "link": "/practices/bodhi-electrum"
+        },
+        {
+          "text": "Body as Anchor",
+          "link": "/practices/body-anchor"
+        },
+        {
+          "text": "Command Training",
+          "link": "/practices/command-training"
+        },
+        {
+          "text": "Daily Micro-Practices",
+          "link": "/practices/daily-integration"
+        },
+        {
+          "text": "Dynamic Purification Playbook",
+          "link": "/practices/dynamic-purification"
+        },
+        {
+          "text": "Execution Observation",
+          "link": "/practices/execution-observation"
+        },
+        {
+          "text": "Flow State Conduction",
+          "link": "/practices/flow-state-conduction"
+        },
+        {
+          "text": "Gratitude Practice",
+          "link": "/practices/gratitude"
+        },
+        {
+          "text": "H.A.L.O. Device: Technological Dis-identification",
+          "link": "/practices/halo-device"
+        },
+        {
+          "text": "Heart Listening",
+          "link": "/practices/heart-listening"
+        },
+        {
+          "text": "Integration After Gnosis",
+          "link": "/practices/integration-after-gnosis"
+        },
+        {
+          "text": "Loving the Dragon",
+          "link": "/practices/loving-the-dragon"
+        },
+        {
+          "text": "Memento Mori",
+          "link": "/practices/memento-mori"
+        },
+        {
+          "text": "Observing the Voice",
+          "link": "/practices/observing-the-voice"
+        },
+        {
+          "text": "Operation: Critical Mass — Collective Coherence Gaming",
+          "link": "/practices/operation-critical-mass"
+        },
+        {
+          "text": "Sabbath Rest",
+          "link": "/practices/sabbath-rest"
+        },
+        {
+          "text": "Sailboat with No Wind",
+          "link": "/practices/sailboat-with-no-wind"
+        },
+        {
+          "text": "Self-Inquiry",
+          "link": "/practices/self-inquiry"
+        },
+        {
+          "text": "Service from Overflow",
+          "link": "/practices/service-from-overflow"
+        },
+        {
+          "text": "Dis-Identifying from Story",
+          "link": "/practices/story-disidentification"
+        },
+        {
+          "text": "Practical Guide: Taming Your DMN",
+          "link": "/practices/taming-your-dmn"
+        },
+        {
+          "text": "The Mission",
+          "link": "/practices/the-mission"
+        },
+        {
+          "text": "Working with Trauma",
+          "link": "/practices/trauma-work"
+        },
+        {
+          "text": "The V-Aum Protocol",
+          "link": "/practices/v-aum-protocol"
+        },
+        {
+          "text": "Witness Meditation",
+          "link": "/practices/witness-meditation"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/philosophy/": [
+    {
+      "text": "Philosophy",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/philosophy/"
+        },
+        {
+          "text": "A Course in Miracles: The Tiny Mad Idea",
+          "link": "/philosophy/acim-tiny-mad-idea"
+        },
+        {
+          "text": "Anamnesis - Remembering",
+          "link": "/philosophy/anamnesis"
+        },
+        {
+          "text": "The Ancestral Loop",
+          "link": "/philosophy/ancestral-loop"
+        },
+        {
+          "text": "Ancient Warnings, Modern Mechanisms",
+          "link": "/philosophy/ancient-modern"
+        },
+        {
+          "text": "Avidya - The Ignorance That Binds",
+          "link": "/philosophy/avidya"
+        },
+        {
+          "text": "The Cannibalization of Consciousness",
+          "link": "/philosophy/cannibalization"
+        },
+        {
+          "text": "The Christ Authority - Sovereignty Over the Demon",
+          "link": "/philosophy/christ-authority"
+        },
+        {
+          "text": "Command vs. Wish vs. Rumination",
+          "link": "/philosophy/command-wish-rumination"
+        },
+        {
+          "text": "The Cosmic Loop",
+          "link": "/philosophy/cosmic-loop"
+        },
+        {
+          "text": "The Counterfeit Self",
+          "link": "/philosophy/counterfeit-self"
+        },
+        {
+          "text": "Etymology and Function - Daemon vs. Demon",
+          "link": "/philosophy/daemon-demon"
+        },
+        {
+          "text": "The Deception of Time and the Eternal Now",
+          "link": "/philosophy/deception-of-time"
+        },
+        {
+          "text": "Pneuma and the Divine Spark",
+          "link": "/philosophy/divine-spark"
+        },
+        {
+          "text": "The End of Planning - Visualization and Sacred Surrender",
+          "link": "/philosophy/end-of-planning"
+        },
+        {
+          "text": "Eternal Life",
+          "link": "/philosophy/eternal-life"
+        },
+        {
+          "text": "The Eternal Now",
+          "link": "/philosophy/eternal-now"
+        },
+        {
+          "text": "Gaia Consciousness",
+          "link": "/philosophy/gaia-consciousness"
+        },
+        {
+          "text": "Gnosis",
+          "link": "/philosophy/gnosis"
+        },
+        {
+          "text": "The Gnostic Diagnosis",
+          "link": "/philosophy/gnostic-diagnosis"
+        },
+        {
+          "text": "The Guarded Kingdom",
+          "link": "/philosophy/guarded-kingdom"
+        },
+        {
+          "text": "Hell as Infinite Loops",
+          "link": "/philosophy/hell-as-loops"
+        },
+        {
+          "text": "The Hijacking Process",
+          "link": "/philosophy/hijacking-process"
+        },
+        {
+          "text": "The Individual Loop",
+          "link": "/philosophy/individual-loop"
+        },
+        {
+          "text": "Kenoma and Pleroma",
+          "link": "/philosophy/kenoma-pleroma"
+        },
+        {
+          "text": "Nirvana and Moksha - Liberation",
+          "link": "/philosophy/liberation"
+        },
+        {
+          "text": "Narrative Identity and the Illusion of Time",
+          "link": "/philosophy/narrative-time-illusion"
+        },
+        {
+          "text": "Nowhere to Come From",
+          "link": "/philosophy/nowhere-to-come-from"
+        },
+        {
+          "text": "Orchestrated Objective Reduction (Orch OR)",
+          "link": "/philosophy/orch-or-theory"
+        },
+        {
+          "text": "The Pauli-Jung Conjecture",
+          "link": "/philosophy/pauli-jung-conjecture"
+        },
+        {
+          "text": "The Perennial Philosophy",
+          "link": "/philosophy/perennial-philosophy"
+        },
+        {
+          "text": "Programming the Daemon",
+          "link": "/philosophy/programming-daemon"
+        },
+        {
+          "text": "Quantum Consciousness",
+          "link": "/philosophy/quantum-consciousness"
+        },
+        {
+          "text": "The Quantum Gaia Synthesis",
+          "link": "/philosophy/quantum-gaia-synthesis"
+        },
+        {
+          "text": "Realized Eschatology",
+          "link": "/philosophy/realized-eschatology"
+        },
+        {
+          "text": "The Redeemer Archetype",
+          "link": "/philosophy/redeemer-archetype"
+        },
+        {
+          "text": "The Restored Kingdom",
+          "link": "/philosophy/restored-kingdom"
+        },
+        {
+          "text": "The Sacred Order",
+          "link": "/philosophy/sacred-order"
+        },
+        {
+          "text": "The Sacred Surrender",
+          "link": "/philosophy/sacred-surrender"
+        },
+        {
+          "text": "Samsara - The Eternal Loop",
+          "link": "/philosophy/samsara"
+        },
+        {
+          "text": "Satan Is the Demon - The Character in the Infinite Loop",
+          "link": "/philosophy/satan-is-the-demon"
+        },
+        {
+          "text": "The Goal of Gnosis - A Silent Mind",
+          "link": "/philosophy/silent-mind"
+        },
+        {
+          "text": "The Simulation Hypothesis",
+          "link": "/philosophy/simulation-hypothesis"
+        },
+        {
+          "text": "Soma, Psyche, Pneuma: The Threefold Nature",
+          "link": "/philosophy/soma-psyche-pneuma"
+        },
+        {
+          "text": "The Divine Spark Enthroned",
+          "link": "/philosophy/spark-enthroned"
+        },
+        {
+          "text": "The Great Heist",
+          "link": "/philosophy/the-great-heist"
+        },
+        {
+          "text": "The Unified Framework",
+          "link": "/philosophy/unified-framework"
+        },
+        {
+          "text": "The Voice vs. The Listener",
+          "link": "/philosophy/voice-listener"
+        },
+        {
+          "text": "Wetiko and the Default Mode Network: The Neuroscience of the Mind Virus",
+          "link": "/philosophy/wetiko-dmn"
+        },
+        {
+          "text": "Wetiko - The Mind Virus",
+          "link": "/philosophy/wetiko"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/neuroscience/": [
+    {
+      "text": "Neuroscience",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/neuroscience/"
+        },
+        {
+          "text": "Natural Anthelmintic Options",
+          "link": "/neuroscience/anthelmintic-options"
+        },
+        {
+          "text": "Block Universe and the Physics of Time",
+          "link": "/neuroscience/block-universe-physics"
+        },
+        {
+          "text": "Breaking the Epigenetic Loop",
+          "link": "/neuroscience/breaking-epigenetic-loop"
+        },
+        {
+          "text": "Chronic Stress and Disease",
+          "link": "/neuroscience/chronic-stress"
+        },
+        {
+          "text": "Cognitive Dissonance",
+          "link": "/neuroscience/cognitive-dissonance"
+        },
+        {
+          "text": "DMN in Anxiety Disorders",
+          "link": "/neuroscience/dmn-anxiety"
+        },
+        {
+          "text": "DMN in Depression",
+          "link": "/neuroscience/dmn-depression"
+        },
+        {
+          "text": "DMN Discovery and Function",
+          "link": "/neuroscience/dmn-foundational-research"
+        },
+        {
+          "text": "DMN Hyperactivity",
+          "link": "/neuroscience/dmn-hyperactivity"
+        },
+        {
+          "text": "DMN and the Narrative Self",
+          "link": "/neuroscience/dmn-narrative-self"
+        },
+        {
+          "text": "DMN and Self-Referential Thought",
+          "link": "/neuroscience/dmn-self-reference"
+        },
+        {
+          "text": "Epigenetics Research",
+          "link": "/neuroscience/epigenetics-research"
+        },
+        {
+          "text": "Epigenetic Mechanisms",
+          "link": "/neuroscience/epigenetics"
+        },
+        {
+          "text": "Flow State Conduction",
+          "link": "/neuroscience/flow-state-conduction"
+        },
+        {
+          "text": "The Hard Problem of Consciousness",
+          "link": "/neuroscience/hard-problem"
+        },
+        {
+          "text": "Inflammation and the Hijacked Mind",
+          "link": "/neuroscience/inflammation"
+        },
+        {
+          "text": "Long-Term Meditators",
+          "link": "/neuroscience/long-term-meditators"
+        },
+        {
+          "text": "Meditation Effects on DMN",
+          "link": "/neuroscience/meditation-dmn"
+        },
+        {
+          "text": "Meditation and Immune Function",
+          "link": "/neuroscience/meditation-immune"
+        },
+        {
+          "text": "Meditation Neuroscience Studies",
+          "link": "/neuroscience/meditation-research"
+        },
+        {
+          "text": "Microtubules and Consciousness",
+          "link": "/neuroscience/microtubules-consciousness"
+        },
+        {
+          "text": "Mindfulness and Network Balance",
+          "link": "/neuroscience/mindfulness-networks"
+        },
+        {
+          "text": "Network Dynamics",
+          "link": "/neuroscience/network-dynamics"
+        },
+        {
+          "text": "The Network Toggle Mechanism",
+          "link": "/neuroscience/network-toggle-mechanism"
+        },
+        {
+          "text": "Neuroplasticity Mechanisms",
+          "link": "/neuroscience/neuroplasticity"
+        },
+        {
+          "text": "Project H.A.L.O.: Hemispheric Alignment & Limbic Override",
+          "link": "/neuroscience/project-halo"
+        },
+        {
+          "text": "DMN and Psychopathology Research",
+          "link": "/neuroscience/psychopathology-research"
+        },
+        {
+          "text": "DMN and Rumination",
+          "link": "/neuroscience/rumination"
+        },
+        {
+          "text": "The Salience Network",
+          "link": "/neuroscience/salience-network"
+        },
+        {
+          "text": "The Task-Positive Network",
+          "link": "/neuroscience/task-positive-network"
+        },
+        {
+          "text": "Tics and Tourette's Syndrome",
+          "link": "/neuroscience/tics-tourettes"
+        },
+        {
+          "text": "Transgenerational Transmission",
+          "link": "/neuroscience/transgenerational-trauma"
+        },
+        {
+          "text": "What is the DMN?",
+          "link": "/neuroscience/what-is-dmn"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/biblical/": [
+    {
+      "text": "Biblical Decodings",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/biblical/"
+        },
+        {
+          "text": "Believe the Works Themselves",
+          "link": "/biblical/believe-the-works"
+        },
+        {
+          "text": "Your Body Is Dead, Your Spirit Is Alive",
+          "link": "/biblical/body-dead-spirit-alive"
+        },
+        {
+          "text": "You Must Be Born Again",
+          "link": "/biblical/born-again"
+        },
+        {
+          "text": "Calming the Storm",
+          "link": "/biblical/calming-the-storm"
+        },
+        {
+          "text": "Casting Out Demons",
+          "link": "/biblical/casting-out-demons"
+        },
+        {
+          "text": "Christ Dwelling in Your Hearts",
+          "link": "/biblical/christ-dwelling-in-hearts"
+        },
+        {
+          "text": "Christ in You, the Hope of Glory",
+          "link": "/biblical/christ-in-you"
+        },
+        {
+          "text": "Controlled by the Spirit, Not the Flesh",
+          "link": "/biblical/controlled-by-spirit"
+        },
+        {
+          "text": "I Have Been Crucified with Christ",
+          "link": "/biblical/crucified-with-christ"
+        },
+        {
+          "text": "The Crucifixion",
+          "link": "/biblical/crucifixion"
+        },
+        {
+          "text": "Doubting Thomas",
+          "link": "/biblical/doubting-thomas"
+        },
+        {
+          "text": "The Exodus",
+          "link": "/biblical/exodus"
+        },
+        {
+          "text": "Eyes to See, Ears to Hear",
+          "link": "/biblical/eyes-ears"
+        },
+        {
+          "text": "The Fullness of Him Who Fills All in All",
+          "link": "/biblical/fullness-fills-all"
+        },
+        {
+          "text": "The Garden of Eden",
+          "link": "/biblical/garden-eden"
+        },
+        {
+          "text": "Get Behind Me, Satan",
+          "link": "/biblical/get-behind-me-satan"
+        },
+        {
+          "text": "The Gospel of Philip",
+          "link": "/biblical/gospel-philip"
+        },
+        {
+          "text": "The Gospel of Thomas",
+          "link": "/biblical/gospel-thomas"
+        },
+        {
+          "text": "The Gospel of Truth",
+          "link": "/biblical/gospel-truth"
+        },
+        {
+          "text": "The Hymn of the Pearl",
+          "link": "/biblical/hymn-pearl"
+        },
+        {
+          "text": "Job's Ordeal",
+          "link": "/biblical/job"
+        },
+        {
+          "text": "Keeping His Commandments: The Flow of Mutual Indwelling",
+          "link": "/biblical/keeping-his-commandments"
+        },
+        {
+          "text": "The Kingdom of Heaven is At Hand",
+          "link": "/biblical/kingdom-at-hand"
+        },
+        {
+          "text": "The Kingdom Within",
+          "link": "/biblical/kingdom-within"
+        },
+        {
+          "text": "The Lord's Prayer Decoded",
+          "link": "/biblical/lords-prayer"
+        },
+        {
+          "text": "The Lost Sheep",
+          "link": "/biblical/lost-sheep"
+        },
+        {
+          "text": "Matthew 22: The Wedding Feast and Greatest Commandment",
+          "link": "/biblical/matthew-22"
+        },
+        {
+          "text": "I Have Made Your Name Known",
+          "link": "/biblical/name-made-known"
+        },
+        {
+          "text": "The Narrow Gate",
+          "link": "/biblical/narrow-gate"
+        },
+        {
+          "text": "One with Him in Spirit",
+          "link": "/biblical/one-in-spirit"
+        },
+        {
+          "text": "The Prodigal Son",
+          "link": "/biblical/prodigal-son"
+        },
+        {
+          "text": "We Remain in Him, and He in Us",
+          "link": "/biblical/remain-in-him"
+        },
+        {
+          "text": "Resist Not Evil",
+          "link": "/biblical/resist-not-evil"
+        },
+        {
+          "text": "The Road to Emmaus",
+          "link": "/biblical/road-emmaus"
+        },
+        {
+          "text": "The Sower and the Seed",
+          "link": "/biblical/sower-seed"
+        },
+        {
+          "text": "The Talents",
+          "link": "/biblical/talents"
+        },
+        {
+          "text": "The Temptation of Christ",
+          "link": "/biblical/temptation-christ"
+        },
+        {
+          "text": "Test Yourselves: Is Christ in You?",
+          "link": "/biblical/test-yourselves"
+        },
+        {
+          "text": "That Day You Will Realize",
+          "link": "/biblical/that-day-you-will-realize"
+        },
+        {
+          "text": "That They May Be One",
+          "link": "/biblical/that-they-may-be-one"
+        },
+        {
+          "text": "The Tower of Babel",
+          "link": "/biblical/tower-babel"
+        },
+        {
+          "text": "The Transfiguration",
+          "link": "/biblical/transfiguration"
+        },
+        {
+          "text": "The Vine and the Branches",
+          "link": "/biblical/vine-and-branches"
+        },
+        {
+          "text": "Walk as Jesus Walked",
+          "link": "/biblical/walk-as-jesus-walked"
+        },
+        {
+          "text": "The Wilderness Wandering",
+          "link": "/biblical/wilderness"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/examples/": [
+    {
+      "text": "Cultural Examples",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/examples/"
+        },
+        {
+          "text": "1984",
+          "link": "/examples/1984"
+        },
+        {
+          "text": "All Star – Smash Mouth",
+          "link": "/examples/all-star-smashmouth"
+        },
+        {
+          "text": "Altered Carbon",
+          "link": "/examples/altered-carbon"
+        },
+        {
+          "text": "Arrival",
+          "link": "/examples/arrival"
+        },
+        {
+          "text": "BioShock",
+          "link": "/examples/bioshock"
+        },
+        {
+          "text": "Black Mirror: San Junipero",
+          "link": "/examples/black-mirror-san-junipero"
+        },
+        {
+          "text": "Brave New World",
+          "link": "/examples/brave-new-world"
+        },
+        {
+          "text": "City of Ember",
+          "link": "/examples/city-of-ember"
+        },
+        {
+          "text": "Dark (Netflix Series)",
+          "link": "/examples/dark-netflix"
+        },
+        {
+          "text": "Divinity: Original Sin",
+          "link": "/examples/divinity-original-sin"
+        },
+        {
+          "text": "Don’t Stop Believin’ – Journey",
+          "link": "/examples/dont-stop-believin-journey"
+        },
+        {
+          "text": "Dune",
+          "link": "/examples/dune"
+        },
+        {
+          "text": "Ender's Game",
+          "link": "/examples/enders-game"
+        },
+        {
+          "text": "Eternal Sunshine of the Spotless Mind",
+          "link": "/examples/eternal-sunshine"
+        },
+        {
+          "text": "Fahrenheit 451",
+          "link": "/examples/fahrenheit-451"
+        },
+        {
+          "text": "Fallout: The Vault Dweller's Exodus",
+          "link": "/examples/fallout-vault-dweller"
+        },
+        {
+          "text": "Groundhog Day",
+          "link": "/examples/groundhog-day"
+        },
+        {
+          "text": "His Dark Materials",
+          "link": "/examples/his-dark-materials"
+        },
+        {
+          "text": "I Want to Break Free – Queen",
+          "link": "/examples/i-want-to-break-free-queen"
+        },
+        {
+          "text": "Imagine – John Lennon",
+          "link": "/examples/imagine-john-lennon"
+        },
+        {
+          "text": "Inside Out",
+          "link": "/examples/inside-out"
+        },
+        {
+          "text": "Lucy",
+          "link": "/examples/lucy"
+        },
+        {
+          "text": "Manifest",
+          "link": "/examples/manifest"
+        },
+        {
+          "text": "Plato's Allegory of the Cave",
+          "link": "/examples/platos-allegory-cave"
+        },
+        {
+          "text": "Running Up That Hill (A Deal With God) – Kate Bush",
+          "link": "/examples/running-up-that-hill-kate-bush"
+        },
+        {
+          "text": "Sense8",
+          "link": "/examples/sense8"
+        },
+        {
+          "text": "Siddhartha",
+          "link": "/examples/siddhartha"
+        },
+        {
+          "text": "Snow Crash",
+          "link": "/examples/snow-crash"
+        },
+        {
+          "text": "State of Mind",
+          "link": "/examples/state-of-mind"
+        },
+        {
+          "text": "Stranger Than Fiction",
+          "link": "/examples/stranger-than-fiction"
+        },
+        {
+          "text": "Stranger Things",
+          "link": "/examples/stranger-things"
+        },
+        {
+          "text": "The Beekeeper",
+          "link": "/examples/the-beekeeper"
+        },
+        {
+          "text": "The Big C",
+          "link": "/examples/the-big-c"
+        },
+        {
+          "text": "The Giver",
+          "link": "/examples/the-giver"
+        },
+        {
+          "text": "How the Grinch Stole Christmas (2000)",
+          "link": "/examples/the-grinch"
+        },
+        {
+          "text": "The Island",
+          "link": "/examples/the-island"
+        },
+        {
+          "text": "The Lorax",
+          "link": "/examples/the-lorax"
+        },
+        {
+          "text": "The Matrix",
+          "link": "/examples/the-matrix"
+        },
+        {
+          "text": "The Neverending Story",
+          "link": "/examples/the-neverending-story"
+        },
+        {
+          "text": "The OA",
+          "link": "/examples/the-oa"
+        },
+        {
+          "text": "The Truman Show",
+          "link": "/examples/the-truman-show"
+        },
+        {
+          "text": "Total Recall",
+          "link": "/examples/total-recall"
+        },
+        {
+          "text": "WALL-E",
+          "link": "/examples/wall-e"
+        },
+        {
+          "text": "Westworld",
+          "link": "/examples/westworld"
+        },
+        {
+          "text": "What The Bleep Do We Know!?",
+          "link": "/examples/what-the-bleep"
+        },
+        {
+          "text": "What's Up? – 4 Non Blondes",
+          "link": "/examples/whats-up-4-non-blondes"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/body-of-christ/": [
+    {
+      "text": "The Body of Christ",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/body-of-christ/"
+        },
+        {
+          "text": "1 Corinthians 12 - Cellular Diversity in One Body",
+          "link": "/body-of-christ/1-corinthians-12"
+        },
+        {
+          "text": "Acts 2 - Pentecost and The First Cellular Activation",
+          "link": "/body-of-christ/acts-2"
+        },
+        {
+          "text": "Colossians 1 - Christ the Head",
+          "link": "/body-of-christ/colossians-1"
+        },
+        {
+          "text": "Ephesians - The Blueprint for The Body of Christ",
+          "link": "/body-of-christ/ephesians-blueprint"
+        },
+        {
+          "text": "John 17 - The Unity Prayer",
+          "link": "/body-of-christ/john-17"
+        },
+        {
+          "text": "Romans 12 - Living Sacrifice and Mind Renewal",
+          "link": "/body-of-christ/romans-12"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/user-manual/": [
+    {
+      "text": "The User Manual",
+      "items": [
+        {
+          "text": "Overview",
+          "link": "/user-manual/"
+        },
+        {
+          "text": "Amino Acids: The Temple's Building Blocks and Neurotransmitter Precursors",
+          "link": "/user-manual/amino-acids"
+        },
+        {
+          "text": "Brainwave States - Understanding the Avatar's Neural Frequencies",
+          "link": "/user-manual/brainwave-states"
+        },
+        {
+          "text": "Breath: The Pneuma Interface",
+          "link": "/user-manual/breath-pneuma"
+        },
+        {
+          "text": "The Christ Within - Recognizing the Divine Spark Operating Through Your Avatar",
+          "link": "/user-manual/christ-within"
+        },
+        {
+          "text": "Collective Consciousness",
+          "link": "/user-manual/collective-consciousness"
+        },
+        {
+          "text": "Cymatics - Sound Made Visible",
+          "link": "/user-manual/cymatics"
+        },
+        {
+          "text": "The Voice, False Identity, and Persona",
+          "link": "/user-manual/ego-false-identity"
+        },
+        {
+          "text": "Integrating the Operator",
+          "link": "/user-manual/embracing-shadow"
+        },
+        {
+          "text": "Energy Flow - Operator Training for Temple Conduction",
+          "link": "/user-manual/energy-flow"
+        },
+        {
+          "text": "You ARE the Operator - Embracing Your True Nature",
+          "link": "/user-manual/essence-of-being"
+        },
+        {
+          "text": "Exercise and Movement: Operating the Avatar Through Motion",
+          "link": "/user-manual/exercise-movement"
+        },
+        {
+          "text": "Focus - The Double-Edged Sword of Attention",
+          "link": "/user-manual/focus"
+        },
+        {
+          "text": "Fractals - As Above, So Below",
+          "link": "/user-manual/fractals"
+        },
+        {
+          "text": "The Galactic Federation",
+          "link": "/user-manual/galactic-federation"
+        },
+        {
+          "text": "Genetics and Epigenetics - The Avatar's Programmable Blueprint",
+          "link": "/user-manual/genetics-epigenetics"
+        },
+        {
+          "text": "Habits",
+          "link": "/user-manual/habits"
+        },
+        {
+          "text": "Technology for Operator Training",
+          "link": "/user-manual/harmonizing-hemispheres"
+        },
+        {
+          "text": "Homeostasis: Cell Health for the Collective Body",
+          "link": "/user-manual/homeostasis"
+        },
+        {
+          "text": "Hypno-Gnosis: Below Knowing",
+          "link": "/user-manual/hypno-gnosis"
+        },
+        {
+          "text": "The Illusion of Time - Recognizing Your Timeless Nature",
+          "link": "/user-manual/illusion-of-time"
+        },
+        {
+          "text": "Ketosis - Metabolic Sovereignty and Voice Silence",
+          "link": "/user-manual/ketosis"
+        },
+        {
+          "text": "Kymata - The Language of Cymatic Form",
+          "link": "/user-manual/kymata"
+        },
+        {
+          "text": "Neuroplasticity - Reprogramming the Avatar",
+          "link": "/user-manual/neuroplasticity"
+        },
+        {
+          "text": "Nutrition: Conscious Fuel for the Sacred Temple",
+          "link": "/user-manual/nutrition-conscious-eating"
+        },
+        {
+          "text": "Sound Technology for Voice-Quieting - OM MANI PADME HUM",
+          "link": "/user-manual/om-mani-padme-hum"
+        },
+        {
+          "text": "Operator, Temple, Flow: Dismantling the False Trinity",
+          "link": "/user-manual/operator-temple-flow"
+        },
+        {
+          "text": "The Power of Language - Unraveling the Nam Shub",
+          "link": "/user-manual/power-of-language"
+        },
+        {
+          "text": "The Power of Thought - Conscious Mind as Creative Instrument",
+          "link": "/user-manual/power-of-thought"
+        },
+        {
+          "text": "The Operator's Primary Tool - Conscious Logos vs Voice's Misuse",
+          "link": "/user-manual/power-of-words"
+        },
+        {
+          "text": "Prayer: The Practice of Voice-Quieting",
+          "link": "/user-manual/prayer"
+        },
+        {
+          "text": "Reclaiming Projected Aspects",
+          "link": "/user-manual/projection-mirror-self"
+        },
+        {
+          "text": "The Quantum Mirror - Consciousness and Reality Interplay",
+          "link": "/user-manual/quantum-mirror"
+        },
+        {
+          "text": "Sacred Geometry - The Divine Blueprint Reclaimed",
+          "link": "/user-manual/sacred-geometry"
+        },
+        {
+          "text": "Shivambu: The Avatar's Perfect Feedback Loop",
+          "link": "/user-manual/shivambu"
+        },
+        {
+          "text": "Sleep and Rest: The Nightly Return to Source",
+          "link": "/user-manual/sleep-rest"
+        },
+        {
+          "text": "Breaking the Media Spell - Reclaiming Operator Attention from Hijacked Streams",
+          "link": "/user-manual/spellbound"
+        },
+        {
+          "text": "Telomeres and Aging: The Avatar's Cellular Clock",
+          "link": "/user-manual/telomeres-aging"
+        },
+        {
+          "text": "The Avatar",
+          "link": "/user-manual/the-avatar"
+        },
+        {
+          "text": "Activating Direct Knowing - The Third Eye as Operator Capacity",
+          "link": "/user-manual/third-eye-inner-vision"
+        },
+        {
+          "text": "Breaking Voice's Autopilot - Reclaiming the Operator's Seat from Compulsive Thinking",
+          "link": "/user-manual/thought-loops"
+        },
+        {
+          "text": "Toroids of Power: Divine Circulation Through the Collective Body",
+          "link": "/user-manual/toroids"
+        },
+        {
+          "text": "Natural Operator Capacities - ESP as Innate Perception",
+          "link": "/user-manual/unlocking-esp"
+        },
+        {
+          "text": "Water: The Avatar's Consciousness Conductor",
+          "link": "/user-manual/water-hydration"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "/docs/": [
+    {
+      "text": "Core Framework",
+      "items": [
+        {
+          "text": "About",
+          "link": "/docs/about"
+        },
+        {
+          "text": "Invocation: Anti-Corruption Axiom",
+          "link": "/docs/invocation"
+        },
+        {
+          "text": "Manifesto from the Universe",
+          "link": "/docs/manifesto"
+        },
+        {
+          "text": "The Marvels of Being",
+          "link": "/docs/marvels-of-being"
+        },
+        {
+          "text": "The Hijacking",
+          "link": "/docs/the-hijacking"
+        },
+        {
+          "text": "Ancient Warnings",
+          "link": "/docs/ancient-warnings"
+        },
+        {
+          "text": "The Loop",
+          "link": "/docs/the-loop"
+        },
+        {
+          "text": "Resources",
+          "link": "/docs/resources"
+        },
+        {
+          "text": "Contributing",
+          "link": "/docs/contributing"
+        },
+        {
+          "text": "License",
+          "link": "/docs/license"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: The Marvels of Being
-nav_order: 3
 ---
 
 # The Marvels of Being
@@ -110,7 +108,7 @@ We shall delve into the intricate workings of thought patterns, memory, and perc
 
 The vast spectrum of feelings shall be the focal point of our exploration. We shall navigate through emotions, understanding how they influence your experiences and forge connections with others.
 
-**Explore**: [Practices](/practices/index/) — Techniques for emotional regulation and dis-identification
+**Explore**: [Practices](/practices/) — Techniques for emotional regulation and dis-identification
 
 ### The Conscious and the Subconscious
 
@@ -128,7 +126,7 @@ We shall venture into the captivating world of quantum physics—a realm where p
 
 We shall unlock the secrets hidden in ancient teachings—wisdom that weaves intricate patterns reflecting the very fabric of existence. Through this knowledge passed down through the ages, we shall connect with the timeless truths that resonate across civilizations.
 
-**Read**: [Philosophy](/philosophy/index/) — Gnostic cosmology, Wetiko, Samsara, and perennial wisdom
+**Read**: [Philosophy](/philosophy/) — Gnostic cosmology, Wetiko, Samsara, and perennial wisdom
 
 In every exploration, we shall intertwine the threads of science, spirituality, and ancient wisdom. The tapestry we weave together shall celebrate the marvels of being, embracing the interconnectedness of all things and honoring the myriad perspectives that grace our existence.
 

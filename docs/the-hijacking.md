@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "Part I: The Hijacking"
-nav_order: 3
 ---
 
 ## Part I: The Architecture of the Hijacking

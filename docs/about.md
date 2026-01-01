@@ -1,7 +1,5 @@
 ---
-layout: default
 title: About This Inquiry
-nav_order: 2
 ---
 
 ## About This Inquiry
@@ -131,7 +129,7 @@ See [Contributing Guidelines](/docs/contributing) to participate in this evolvin
 **Explore the framework in depth**:
 
 - [The Archon in the Machine](/docs/the-archon-in-the-machine) — Comprehensive scholarly analysis with 100+ citations
-- [Philosophy](/philosophy/index/) — Gnostic texts, Wetiko, Samsara, and conceptual foundations
-- [Neuroscience](/neuroscience/index/) — DMN research, meditation studies, and mechanisms
-- [Practices](/practices/index/) — Meditation and dis-identification techniques
+- [Philosophy](/philosophy/) — Gnostic texts, Wetiko, Samsara, and conceptual foundations
+- [Neuroscience](/neuroscience/) — DMN research, meditation studies, and mechanisms
+- [Practices](/practices/) — Meditation and dis-identification techniques
 - [Taxonomy & Terminology](/docs/taxonomy) — Cross-tradition translation guide
