@@ -17,12 +17,12 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Manifesto', link: '/docs/manifesto' },
-      { text: 'Practices', link: '/practices/' },
-      { text: 'Philosophy', link: '/philosophy/' },
-      { text: 'Neuroscience', link: '/neuroscience/' },
-      { text: 'Biblical', link: '/biblical/' },
-      { text: 'Examples', link: '/examples/' }
+      { text: 'Manifesto', link: '/docs/manifesto', activeMatch: '/docs/' },
+      { text: 'Practices', link: '/practices/', activeMatch: '/practices/' },
+      { text: 'Philosophy', link: '/philosophy/', activeMatch: '/philosophy/' },
+      { text: 'Neuroscience', link: '/neuroscience/', activeMatch: '/neuroscience/' },
+      { text: 'Biblical', link: '/biblical/', activeMatch: '/biblical/' },
+      { text: 'Examples', link: '/examples/', activeMatch: '/examples/' }
     ],
 
     sidebar,
