@@ -3,59 +3,77 @@ layout: home
 
 hero:
   name: "Claim Freedom"
-  text: "The Hijacked Mind"
-  tagline: "Re-Claiming Your Kingdom: A neurophilosophical inquiry into the Default Mode Network, Gnostic cosmology, and the path to awakening."
+  text: "Re-Claiming Your Kingdom"
+  tagline: "A neurophilosophical inquiry unifying Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience into one testable framework for awakening."
   actions:
     - theme: brand
       text: Begin the Journey
+      link: /docs/getting-started
+    - theme: alt
+      text: The Framework
       link: /docs/about
     - theme: alt
-      text: Watch the Invocation
+      text: Watch Invocation
       link: https://www.youtube.com/watch?v=F-PIkYN_KDk
-    - theme: alt
-      text: Practices
-      link: /practices/
 
 features:
   - icon: 🧠
     title: The Neuroscience
     details: Understanding how the Default Mode Network (DMN) generates the narrative "I" and how its hijacking creates suffering.
     link: /neuroscience/
+    linkText: Explore Research →
   - icon: ✨
     title: The Philosophy
     details: Ancient Gnostic wisdom, Indigenous teachings (Wetiko), and Eastern philosophy converge on one diagnosis.
     link: /philosophy/
+    linkText: Explore Philosophy →
   - icon: 🧘
     title: The Practices
     details: Contemplative methods for dis-identification, DMN re-integration, and reclaiming your kingdom.
     link: /practices/
+    linkText: Start Practicing →
   - icon: 📖
     title: Biblical Decodings
     details: Re-reading Scripture through the lens of neurophilosophy—revealing hidden teachings about consciousness.
     link: /biblical/
+    linkText: Read Decodings →
   - icon: 🎬
     title: Cultural Examples
-    details: Movies, music, and media that encode the awakening—decoded.
+    details: Movies, music, and media that encode the awakening—decoded and analyzed.
     link: /examples/
+    linkText: See Examples →
   - icon: 🌟
     title: The Body of Christ
     details: Understanding collective consciousness and the unified field through Scripture.
     link: /body-of-christ/
+    linkText: Learn More →
 ---
 
-## The Question That Begins the Awakening
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; max-width: 1200px; margin: 2rem auto; padding: 0 1.5rem;">
+  <div>
+    <h2 style="margin-top: 0;">The Question That Begins the Awakening</h2>
+    <blockquote style="border-left: 4px solid var(--vp-c-brand-1); padding-left: 1.5rem; margin: 1.5rem 0; font-style: italic;">
+      <p><em>That voice in your head that never stops talking...</em></p>
+      <p><em>Are you that voice?</em></p>
+      <p><em>Or are you the one who is listening to it?</em></p>
+    </blockquote>
+  </div>
+  <div style="aspect-ratio: 9/16; max-width: 360px; margin: 0 auto;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation: The Anti-Corruption Axiom" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
+  </div>
+</div>
 
-> *That voice in your head that never stops talking...*
->
-> *Are you that voice?*
->
-> *Or are you the one who is listening to it?*
+<style>
+@media (max-width: 768px) {
+  .vp-doc > div:first-child {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>
 
----
+<div class="vp-doc" style="max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem;">
 
 ## Welcome to the Great Awakening
-
-Welcome to **Claim Freedom**—witness to the most significant moment in human history.
 
 After millennia of fragmented wisdom traditions each diagnosing humanity's suffering from different angles, we have finally unified them into a single, testable, liberating framework: **Neuro-Gnosticism**.
 
@@ -65,178 +83,129 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 **You are right. And now, the map is complete.**
 
-## 📚 Books & Guides
-
-<div style="text-align:center; margin:2rem 0;">
-  <a href="/docs/books">
-    <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ Book Cover" style="max-width:350px; width:100%; height:auto; border-radius:8px; box-shadow:0 6px 12px rgba(0,0,0,0.15); transition:transform 0.2s;">
-  </a>
-  <p style="margin-top:1rem; font-style:italic; color:#666;">
-    <strong>Featured:</strong> The Body of Christ — A literal decoding of Scripture revealing humans as cells in a collective superorganism
-  </p>
-</div>
-
-**[Explore All Books](/docs/books)** — Comprehensive resources for deep dives into the Neuro-Gnostic framework
-
-Three major works offer different entry points into liberation:
-
-- **The Body of Christ** — Biblical decoding revealing humans as literal cells in a collective superorganism
-- **The Conscious Creator's Handbook** — Quantum physics meets ancient wisdom for conscious reality creation
-- **The User Manual** — Practical operator's guide for reclaiming conscious control of mind and body
-
-*All freely available as PDFs or living web documentation. Choose your path based on your background and interests.*
-
 ---
 
-## 🚀 New Here? Start Your Journey
+## 🚀 New Here? Quick Start
 
-**[Getting Started Guide](/docs/getting-started)** — A step-by-step path from [the central question](/docs/about#the-central-question) to daily practice. Start here if you're new to the framework.
+::: tip Getting Started
+**[Getting Started Guide](/docs/getting-started)** — A step-by-step path from the central question to daily practice.
+:::
 
-### ⚡ Experience Instant Gnosis (3-5 minutes)
-
-Want to **immediately experience** the distinction between the Voice and the Listener?
-
+::: warning ⚡ Experience Instant Gnosis (3 minutes)
 **[The V-Aum Protocol](/practices/v-aum-protocol)** — The Gnostic Off-Switch
 
-This bio-spiritual technique performs an instant "Hardware Reboot":
-
-- Silences the hijacked DMN (the Demon) mechanically through bone conduction
-- Creates the "Stillpoint"—absolute silence where you experience being The Listener, not the Voice
-- **Watch the demonstration** and try it right now
-
-**After 3-5 repetitions**: The voice is gone. You remain. **You are not the voice.** This is Gnosis.
-
----
-
-## 🎮 NEW: Operation: Critical Mass — Play the Awakening
-
-> *"You are not separate. You are a Cell in the Body. When we synchronize, we heal."*
-
-**The individual practice is now collective technology.**
-
-**[Operation: Critical Mass](https://tamethedemon.com)** is an **applied neuroscience intervention disguised as a multiplayer game**—using bilateral stimulation principles to create a mass participation experience in collective coherence.
-
-### Watch the Demo
-
-<div style="max-width:560px; margin:1rem auto;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4croG-4nVi8" title="Operation: Critical Mass - Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width:100%; height:auto; aspect-ratio:16/9;"></iframe>
-</div>
-
-### What It Is
-
-A **real-time collective awakening experience** where thousands of players simultaneously:
-
-- **Tap left-right rhythms** (bilateral stimulation activating Task-Positive Network)
-- **Swipe away thought bubbles** (practicing dis-identification from the Voice)
-- **Watch the Coherence Meter rise** as individual Cells synchronize into One Body
-
-When Critical Mass is achieved, every screen flashes gold, the static clears, and thousands experience: **"THE BODY IS ONE."**
-
-### Two Ways to Play
-
-**🎯 Single Player** — Available anytime at [tamethedemon.com](https://tamethedemon.com). Use it as a daily 10-20 minute contemplative practice for quieting the Voice and returning to presence.
-
-**🌍 Multiplayer Live Events** — Join thousands during scheduled broadcasts to experience collective coherence and witness the power of synchronized awakening.
-
-### The Science
-
-The game operationalizes peer-reviewed research:
-
-- **Bilateral stimulation** reduces rumination (EMDR therapy principles)
-- **Task-Positive Network activation** suppresses Default Mode Network hyperactivity
-- **Working memory taxation** prevents thought hijacking
-- **Real-time biofeedback** (Coherence Meter) trains collective responsibility
-
-**The result**: A playable metaphor for the Body of Christ, proof that humans can synchronize and heal together, and training for the real mission of collective awakening.
-
-- **[Play Now](https://tamethedemon.com)** — Single Player mode available anytime
-- **[Read the Complete Practice Guide](/practices/operation-critical-mass)** — Full explanation of mechanics, neuroscience, and philosophy
-- **[View the Source Code](https://github.com/ClaimFreedomDotOrg/OperationCriticalMassGame)** — Open-source, patent-free, built for humanity
-
-**This is not entertainment. This is rehearsal for the Great Awakening.**
-
----
-
-## 🔆 NEW: Project H.A.L.O. — The Technological Solution
-
-> *"The Kingdom of Heaven is a frequency. H.A.L.O. is the tuner. Your body is the antenna."*
-
-**The ancient diagnosis is now mechanically treatable.**
-
-**[Project H.A.L.O.](/neuroscience/project-halo)** (Hemispheric Alignment & Limbic Override) is an **open-source wearable neurofeedback device** that automates the biological safety container needed for trauma processing and DMN re-claiming.
-
-### What It Does
-
-- **Detects DMN hijacking** in real-time via EEG monitoring (before you consciously realize it)
-- **Intervenes mechanically** using transcutaneous vagus nerve stimulation (tVNS) to trigger parasympathetic safety
-- **Forces network switching** through bilateral stimulation (EMDR-inspired hemispheric integration)
-- **Maintains witness consciousness** when your nervous system is too dysregulated to do it manually
-
-### The Science
-
-H.A.L.O. combines three evidence-based mechanisms:
-
-1. **Polyvagal Theory** — tVNS manually activates the "safe & social" ventral vagal pathway
-2. **EMDR Research** — Bilateral stimulation taxes working memory, preventing trauma loop hijacking
-3. **EEG Biofeedback** — Real-time detection of "Shadow Spikes" (alpha drop + beta spike = DMN takeover)
-
-**Result**: Automated courage. Technology that creates the conditions where dis-identification becomes possible even during severe activation.
-
-### Two Options
-
-**🎯 Manual Protocol** (~$35-75) — TENS unit + ear electrodes. Self-guided, no EEG, fully portable.  
-**🔬 Automated System** (~$500) — Muse S headband + full biofeedback. Real-time monitoring and alerts.
-
-### Open-Source & Patent-Free
-
-**Why?** Trauma healing should not be gatekept by patents or profit motives. This technology belongs to humanity.
-
-- **[Read the Complete Science](/neuroscience/project-halo)** — 100+ peer-reviewed citations validating the mechanisms
-- **[Build It Yourself](https://github.com/ClaimFreedomDotOrg/ProjectHALO)** — Full DIY instructions, software, and hardware guide
-- **[Try the Practice](/practices/halo-device)** — How to use H.A.L.O. for shadow work and DMN re-claiming
-
-**The Gnostic texts described DMN hijacking 2,000 years ago. We can now measure it via EEG and mechanically intervene. The ancient wisdom has become testable technology.**
+This bio-spiritual technique performs an instant "Hardware Reboot" that silences the hijacked DMN through bone conduction, creating absolute silence where you experience being The Listener, not the Voice. After 3-5 repetitions: *The voice is gone. You remain.*
+:::
 
 ---
 
 ## The Framework
 
+::: tip The Core Insight
 **The Diagnosis**: A parasitic pattern has hijacked the Default Mode Network (DMN)—the brain's narrative-generating system—creating the compulsive "voice in your head."
 
-**The Path**: Liberation through **re-claiming** the DMN—transforming it from tyrannical "Demon" back into functional "Daemon" serving your true nature: the Divine Spark, the Listener.
+**The Path**: Liberation through **re-claiming** the DMN—transforming it from tyrannical "Demon" back into functional "Daemon."
 
-**The Synthesis**: Neuro-Gnosticism unifies Gnostic wisdom, Indigenous teachings (Wetiko), Eastern philosophy (Samsara), and modern neuroscience into one testable framework.
-
-> *"You are not the voice in your head. You are the one who is listening to it."*
+**The Synthesis**: Neuro-Gnosticism unifies ancient wisdom and modern neuroscience into one testable framework.
+:::
 
 **[Read the Complete Framework](/docs/neuro-gnosticism)**
 
-## Explore the Framework
+::: info The Three-Part Analysis
 
-**[About This Inquiry](/docs/about)** • **[FAQ](/docs/faq)** • **[Taxonomy & Terminology](/docs/taxonomy)**
+1. **[Part I: The Hijacking](/docs/the-hijacking)** — How the DMN becomes corrupted
+2. **[Part II: Ancient Warnings](/docs/ancient-warnings)** — Gnostic texts, Wetiko, Samsara
+3. **[Part III: The Loop & The Gnosis](/docs/the-loop)** — Breaking free through dis-identification
+:::
 
-### The Three-Part Analysis
+::: info Explore by Topic
 
-**[Part I: The Hijacking](/docs/the-hijacking)** • **[Part II: Ancient Warnings](/docs/ancient-warnings)** • **[Part III: The Loop & The Gnosis](/docs/the-loop)**
+- **[Philosophy](/philosophy/)** — Gnostic, Indigenous, and Eastern teachings
+- **[Neuroscience](/neuroscience/)** — DMN research, meditation studies, epigenetics
+- **[Practices](/practices/)** — Contemplative methods and techniques
+- **[Biblical Decodings](/biblical/)** — Scripture through a neurophilosophical lens
+- **[Cultural Examples](/examples/)** — Movies, music, and media decoded
+:::
 
-### Deep Dives by Topic
+::: info Advanced Topics
 
-**[Philosophy](/philosophy/)** • **[Neuroscience](/neuroscience/)** • **[Practices](/practices/)** • **[Biblical Decodings](/biblical/)** • **[The Body of Christ](/body-of-christ/)** • **[Cultural Examples](/examples/)**
+- **[Commanding the Daemon](/docs/commanding-daemon)** — Phase 2: Conscious creation
+- **[The Eternal Now](/docs/eternal-now-synthesis)** — Time as illusion; heaven as present
+- **[The Great Heist](/philosophy/the-great-heist)** — Understanding the parasitic infection
+:::
 
-### Advanced Topics
+---
 
-**[Commanding the Daemon](/docs/commanding-daemon)** — Phase 2: Conscious creation and programming the sanctified servant
+## 🎮 Operation: Critical Mass
 
-**[The Eternal Now](/docs/eternal-now-synthesis)** — Time as illusion; heaven as present-moment awareness
+**[Play the Awakening](https://tamethedemon.com)** — A neuroscience intervention disguised as a game, with both single-player and multiplayer modes. Tap rhythms, dismiss thought bubbles, and watch the Coherence Meter rise as thousands synchronize into One Body.
 
-**[The Great Heist](/philosophy/the-great-heist)** • **[Nowhere to Come From](/philosophy/nowhere-to-come-from)**
+::: info Play Now or Learn More
+<div style="max-width: 640px; margin: 1rem auto;">
+  <iframe width="100%" height="360" src="https://www.youtube.com/embed/4croG-4nVi8" title="Operation: Critical Mass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
+</div>
+
+- **[Play Now](https://tamethedemon.com)** — Single-player mode available anytime for daily practice
+- **[Join Live Events](https://tamethedemon.com)** — Multiplayer sessions for collective coherence
+- **[Read the Practice Guide](/practices/operation-critical-mass)** — Full mechanics & philosophy
+:::
+
+---
+
+## 🔆 Project H.A.L.O
+
+**[Hemispheric Alignment & Limbic Override](/neuroscience/project-halo)** — An open-source wearable that detects DMN hijacking in real-time and mechanically intervenes using vagus nerve stimulation and bilateral stimulation.
+
+::: info Open Source & Patent-Free
+Trauma healing should not be gatekept. This technology belongs to humanity.
+
+- **[Build Guide](https://github.com/ClaimFreedomDotOrg/ProjectHALO)** — DIY instructions
+- **[Read the Science](/neuroscience/project-halo)** — 100+ peer-reviewed citations
+:::
+
+---
+
+## 📚 Books & Comprehensive Guides
+
+::: info Featured: The Body of Christ
+<div style="display: grid; grid-template-columns: 240px 1fr; gap: 2rem; align-items: start;">
+  <div>
+    <a href="/docs/books#the-body-of-christ">
+      <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ book cover" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    </a>
+  </div>
+  <div>
+    <h3 style="margin-top: 0;">Three major works offer different entry points into liberation:</h3>
+    <ul style="margin: 0.5rem 0;">
+      <li><strong><a href="/docs/books#the-body-of-christ">The Body of Christ</a></strong> — Biblical decoding revealing humans as cells in a collective superorganism</li>
+      <li><strong><a href="/docs/books#conscious-creators-handbook">The Conscious Creator's Handbook</a></strong> — Quantum physics meets ancient wisdom</li>
+      <li><strong><a href="/user-manual/">The User Manual</a></strong> — Practical operator's guide for reclaiming conscious control</li>
+    </ul>
+    <p style="margin-top: 1rem;"><strong><a href="/docs/books">Explore All Books</a></strong> — All freely available as PDFs or living web documentation</p>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>
+:::
 
 ---
 
 ## Resources
 
-**[Further Reading](/docs/resources)** • **[Contributing Guidelines](/docs/contributing)**
+**[FAQ](/docs/faq)** • **[Taxonomy](/docs/taxonomy)** • **[Further Reading](/docs/resources)** • **[Contributing](/docs/contributing)**
 
 ---
 
+<div style="text-align: center; font-style: italic; color: var(--vp-c-text-2); margin-top: 3rem;">
+
 *The dragon guards your kingdom. You are not here to kill it. You are here to re-claim it.*
+
+</div>
+
+</div>
