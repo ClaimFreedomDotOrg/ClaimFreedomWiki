@@ -17,15 +17,62 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Manifesto', link: '/docs/manifesto', activeMatch: '/docs/' },
-      { text: 'Practices', link: '/practices/', activeMatch: '/practices/' },
-      { text: 'Philosophy', link: '/philosophy/', activeMatch: '/philosophy/' },
-      { text: 'Neuroscience', link: '/neuroscience/', activeMatch: '/neuroscience/' },
-      { text: 'Biblical', link: '/biblical/', activeMatch: '/biblical/' },
-      { text: 'Body of Christ', link: '/body-of-christ/', activeMatch: '/body-of-christ/' },
-      { text: 'Examples', link: '/examples/', activeMatch: '/examples/' },
-      { text: 'User Manual', link: '/user-manual/', activeMatch: '/user-manual/' },
-      { text: 'Sources', link: '/sources/', activeMatch: '/sources/' }
+      { 
+        text: 'Core',
+        items: [
+          { text: 'About', link: '/docs/about' },
+          { text: 'Getting Started', link: '/docs/getting-started' },
+          { text: 'Manifesto', link: '/docs/manifesto' },
+          { text: 'Part I: The Hijacking', link: '/docs/the-hijacking' },
+          { text: 'Part II: Ancient Warnings', link: '/docs/ancient-warnings' },
+          { text: 'Part III: The Loop', link: '/docs/the-loop' },
+          { text: 'Neuro-Gnosticism', link: '/docs/neuro-gnosticism' },
+          { text: 'The Archon in the Machine', link: '/docs/the-archon-in-the-machine' },
+          { text: 'FAQ', link: '/docs/faq' }
+        ]
+      },
+      { 
+        text: 'Framework', 
+        items: [
+          { text: 'Philosophy', link: '/philosophy/' },
+          { text: 'Neuroscience', link: '/neuroscience/' },
+          { text: 'Practices', link: '/practices/' }
+        ]
+      },
+      { 
+        text: 'Guides', 
+        items: [
+          { text: 'Conscious Creators Handbook', link: '/docs/conscious-creators-handbook' },
+          { text: 'Commanding the Daemon', link: '/docs/commanding-daemon' },
+          { text: 'Invocation', link: '/docs/invocation' },
+          { text: 'Invocation (Annotated)', link: '/docs/invocation-annotated' },
+          { text: 'Practice Overview', link: '/docs/practice' },
+          { text: 'Marvels of Being', link: '/docs/marvels-of-being' },
+          { text: 'The Living Biofield', link: '/docs/the-living-biofield' },
+          { text: 'Eternal Now Synthesis', link: '/docs/eternal-now-synthesis' }
+        ]
+      },
+      { 
+        text: 'Biblical', 
+        items: [
+          { text: 'Biblical Decodings', link: '/biblical/' },
+          { text: 'Body of Christ', link: '/body-of-christ/' },
+          { text: 'Gospel of Truth', link: '/biblical/gospel-truth' },
+          { text: 'Gospel of Thomas', link: '/biblical/gospel-thomas' },
+          { text: 'Gospel of Philip', link: '/biblical/gospel-philip' }
+        ]
+      },
+      { 
+        text: 'Resources', 
+        items: [
+          { text: 'Examples', link: '/examples/' },
+          { text: 'User Manual', link: '/user-manual/' },
+          { text: 'Books', link: '/docs/books' },
+          { text: 'Sources', link: '/sources/' },
+          { text: 'Taxonomy', link: '/docs/taxonomy' },
+          { text: 'Contributing', link: '/docs/contributing' }
+        ]
+      }
     ],
 
     sidebar,
