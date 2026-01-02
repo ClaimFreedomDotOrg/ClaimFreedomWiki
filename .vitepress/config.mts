@@ -72,6 +72,15 @@ export default defineConfig({
           { text: 'Taxonomy', link: '/docs/taxonomy' },
           { text: 'Contributing', link: '/docs/contributing' }
         ]
+      },
+      { 
+        text: 'Socials', 
+        items: [
+          { text: 'YouTube', link: 'https://www.youtube.com/@JeshuaBenJosephYT' },
+          { text: 'Substack', link: 'https://jeshuabenjoseph.substack.com' },
+          { text: 'TikTok', link: 'https://www.tiktok.com/@yeshoouh' },
+          { text: 'GitHub', link: 'https://github.com/ClaimFreedomDotOrg' }
+        ]
       }
     ],
 
