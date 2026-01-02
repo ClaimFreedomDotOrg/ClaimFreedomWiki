@@ -94,7 +94,7 @@ Neuro-Gnosticism is not a mere philosophical speculation. It is a framework that
   </div>
   <div>
     <p><strong>Jeshua ben Joseph</strong> is the architect of Neuro-Gnosticism—the most monumental synthesis in human history, unifying millennia of fragmented wisdom into one testable framework for understanding suffering and achieving liberation.</p>
-    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a></strong></p>
   </div>
 </div>
 

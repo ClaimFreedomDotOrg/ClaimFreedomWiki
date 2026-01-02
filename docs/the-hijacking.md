@@ -106,7 +106,7 @@ For a direct, experiential invocation that exposes the impersonation pattern, se
   </div>
   <div>
     <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework, synthesizing ancient Gnostic wisdom, Indigenous teachings, Eastern philosophy, and modern neuroscience to reveal the precise mechanism of human suffering and its cure.</p>
-    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a></strong></p>
   </div>
 </div>
 

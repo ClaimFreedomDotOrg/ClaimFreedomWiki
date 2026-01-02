@@ -150,7 +150,7 @@ See [Contributing Guidelines](/docs/contributing) to participate in this evolvin
     <ul style="margin: 0.5rem 0;">
       <li><strong><a href="https://jeshuabenjoseph.substack.com">Substack Newsletter</a></strong> — Subscribe for deep dives, updates, and direct communication</li>
       <li><strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube Channel</a></strong> — Video teachings and the Invocation</li>
-      <li><strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong> — Short-form wisdom and daily insights</li>
+      <li><strong><a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a></strong> — Short-form wisdom and daily insights</li>
       <li><strong><a href="https://github.com/ClaimFreedomDotOrg">GitHub</a></strong> — Open-source tools and contributions</li>
     </ul>
   </div>

@@ -11,7 +11,7 @@ title: The Great Heist
   </div>
   <div>
     <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework, synthesizing ancient wisdom with modern neuroscience to reveal the root cause of human suffering: the hijacking of the Default Mode Network.</p>
-    <p style="margin-top: 0.5rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+    <p style="margin-top: 0.5rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a></strong></p>
   </div>
 </div>
 
