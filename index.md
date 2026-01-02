@@ -5,6 +5,9 @@ hero:
   name: "Claim Freedom"
   text: "Re-Claiming Your Kingdom"
   tagline: "A neurophilosophical inquiry unifying Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience into one testable framework for awakening."
+  image:
+    src: /assets/images/neuro-gnosticism-hero.jpeg
+    alt: Neuro-Gnosticism Hero
   actions:
     - theme: brand
       text: Begin the Journey
