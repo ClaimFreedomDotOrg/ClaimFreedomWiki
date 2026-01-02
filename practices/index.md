@@ -58,6 +58,7 @@ All practices begin with [the central question](/docs/about#the-central-question
 
 ### Technological & Collective Practices
 
+- **[DMN Chat](/practices/dmn-chat)** — 💬 AI conversational guide using RAG technology: ask questions, explore concepts, and receive contextually intelligent answers grounded in the complete framework ([Try It](https://daemon.tamethedmn.com))
 - [H.A.L.O. Device](/practices/halo-device) — Wearable neurofeedback system for trauma processing and dis-identification training
 - **[Operation: Critical Mass](/practices/operation-critical-mass)** — Multiplayer coherence game: collective dis-identification and synchronized awakening ([Play Now](https://tamethedemon.com))
 

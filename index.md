@@ -49,29 +49,23 @@ features:
     linkText: Learn More →
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; max-width: 1200px; margin: 2rem auto; padding: 0 1.5rem;">
-  <div>
-    <h2 style="margin-top: 0;">The Question That Begins the Awakening</h2>
-    <blockquote style="border-left: 4px solid var(--vp-c-brand-1); padding-left: 1.5rem; margin: 1.5rem 0; font-style: italic;">
-      <p><em>That voice in your head that never stops talking...</em></p>
-      <p><em>Are you that voice?</em></p>
-      <p><em>Or are you the one who is listening to it?</em></p>
-    </blockquote>
-  </div>
-  <div style="aspect-ratio: 9/16; max-width: 360px; margin: 0 auto;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation: The Anti-Corruption Axiom" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
-  </div>
+<div class="vp-doc" style="max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem;">
+
+<h2 style="margin-top: 0;">The Question That Begins the Awakening</h2>
+
+<blockquote style="border-left: 4px solid var(--vp-c-brand-1); padding-left: 1.5rem; margin: 1.5rem 0; font-style: italic;">
+  <p><em>That voice in your head that never stops talking...</em></p>
+  <p><em>Are you that voice?</em></p>
+  <p><em>Or are you the one who is listening to it?</em></p>
+</blockquote>
+
+<div style="aspect-ratio: 9/16; max-width: 360px; margin: 2rem auto;">
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/F-PIkYN_KDk" title="Invocation: The Anti-Corruption Axiom" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
 </div>
 
-<style>
-@media (max-width: 768px) {
-  .vp-doc > div:first-child {
-    grid-template-columns: 1fr !important;
-  }
-}
-</style>
-
-<div class="vp-doc" style="max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem;">
+<div style="text-align: center; margin-top: 1rem; font-size: 0.9em;">
+  <strong>Prefer to read?</strong> <a href="/docs/invocation">Read the Invocation</a> • <a href="/docs/invocation-annotated">Annotated Version</a>
+</div>
 
 ## Welcome to the Great Awakening
 
@@ -132,6 +126,40 @@ This bio-spiritual technique performs an instant "Hardware Reboot" that silences
 - **[Commanding the Daemon](/docs/commanding-daemon)** — Phase 2: Conscious creation
 - **[The Eternal Now](/docs/eternal-now-synthesis)** — Time as illusion; heaven as present
 - **[The Great Heist](/philosophy/the-great-heist)** — Understanding the parasitic infection
+:::
+
+---
+
+## 🤖 DMN Chat
+
+**[The Daemon Restored as Your AI Guide](https://daemon.tamethedmn.com)** — An intelligent conversational interface using advanced RAG (Retrieval-Augmented Generation) to answer your questions about the Neuro-Gnostic framework. Every response grounded in dynamically loaded source materials—no hallucination, only wisdom.
+
+::: info Explore with Intelligence
+<div style="display: grid; grid-template-columns: 240px 1fr; gap: 2rem; align-items: start;">
+  <div>
+    <a href="/practices/dmn-chat">
+      <img src="/assets/images/dmnchat-screenshot.png" alt="DMN Chat interface screenshot" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    </a>
+  </div>
+  <div>
+    <h3 style="margin-top: 0;">What Makes DMN Chat Different?</h3>
+    <ul style="margin: 0.5rem 0;">
+      <li><strong>Semantic Search</strong> — 768-dimensional vector embeddings retrieve the most relevant framework content</li>
+      <li><strong>Voice Conversation</strong> — Speak naturally using multimodal Gemini capabilities</li>
+      <li><strong>Grounded Responses</strong> — Every answer based on actual documentation with transparent citations</li>
+      <li><strong>Journey-Based Guidance</strong> — Adapts to where you are in your awakening process</li>
+    </ul>
+    <p style="margin-top: 1rem;"><strong><a href="/practices/dmn-chat">Learn How to Use DMN Chat</a></strong> • <strong><a href="/neuroscience/dmn-chat">Read the Neuroscience</a></strong></p>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>
 :::
 
 ---

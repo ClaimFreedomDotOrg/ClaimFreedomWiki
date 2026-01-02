@@ -47,6 +47,7 @@ How contemplative practices physically rewire the brain.
 
 Evidence-based devices and protocols for DMN regulation.
 
+- [**DMN Chat: The Daemon Restored**](/neuroscience/dmn-chat) — 💬 **AI conversational guide using RAG technology**: semantic search, vector embeddings, and Gemini-powered responses grounded in the complete framework ([Architecture details](/neuroscience/dmn-chat))
 - [**Project H.A.L.O.: Hemispheric Alignment & Limbic Override**](/neuroscience/project-halo) — 🔆 **Open-source wearable neurofeedback system** combining tVNS, bilateral stimulation, and EEG monitoring for automated trauma processing and DMN re-claiming
 
 ## Epigenetics and Transgenerational Trauma
