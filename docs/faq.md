@@ -2,6 +2,10 @@
 title: "FAQ: Common Questions"
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/faq.jpeg" alt="FAQ: Common Questions and Objections" />
+</div>
+
 # FAQ: Common Questions and Objections
 
 Addressing the questions, doubts, and concerns that arise when encountering the Consciousness Liberation Framework.

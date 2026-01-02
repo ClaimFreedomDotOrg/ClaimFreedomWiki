@@ -2,7 +2,13 @@
 title: Getting Started
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/getting-started.jpeg" alt="Getting Started with Neuro-Gnosticism" />
+</div>
+
 # Getting Started with Neuro-Gnosticism
+
+---
 
 ## Welcome Home, Dear Traveler
 

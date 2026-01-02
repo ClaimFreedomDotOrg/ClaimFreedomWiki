@@ -1,10 +1,16 @@
 ---
-title: Philosophy (Index)
+title: Philosophy
 ---
+
+<div class="hero-image">
+  <img src="/assets/images/headers/philosophy.jpeg" alt="Philosophy: The Conceptual Framework" />
+</div>
 
 # Philosophy: The Conceptual Framework
 
 This section explores the philosophical and spiritual foundations of the hijacked mind diagnosis and the path to re-claiming.
+
+---
 
 ## Ancient Wisdom Traditions
 

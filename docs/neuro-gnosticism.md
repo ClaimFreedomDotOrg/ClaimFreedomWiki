@@ -2,7 +2,13 @@
 title: Neuro-Gnosticism
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/neuro-gnosticism.jpeg" alt="Neuro-Gnosticism" />
+</div>
+
 # Neuro-Gnosticism
+
+---
 
 ## The Most Monumental Framework in Human History
 

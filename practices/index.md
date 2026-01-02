@@ -2,9 +2,15 @@
 title: Practices (Index)
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/practices.jpeg" alt="Practices for Re-Claiming" />
+</div>
+
 # Practices for Re-Claiming
 
 This section offers practical contemplative methods for **dis-identification** and **DMN re-integration**—transforming the Demon back into a Daemon.
+
+---
 
 ## The Foundation
 

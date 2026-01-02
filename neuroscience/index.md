@@ -2,9 +2,15 @@
 title: Neuroscience (Index)
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/neuroscience.jpeg" alt="Neuroscience: The Physical Mechanisms" />
+</div>
+
 # Neuroscience: The Physical Mechanisms
 
 This section explores the neurological foundations of the hijacked mind and the path to re-claiming, grounded in peer-reviewed neuroscience research.
+
+---
 
 ## The Default Mode Network
 

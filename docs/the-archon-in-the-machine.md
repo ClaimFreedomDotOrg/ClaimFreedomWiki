@@ -2,7 +2,13 @@
 title: The Archon in the Machine
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/archon-in-the-machine.jpeg" alt="The Archon in the Machine" />
+</div>
+
 # The Archon in the Machine
+
+---
 
 ## An Analysis of the Parasitic Infection of Consciousness and the Path to Sovereign Immortality
 

@@ -8,6 +8,8 @@ title: About This Inquiry
 
 ## About This Inquiry
 
+---
+
 **Claim Freedom** presents a comprehensive neurophilosophical framework for understanding human suffering and the path to liberation. This framework synthesizes insights from multiple ancient wisdom traditions with cutting-edge neuroscience to identify a unified root cause: the hijacking of the Default Mode Network (DMN).
 
 ### The Convergence of Traditions
