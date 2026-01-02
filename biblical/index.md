@@ -1,8 +1,14 @@
 ---
-title: Biblical Decodings (Index)
+title: Biblical Decodings
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/biblical.jpeg" alt="Biblical Decodings: The Neuro-Gnostic Gospel" />
+</div>
+
 # Biblical Decodings: The Neuro-Gnostic Gospel
+
+---
 
 ## Scripture Through the Lens of Liberation
 

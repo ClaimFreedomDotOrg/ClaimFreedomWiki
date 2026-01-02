@@ -1,5 +1,5 @@
 ---
-title: Neuroscience (Index)
+title: Neuroscience
 ---
 
 <div class="hero-image">

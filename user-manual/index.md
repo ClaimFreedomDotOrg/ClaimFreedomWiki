@@ -1,6 +1,10 @@
 ---
-title: The User Manual (Index)
+title: The User Manual
 ---
+
+<div class="hero-image">
+  <img src="/assets/images/headers/user-manual-2.jpeg" alt="The User Manual: Unlocking the Power of Your Mind and Body" />
+</div>
 
 # The User Manual: Unlocking the Power of Your Mind and Body
 

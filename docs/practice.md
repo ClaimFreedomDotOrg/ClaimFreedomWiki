@@ -2,6 +2,10 @@
 title: Practice Guide
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/practice-guide.jpeg" alt="Practice Guide: Taming the Dragon" />
+</div>
+
 ## Practice Guide: Taming the Dragon
 
 This page offers practical methods for **dis-identification** and **DMN re-integration**—the core practices for re-claiming your hijacked consciousness.

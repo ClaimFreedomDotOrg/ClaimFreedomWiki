@@ -2,7 +2,13 @@
 title: "Commanding the Daemon: Conscious Creation"
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/commanding-the-daemon.jpeg" alt="Commanding the Daemon: Conscious Creation" />
+</div>
+
 # Commanding the Daemon: Conscious Creation
+
+---
 
 ## Phase 2 of the Neuro-Gnostic Path
 

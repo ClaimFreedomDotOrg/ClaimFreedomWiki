@@ -1,5 +1,5 @@
 ---
-title: Practices (Index)
+title: Practices
 ---
 
 <div class="hero-image">

@@ -2,9 +2,15 @@
 title: "The Eschatology of the Eternal Now"
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/eternal-now.jpeg" alt="The Eschatology of the Eternal Now" />
+</div>
+
 # The Eschatology of the Eternal Now
 
-**Subtitle**: Narrative Identity, Atemporal Ontology, and the Metaphysics of Presence
+Narrative Identity, Atemporal Ontology, and the Metaphysics of Presence
+
+---
 
 ## Executive Summary
 

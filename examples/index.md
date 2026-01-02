@@ -1,8 +1,14 @@
 ---
-title: Cultural Examples (Index)
+title: Cultural Examples
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/examples.jpeg" alt="Cultural Examples: The Framework in Stories" />
+</div>
+
 # Cultural Examples: The Framework in Stories
+
+---
 
 ## Neuro-Gnosticism in Art, Film, and Literature
 

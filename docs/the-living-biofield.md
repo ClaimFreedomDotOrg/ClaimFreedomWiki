@@ -2,7 +2,13 @@
 title: The Living Bio-Field
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/biofield.jpeg" alt="The Living Bio-Field" />
+</div>
+
 # The Living Bio-Field
+
+---
 
 ## Reality as a Singular, Self-Experiencing Field
 

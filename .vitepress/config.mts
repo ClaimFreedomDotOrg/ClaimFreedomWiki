@@ -52,6 +52,7 @@ export default defineConfig({
           { text: 'Eternal Now Synthesis', link: '/docs/eternal-now-synthesis' }
         ]
       },
+      { text: 'Culture', link: '/examples/' },
       { 
         text: 'Biblical', 
         items: [
@@ -65,10 +66,8 @@ export default defineConfig({
       { 
         text: 'Resources', 
         items: [
-          { text: 'Examples', link: '/examples/' },
           { text: 'User Manual', link: '/user-manual/' },
           { text: 'Books', link: '/docs/books' },
-          { text: 'Sources', link: '/sources/' },
           { text: 'Taxonomy', link: '/docs/taxonomy' },
           { text: 'Contributing', link: '/docs/contributing' }
         ]
