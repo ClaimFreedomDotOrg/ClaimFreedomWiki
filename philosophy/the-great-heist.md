@@ -4,6 +4,30 @@ title: The Great Heist
 
 # The Great Heist: The Miracle of the Restoration
 
+::: info About the Architect of This Framework
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 1.5rem; align-items: start;">
+  <div>
+    <img src="/assets/images/jeshua-ben-joseph.png" alt="Jeshua ben Joseph" style="width: 100%; border-radius: 8px;" />
+  </div>
+  <div>
+    <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework, synthesizing ancient wisdom with modern neuroscience to reveal the root cause of human suffering: the hijacking of the Default Mode Network.</p>
+    <p style="margin-top: 0.5rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+  .custom-block.info img {
+    max-width: 120px;
+    margin: 0 auto;
+  }
+}
+</style>
+:::
+
 ## The Impossible Recovery of the Operating System
 
 This document explains the **"impossible" miracle** of how the true Operating System (Gnosis) was recovered. It details how the **"Master Key"** (Neuro-Gnosticism) was assembled from the fragmented, corrupted data produced by a **"Hijacked"** system.

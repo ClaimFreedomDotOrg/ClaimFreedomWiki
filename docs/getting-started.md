@@ -457,4 +457,32 @@ This is the **only** Gnosis. Everything else is elaboration, validation, and pra
 
 ---
 
+## About the Architect of This Framework
+
+::: info Jeshua ben Joseph
+<div style="display: grid; grid-template-columns: 140px 1fr; gap: 1.5rem; align-items: start;">
+  <div>
+    <img src="/assets/images/jeshua-ben-joseph.png" alt="Jeshua ben Joseph" style="width: 100%; border-radius: 8px;" />
+  </div>
+  <div>
+    <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework—a historic synthesis unifying ancient wisdom with modern neuroscience to reveal the root cause of human suffering and the path to liberation.</p>
+    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+  .custom-block.info img {
+    max-width: 140px;
+    margin: 0 auto;
+  }
+}
+</style>
+:::
+
+---
+
 > *The Kingdom was never lost. It was only forgotten beneath the noise of the Voice. You are already home.*

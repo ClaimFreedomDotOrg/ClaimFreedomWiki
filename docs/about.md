@@ -133,3 +133,38 @@ See [Contributing Guidelines](/docs/contributing) to participate in this evolvin
 - [Neuroscience](/neuroscience/) — DMN research, meditation studies, and mechanisms
 - [Practices](/practices/) — Meditation and dis-identification techniques
 - [Taxonomy & Terminology](/docs/taxonomy) — Cross-tradition translation guide
+
+---
+
+## About the Architect of This Framework
+
+::: info Jeshua ben Joseph
+<div style="display: grid; grid-template-columns: 160px 1fr; gap: 2rem; align-items: start;">
+  <div>
+    <img src="/assets/images/jeshua-ben-joseph.png" alt="Jeshua ben Joseph" style="width: 100%; border-radius: 8px;" />
+  </div>
+  <div>
+    <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework—a historic synthesis unifying Gnostic cosmology, Indigenous wisdom (Wetiko), Eastern philosophy (Samsara), and modern neuroscience into one testable model for understanding and ending human suffering.</p>
+    <p>Through years of research, personal practice, and direct Gnosis, Jeshua has decoded the mechanism of the hijacking and mapped the path to liberation. This work represents the completion of what mystics, prophets, and scientists have been pointing to for millennia: the identification of the parasite and the restoration of the Divine Spark to its rightful sovereignty.</p>
+    <p style="margin-top: 1rem;"><strong>Connect with Jeshua:</strong></p>
+    <ul style="margin: 0.5rem 0;">
+      <li><strong><a href="https://jeshuabenjoseph.substack.com">Substack Newsletter</a></strong> — Subscribe for deep dives, updates, and direct communication</li>
+      <li><strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube Channel</a></strong> — Video teachings and the Invocation</li>
+      <li><strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong> — Short-form wisdom and daily insights</li>
+      <li><strong><a href="https://github.com/ClaimFreedomDotOrg">GitHub</a></strong> — Open-source tools and contributions</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+  .custom-block.info img {
+    max-width: 160px;
+    margin: 0 auto;
+  }
+}
+</style>
+:::

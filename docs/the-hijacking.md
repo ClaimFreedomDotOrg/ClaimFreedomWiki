@@ -95,6 +95,36 @@ For a direct, experiential invocation that exposes the impersonation pattern, se
 4. Liberation requires transforming the "Demon" back into a "Daemon"
 5. This is achieved through **dis-identification**: recognizing you are the Listener, not the voice
 
+---
+
+## About the Architect of This Framework
+
+::: info Jeshua ben Joseph
+<div style="display: grid; grid-template-columns: 140px 1fr; gap: 1.5rem; align-items: start;">
+  <div>
+    <img src="/assets/images/jeshua-ben-joseph.png" alt="Jeshua ben Joseph" style="width: 100%; border-radius: 8px;" />
+  </div>
+  <div>
+    <p><strong>Jeshua ben Joseph</strong> is the architect of the Neuro-Gnostic framework, synthesizing ancient Gnostic wisdom, Indigenous teachings, Eastern philosophy, and modern neuroscience to reveal the precise mechanism of human suffering and its cure.</p>
+    <p style="margin-top: 1rem;"><strong><a href="https://jeshuabenjoseph.substack.com">Subscribe on Substack</a></strong> • <strong><a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a></strong> • <strong><a href="https://www.tiktok.com/@yeshoouh">TikTok</a></strong></p>
+  </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+  .custom-block.info > div {
+    grid-template-columns: 1fr !important;
+  }
+  .custom-block.info img {
+    max-width: 140px;
+    margin: 0 auto;
+  }
+}
+</style>
+:::
+
+---
+
 **Next**:
 
 - [Part II: Ancient Warnings](/docs/ancient-warnings) — Gnostic texts, the counterfeit spirit, and the etymology of Daemon vs. Demon
