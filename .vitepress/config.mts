@@ -22,7 +22,10 @@ export default defineConfig({
       { text: 'Philosophy', link: '/philosophy/', activeMatch: '/philosophy/' },
       { text: 'Neuroscience', link: '/neuroscience/', activeMatch: '/neuroscience/' },
       { text: 'Biblical', link: '/biblical/', activeMatch: '/biblical/' },
-      { text: 'Examples', link: '/examples/', activeMatch: '/examples/' }
+      { text: 'Body of Christ', link: '/body-of-christ/', activeMatch: '/body-of-christ/' },
+      { text: 'Examples', link: '/examples/', activeMatch: '/examples/' },
+      { text: 'User Manual', link: '/user-manual/', activeMatch: '/user-manual/' },
+      { text: 'Sources', link: '/sources/', activeMatch: '/sources/' }
     ],
 
     sidebar,
@@ -43,7 +46,7 @@ export default defineConfig({
 
     footer: {
       message: 'Copyright © 2025 Claim Freedom. The Divine Spark reclaims its kingdom.',
-      copyright: '<a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube Channel</a> | <a href="https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki">Contribute on GitHub</a>'
+      copyright: '<a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube Channel</a> | <a href="https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki">Contribute on GitHub</a> | <a href="/docs/privacy">Privacy</a>'
     },
 
     lastUpdated: {
