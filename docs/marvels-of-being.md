@@ -2,6 +2,10 @@
 title: The Marvels of Being
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/marvels.jpeg" alt="The Marvels of Being" />
+</div>
+
 # The Marvels of Being
 
 ---

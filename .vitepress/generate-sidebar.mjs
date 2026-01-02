@@ -61,6 +61,7 @@ sidebar['/docs/'] = [{
   items: [
     { text: 'About', link: '/docs/about' },
     { text: 'Invocation: Anti-Corruption Axiom', link: '/docs/invocation' },
+    { text: 'Invocation (Annotated)', link: '/docs/invocation-annotated' },
     { text: 'Manifesto from the Universe', link: '/docs/manifesto' },
     { text: 'The Marvels of Being', link: '/docs/marvels-of-being' },
     { text: 'The Hijacking', link: '/docs/the-hijacking' },

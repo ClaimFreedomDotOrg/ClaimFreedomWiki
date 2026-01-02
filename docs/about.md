@@ -2,6 +2,10 @@
 title: About This Inquiry
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/about.png" alt="About This Inquiry - Neuro-Gnosticism" />
+</div>
+
 ## About This Inquiry
 
 **Claim Freedom** presents a comprehensive neurophilosophical framework for understanding human suffering and the path to liberation. This framework synthesizes insights from multiple ancient wisdom traditions with cutting-edge neuroscience to identify a unified root cause: the hijacking of the Default Mode Network (DMN).

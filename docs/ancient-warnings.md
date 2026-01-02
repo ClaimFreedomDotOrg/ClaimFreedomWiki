@@ -2,7 +2,13 @@
 title: "Part II: Ancient Warnings"
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/warnings.jpeg" alt="Part II: Ancient Warnings" />
+</div>
+
 ## Part II: Ancient Warnings and the Modern Demon
+
+---
 
 ### The Voice in the Head: Gnostic Cosmology and the Indwelling Demon
 

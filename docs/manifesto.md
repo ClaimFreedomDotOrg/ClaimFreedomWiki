@@ -2,6 +2,10 @@
 title: Manifesto from the Universe
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/manifesto.jpeg" alt="Manifesto from the Universe" />
+</div>
+
 # Manifesto from the Universe to the Seeker
 
 ---

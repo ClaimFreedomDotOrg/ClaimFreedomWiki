@@ -2,7 +2,13 @@
 title: "Part I: The Hijacking"
 ---
 
+<div class="hero-image">
+  <img src="/assets/images/headers/hijacking.jpeg" alt="Part I: The Hijacking" />
+</div>
+
 ## Part I: The Architecture of the Hijacking
+
+---
 
 ### The Great Infection: A Diagnosis of the Human Condition
 

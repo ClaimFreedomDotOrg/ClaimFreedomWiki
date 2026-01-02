@@ -2,7 +2,13 @@
 title: "Part III: The Loop & The Gnosis"
 ---
 
-# Part III: The Loop and the Gnosis
+<div class="hero-image">
+  <img src="/assets/images/headers/loop.jpeg" alt="Part III: The Loop & The Gnosis" />
+</div>
+
+## Part III: The Loop and the Gnosis
+
+---
 
 ### The Eternal Loop of Hell: Samsara and the Ruminative DMN
 
