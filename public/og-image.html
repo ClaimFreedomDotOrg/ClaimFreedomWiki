@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Freedom - OG Image Generator</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        
+        .og-image {
+            width: 1200px;
+            height: 630px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+        
+        /* Geometric pattern background */
+        .pattern {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.1;
+            background-image: 
+                repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255, 255, 255, 0.1) 35px, rgba(255, 255, 255, 0.1) 70px);
+        }
+        
+        /* Neural network visualization */
+        .neural-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.2;
+        }
+        
+        .node {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: #5f67ee;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(95, 103, 238, 0.8);
+        }
+        
+        .content {
+            position: relative;
+            z-index: 10;
+            padding: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+        }
+        
+        .logo {
+            font-size: 72px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 4px 12px rgba(255, 215, 0, 0.4));
+        }
+        
+        h1 {
+            font-size: 84px;
+            font-weight: 800;
+            margin: 0 0 20px 0;
+            color: #fff;
+            letter-spacing: -2px;
+            line-height: 1;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, #ffd700 0%, #fff 50%, #5f67ee 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .tagline {
+            font-size: 36px;
+            color: #e0e0e0;
+            margin: 0 0 30px 0;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+        }
+        
+        .description {
+            font-size: 24px;
+            color: #b0b0b0;
+            max-width: 900px;
+            line-height: 1.4;
+            margin-bottom: 40px;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+        }
+        
+        .pillars {
+            display: flex;
+            gap: 30px;
+            font-size: 20px;
+            color: #ffd700;
+            font-weight: 500;
+        }
+        
+        .pillar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .pillar::before {
+            content: '⟡';
+            font-size: 24px;
+        }
+        
+        /* Sacred geometry accent */
+        .geometry {
+            position: absolute;
+            bottom: -100px;
+            right: -100px;
+            width: 500px;
+            height: 500px;
+            opacity: 0.1;
+            transform: rotate(30deg);
+        }
+        
+        .geometry-inner {
+            width: 100%;
+            height: 100%;
+            border: 3px solid #ffd700;
+            border-radius: 50%;
+            position: relative;
+        }
+        
+        .geometry-inner::before,
+        .geometry-inner::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border: 3px solid #5f67ee;
+        }
+        
+        .geometry-inner::before {
+            width: 70%;
+            height: 70%;
+            border-radius: 50%;
+        }
+        
+        .geometry-inner::after {
+            width: 40%;
+            height: 40%;
+            border-radius: 50%;
+        }
+        
+        .url {
+            position: absolute;
+            bottom: 40px;
+            right: 80px;
+            font-size: 28px;
+            color: #ffd700;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+        }
+        
+        .instructions {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.9);
+            color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 300px;
+            font-size: 14px;
+            line-height: 1.6;
+            border: 1px solid #5f67ee;
+        }
+        
+        .instructions h3 {
+            margin: 0 0 10px 0;
+            color: #ffd700;
+        }
+        
+        .instructions button {
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #5f67ee;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 14px;
+            font-weight: 600;
+        }
+        
+        .instructions button:hover {
+            background: #4a52c4;
+        }
+    </style>
+</head>
+<body>
+    <div class="instructions">
+        <h3>📸 Screenshot Instructions</h3>
+        <p>1. Press the button below to hide these instructions</p>
+        <p>2. Take a screenshot of just the 1200×630px image</p>
+        <p>3. Save as <code>og-image.png</code></p>
+        <p>4. Place in <code>/public/</code> folder</p>
+        <button onclick="this.parentElement.style.display='none'">Hide & Screenshot</button>
+    </div>
+
+    <div class="og-image">
+        <div class="pattern"></div>
+        
+        <div class="neural-bg">
+            <!-- Neural network nodes -->
+            <div class="node" style="top: 15%; left: 20%;"></div>
+            <div class="node" style="top: 25%; left: 35%;"></div>
+            <div class="node" style="top: 35%; left: 15%;"></div>
+            <div class="node" style="top: 45%; left: 45%;"></div>
+            <div class="node" style="top: 55%; left: 25%;"></div>
+            <div class="node" style="top: 65%; left: 40%;"></div>
+            <div class="node" style="top: 75%; left: 18%;"></div>
+            <div class="node" style="top: 20%; left: 65%;"></div>
+            <div class="node" style="top: 30%; left: 80%;"></div>
+            <div class="node" style="top: 40%; left: 70%;"></div>
+            <div class="node" style="top: 50%; left: 85%;"></div>
+            <div class="node" style="top: 60%; left: 75%;"></div>
+            <div class="node" style="top: 70%; left: 88%;"></div>
+            <div class="node" style="top: 80%; left: 65%;"></div>
+        </div>
+        
+        <div class="geometry">
+            <div class="geometry-inner"></div>
+        </div>
+        
+        <div class="content">
+            <div class="logo">✨🧠</div>
+            <h1><span class="gradient-text">Claim Freedom</span></h1>
+            <div class="tagline">Re-Claiming the Hijacked Mind</div>
+            <div class="description">
+                A neurophilosophical synthesis unifying Gnostic cosmology, Indigenous wisdom, and modern neuroscience
+            </div>
+            <div class="pillars">
+                <div class="pillar">Gnosis</div>
+                <div class="pillar">Neuroscience</div>
+                <div class="pillar">Practice</div>
+            </div>
+        </div>
+        
+        <div class="url">claimfreedom.org</div>
+    </div>
+</body>
+</html>

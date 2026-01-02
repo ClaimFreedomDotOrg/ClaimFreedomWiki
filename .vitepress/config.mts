@@ -118,10 +118,44 @@ export default defineConfig({
 
   // Head configuration for meta tags, analytics, etc.
   head: [
+    // Theme and viewport
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    
+    // SEO Meta Tags
+    ['meta', { name: 'author', content: 'Claim Freedom' }],
+    ['meta', { name: 'keywords', content: 'DMN, Default Mode Network, Gnosticism, neuroscience, meditation, awakening, consciousness, Wetiko, Samsara, spiritual practice, neurophilosophy, ego, Divine Spark, contemplative practice' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['link', { rel: 'canonical', href: 'https://claimfreedom.org/' }],
+    
+    // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Claim Freedom' }],
-    ['meta', { property: 'og:image', content: 'https://claimfreedom.org/og-image.png' }]
+    ['meta', { property: 'og:title', content: 'Claim Freedom | Re-Claiming the Hijacked Mind' }],
+    ['meta', { property: 'og:description', content: 'A neurophilosophical inquiry unifying Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience into one testable framework for awakening from the parasitic loop of suffering.' }],
+    ['meta', { property: 'og:url', content: 'https://claimfreedom.org/' }],
+    ['meta', { property: 'og:image', content: 'https://claimfreedom.org/og-image.png' }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { property: 'og:image:alt', content: 'Claim Freedom - Re-claiming the Hijacked Mind' }],
+    ['meta', { property: 'og:locale', content: 'en_US' }],
+    
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Claim Freedom | Re-Claiming the Hijacked Mind' }],
+    ['meta', { name: 'twitter:description', content: 'A neurophilosophical inquiry unifying Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience into one testable framework for awakening.' }],
+    ['meta', { name: 'twitter:image', content: 'https://claimfreedom.org/og-image.png' }],
+    ['meta', { name: 'twitter:image:alt', content: 'Claim Freedom - Re-claiming the Hijacked Mind' }],
+    
+    // Additional Meta
+    ['meta', { name: 'language', content: 'English' }],
+    ['meta', { name: 'revisit-after', content: '7 days' }],
+    ['meta', { name: 'distribution', content: 'global' }],
+    
+    // Favicon (if you add one)
+    // ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    // ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    // ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }]
   ],
 
   // Site metadata

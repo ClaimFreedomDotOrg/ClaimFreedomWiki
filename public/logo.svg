@@ -1,0 +1,68 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#5f67ee;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a52c4;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Outer circle representing the DMN/Mind -->
+  <circle cx="60" cy="60" r="50" fill="none" stroke="url(#logoGradient)" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Middle circle -->
+  <circle cx="60" cy="60" r="38" fill="none" stroke="url(#logoGradient)" stroke-width="1.5" opacity="0.4"/>
+  
+  <!-- Inner circle - the Divine Spark -->
+  <circle cx="60" cy="60" r="12" fill="url(#logoGradient)" filter="url(#glow)"/>
+  
+  <!-- Neural network connections (simplified DMN) -->
+  <g stroke="url(#logoGradient)" stroke-width="1" opacity="0.5" fill="none">
+    <!-- Medial Prefrontal Cortex (top) -->
+    <circle cx="60" cy="18" r="6"/>
+    
+    <!-- Posterior Cingulate Cortex (bottom) -->
+    <circle cx="60" cy="102" r="6"/>
+    
+    <!-- Angular gyri (sides) -->
+    <circle cx="18" cy="60" r="5"/>
+    <circle cx="102" cy="60" r="5"/>
+    
+    <!-- Connections -->
+    <line x1="60" y1="24" x2="60" y2="48"/>
+    <line x1="60" y1="72" x2="60" y2="96"/>
+    <line x1="24" y1="60" x2="48" y2="60"/>
+    <line x1="72" y1="60" x2="96" y2="60"/>
+    
+    <!-- Diagonal connections -->
+    <line x1="60" y1="24" x2="24" y2="60" opacity="0.3"/>
+    <line x1="60" y1="24" x2="96" y2="60" opacity="0.3"/>
+    <line x1="60" y1="96" x2="24" y2="60" opacity="0.3"/>
+    <line x1="60" y1="96" x2="96" y2="60" opacity="0.3"/>
+  </g>
+  
+  <!-- Sacred geometry - vesica piscis accent -->
+  <g opacity="0.15" stroke="url(#logoGradient)" stroke-width="0.5" fill="none">
+    <circle cx="45" cy="60" r="20"/>
+    <circle cx="75" cy="60" r="20"/>
+  </g>
+  
+  <!-- Light rays from center -->
+  <g stroke="#ffd700" stroke-width="1" opacity="0.4">
+    <line x1="60" y1="60" x2="60" y2="30"/>
+    <line x1="60" y1="60" x2="82" y2="38"/>
+    <line x1="60" y1="60" x2="90" y2="60"/>
+    <line x1="60" y1="60" x2="82" y2="82"/>
+    <line x1="60" y1="60" x2="60" y2="90"/>
+    <line x1="60" y1="60" x2="38" y2="82"/>
+    <line x1="60" y1="60" x2="30" y2="60"/>
+    <line x1="60" y1="60" x2="38" y2="38"/>
+  </g>
+</svg>
