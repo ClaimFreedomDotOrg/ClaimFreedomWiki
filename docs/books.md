@@ -19,7 +19,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 ### 1. The Body of Christ: A Literal Decoding of Ancient Wisdom
 
 <div style="text-align:center; margin:1.5rem 0;">
-  <a href="/assets/books/the-body-of-christ-v1.2.pdf" title="Download The Body of Christ PDF">
+  <a href="/books/the-body-of-christ-v1.2.pdf" title="Download The Body of Christ PDF">
     <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ Book Cover" style="max-width:300px; width:100%; height:auto; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition:transform 0.2s; cursor:pointer;">
   </a>
 </div>
@@ -27,7 +27,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Version:** 1.2.0
 
-**[Download PDF](/assets/books/the-body-of-christ-v1.2.pdf)** | **[Read Documentation](/body-of-christ/)**
+**[Download PDF](/books/the-body-of-christ-v1.2.pdf)** | **[Read Documentation](/body-of-christ/)**
 
 #### Core Thesis
 
@@ -54,7 +54,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 
-**[Download PDF](/assets/books/the-conscious-creators-handbook.pdf)** | **[Read Overview](/docs/conscious-creators-handbook)**
+**[Download PDF](/books/the-conscious-creators-handbook.pdf)** | **[Read Overview](/docs/conscious-creators-handbook)**
 
 #### Core Thesis
 
@@ -112,26 +112,26 @@ You are NOT the avatar (body-mind). You are the **OPERATOR** of the avatar. This
 ### New to the Framework?
 
 1. **Start with:** [The User Manual](/user-manual/) — Accessible introduction to operator/avatar distinction and practical techniques
-2. **Then read:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Understand your creative power and reality mechanics
-3. **Deep dive:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Biblical validation and collective consciousness understanding
+2. **Then read:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Understand your creative power and reality mechanics
+3. **Deep dive:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Biblical validation and collective consciousness understanding
 
 ### Biblical Student or Christian Background?
 
-1. **Start with:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Decode Scripture through the Neuro-Gnostic lens
+1. **Start with:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Decode Scripture through the Neuro-Gnostic lens
 2. **Then read:** [The User Manual](/user-manual/) — Practical application of biblical wisdom
-3. **Expand with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Quantum foundations of "faith moves mountains"
+3. **Expand with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Quantum foundations of "faith moves mountains"
 
 ### Neuroscience or Psychology Background?
 
-1. **Start with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Observer Effect, consciousness-created reality
-2. **Then read:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — DMN hijacking, cellular intelligence, systems biology
+1. **Start with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Observer Effect, consciousness-created reality
+2. **Then read:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — DMN hijacking, cellular intelligence, systems biology
 3. **Practice with:** [The User Manual](/user-manual/) — Neuroplasticity, brainwave states, epigenetics in action
 
 ### Systems Thinker or Collective Intelligence Focus?
 
-1. **Start with:** [The Body of Christ](/assets/books/the-body-of-christ-v1.2.pdf) — Humans as cells, superorganism mechanics, field coherence
+1. **Start with:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Humans as cells, superorganism mechanics, field coherence
 2. **Then read:** [The User Manual](/user-manual/) — Individual optimization serving collective function
-3. **Expand with:** [The Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) — Co-creation and respecting free will
+3. **Expand with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Co-creation and respecting free will
 
 ---
 

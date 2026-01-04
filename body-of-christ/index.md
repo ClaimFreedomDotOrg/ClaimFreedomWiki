@@ -14,7 +14,7 @@ title: The Body of Christ (Index)
 
 **The Body of Christ: A Literal Decoding of Ancient Wisdom** by Jeshua ben Joseph (Travis Lee Rowland)
 
-**[Download the Full Book (PDF)](/assets/books/the-body-of-christ-v1.2.pdf)** — Version 1.2.0
+**[Download the Full Book (PDF)](/books/the-body-of-christ-v1.2.pdf)** — Version 1.2.0
 
 This comprehensive book decodes biblical wisdom through the Neuro-Gnostic framework, revealing that Scripture was always describing literal biological and consciousness mechanics. Includes the cellular foundation, hijacking diagnosis, biblical decoding, and practical application for living as a conscious cell in the awakening Body of Christ.
 

@@ -140,7 +140,7 @@ This page provides references for deeper exploration of the neurophilosophical f
 
 **Core Texts**:
 
-- **[The Conscious Creator's Handbook](/docs/conscious-creators-handbook)** by Jeshua B. Joseph — Complete framework synthesizing quantum physics, ancient wisdom, and practical manifestation techniques ([PDF Download](/assets/books/the-conscious-creators-handbook.pdf))
+- **[The Conscious Creator's Handbook](/docs/conscious-creators-handbook)** by Jeshua B. Joseph — Complete framework synthesizing quantum physics, ancient wisdom, and practical manifestation techniques ([PDF Download](/books/the-conscious-creators-handbook.pdf))
 
 **Reality as Mental Projection**:
 
@@ -236,7 +236,7 @@ This page provides references for deeper exploration of the neurophilosophical f
 **Official Content**:
 
 - **[ClaimFreedom YouTube Channel](https://www.youtube.com/@JeshuaBenJosephYT)** — Regular videos on the DMN hijacking, dis-identification practices, Gnostic insights, and liberation
-- **[The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** — Free download of the complete book
+- **[The Conscious Creator's Handbook (PDF)](/books/the-conscious-creators-handbook.pdf)** — Free download of the complete book
 - **[Getting Started Guide](/docs/getting-started)** — Step-by-step path for newcomers
 - **[Taxonomy & Terminology](/docs/taxonomy)** — Cross-tradition translation guide
 

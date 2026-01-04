@@ -8,7 +8,7 @@ title: The Conscious Creator's Handbook
 
 **Author**: Jeshua B. Joseph (born Travis Lee Rowland)
 
-**[Download the Full Book (PDF)](/assets/books/the-conscious-creators-handbook.pdf)**
+**[Download the Full Book (PDF)](/books/the-conscious-creators-handbook.pdf)**
 
 ---
 
@@ -341,7 +341,7 @@ These frameworks are complementary. Neuro-Gnosticism provides the diagnostic cla
 
 ## Download the Book
 
-**[Download The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)**
+**[Download The Conscious Creator's Handbook (PDF)](/books/the-conscious-creators-handbook.pdf)**
 
 ## Further Exploration
 

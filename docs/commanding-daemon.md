@@ -143,7 +143,7 @@ A Well-Formed Command must have two components:
 
 ## The Programming Toolkit: How to Issue Commands
 
-Issuing a "Command" is the act of **programming the subconscious** (Daemon). The [Conscious Creator's Handbook](/assets/books/the-conscious-creators-handbook.pdf) provides the specific tools for how to format and deliver these commands.
+Issuing a "Command" is the act of **programming the subconscious** (Daemon). The [Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) provides the specific tools for how to format and deliver these commands.
 
 ### 1. Affirmations (The Language of the Command)
 
@@ -216,7 +216,7 @@ Over time, this "fake it till you make it" programming becomes your **new defaul
 
 ### Read the Source Material
 
-**[The Conscious Creator's Handbook (PDF)](/assets/books/the-conscious-creators-handbook.pdf)** — Comprehensive guide to conscious reality creation
+**[The Conscious Creator's Handbook (PDF)](/books/the-conscious-creators-handbook.pdf)** — Comprehensive guide to conscious reality creation
 
 ---
 
