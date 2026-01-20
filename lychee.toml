@@ -6,7 +6,7 @@
 exclude_path = ["node_modules"]
 
 # Base URL for resolving relative links
-base = "https://claimfreedom.org"
+base_url = "https://claimfreedom.org"
 
 # Remap absolute paths starting with / to full URLs
 remap = ['^/(.*)$ https://claimfreedom.org/$1']
@@ -20,18 +20,18 @@ scheme = ["http", "https"]
 timeout = 20
 
 # Retries with backoff
-retries = 2
+max_retries = 2
 retry_wait_time = 2
 
 # Exclusions (domains or patterns known to be flaky or blocked by bots)
-exclude_mail = true
+
 
 # Only check internal claimfreedom.org links
 include = ['claimfreedom\.org']
 
 # Cache results between runs
 cache = true
-cache_path = ".lycheecache"
+
 
 # Output
 format = "markdown"
