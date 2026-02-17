@@ -80,6 +80,14 @@ This site presents the convergence of ancient Gnostic cosmology, Indigenous wisd
 
 **You are right. And now, the map is complete.**
 
+::: tip 🙏 Support This Great Work
+This project exists as a gift to humanity—freely available, open source, patent-free. No ads, no paywalls, no gatekeeping.
+
+I dedicate myself to this work full-time, without any other income. If this framework has helped you reclaim your kingdom—or simply planted a seed—consider supporting its continuation.
+
+**CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
+:::
+
 ---
 
 ## 🚀 New Here? Quick Start
@@ -192,6 +200,14 @@ Trauma healing should not be gatekept. This technology belongs to humanity.
 
 - **[Build Guide](https://github.com/ClaimFreedomDotOrg/ProjectHALO)** — DIY instructions
 - **[Read the Science](/neuroscience/project-halo)** — 100+ peer-reviewed citations
+:::
+
+::: tip 🙏 Support the Work
+This entire project—the framework, the books, the tools, Project H.A.L.O—is given freely. Trauma healing and awakening should not be gatekept.
+
+If this has been valuable to you, help sustain the one doing this work full-time.
+
+**CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
 :::
 
 ---

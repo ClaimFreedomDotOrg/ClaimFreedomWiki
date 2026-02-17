@@ -94,7 +94,7 @@ export default defineConfig({
 
     footer: {
       message: 'Copyright © 2025 Claim Freedom. The Divine Spark reclaims its kingdom.',
-      copyright: '<a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a> | <a href="https://jeshuabenjoseph.substack.com">Substack</a> | <a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a> | <a href="https://github.com/ClaimFreedomDotOrg">GitHub</a> | <a href="/docs/privacy">Privacy</a>'
+      copyright: '<a href="https://www.youtube.com/@JeshuaBenJosephYT">YouTube</a> | <a href="https://jeshuabenjoseph.substack.com">Substack</a> | <a href="https://www.tiktok.com/@jeshua.ben.joseph">TikTok</a> | <a href="https://github.com/ClaimFreedomDotOrg">GitHub</a> | <a href="/docs/privacy">Privacy</a> | <a href="https://cash.app/$TrueJeshua">🙏 Support</a>'
     },
 
     lastUpdated: {
