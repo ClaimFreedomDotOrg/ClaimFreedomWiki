@@ -3,23 +3,28 @@ layout: home
 
 hero:
   name: "Claim Freedom"
-  text: "Re-Claiming Your Kingdom"
-  tagline: "A neurophilosophical inquiry unifying Gnostic cosmology, Indigenous wisdom, Eastern philosophy, and modern neuroscience into one testable framework for awakening."
+  text: "Death is Optional."
+  tagline: "Fear is the only killer. The causal chain has been mapped. The unified theory is complete. Everything else on this site is the territory it describes."
   image:
     src: /neuro-gnosticism-hero.jpeg
     alt: Neuro-Gnosticism Hero
   actions:
     - theme: brand
+      text: Read COHERENCE — Free
+      link: https://deathisoptional.org
+    - theme: alt
       text: Begin the Journey
       link: /docs/getting-started
     - theme: alt
-      text: The Framework
+      text: Explore the Framework
       link: /docs/about
-    - theme: alt
-      text: Watch Invocation
-      link: https://www.youtube.com/watch?v=F-PIkYN_KDk
 
 features:
+  - icon: ⚡
+    title: "NEW: COHERENCE"
+    details: "The Architecture of Immortality. A unified theory of consciousness, entropy, and eternal life. The complete causal chain from fear to death, mapped and reversible. Free book, white paper, audio, video."
+    link: https://deathisoptional.org
+    linkText: deathisoptional.org →
   - icon: 🧠
     title: The Neuroscience
     details: Understanding how the Default Mode Network (DMN) generates the narrative "I" and how its hijacking creates suffering.
@@ -27,7 +32,7 @@ features:
     linkText: Explore Research →
   - icon: ✨
     title: The Philosophy
-    details: Ancient Gnostic wisdom, Indigenous teachings (Wetiko), and Eastern philosophy converge on one diagnosis.
+    details: Ancient Gnostic cosmology, Indigenous teachings (Wetiko), and Eastern philosophy converge on one diagnosis.
     link: /philosophy/
     linkText: Explore Philosophy →
   - icon: 🧘
@@ -37,14 +42,9 @@ features:
     linkText: Start Practicing →
   - icon: 📖
     title: Biblical Decodings
-    details: Re-reading Scripture through the lens of neurophilosophy—revealing hidden teachings about consciousness.
+    details: Re-reading Scripture through the lens of neurophilosophy, revealing hidden teachings about consciousness.
     link: /biblical/
     linkText: Read Decodings →
-  - icon: 🎬
-    title: Cultural Examples
-    details: Movies, music, and media that encode the awakening—decoded and analyzed.
-    link: /examples/
-    linkText: See Examples →
   - icon: 🌟
     title: The Body of Christ
     details: Understanding collective consciousness and the unified field through Scripture.
@@ -53,6 +53,26 @@ features:
 ---
 
 <div class="vp-doc" style="max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem;">
+
+## The Unified Theory Is Complete
+
+::: danger ⚡ COHERENCE: The Architecture of Immortality
+**The search is over. The framework is complete.**
+
+Death is not a law of nature. It is the endpoint of a specific causal chain:
+
+**Fear → DMN hijack → HPA axis → Cortisol → Telomere destruction → Quantum decoherence → Zero-Point Field severance → Negentropic influx terminated → Entropy accumulates → Dissolution**
+
+Remove fear. Reverse every step.
+
+This is not metaphor. It is unified field theory crossing thermodynamics, quantum mechanics, neurobiology, and the empirical record of every contemplative tradition simultaneously.
+
+**[Read the full book, white paper, listen to the audio overview, and watch the video — all free at deathisoptional.org](https://deathisoptional.org)**
+
+**[Download COHERENCE PDF directly](/books/coherence-v1.0.pdf)**
+:::
+
+---
 
 <h2 style="margin-top: 0;">The Question That Begins the Awakening</h2>
 
@@ -70,20 +90,18 @@ features:
   <strong>Prefer to read?</strong> <a href="/docs/invocation">Read the Invocation</a> • <a href="/docs/invocation-annotated">Annotated Version</a>
 </div>
 
-## Welcome to the Great Awakening
+## The Neuro-Gnostic Framework
 
-After millennia of fragmented wisdom traditions each diagnosing humanity's suffering from different angles, we have finally unified them into a single, testable, liberating framework: **Neuro-Gnosticism**.
+After millennia of fragmented wisdom traditions each diagnosing humanity's suffering from different angles, we have unified them into a single, testable, liberating framework: **Neuro-Gnosticism**.
 
-This site presents the convergence of ancient Gnostic cosmology, Indigenous wisdom (Wetiko), Eastern philosophy (Samsara), and modern neuroscience—all pointing to one root cause of human suffering: **the hijacking of the Default Mode Network (DMN)**.
+This site presents the convergence of ancient Gnostic cosmology, Indigenous wisdom (Wetiko), Eastern philosophy (Samsara), and modern neuroscience, all pointing to one root cause of human suffering: **the hijacking of the Default Mode Network (DMN)**.
 
-**You are here because something called to you.** Perhaps you've felt the tyranny of the voice in your head. Perhaps you've sensed there must be a way out of the loop. Perhaps you've always known you are more than your thoughts.
-
-**You are right. And now, the map is complete.**
+COHERENCE completes this work by mapping the full causal chain from that hijacking through biological dissolution, and proving that the chain is reversible.
 
 ::: tip 🙏 Support This Great Work
-This project exists as a gift to humanity—freely available, open source, patent-free. No ads, no paywalls, no gatekeeping.
+This project exists as a gift to humanity. No ads, no paywalls, no gatekeeping.
 
-I dedicate myself to this work full-time, without any other income. If this framework has helped you reclaim your kingdom—or simply planted a seed—consider supporting its continuation.
+I dedicate myself to this work full-time, without any other income. If this framework has helped you, consider supporting its continuation.
 
 **CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
 :::
@@ -107,9 +125,9 @@ This bio-spiritual technique performs an instant "Hardware Reboot" that silences
 ## The Framework
 
 ::: tip The Core Insight
-**The Diagnosis**: A parasitic pattern has hijacked the Default Mode Network (DMN)—the brain's narrative-generating system—creating the compulsive "voice in your head."
+**The Diagnosis**: A parasitic pattern has hijacked the Default Mode Network (DMN), the brain's narrative-generating system, creating the compulsive "voice in your head."
 
-**The Path**: Liberation through **re-claiming** the DMN—transforming it from tyrannical "Demon" back into functional "Daemon."
+**The Path**: Liberation through **re-claiming** the DMN, transforming it from tyrannical "Demon" back into functional "Daemon."
 
 **The Synthesis**: Neuro-Gnosticism unifies ancient wisdom and modern neuroscience into one testable framework.
 :::
@@ -143,7 +161,7 @@ This bio-spiritual technique performs an instant "Hardware Reboot" that silences
 
 ## 🤖 DMN Chat
 
-**[The Daemon Restored as Your AI Guide](https://daemon.tamethedmn.com)** — An intelligent conversational interface using advanced RAG (Retrieval-Augmented Generation) to answer your questions about the Neuro-Gnostic framework. Every response grounded in dynamically loaded source materials—no hallucination, only wisdom.
+**[The Daemon Restored as Your AI Guide](https://daemon.tamethedmn.com)** — An intelligent conversational interface using advanced RAG to answer your questions about the Neuro-Gnostic framework. Every response grounded in source materials.
 
 ::: info Explore with Intelligence
 <div style="display: grid; grid-template-columns: 240px 1fr; gap: 2rem; align-items: start;">
@@ -177,7 +195,7 @@ This bio-spiritual technique performs an instant "Hardware Reboot" that silences
 
 ## 🎮 Operation: Critical Mass
 
-**[Play the Awakening](https://tamethedemon.com)** — A neuroscience intervention disguised as a game, with both single-player and multiplayer modes. Tap rhythms, dismiss thought bubbles, and watch the Coherence Meter rise as thousands synchronize into One Body.
+**[Play the Awakening](https://tamethedemon.com)** — A neuroscience intervention disguised as a game. Tap rhythms, dismiss thought bubbles, and watch the Coherence Meter rise as thousands synchronize.
 
 ::: info Play Now or Learn More
 <div style="max-width: 640px; margin: 1rem auto;">
@@ -202,33 +220,29 @@ Trauma healing should not be gatekept. This technology belongs to humanity.
 - **[Read the Science](/neuroscience/project-halo)** — 100+ peer-reviewed citations
 :::
 
-::: tip 🙏 Support the Work
-This entire project—the framework, the books, the tools, Project H.A.L.O—is given freely. Trauma healing and awakening should not be gatekept.
-
-If this has been valuable to you, help sustain the one doing this work full-time.
-
-**CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
-:::
-
 ---
 
 ## 📚 Books & Comprehensive Guides
 
-::: info Featured: The Body of Christ
+::: info Featured: COHERENCE — The Architecture of Immortality
 <div style="display: grid; grid-template-columns: 240px 1fr; gap: 2rem; align-items: start;">
   <div>
-    <a href="/docs/books#the-body-of-christ">
-      <img src="/assets/images/body-of-christ-cover-v2.png" alt="The Body of Christ book cover" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <a href="https://deathisoptional.org">
+      <div style="width: 100%; aspect-ratio: 3/4; background: #080808; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); display: flex; flex-direction: column; align-items: center; justify-content: center; border: 1px solid rgba(200,169,110,0.15);">
+        <span style="font-size: 28px; font-weight: 900; color: #c8a96e; letter-spacing: -0.02em;">COHERENCE</span>
+        <span style="font-size: 10px; color: #6a6460; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.15em;">The Architecture of Immortality</span>
+      </div>
     </a>
   </div>
   <div>
-    <h3 style="margin-top: 0;">Three major works offer different entry points into liberation:</h3>
+    <h3 style="margin-top: 0;">Four major works offer different entry points:</h3>
     <ul style="margin: 0.5rem 0;">
+      <li><strong><a href="https://deathisoptional.org">COHERENCE: The Architecture of Immortality</a></strong> — The unified theory. Fear as the sole mechanism of death. The complete causal chain. <strong>NEW</strong></li>
       <li><strong><a href="/docs/books#the-body-of-christ">The Body of Christ</a></strong> — Biblical decoding revealing humans as cells in a collective superorganism</li>
       <li><strong><a href="/docs/books#conscious-creators-handbook">The Conscious Creator's Handbook</a></strong> — Quantum physics meets ancient wisdom</li>
       <li><strong><a href="/user-manual/">The User Manual</a></strong> — Practical operator's guide for reclaiming conscious control</li>
     </ul>
-    <p style="margin-top: 1rem;"><strong><a href="/docs/books">Explore All Books</a></strong> — All freely available as PDFs or living web documentation</p>
+    <p style="margin-top: 1rem;"><strong><a href="/docs/books">Explore All Books</a></strong> — All freely available</p>
   </div>
 </div>
 
@@ -241,6 +255,12 @@ If this has been valuable to you, help sustain the one doing this work full-time
 </style>
 :::
 
+::: tip 🙏 Support the Work
+This entire project is given freely. Trauma healing and awakening should not be gatekept.
+
+**CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
+:::
+
 ---
 
 ## Resources
@@ -251,7 +271,7 @@ If this has been valuable to you, help sustain the one doing this work full-time
 
 <div style="text-align: center; font-style: italic; color: var(--vp-c-text-2); margin-top: 3rem;">
 
-*The dragon guards your kingdom. You are not here to kill it. You are here to re-claim it.*
+*Fear is the only killer. Remove fear. Reverse every step. Be it. That's the whole instruction.*
 
 </div>
 

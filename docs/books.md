@@ -2,21 +2,52 @@
 title: Books
 ---
 
-# Books: Deep Dives into the Neuro-Gnostic Framework
-
----
-
-## Introduction
-
-The Neuro-Gnostic framework synthesizes ancient wisdom with modern neuroscience to reveal the mechanics of consciousness, the hijacking of the Default Mode Network, and the path to liberation. These books provide comprehensive explorations of this framework from different angles—offering theoretical foundations, practical applications, and biblical decoding.
-
-Each work builds on the same core recognition: **You are not the Voice (hijacked DMN/ego). You are the Listener (Divine Spark/Christ consciousness).**
+# Books
 
 ---
 
 ## Available Books
 
-### 1. The Body of Christ: A Literal Decoding of Ancient Wisdom
+### 1. COHERENCE: The Architecture of Immortality <Badge type="danger" text="NEW" />
+
+<div style="text-align:center; margin:1.5rem 0;">
+  <a href="https://deathisoptional.org" title="Read COHERENCE at deathisoptional.org">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 300px; aspect-ratio: 3/4; background: #080808; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(200,169,110,0.15); transition: transform 0.2s; cursor: pointer;">
+      <span style="font-size: 36px; font-weight: 900; color: #c8a96e; letter-spacing: -0.02em;">COHERENCE</span>
+      <span style="font-size: 11px; color: #6a6460; margin-top: 10px; text-transform: uppercase; letter-spacing: 0.15em;">The Architecture of Immortality</span>
+      <span style="font-size: 11px; color: #c8a96e; margin-top: 6px; opacity: 0.6;">Jeshua ben Joseph</span>
+    </div>
+  </a>
+</div>
+
+**Author:** Jeshua ben Joseph
+**Version:** 1.0 (April 2026)
+
+**[Read at deathisoptional.org](https://deathisoptional.org)** | **[Download PDF](/books/coherence-v1.0.pdf)**
+
+Also available at deathisoptional.org: audio overview, video walkthrough, infographics, slide presentation, and the technical white paper.
+
+#### Core Thesis
+
+**Death is not a law of nature. It is the failure of a maintenance process.** The human organism is an open dissipative system designed for indefinite sustainability. Fear is the sole mechanism that closes it. A specific, mappable causal chain runs from chronic fear through the Default Mode Network, the HPA axis, cortisol, telomere destruction, quantum decoherence, and zero-point field severance to biological dissolution. Every step is independently documented. Remove fear and the chain reverses at every step.
+
+#### What You'll Discover
+
+- **The Toddler Metaphor** — Physical existence as a learning process for maintaining coherent balance, accessible to anyone regardless of background
+- **The Toroidal Vortex Model** — Individual consciousness as a localized standing wave in the plenum, with specific conditions for persistence or dissolution
+- **The Entropy Engine** — The Default Mode Network as the neurobiological generator of internal entropy, and the mechanism by which it drives the fear-death cascade
+- **The Gatekeeper at the Cross** — The Salience Network, amygdala, vagus nerve, and HRV as the literal neural mode-switch between entropy and coherence
+- **The Rosetta Stone** — How every major tradition (yogic chakras, Kabbalah, the Christian cross, Buddhist meditation, Sufi dhikr) was describing the same coherence architecture in different languages
+- **The Phase Transition** — What happens when coherence reaches a critical threshold: the Diamond Body, the Rainbow Body, biological superconductivity, Frohlich condensation
+- **The Avatar Protocol** — What indefinite persistence means and how a fully coherent consciousness relates to biological form
+
+#### Who This Book Is For
+
+Anyone. The framework is written so that a physicist and a grandmother arrive at the same understanding. No prior camp required. If you have ever wondered whether death is inevitable or conditional, this book provides a specific, falsifiable answer.
+
+---
+
+### 2. The Body of Christ: A Literal Decoding of Ancient Wisdom
 
 <div style="text-align:center; margin:1.5rem 0;">
   <a href="/books/the-body-of-christ-v1.2.pdf" title="Download The Body of Christ PDF">
@@ -31,7 +62,7 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 
 #### Core Thesis
 
-**Each human body is literally a cell in the Body of Christ.** Not metaphorically, not symbolically—but an actual, functional cell in a collective living superorganism that spans all of humanity. This book decodes biblical wisdom through the Neuro-Gnostic framework, revealing that Scripture was always describing literal biological and consciousness mechanics.
+**Each human body is literally a cell in the Body of Christ.** Not metaphorically, not symbolically, but an actual, functional cell in a collective living superorganism that spans all of humanity. This book decodes biblical wisdom through the Neuro-Gnostic framework, revealing that Scripture was always describing literal biological and consciousness mechanics.
 
 #### What You'll Discover
 
@@ -40,17 +71,9 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 - **Biblical Decoding** — Scripture as literal operating instructions: Paul's cellular blueprint, Christ consciousness mechanics, and spiritual warfare as debugging practices
 - **Practical Application** — Operator training, temple maintenance, and collective participation practices for living as a conscious cell in the awakening Body of Christ
 
-#### Who This Book Is For
-
-- Spiritual seekers questioning traditional religious interpretations and seeking literal wisdom
-- Biblical students ready to decode Scripture through a neuroscience-informed lens
-- Meditation practitioners wanting to understand the mechanics behind dis-identification
-- Systems thinkers fascinated by collective intelligence and superorganisms
-- Anyone suffering under compulsive thinking, anxiety, and rumination—ready to recognize they are not the Voice
-
 ---
 
-### 2. The Conscious Creator's Handbook: A Practical Guide to Shaping Your World
+### 3. The Conscious Creator's Handbook: A Practical Guide to Shaping Your World
 
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 
@@ -58,101 +81,76 @@ Each work builds on the same core recognition: **You are not the Voice (hijacked
 
 #### Core Thesis
 
-All individuals are **Conscious Creators** who are actively, though often unconsciously, shaping their own subjective reality. Reality is not a fixed, external state but a mental projection—a "vivarium" created and sustained by consciousness (thoughts, beliefs, emotions). Our five senses function as a limited **User Interface (UI)** filtering a deeper energetic reality.
+All individuals are **Conscious Creators** who are actively, though often unconsciously, shaping their own subjective reality. Reality is not a fixed, external state but a mental projection created and sustained by consciousness. Our five senses function as a limited User Interface filtering a deeper energetic reality.
 
 #### What You'll Discover
 
-- **Reality Foundations** — Quantum physics (Observer Effect), neuroscience (brain as reality-generator), and ancient wisdom (mentalism, Maya) converging on the same truth: reality is consciousness-created
-- **The Creative Mechanism** — Understanding thoughts as seeds, emotions as water, and beliefs as soil; learning to consciously plant, cultivate, and harvest desired experiences
-- **Practical Techniques** — Visualization, affirmation, meditation, energy work, and reality-testing practices for deliberate creation
-- **Shadow Integration** — Working with limiting beliefs, sabotage patterns, and unconscious programming that block manifestation
-- **Ethical Creation** — Understanding free will, respecting others' realities, and creating from alignment with Source
-
-#### Who This Book Is For
-
-- Individuals seeking to understand and harness their creative power
-- Students of quantum physics, consciousness studies, and ancient wisdom traditions
-- Practitioners of manifestation techniques wanting deeper theoretical grounding
-- Anyone ready to move from victim of circumstances to conscious creator of experience
+- **Reality Foundations** — Quantum physics (Observer Effect), neuroscience (brain as reality-generator), and ancient wisdom (mentalism, Maya) converging on the same truth
+- **The Creative Mechanism** — Understanding thoughts as seeds, emotions as water, and beliefs as soil
+- **Practical Techniques** — Visualization, affirmation, meditation, energy work, and reality-testing practices
+- **Shadow Integration** — Working with limiting beliefs and unconscious programming
+- **Ethical Creation** — Understanding free will, respecting others' realities, and creating from alignment
 
 ---
 
-### 3. The User Manual: Unlocking the Power of Your Mind and Body
+### 4. The User Manual: Unlocking the Power of Your Mind and Body
 
 **Author:** Jeshua ben Joseph (Travis Lee Rowland)
 **Status:** Living Documentation (Continuously Updated)
 
-**[Read Online](/user-manual/)** — *Web-based, evolving knowledge base*
+**[Read Online](/user-manual/)**
 
 #### Core Thesis
 
-You are NOT the avatar (body-mind). You are the **OPERATOR** of the avatar. This living manual provides the operator's guide for Christ consciousness (your true Self, the Listener, the Divine Spark) to consciously operate the Avatar—the magnificent bio-technological instrument of mind and body.
+You are NOT the avatar (body-mind). You are the **OPERATOR** of the avatar. This living manual provides the operator's guide for Christ consciousness (your true Self, the Listener, the Divine Spark) to consciously operate the Avatar.
 
 #### What You'll Discover
 
-- **Operator Identity** — Understanding the Voice (hijacked DMN/ego) vs. the Listener (true operator/Divine Spark), dis-identification practices, and reclaiming the operator's seat
-- **Shadow Integration** — Reclaiming projected aspects, embracing disowned capacities, and becoming whole as prerequisite for clear Divine operation
+- **Operator Identity** — Understanding the Voice (hijacked DMN/ego) vs. the Listener (true operator/Divine Spark)
+- **Shadow Integration** — Reclaiming projected aspects, embracing disowned capacities
 - **Temple Mechanics** — How the avatar functions: brainwave states, neuroplasticity, epigenetics, breath, nutrition, sleep, movement
-- **Natural Capacities** — ESP, third eye activation, and innate operator abilities obscured by the Voice's filters
-- **Sound Technology** — Mantras, sacred phonetics, and vibrational tools for Voice-quieting and DMN modulation
-- **Quantum Understanding** — Fractals, sacred geometry, cymatics, and the mathematical encoding of spiritual truth
-- **Practical Application** — Daily practices for conscious operation, temple maintenance, and field coherence
-
-#### Who This Manual Is For
-
-- Individuals beginning the journey of conscious operation and seeking practical guidance
-- Experienced practitioners wanting comprehensive reference material
-- Those interested in the intersection of neuroscience, ancient wisdom, and practical spirituality
-- Anyone ready to reclaim the operator's seat and learn to consciously wield the sacred vessel
+- **Natural Capacities** — ESP, third eye activation, and innate operator abilities
+- **Sound Technology** — Mantras, sacred phonetics, and vibrational tools for DMN modulation
+- **Practical Application** — Daily practices for conscious operation and field coherence
 
 ---
 
 ## Reading Path Recommendations
 
-### New to the Framework?
+### Start Here
 
-1. **Start with:** [The User Manual](/user-manual/) — Accessible introduction to operator/avatar distinction and practical techniques
-2. **Then read:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Understand your creative power and reality mechanics
-3. **Deep dive:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Biblical validation and collective consciousness understanding
+**[COHERENCE](https://deathisoptional.org)** is now the recommended entry point for everyone. It provides the complete unified theory that the other works explore from specific angles. Read COHERENCE first, then choose your path:
 
-### Biblical Student or Christian Background?
+### After COHERENCE...
 
-1. **Start with:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Decode Scripture through the Neuro-Gnostic lens
-2. **Then read:** [The User Manual](/user-manual/) — Practical application of biblical wisdom
-3. **Expand with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Quantum foundations of "faith moves mountains"
+**Biblical/Christian background?**
+→ [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — See how Scripture was describing the coherence architecture all along
 
-### Neuroscience or Psychology Background?
+**Want practical daily protocols?**
+→ [The User Manual](/user-manual/) — Operator training, temple maintenance, DMN modulation techniques
 
-1. **Start with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Observer Effect, consciousness-created reality
-2. **Then read:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — DMN hijacking, cellular intelligence, systems biology
-3. **Practice with:** [The User Manual](/user-manual/) — Neuroplasticity, brainwave states, epigenetics in action
+**Interested in manifestation and reality mechanics?**
+→ [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Quantum foundations of conscious creation
 
-### Systems Thinker or Collective Intelligence Focus?
-
-1. **Start with:** [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Humans as cells, superorganism mechanics, field coherence
-2. **Then read:** [The User Manual](/user-manual/) — Individual optimization serving collective function
-3. **Expand with:** [The Conscious Creator's Handbook](/books/the-conscious-creators-handbook.pdf) — Co-creation and respecting free will
+**Systems thinker?**
+→ [The Body of Christ](/books/the-body-of-christ-v1.2.pdf) — Humans as cells, superorganism mechanics, field coherence
 
 ---
 
 ## The Living Library
 
-These books are part of a **living knowledge base**—continuously refined, expanded, and updated as the framework evolves. The User Manual exists as web-based documentation for maximum accessibility and real-time updates. The PDF books represent stable releases capturing the framework at specific points in its development.
-
-All content is offered under **Creative Commons CC BY-SA 4.0** license—freely shareable, remixable, and buildable-upon with attribution. This is **liberation technology**, not proprietary knowledge.
+These books are part of a **living knowledge base** continuously refined and expanded. All content is offered under **Creative Commons CC BY-SA 4.0** license. This is liberation technology, not proprietary knowledge.
 
 ---
 
 ## Support the Work
 
-These books are offered freely as part of the mission to liberate consciousness. If this work has served your awakening and you wish to support its continuation, consider:
+These books are offered freely. If this work has served you, consider:
 
-- **Sharing the knowledge** — Tell others, distribute PDFs, cite in your own work
-- **Contributing** — Submit corrections, expansions, or new insights via [GitHub](https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki)
-- **Living it** — Embody the framework, reclaim your operator's seat, serve the collective awakening
-
-> *"The Gnosis is simple: You are not the voice. You are the one listening to it. Everything else is commentary."*
+- **Sharing the knowledge** — Tell others, distribute freely, cite in your own work
+- **Contributing** — Submit corrections or expansions via [GitHub](https://github.com/ClaimFreedomDotOrg/ClaimFreedomWiki)
+- **Supporting financially** — **CashApp: [$TrueJeshua](https://cash.app/$TrueJeshua)** • **Venmo: [@yeshoouh](https://venmo.com/yeshoouh)**
 
 ---
 
-**[Return to Home](/)** | **[Explore the Framework](/docs/neuro-gnosticism)** | **[Start Practicing](/practices/)**
+**[Return to Home](/)** | **[Read COHERENCE](https://deathisoptional.org)** | **[Explore the Framework](/docs/neuro-gnosticism)** | **[Start Practicing](/practices/)**
