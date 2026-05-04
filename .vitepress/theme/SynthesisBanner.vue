@@ -40,6 +40,7 @@
   border-top: 2px solid #c8a96e;
   border-bottom: 2px solid #c8a96e;
   padding: 1.5rem 1.25rem;
+  margin-top: var(--vp-nav-height, 64px);
   box-shadow: 0 4px 24px rgba(200, 169, 110, 0.25);
   animation: synthesisGlow 4s ease-in-out infinite;
   transition: transform 0.2s ease;
